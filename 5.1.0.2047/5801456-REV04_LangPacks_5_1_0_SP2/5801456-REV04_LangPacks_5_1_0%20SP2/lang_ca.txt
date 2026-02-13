@@ -1,0 +1,3606 @@
+Català
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Cap auricular està emparellat
+Cordless Handset Feature Key Configuration| Config tecla funció per a tel inalàmbric
+None| Cap
+Attempting to pair...| Intent de registre
+Pairing successful| Registre correcte
+Pairing failed       | Registre erroni
+Try again| Intenteu-ho de nou
+Remove Handset:| Eliminar auricular:
+Attempting to remove| Intentant eliminar
+Wait...| Espereu...
+Removal successful| Eliminació correcta
+Cordless| Auricular
+Cordless Handsets| Auricular inalàmbric
+None Registered| No registrat
+Sync| Sinc
+Private Line| Línia privada
+Sending Directory| Enviar agenda
+to Handsets| a auricular
+System Unavailable| Sistema no disponible
+Handset Pairing| Registre auricular
+Handset Keys| Tecles del microtelèfon
+Feature Key programming complete.| Configuració de tecles de funció
+Two Call Support| Suport per a 2 trucades
+Intercom| Intercom
+Sending Directory to Handsets| 
+No Public Number Found| 
+480i prompts| 
+Time Format| Format hora
+    NOT MATCH !!!| no coincideixen!
+Erase local config?| Suprimir config?
+Alternate Server| Serv. secundari
+Contrast Level| Ajust. contrast
+TypeService SIP| TipusServei SIP
+TypeService RTP| TipusServei RTP
+TypeService DSCP| TipusServei DSCP
+TypeService RTCP| TipusServei RTCP
+Dn| Pujar 
+Rt| Dret
+Lf| Esquerra
+Del| Suprimir
+System Info Upload| CarregaInfoSist
+Up| Baixar
+Copyright| Copyright
+Reset| Reinicialitzar
+Phone will restart automatically after finishing.| Quan l'operació hagi acabat, el telèfon es reinciarà automàticament.
+Please login| Connecteu-vos
+Incorrect password| Contrasenya incorrecta
+Reset Configuration?| Reinicialitzar la configuració?
+Cfg. Svr.| Serv confg
+Enable| Activat
+List| Llista
+Move Up| Pujar
+Move Down| Baixar
+Firmware Loaded| Firmware transferit
+802.1x Authenticating| Autenticant 802.1 x
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Esperant IP
+Bluetooth Upgrade .. Please wait| Actualització Bluetooth. Espereu...
+Contacting Redirector| Connectant Redirector
+Redirecting Step 1| Redirigint Pas 1
+Redirecting Step 2| Redirigint Pas 2
+Redirecting Step 3| Redirigint Pas 3
+Redirecting Step 4| Redirigint Pas 4
+Redirecting Step 5| Redirigint Pas 5
+Redirecting Step 6| Redirigint Pas 6
+Auto Discovery...| Auto descoberta...
+Starting in Generic SIP Mode| Començar en mode SIP genèric
+Starting in AastraLink Mode| Començar en mode AastraLink
+Updating config| Actualització config
+Waiting assignment| Esperant assignació
+Checking for Firmware  Do not unplug phone!| Comprovant nou firmware. No desconnecteu!
+New Firmware. Do not unplug phone!| Nou firmware. No desconnecteu el telèfon!
+New Firmware. Restarting...| Nou firmware. Reiniciar...
+Downloading configuration| Descarregant la configuració
+Downloading Language Packs| Descarregant paq. d'idiomes
+Network| Xarxa
+UPnP device not found| Error disposit. UPnP
+Port Map In Progress| Cartograf. ports...
+Port Map Incomplete| Err. cartograf. ports
+DSP| DSP
+SIP| SIP
+Tone| To
+Interface| Interfície
+Web| Web
+Done| Acabar
+CopyToAll| Copiar tot
+Cannot use firmware.| Error de firmware
+No available lines| No hi ha línies lliures
+Current Password:| Contrasenya actual:
+New Password:| Nova contrasenya:
+Re-enter Password:| Confirmar contras.:
+  Password Changed|  Contrasenya canviada
+Change| Canviar
+Use DHCP?| Utilitzar DHCP?
+Advanced| Avançat
+DNS| DNS
+Ringer | Timbre
+ ERROR: invalid port| Error: port erroni
+SIP Register| SIP Registrar
+Register?| Registrar?
+Authentication Name| Nom autenticació
+Nortel NAT| Nortel NAT
+Reset phone to| Reinicialitzar tel.
+factory defaults?| amb config. origen?
+Setting phone back to| Reinicialitzant tel.
+Factory Defaults| amb config. origen
+  Please enter the   | Introdueixi la
+    administrator    | contrasenya
+      password.      | d'administrador
+Password: | Contras.:
+Quit| Sortir
+More| Més
+Timeserver Address:| Adreça serv. horari:
+Network Time Disabled| Hora xarxa desact.
+Dialing| Marcant
+Incoming| Entrant
+Calling| Trucant
+Pause| Pausa
+Pickup| Contestar
+Previous| Anterior
+Enter Time:| Intr. hora:
+Message Waiting| Missatge en espera
+Live Dialpad| Teclat actiu
+Live Dialpad is| Teclat actiu
+Options List| Llista d'opcions
+    Access denied    | Accés denegat
+Directory is full| Agenda completa
+30min summertime| Estiu 30 minuts
+1h    summertime| Estiu 1h
+No Link| Sense enllaç
+Next| Següent
+Retry| Reintentar
+Negotiation| Negociació
+Live Dialpad disabled| Teclat actiu desact.
+Link State| EstatVincl
+Headset Mic Volume| Vol. micr. auricular
+Gateway IP Address:| Dir. IP gateway:
+Enter Date (y-m-d):| Intr. data (d-m-a):
+Enter| Introduir
+Enable| Activat
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Default| Origen
+Add New| Nou
+DeleteList| SuprLlista
+Delete entire| Suprimir tota
+Directory?| l'agenda?
+Enter Number:| Intr. número:
+Network disconnected| Xarxa desconnectada
+Network connected| Xarxa connectada
+Entry Saved| Entrada guardada
+Entry Removed| Entrada suprimida
+Private| Privat
+Public| Públic
+Delete entry?| Suprimir entrada?
+Delete?| Suprimir?
+Delete number| Suprimir número
+or delete all| o suprimir totes
+entries?| les entrades?
+Name is full| Nom ple
+Empty| Buit
+Redial List| Llista marcatge
+Details| Detalls
+Copy| Copiar tot
+Select| Selecc.
+Voicemail| Correu de veu
+DeleteItem| Suprimir
+Delete All| Supr. tot
+Entry copied to| Entrada copiada a
+Entry Exists| Entrada existent
+All items erased| Entrades suprimides
+Sort| Classif.
+Resume| Reprendre
+EditNum| Edit. núm.
+DeleteList again to| Prémer supr. llista
+Delete again to| Prémer suprimir
+erase this item| suprimir trucades
+erase all calls| supr. totes trucades
+ new caller|  nova trucada
+ new callers| noves trucades
+Press 1st letter| Escrigui 1a lletra
+Handset | auricular 
+ Missed Call| Trucada no contestada
+ Missed Calls| Trucades no contestades
+Call Forward Mode| Mode de desviament
+CFWD All| Desviament tots
+CFWD Busy| Desviament si ocupat
+CFWD NoAnswer| Desviam. no contesta
+Call| Trucada
+Select TFTP| Escollir TFTP
+Use %c for new| Util. %c nova
+Use %c to view| Per veure utilitzi %c
+Download Protocol| Descarregar prot.
+OFF| Desact.
+ON| Activat
+Add Number| Intr. núm
+Arrange| Classif.
+%cmore| %cmés
+Office| Oficina
+Home| Casa
+Cell| Mòbil
+Pager| Localitzador
+VLAN Settings| Paràmetres VLAN
+Softkeys and XML| Tecles programables i XML
+Softkeys Configuration| Configuració de les tecles programables
+Bottom Keys| Tecles inferiors
+Top Keys| Tecles superiors
+Page1| Pàgina1
+Page2| Pàgina2
+Page3| Pàgina3
+Page4| Pàgina4
+Page5| Pàgina5
+Idle| Lliure
+Outgoing| Sortint
+Empty| buit
+Enter server name/IP:| Nom servidor / IP:
+Enter HTTPS port:| Port HTTPS:
+Erase| Suprimir
+Proxy IP/Port| Port IP/Proxy
+Registrar IP/Port| Port IP Registrar
+Erasing local config| Suprim. config. local
+Proxy Port:| Port Proxy:
+Registrar Port:| Port Registrar
+Proxy Server:| Servidor Proxy:
+Registrar Server:| Servidor Registrar:
+Contrast Level:| Ajustament contrast:
+Erase Local Config.| Supr. config. local
+Administrator Menu| Menú administrador
+Backlight On Time| Durada retroil·luminació
+Redirect HTTP->HTTPS?| Redir. HTTP->HTTPS?
+Block XML HTTP POSTs?| Bloq. XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Mètode client
+To unlock the phone| Per desbloquejar tel.
+No more softkeys| No resten tecl. prog.
+Ignore| Ignorar
+Answer| Contestar
+Configuration Server| Servidor de configuració
+Primary Path| Ruta principal
+Alternate Path| Ruta secundària
+Logging in| Inici sessió
+Login Failed| Error connexió
+Enable?| Activat?
+Check Expires| Verificar data
+Check Hostnames| Verificar noms host
+Conf. Unavailable| Config. no disponible
+Ringing...| Trucant...
+Error Messages| Missatges d'error
+No Error Messages| Cap missatge d'error
+Download Options| Opcions descàrrega
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| més
+A # &| A # &
+  Invalid password   |   Contras. errònia
+Upload Sys Info| CarregaInfoSist
+Config is updated. Restarting...| La config. està actualitzada. Reiniciant...
+CFWD Filtering| Filtratge CFWD
+Checking for Firmware| Comprovant nou firmware
+for new| 
+9133i prompts| 
+Password Changed| Contrasenya canviada
+Leave| Sortir
+Time Format| Format hora
+Erase local cfg?| Borra config?
+TypeService SIP| TipusServei SIP
+TypeService RTP| TipusServei RTP
+TypeService DSCP| TipusServei DSCP
+TypeService RTCP| TipusServei RTCP
+Alternate Server| Serv. secundari
+Contrast Level| Ajust. contrast
+Options List| Llista d'opcions
+DELETE to erase item  or # to erase Number| SUPR per esborrar element o # per esborrar número
+Upload Sys Info| CarregaInfoSist
+Directory Empty. Use Save to add| Agenda buida. Prémer guardar
+Directory Empty Use Save to add| Agenda buida Prémer guardar
+  NOT MATCH !!!| no coincideixen!
+DELETE again to erase this item| Prémer supr. supr. trucades
+System Info Upload| CarregaInfoSist
+Phone will restart after| Telèfon es reinicia després de
+Copyright| Copyright
+Reset| Reinicialitzar
+Use DHCP?| Utilitzar DHCP?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Half 1000Mbps
+Cfwd Destination| Desv. destí
+Please login| Connecteu-vos
+Incorrect password| Contrasenya incorrecta
+Reset Configuration?| Reinicialitzar la configuració?
+Cfg. Svr.| Serv confg
+Net disconnected| Xa. Desconnect.
+Live Dialpad| Teclat actiu
+Firmware Loaded| Software transferit
+802.1x Authenticating| Autenticant 802.1 x
+LLDP| LLDP
+Initializing network| Inicialització de la xarxa
+Bluetooth Upgrade| Actualització Bluetooth
+Contacting Redirector| Connectant Redirector
+Redirecting Step 1| Redirigint Pas 1
+Redirecting Step 2| Redirigint Pas 2
+Redirecting Step 3| Redirigint Pas 3
+Redirecting Step 4| Redirigint Pas 4
+Redirecting Step 5| Redirigint Pas 5
+Redirecting Step 6| Redirigint Pas 6
+Auto Discovery| Auto descoberta
+Starting in Generic SIP Mode| Començar en mode SIP genèric
+Starting in Aastra Link Mode| Començar en mode AastraLink
+Updating configuration| Actualització de la configuració
+Waiting assignment| Esperant assignació
+Checking for new firmware| Buscant nou firmware
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Nou firmware: no desconnecteu telèfon
+New Firmware: Restarting...| Nou firmware: reiniciar
+Downloading configuration| Descarregant la configuració
+Downloading Language Packs| Descarregant paquet d'idiomes
+Network| Xarxa
+UPnP Gateway Not Found| Gateway UPnP no trobat
+UPnP Port Map In Progress| Cartogr. port UPnP en curs
+UPnP Port Map Incomplete| Cartogr. port UPnP incompleta
+DSP| DSP
+SIP| SIP
+Tone| To
+Registering with the voice network...| Enregistrant amb la xarxa de veu...
+Web| Web
+Done| Acabar
+Cannot use| No és possible
+this firmware.| usar firmware
+All lines in use| Línies ocupades
+Current Password| Contras. actual
+New Password| Nova contras.
+Enter Again| Confirmar
+Ringer volume   | Volum timbre   
+DELETE again to| Prémer supr. per
+erase all calls| supr. trucades
+Caller is erased| Entrada supr.
+Network Time| Hora xarxa
+Change| Canviar
+Options| Opcions
+Access denied| Accés denegat
+Directory full| Agenda completa
+Link Active| Enllaç actiu
+No Link| No enllaç
+Live Dialpad is\nnot available.| Tecl. actiu\n no disp.
+Live Dialpad is\nON| Teclat actiu\nSí
+Live Dialpad is\nOFF| Teclat actiu\nNo
+-  confirmed   -| - confirmat -
+Contrast | Contrast 
+Set| Ajus
+DHCP\nON| DHCP\nHabilitat
+DHCP\nOFF| DHCP\nDeshabilitat
+Enable?\nYes| Activar?\nSi
+Enable?\nNo| Activar?\nNo
+Check Expires| Verif. Data
+Check Expires?\nYes| Verif. data?\nSí
+Check Expires?\nNo| Verif. data?\nNo
+Check Hostnames| Ver. Noms
+Check Hostnames?\nYes| Ver. noms?\nSí
+Check Hostnames?\nNo| Ver. noms?\nNo
+Cancel| Canclr
+SIP Register\nON| SIP Reg.\nAct.
+SIP Register\nOFF| SIP Reg.\nDes.
+Nortel NAT\nEnabled| Nortel NAT\nAct.
+Nortel NAT\nDisabled| Nortel NAT\nDes.
+Next| Següent
+Done| Acabar
+Retry| Reint.
+Exit| Sortir
+Pickup| Contestar
+Call held| Trucada reting.
+Calls held| Trucades reting.
+Country Code: | Codi país
+*List Countries| *Llista països
+Enter| Intr.
+Admin Password| Contras. admin
+yyyy-mm-dd | dd-mm-aaaa 
+Restart phone?| Reinic. tel?
+#Confirm| #confirmar
+RestoreDefaults?| Rest.conf.orig.?
+Call Agent 1| Agent trucada 1
+Call Agent 2| Agent trucada 2
+Call Agent 3| Agent trucada 3
+Invalid Code    | Codi erroni    
+E: Invalid port!| E:Port erroni
+Application:| Aplicació:
+Boot ROM:| ROM d'inici
+Negotiation:| Negociació:
+30m summertime| Hora estiu 30 m
+1h summertime| Hora estiu 1h
+Invalid password| Contras. errònia
+  disconnected|   desconnectada
+   connected|    connectada
+    Network|     Xarxa
+erase all items| supr. entrades
+Enter Number>| Introduir núm.>
+Setting phone to| Reajust. tel. a 
+Use Save to end| Prémer guardar
+to enter name>| p. escriure nom
+Saved: Directory| Guard.: agenda
+Retrying config | Revisar config 
+download...     | Descarregant... 
+empty| buit
+No Match| Cap coincid.
+Save to?| Guardar a?
+Saved Memory key| Tecla Guardr Mem
+Removed Key| Tecla supr.
+Key saved | Tecla Guardr Mem
+Key removed| Tecla supr.
+Press 1st letter| Prémer 1a lletra
+Speaker volume  | Volum altaveu  
+Handset volume  | Volum telèfon  
+Headset volume  | Volum auricular 
+Factory Defaults| valors d'origen
+ Missed Call|  Trucades no contest.
+ Missed Calls|  Truc. no contest.
+Cfwd State| Estat desviament
+Cfwd Number| Desviar a núm.
+Cfwd Mode| Mode desviament
+CFWD All| Desviar totes
+CFWD Busy| Desv. si ocupat
+CFWD NoAnswer| Desv. no contesta
+Select TFTP\nPrimary| Escollir TFTP\nPrimari
+Select TFTP\nAlternate| Escollir TFTP\nSecundari
+DownloadProtocol| Descarregar prot.
+VLAN Settings| Paràmetres VLAN
+Server Name/IP?| Nom serv./IP?
+HTTPS Port?| Port HTTPS?
+Client Method\nSSL 3.0| Mètode client\nSSL 3.0
+Client Method\nTLS 1.0| Mètode client\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nRedirigir
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nNo redirigir
+Redirect| Redirigir
+Do not redirect| No redirigir
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nNo bloquejar
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBloquejar
+Do not block| No bloquejar
+Block| Bloquejar
+Erasing config| Suprimir config.
+Pri TFTP Path| Ruta principal
+Alt TFTP Path| Ruta secundària
+Backlight Mode| Mode d'il·lumin.
+Backlight Time| Durada il·lumin.
+Answer| Contestar
+Ignore| Ignorar
+Cfwd| DESV
+Copy to All?| Copiar a tots?
+Apply Changes?| Aplicar canvis?
+Logging in| Inici sessió
+Login Failed| Error connexió
+Conf Unavailable| Conf. no disp.
+Error Messages| Miss. error
+No Error Messages| Cap miss error
+Delete All| Supr. tot
+Download Options| Opc. descàrrega
+Config updated. Restarting...| Config. actualitzada. Reiniciant...
+DELETE again to erase all calls| SUPR una altra vegada per esborrar totes les trucades
+Firmware Check| Comprov firmware
+Fwd Filtering| Desc. filtrat
+CFWD Filtering| Filtratge CFWD
+DELETE again to erase all items| Prémer supr. per supr. entrades
+Upload Sys Info| CarregaInfoSist
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Contrasenya administrador
+Error Msg| Msg d'error
+Unlock the phone?| Desbloquejar telèfon?
+ Enter Unlock Password| Introduïu contrasenya
+softkey| clau
+Edit Number| Editar número
+Lock the phone| Bloquejar tel.
+keypad| Teclat
+Unlock| Desbloquejar
+ Cust Feat| Funció personalitzada
+Phone is locked| Tel. bloquejat
+Unlock the phone| Desbloquejar telèfon
+GoodBye| Adéu
+Pass Thru Port| Port Pass Thru
+First| Nom
+Last| Cognom
+Name| Nom
+Add| Afeg
+Edit| Edit
+Space| Espai
+Bksp| Retr
+caps| Bloq maj
+CAPS| BLOQ MAJ
+Reject| Rebutjar
+Silence| Silenci
+Hold| Espera
+Transfer| Reenviar
+>| >
+Lines| Línies
+Settings| Paràmetres
+Device Name| Nom aparell
+Bluetooth Devices| Bluetooths
+Bluetooth Status:| Estat Bluetooth:
+Search| Buscar
+Searching...| Buscant...
+device(s) found.| aparell(s) trobat(s)
+Press on a device to start pairing.| Prémer en un aparell per iniciar
+Enter PIN| Introduir PIN
+Add Device| Agregar aparell
+Active| Actiu
+Are you sure?| Està segur?
+ALL| Tots
+Phone No:| Núm. tel.:
+Copy to all modes| Copiar igualment
+BUSY| Ocupat
+NO ANSWER| No contesta
+CFWD NO ANS:| DESV. TEMP.:
+CFWD BUSY:| DESV. OCUP.:
+CFWD ALL:| DESV. TOT:
+Audio| Àudio
+Calibrate Screen| Calibrar pantalla
+Recalibrate Touchscreen?| Calibrar pantalla tàctil?
+Softkeys| Tecles programables
+Headset Mic Volume| Vol. micro/auricular
+Headset Device| Auriculars
+Bluetooth| Bluetooth
+Wired| Cablejat
+Restart | Reiniciar
+No Calls| Cap trucada
+Brightness Timer| Tempo. de brillantor
+Brightness Level| Ajust. de brillantor
+Add to Directory| Afegir a directori
+Waiting for Touch Screen activity to subside ...| Esperant inactivitat a la pantalla tàctil 
+Touch the UPPER-LEFT corner of the screen| Tocar la cantonada superior esquerra de la pantalla
+Touch the UPPER-RIGHT corner of the screen| Tocar la cantonada superior esquerra de la pantalla
+Touch the LOWER-RIGHT corner of the screen| Tocar la cantonada inferior dreta de la pantalla
+Touch the LOWER-LEFT corner of the screen| Tocar la cantonada inferior esquerra de la pantalla
+Received unreliable data. You will be asked to touch the same point again| Dades no fiables rebudes. Se li demanarà que torni a tocar el mateix punt una altra vegada.
+Processing ...| Processant...
+Validating calibration data ... please wait| Validant calibratge de dades, espereu...
+Sanity Check OK. Save changes?| Verificació acabada. Guardar dades?
+Sanity Check Failed| Errors de verificació
+Retry| Reintentar
+Quit| Sortir
+Please Enter| Introduir
+Submit| Enviar
+User ID:| ID Usuari:
+Password:| Contrasenya:
+Transferring| Transferència
+No. Rings| Núm. de rings
+Line| Línia
+Unable to Pair| Impossible registrar
+Please Wait...| Espereu...
+Add new device...| Agregar nou...
+Detected:| Detectat:
+Connecting:| Connectar:
+Disonnecting:| Desconnectar:
+Connected:| Connectat
+ALL| Tots
+BUSY| Ocupat
+NO ANSWER| No contesta
+CFWD ALL:| DESV. TOT:
+CFWD BUSY:| DESV. OCUP.:
+CFWD NO ANSWER:| DESV. TEMP.:
+Copy to all modes| Copiar a tots
+OFF| Desact.
+Off| Desact.
+Phone Number:| Núm. tel.:
+Level 1| Nivell 1
+Level 2| Nivell 2
+Level 3| Nivell 3
+Level 4| Nivell 4
+Level 5| Nivell 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Contrasenya administrador
+Phone will restart automatically after finishing.| Quan l'operació hagi acabat, el telèfon es reinciarà automàticament.
+Conference| Conferència
+Conf| Conferència
+Reset Configuration?| Reinicialitzar la configuració?
+Hide| Amaga
+Live Dialpad| Teclat actiu
+Live Dial| Tecl act.
+Lock| Bloquejar
+Lock the phone?| Bloquejar tel.?
+Directory| Llista agenda
+Phone Number:| Núm. tel.:
+Common prompts| 
+None| Cap
+Disable| Desactivar
+Logout failed| Error en tancar la sessió
+Logout successful| S'ha tancat la sessió correctament
+Login successful| S'ha iniciat la sessió correctament
+Logout user %s| Tanca la sessió de l'usuari %s
+Login/Logout| Inicia/tanca sessió
+User ID| ID d'usuari
+User ID required| ID d'usuari obligatori
+Application busy. Please try again later.| Aplicació ocupada. Torneu-ho a provar més tard.
+Page Expired. Please reload the page.| La pàgina ha caducat. Carregueu la pàgina de nou.
+Check Expires| Verif. Data
+Check Hostnames| Verificar noms host
+Use DHCP?| Utilitzar DHCP?
+Restart Phone?| Reinic. tel?
+12 Hour| 12 hores
+Speeddial| Marcatge directe
+Erase local cfg?| Borra config?
+Spd Dial| Marcatge directe
+Backup Outbound Proxy Server| Còpia de seguretat de servidor proxy de sortida
+Backup Outbound Proxy Port| Còpia de seguretat de port proxy de sortida
+Firmware Info| Info firmware
+DHSG| DHSG
+DHSG is ON| DHSG act
+DHSG is OFF| DHSG desact
+Backlight On Time| Durada retroil·luminació
+Use Alt TFTP| Utilitzar un servidor TFTP alt
+Pri TFTP Path| Ruta principal
+Alt TFTP Path| Ruta secundària
+RestoreDefaults?| Rest.conf.orig.?
+HTTP Init Failed| Error Init HTTP
+Get aastra.lic| Obtenir lic. Aastra
+Get mac.lic| Obtenir lic. Mac
+Firmware not licensed for use on this phone| El firmware no té cap llicència para utilitzar en aquest telèfon
+Redial List is empty| Ll. Remarcatge buit
+Callers List is empty| Llista truc.buit
+Callers List| Llista trucades
+Redial List| Llista marcatge
+Directory| Llista agenda
+License Information| Informació de llicència
+XML Application URI:| XML aplicació URI:
+Missing User ID| Falta ID d'usuari
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Utilitzar
+Active Features| Funcions actives
+WWW MMM DD| SSS MMM DD
+DD-MMM-YY| DD-MMM-AA
+YYYY-MM-DD| AAAA-MM-DD
+DD/MM/YYYY| DD/MM/AAAA
+DD/MM/YY| DD/MM/AA
+DD-MM-YY| DD-MM-AA
+MM/DD/YY| MM/DD/AA
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM AAAA
+WWW DD MMM| SSS DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MMM.AAAA
+24 Hour| 24 hores
+XML Application Title:| XML títol de l'aplicació:
+License Status| Estat  de la llicència
+FTP| FTP
+to view| per veure
+Contact Name already exists| El nom de contacte ja existeix
+Leave| Sortir
+Contact Mismatch| Contacte no coincideix
+ Call Terminated| Trucada  finalitzada
+IP and gateway have to be on same subnet| IP i Gateway han d'estar en la mateixa subxarxa
+IP cannot be equal to gateway address| Adreça IP no  pot ser igual a adreça Gateway
+Call Waiting Tone Period| Interval de to de trucada en espera
+OK| Sí
+Directory empty| Agenda buida
+Files Sent| Fitxers enviats
+Upload System Info| CarregaInfoSist
+Upload| Carregar
+Call Transferred| Trucada desviada
+Firmware Information| Informació firmware
+Contact Name already exists| El nom d'aquest contacte ja existeix
+Replace| Substitueix 
+No Services| Sense serveis
+Merge| Combina
+Enter Name:| Escriure nom:
+Call Hold Reminder| Avís trucada en espera
+Others| Altres
+Call Hold Reminder During Active Calls| Avís trucada en espera durant trucades actives
+Out of service| Fora de servei
+Reason: | Motiu:
+Add blank record?| ¿Afegeix  registre en blanc?
+Audio Setting| Configuració de audio
+Delete Item| Suprimeix element
+Services| Serveis
+Server| Servidor
+Service Disabled| Servei desact.
+Port| Port
+Path| Ruta
+Username| Usuari
+No. Rings| Núm. timbres
+Use xx to view| Usar xx p. veure
+User Password| Contr. usu.
+Time and Date| Hora i data
+Language| Idioma
+Screen Language| Idioma pantalla
+Tones| Tons
+Tone Set| Set de tons
+Ring Tone| Timbre trucada
+State| Estat
+State:| Estat:
+User-Busy| Usuari ocupat
+Unconditional| Desv. incond.
+Time of day| Hora
+Deflection| Reenv.
+Follow Me| Seguir-me
+Away| Absent
+Busy| Ocupat
+Restart| Reiniciar
+All On| Act. tots
+All Off| Des. tots
+AllAccts| TotComptes
+Conference| Conferència
+Flash| Flash
+Dial| Marcar
+Directory| Llista agenda
+Callers| Trucades
+Icom| Intercom
+Icom| Intercom
+Dir| Agenda
+Xfer| Reenviar
+Conf| Conferènc.
+SIP Settings| Paràm. SIP
+Proxy Port| Port Proxy
+Registrar Port| Port Registrar
+User Name| Nom usuari
+Screen Name| Nom pantalla
+Proxy Server| Servidor Proxy
+Registrar Server| Serv. Registrar
+Auth. Name| Nom. autentic.
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Mostrar nom
+RTP Port Base| Base port RTP
+Static NAT| NAT estàtic
+NAT Settings| Config. NAT
+NAT IP| IP NAT
+NAT SIP Port| Port SIP NAT
+NAT RTP Port| Port RTP NAT
+NAT HTTPS Port| Port HTTPS NAT
+Phone Status| Estat tel.
+Auto Discovery| Auto descoberta
+Trying...| Intentant
+Remote| Remot
+Reset| Reset
+Choose Server| Selec. serv.
+Select| Selec
+Select| Selec
+Ring Tone:| Timbre:
+Silent| Silenciós
+Network Settings| Config. xarxa
+Clear| Esborrar
+Speaker | Altaveu 
+Headset | Auriculars 
+Speaker/Headset| Altaveu/Auric.
+Headset/Speaker| Auricular/Micro
+Audio Mode| Mode àudio
+Low| Baix
+Medium| Mig
+High| Alt
+OFF| Desact.
+Off| Desact.
+ON| Activar
+DHCP Settings| Paràmetres DHCP
+DHCP User Class| Classe usu. DHCP
+Hostname| Nom de host
+IP Address| Adreça IP
+Subnet Mask| Màscara subxarxa
+Subnet Mask:| Màscara subxar.:
+Gateway| Gateway
+Primary DNS| DNS principal
+Secondary DNS| DNS secundari
+TFTP Settings| Paràmetres TFTP
+VLAN| VLAN
+VLAN ID| ID VLAN
+PC Port VLAN ID| VLAN ID port PC
+LAN Port VLAN| Port VALN LAN
+PC Port VLAN| Port VALN PC
+Priority| Prioritat
+VLAN Enabled\nYes| VLAN activ.\nSí
+VLAN Enabled\nNo| VLAN activ.\nNo
+PC Port Priority| Priorit. port PC
+LAN Port VLAN ID| VLAN ID port LAN
+UPnP| UPnP
+Use UPnP| Utilitzar UPnP
+Select Gateway| Selec. gateway
+Portmap Started| Ini. cart. ports
+Portmap Error| Err. cart. ports
+LLDP| LLDP
+LLDP packet interval| Interv. paq.LLDP
+LLDP Settings| Paràmetres LLDP
+Use LLDP ELIN| Util. LLDP ELIN
+TypeService DSCP| TipusServ. DSCP
+Type of Service DSCP| Tipus de servei DSCP
+VLAN Priority| VLAN Prioritat
+Other Priority| Altra prioritat
+SessionBorderCtl| SBC
+Session Border Ctrl| SBC
+Select SBC| Seleccionar SBC
+SBC Settings| Configurar SBC
+Kagoor| Kagoor
+Update Interval (sec)| Interv actual(s)
+Backspace| Retrocés
+No| No
+Yes| Sí
+DHCP Download Options| Opcions de descàrrega DHCP
+DHCP Download Option| Opcions de descàrrega DHCP
+Firmware Version| Versió firmware
+Restart Phone| Reiniciar tel.
+Show| Mostrar
+is OFF| està desact.
+Password| Contras.
+Restarting...| Reiniciar...
+Speed| Cadència
+Manual| Manual
+Auto| Auto
+Auto| Auto
+Half| Half
+Full| Full
+Duplex| Dúplex
+ ERROR: |  Error: 
+Invalid IP addr.| Dir. IP errònia
+Invalid mask| Màscara errònia
+Range is 1-4094| Només 1-4094
+Range is 1-4095| Només 1-4095
+Range is 1-4095| Només 1-4095
+Range is 0-63| Només 0-63
+Range is 0-7| Només 0-7
+DND| NMR
+DND On| NoMolest ENCÈS
+Time Server| Servidor horari
+Set Time| Fixar hora
+Set Date| Fixar data
+Date Format| Format data
+Time Zone| Zona horària
+Daylight Savings| Horari estiu
+Invalid Time| Hora incorrecta
+Invalid Date| Data incorrecta
+Invalid IP| IP errònia
+ Invalid Number| Núm. no vàlid
+On| Activar
+On| Activar
+On| Activar
+OFF| Desact.
+Automatic| Automàtic
+Conf Hold| Conf retinguda
+No Service| Sense servei
+Mute| Silenci micro
+Connected| Connectat
+Drop| Eliminar
+Park| Aparcar
+PickUp| Despenjar
+Redial| Remarcatge
+DCP| DCP
+DCP List| Llista DCP
+Cancel| Canclr
+Done| Acabar
+Callers List| Llista trucades
+No changes made| Cap modificació
+Key is Locked| Tecla bloquejada
+Cannot Save| No guardat
+1 item| 1 entrada
+ items|  entrades
+No User| Sense usuari
+DHCP failed| Fallada DHCP
+Unknown Name| Nom desconegut
+Unknown Number| Núm. desconegut
+Unknown Line| Línia desconeg.
+Item is erased| Entrada supr.
+Unknown| Desconegut
+NextSpace| Espai
+Dot "."| Punt "."
+Transfer Failed| Error transf. 
+Call Forward| Desviament
+Call Fwd| DESV
+All| Tots 
+All| Tots 
+Any| Qualsevol
+NoAns| Sense resp.
+BusyNoAns| Ocup/SResposta
+Number:| Número:
+Mode:| Mode:
+No. Rings:| N. timbres:
+Line: | Línia:
+Contrast Level| Ajust. contrast
+ Message|  Missatge
+ Messages|  Missatges
+Loading Page...| Carregant pàg...
+Abort Loading...| Interrompre càrrega
+Connect Timeout| Espera connexió
+Data Timeout| Temps expirat
+File Not Found| Arx. no trobat
+Page Load Error| Error de càrrega
+Cannot display| No pot mostrar
+Skip| Ignorar
+Call Failed| Fallada trucada
+Primary Server| Serv. principal
+Primary Server| Serv. principal
+Alternate Server| Serv. secundari
+Primary| Principal
+Alternate| Secundari
+Bad encrypted cfg| Err.config encrip.
+Use TFTP| Utilitzar TFTP
+Use FTP| Utilitzar FTP
+Use HTTP| Utilitzar HTTP
+Use HTTPS| Utilitzar HTTPS
+FTP Settings| Paràmetres FTP
+FTP Server| Servidor FTP
+FTP Path| Ruta FTP
+FTP Username| Nom usuari FTP
+FTP Password| Contrasenya FTP
+HTTP Settings| Paràmetres HTTP
+HTTP Server| Servidor HTTP
+HTTP Path| Ruta HTTP
+HTTP Port| Port HTTP
+HTTPS Settings| Paràmetres HTTPS
+Download Server| Serv. descàrrega
+Download Path| Ruta descàrrega
+Download Port| Port descàrregues
+HTTPS Server| Servidor HTTPS
+HTTPS Path| Ruta HTTPS
+HTTPS Port| Port HTTPS
+HTTPS Client| Client HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Certific. fals
+Certificates| Certificats
+Cert Validation| Acceptar
+All defaults| Tots ajust. orig.
+Config default| Config. predet.
+AM| AM
+PM| PM
+Factory Default| Ajust. origen
+Factory Default?| Ajust. origen?
+Erase Local Cfg.| Borra config.
+New IP Obtained| Nova dir. IP 
+New NAT IP| Nova IP NAT
+Server IP Change| Dir. IP canviada
+AastraLink Menu| Menú AastraLink
+Server Options| Opcions servidor
+AastraLink Info| Info. AastraLink
+Server Remote IP| IP serv. remot
+Server Local IP| IP serv. local
+Preferences| Preferències
+Network Status| Estat de xarxa
+MAC Address:| Adreça MAC Telf
+MAC Address| Adreça MAC Telf
+BT MAC Address:| BT Direcc MAC Tel:
+Invalid Key| Tecla no vàlida
+Speed Dial Edit:| Editar Marc. Ràp:
+Press SD button| Pulsar Marc. Ràp
+From: | De:
+To: | A:
+Via: | Via:
+Diverted: | Desviada
+Log Off| Desconnectar
+Customer Support| Servei de suport tècnic
+Status| Estat
+Operation| Mode de funcionament
+Basic Settings| Configuració bàsica
+Advanced Settings| Configuració avançada
+System Information| Informació del sistema
+Down| Pujar 
+Up| Baixar
+n/a| n/a
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Atribut
+Link State| Estat vincle
+Negotiation| Negociació
+Hardware Information| Informació hardware
+Firmware Information| Informació firmware
+Firmware Release Code| Codi de la versió firmware
+Value| Valor
+Platform| Plataforma
+Boot Version| Versió de boot
+Date/Time| Data/Hora
+DND Key Mode| Mode tecla no molestar
+Call Forward Key Mode| Mode tecla de desviament
+Option 160| Opció 160
+Option 159| Opció 159
+Option 66| Opció 66
+Option 43| Opció 43
+Account| Compte
+Both| Tots dos
+Line| Línia
+Line 1| Línia 1
+Line 2| Línia 2
+Line 3| Línia 3
+Line 4| Línia 4
+Line 5| Línia 5
+Line 6| Línia 6
+Line 7| Línia 7
+Line 8| Línia 8
+Line 9| Línia 9
+Line 10| Línia 10
+Configuration Line %d| Configuració de la línia %d
+Basic SIP Authentication Settings| Paràmetres d'autenticació del SIP bàsic
+Screen Name| Nom pantalla
+Screen Name 2| Nom pantalla 2
+Phone Number:| Núm. tel.:
+Phone Number| Núm. tel.:
+Caller ID| ID de trucada entrant
+Authentication Name| Nom autenticació
+Password| Contrasenya
+BLA Number| Nom BLA
+Line Mode| Mode de la línia
+Generic| Genèric
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Paràmetres de xarxa del SIP bàsic
+Outbound Proxy Server| Servidor Outbound Proxy
+Outbound Proxy Port| Port Outbound Proxy
+Registration Period| Període de registre
+RTP Settings| Paràmetres RTP
+Autodial Settings| Paràmetres Automarcatge
+Autodial Number| Número Automarcatge
+Autodial Timeout| Timeout Automarcatge
+Use Global Settings| Utilitzar paràmetres globals
+DTMF Method| Mètode DTMF
+SIP INFO| Informació SIP
+BOTH| Tots dos
+Save Settings| Guardar canvis
+Global SIP| SIP general
+Global SIP Settings| Configuració general del SIP
+RTP Encryption| Encriptat RTP
+SRTP Disabled| SRTP Deshabilitat
+SRTP Preferred| SRTP Preferit
+SRTP Only| SRTP Únicament
+Advanced SIP Settings| Configuració SIP avançada
+Explicit MWI Subscription| Subscripció MWI explícita
+Explicit MWI Subscription Period| Període de subscripció MWI explícit
+MWI for BLA account| MWI per a compte BLA
+Enabled| Activada
+Send MAC Address in REGISTER Message| Enviar adreça MAC en missatge REGISTER
+Send Line Number in REGISTER Message| Enviar número de línia en missatge REGISTER
+Session Timer| Temporitzador de sessió
+T1 Timer| Temporitzador T1
+T2 Timer| Temporitzador T2
+Transaction Timer| Temporitzador de transacció
+Transport Protocol| Protocol de transport
+UDP and TCP| UDP i TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| TLS persistent
+Registration Failed Retry Timer| Error del temporitzador de registres
+Registration Timeout Retry Timer| Timeout del temporitzador de registres
+Registration Renewal Timer| Renovar el temporitzador de registres
+BLF Subscription Period| Període de subscripció BLF
+ACD Subscription Period| Període de subscripció ACD
+BLA Subscription Period| Període de subscripció BLA
+Blacklist Duration| Durada Blacklist
+ Park Pickup Config| Config. aparcar/recuperar
+RTP Port| Port RTP
+Basic Codecs| Codecs bàsics
+Force RFC2833 Out-of-Band DTMF| Forçar RFC2833 fora de banda DTMF
+Codec Preference List| Llista de codecs preferits
+Silence Suppression| Supressió del silenci
+Provisioning complete.| Preparació completada
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Ha d'iniciar el telèfon perquè la nova configuració tingui efecte.
+ERROR: Maximum number of connections reached.| ERROR: S'ha arribat al número màxim de connexions.
+Logout Complete| Tancament de sessió complet
+Your session has ended.  Please close the browser.| La seva sessió ha acabat. Tanqueu el navegador.
+Session Expired| Sessió caducada
+Please close the browser or use the link below to log in again.| Tanqueu el navegador o utilitzi l'enllaç a continuació per tornar a iniciar la sessió.
+Log In| Log In
+Log Out| Log Out
+Log Out| Log Out
+Avail| Dispon.
+Avail| Dispon.
+Unavail| NoDisp.
+Unavail| NoDisp.
+Reset User Password| Restablir la contrasenya de l'usuari
+Please enter the current and new passwords| Escriviu la contrasenya actual i la nova contrasenya
+Current Password| Contrasenya actual
+New Password| Nova contrasenya
+Password Confirm| Confirmar contrasenya
+Please Enter| Escriure
+Submit| Enviar
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Autoritzant...
+Authorization Failed| Error d'autorització
+Auth Failed| Error autoritz.
+Current password is incorrect.| La contrasenya actual introduïda és incorrecta.
+Please try again.| Torni a intentar-ho.
+The new password fields do not match.| Els camps de la nova contrasenya no coincideixen.
+The new password can not be saved.| No es pot guardar la nova contrasenya.
+The user password has been changed.| S'ha modificat la contrasenya de l'usuari.
+Task and Stack Info| Informació de tasca i de pila
+Back| Sortir
+Files Available for Download| Arxius disponibles per a la descàrrega
+Custom| Personalitzant
+Save As...| Guardar com...
+Directory List| Llista agenda
+Current Settings| Paràmetres actuals
+Restore To Factory Defaults| Restaurar als valors predeterminats d'origen
+Restore| Restaurar
+Remove Local Configuration Settings| Treure els paràmetres de configuració local
+Remove| Eliminar
+Restarting the hardware...| Reiniciar el hardware...
+Please return to the main page after your phone restarts.| Torneu a la pàgina principal després de reiniciar el terminal.
+User not authorized to make changes.| L'usuari no està autoritzat a efectuar canvis.
+Local configuration file has been deleted.| L'arxiu de configuració local s'ha eliminat.
+Please restart the phone for the settings to take effect.| Reinicieu el telèfon perquè les modificacions apuntades tinguin efecte.
+Phone has been set to factory Defaults.| S'ha establert el telèfon als valors predeterminats d'origen.
+Action URI| Acció URI
+Action URI Configuration| Configuració de l'acció URI
+Event| Esdeveniment
+StartUp| Iniciar
+Successful Registration| Registre correcte
+Registration Event| Esdeveniment de registre
+Incoming Call| Trucada entrant
+Outgoing Call| Trucada sortint
+Offhook| Despenjar
+Onhook| Penjar
+Disconnected| Desconnectat
+Poll| Sondeig
+Interval| Interval
+Settings saved.| Els paràmetres s'han guardat.
+Settings could not be saved.| No s'han pogut guardar els paràmetres.
+Firmware Update| Actualització de firmware
+TLS Support| Suport TLS
+Manual Firmware Update| Actualització de firmware manual
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Introduïu l'adreça IP i el nom del fitxer per iniciar el procés d'actualització.
+Configuration Server| Serv. de configuració
+Configuration Server Settings| Paràmetres del servidor de configuració
+Server IP| IP del servidor
+File Name| Nom de l'arxiu
+Configure File Names| Configurar nom fitxers
+Root and Intermediate Certificates Filename| Nom de l'arxiu dels certificats arrel i intermedi
+Local Certificate Filename| Nom de l'arxiu del certificat local
+Private Key Filename| Nom de l'arxiu de la clau privada
+Trusted Certificates Filename| Nom de l'arxiu dels certificats de confiança
+Download Firmware| Descarregar firmware
+Firmware upgrade in progress.  Please wait.| Actualització del firmware en curs. Espereu...
+Please enter a valid filename and TFTP server IP address.| Escriure nom d'arxiu i adreça IP del servidor TFTP vàlids.
+Invalid TFTP server IP address| L'adreça IP del servidor TFTP no és vàlida
+Invalid download settings.| Els paràmetres de descàrrega no són vàlids.
+Unable to upgrade firmware.| No es pot actualitzar el firmware.
+The phone is restarting...| El telèfon s'està reiniciant
+Firmware upgrade successful.| Actualització de firmware correcta.
+This firmware already exists on the phone.| Aquest firmware ja existeix en el telèfon.
+No upgrade is needed.| No és necessari actualitzar-lo.
+Troubleshooting| Resolució de problemes
+Module| Mòdul
+Log Settings| Paràmetres de l'històric
+Log IP| Adreça IP del servidor (per als errors)
+Log Port| Port IP del servidor (per als errors)
+Debug Level| Nivell de depuració
+Support Information| Informació sobre el suport tècnic
+Get local.cfg| Obtenir l'arxiu local.cfg
+Get server.cfg| Obtenir l'arxiu server.cfg
+Show Task and Stack Status| Mostrar l'estat de les tasques i de la pila
+Settings| Paràmetres
+Download Protocol| Protoc. descàrrega
+Auto-Resync| Resincr. autom.
+Days| Dies
+Maximum Delay| Temps màxim d'espera
+Mode| Mode
+Configuration Files| Arxius de configuració
+Time (24-hour)| Horari (24 hores)
+XML Push Server List(Approved IP Addresses)| Llista de servidors XML Push (adreces IP aprovades)
+Phone-side Call Forward Settings| Paràmetres de desviament de trucada al telèfon
+Global Settings| Paràmetres generals
+No Answer| No contesta
+Number| Número
+Number of Rings| Número de timbres
+Local Line| Línia local
+Forward Number| Núm. de desviament
+Global| General
+Enable| Activat
+Network| Xarxa
+Must provision a valid default gateway IP if DHCP is enabled| Ha d'establir una IP de gateway predeterminada vàlida si DHCP està actiu.
+Invalid IP Address| La direcció IP no és vàlida
+Invalid IP address| La direcció IP no és vàlida
+Invalid IP addr.| La direcció IP no és vàlida
+Invalid gateway address| La direcció del gateway no és vàlida
+Invalid subnet mask| La màscara de subxarxa no és vàlida
+Invalid primary DNS address| La direcció del servidor DNS principal no es vàlida
+Invalid secondary DNS address| La direcció del servidor DNS secundari no és vàlida
+Basic Network Settings| Paràmetres de xarxa bàsics
+Advanced Network Settings| Paràmetres de xarxa avançats
+DHCP| DHCP
+NAT Port| Port NAT
+Nortel NAT Traversal Enabled| Nortel NAT Traversal activat
+Nortel NAT Timer (seconds)| Temporitzador Nortel NAT (en segons)
+NTP Time Servers| Servidors d'horaris NTP
+Time Server 1| Servidor NTP 1
+Time Server 2| Servidor NTP 2
+Time Server 3| Servidor NTP 3
+SIP| SIP
+VLAN Enable| VLAN activat
+Non-IP Packet| Paquet no IP
+SIP Priority| Prioritat SIP
+RTP Priority| Prioritat RTP
+RTCP Priority| Prioritat RTCP
+Preferences| Preferències
+General| General
+Idle Display Name 1| Nom de la pantalla lliure 1
+Idle Display Name 2| Nom de la pantalla lliure 2
+Local Dial Plan| Pla de marcatge local
+Send Dial Plan Terminator| Enviar el caràcter final del pla de marcatge
+Digit Timeout (seconds)| Termini per introduir xifres (en segons)
+Park Call:| Aparcar trucada:
+Pick Up Parked Call:| Recuperar la trucada aparcada:
+Suppress DTMF Playback| Supressió de la reproducció DTMF
+Display DTMF Digits| Mostrar dígits DTMF
+Call Waiting| Trucada en espera
+Call Waiting| Trucada en espera
+Play Call Waiting Tone| Escoltar el to de trucada en espera
+Stuttered Dial Tone| To de marcatge acompassat
+Incoming Call Interrupts Dialing| Trucada entrant interromp marcatge
+Switch UI Focus To Ringing Line| Canvia el focus d'IU a la línia que sona
+Outgoing Intercom Settings| Ajustaments Intercom sortint
+Type| Tipus
+Phone-Side| Del costat del telèfon
+Server-Side| Del costat del servidor
+Prefix Code| Prefix
+Incoming Intercom Settings| Ajustaments Intercom entrant
+Microphone Mute| Silenci micròfon
+Play Warning Tone| Escoltar el to d'avís
+Allow Barge In| Permís d'intrusió 
+Auto-Answer| Resposta automàtica
+Key Mapping| Assignació de tecles
+Map Redial Key To| Assignar tecla de remarcatge a
+Map Conf Key To| Assignar tecla de conferència a
+Ring Tones| Tons
+Brazil| Brasil
+France| França
+Germany| Alemanya
+Italy| Itàlia
+Italy2| Itàlia2
+Mexico| Mèxic
+Russia| Rússia
+UK| Gran Bretanya
+US| Estats Units
+Global Ring Tone| To general
+Tone 1| To 1
+Tone 2| To 2
+Tone 3| To 3
+Tone 4| To 4
+Tone 5| To 5
+Tone 6| To 6
+Tone 7| To 7
+Tone 8| To 8
+Tone 9| To 9
+Tone 10| To 10
+Tone 11| To 11
+Tone 12| To 12
+Tone 13| To 13
+Tone 14| To 14
+Tone 15| To 15
+Priority Alerting Settings| Paràmetres de prioritat d'avís
+Enable Priority Alerting| Activar la prioritat d'avís
+Group| Grup
+External| Extern
+Internal| Intern
+Emergency| D'emergència
+Auto call distribution| Distribució de trucades automàtica
+Auto Call Distribution Settings| Paràmetres de distribució automàtica de trucada
+ACD| ACD
+Community 1| Comunitat 1
+Community 2| Comunitat 2
+Community 3| Comunitat 3
+Community 4| Comunitat 4
+Normal ringing| Timbre normal
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Ajustaments per despenjar directament
+Directed Call Pickup| Despenjar directament
+Directed Call Pickup by Prefix| Prefix de captura de trucada
+Play a Ring Splash| Reproduir melodia de benvinguda
+Auto Available| Auto disponible
+Auto Available Timer| Temporitzador Auto Disponible
+Time and Date Setting| Configuració de data i hora
+Time Format| Format hora
+Date Format| Format data
+Programmable Keys| Tecles programables
+Programmable Keys Configuration| Configuració de tecles programables
+Hard Key| Hardkey (tecla de hardware)
+Key| Tecla
+BLF List URI:| BLF llista URI:
+Speeddial/Xfer| Marcatge directe/Reenviar
+Do Not Disturb| No molesteu
+BLF| BLF
+BLF/Xfer| BLF/Reenviar
+BLF/List| BLF/Llista
+XML| XML 
+WebApps| Apl. Web
+Flash| Flash
+Last Call Return| Info última trucada
+Sprecode| Sprecode
+Transfer| Transferència
+Conference| Conferència
+Save| Guardar
+Delete| Suprimir
+Data has been transmitted to the phone successfully.| Les dades s'han transmès al telèfon correctament.
+Data cannot be posted to the phone.| No s'han pogut validar les dades del telèfon.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Assegureu-vos que la mida de les dades no és superior a 512 bytes i que el telèfon està configurat per rebre dades des del host.
+Expansion Modules| Mòduls d'expansió
+Expansion Module 1| Mòdul d'expansió 1
+Expansion Module 2| Mòdul d'expansió 2
+Expansion Module 3| Mòdul d'expansió 3
+Page 1| Pàgina 1
+Page 2| Pàgina 2
+Page 3| Pàgina 3
+List 1| Llista 1
+List 2| Llista 2
+List 3| Llista 3
+List 4| Llista 4
+List 5| Llista 5
+List 6| Llista 6
+Incompatible with phone model| No és compatible amb el model de telèfon
+Backup Proxy Server| Servidor Proxy de seguretat
+Backup Proxy Port| Port Proxy de seguretat
+Backup Registrar Server| Servidor Registrar de seguretat
+Backup Registrar Port| Port Registrar de seguretat
+Phone is locked| Tel. bloquejat
+Phone Lock| Bloqueig telèfon
+Lock the phone?| Bloquejar tel.?
+Phone is unlocked| Telèfon desbloquejat
+Password:| Contrasenya:
+Emergency Dial Plan| Pla de marcatge d'emergència
+Account Configuration| Configuració del compte
+Lock| Bloquejar
+Unlock| Desbloquejar
+Unlock the phone?| Desbloquejar telèfon?
+Lock or unlock the phone| Bloquejar o desbloquejar telèfon?
+HTTPS Client Method| Mètode client HTTPS
+HTTPS Server - Redirect HTTP to HTTPS| Servidor HTTPS - Redirigir HTTP a HTTPS
+HTTPS Server - Block XML HTTP POSTs| Servidor HTTPS - Bloquejar XML HTTP
+Validate Certificates| Acceptar certificats
+Check Certificate Expiration| Verificar data de caducitat del certificat
+Check Certificate Hostnames| Verificar noms de host del certificat
+Language Settings| Configuració d'idioma
+Webpage Language| Idioma de la pàgina web
+Input Language| Idioma inicial
+Input Language| Idioma inicial
+Jan| gen
+Feb| feb
+Mar| mar
+Apr| abr
+May| maig
+Jun| juny
+Jul| jul
+Aug| ago
+Sep| set
+Oct| oct
+Nov| nov
+Dec| des
+Sun| diu
+Mon| dll
+Tue| dma
+Wed| dme
+Thu| dj
+Fri| dv
+Sat| ds
+New Password Invalid.| La nova contrasenya no és vàlida.
+New password must be 10 characters or less.| La nova contrasenya no pot tenir més de 10 caràcters.
+New password must be numeric.| La nova contrasenya ha de ser numèrica.
+New password and confirm password do not match.| La nova contrasenya i la confirmada no coincideixen.
+Error| Error
+Are you sure you want to restart the phone?| Està segur de reinicialitzar el telèfon?
+This will restore the phone to default settings and cannot be undone.| Aquesta operació restableix definitivament al telèfon la configuració predeterminada
+This will remove the local configuration settings and cannot be undone.| Aquesta operació eliminarà definitivament els paràmetres de la configuració local.
+Continue| Continuar
+Error: Intercom Settings| Error: configuració intercom
+Please enter a prefix code for server-side intercom.| Introdueixi un prefix per al servidor del costat d'intercom.
+Value must be between| El valor ha d'estar entre
+and| i
+Invalid Setting:| Valor no vàlid:
+Please select at least one state for softkey| Seleccionar com a mínim un estat per a la tecla programable
+DSCP value| El valor DSCP
+is mapped to multiple priorities.| està assignat a diverses prioritats.
+Please enter Admin name and password| Escrigui el nom de l'administrador i la contrasenya
+Please enter User name and password| Escrigui el nom de l'usuari i la contrasenya
+Centralized Conference| Conferència centralitzada
+Conference Server URI| Servidor de conferències URI
+UPnP device not found| No es troba dispositiu UPnP 
+Ethernet| Ethernet
+Ethernet Link| Enllaç Ethernet
+Ethernet & VLAN| Ethernet & VLAN
+Link| Enllaç
+10M| 10M
+100M| 100M
+Unavailable| No disponible
+Available| Disponible
+Server Info| Inf. Servidor
+Unique ID:| ID únic:
+UPnP Mapping Lines| Línies cartografia UPnP
+Port Failed| Port erroni
+Trying...| Intentant
+Seize Failed| Fallada lín.
+Missed Call Summary Subscription| Sol·licitud de trucades perdudes
+Missed Call Summary Subscription Period| Període de sol·licitud  de trucades perdudes
+AS-Feature-Event Subscription| Subscripció per a un esdeveniment-funció en el servidor d'aplicacions
+AS-Feature-Event Subscription Period| Període de subscripció per a un esdeveniment-funció en el servidor d'aplicacions
+Goodbye Key Cancels Incoming Call| La tecla de penjar interromp una trucada entrant
+Address Incomplete| Adreça incompleta
+Admin Menu| Menú admin.
+IP&MAC Addresses| Adreça IP&MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Set Audio| Ajustar àudio
+Config. Server| Servidor config.
+IP Address:| Adreça IP:
+Error Messages| Missatges d'error
+No Error Messages| Cap missatge d'error
+ Errors|  Errors
+ Error|  Error
+Disabled| Desactivat
+LAN Port Link| Enllaç port LAN
+PC Port Link| Enllaç port PC
+RTP| RTP
+RTCP| RTCP
+Phone| Telèfon
+Headset Mic Vol| Vol micr/auric.
+TypeService SIP| TipusServ. SIP
+TypeService RTP| TipusServ. RTP
+TypeService RTCP| TipusServ. RTCP
+Authentic. Name| Nom autènt.
+XML Beep Support| XML suportat amb to de senyalització 
+Status Scroll Delay (seconds)| Retard Estat de desplaçament (segons)
+Backlight| Retroil·luminació
+Backlight| Retroil·luminació
+Display| Pantalla
+Speed Dial Edit| Editar Marc. Ràp
+second| segon
+seconds| segons
+Label| Categoria
+Message Waiting Indicator Line| Indicador de missatge en espera en la línia
+Keypad Speed Dial| Velocitat de marcat
+Digit| Dígit marcatge
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| Notificació SIP XML
+Custom Feature| Serv específic
+User ID:| ID Usuari:
+Local SIP UDP/TCP Port| Port local SIP UDP/TCP
+Local SIP TLS Port| Port local SIP TLS
+802.1x Support| Suport 802.1x
+EAP Type| Tipus EAP
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identitat
+MD5 Password| Contrasenya MD5
+PC Port PassThru Enable/Disable| Activar/desactivar port PC PassThru
+EAP-TLS Settings| Paràm. EAP-TLS 
+EAP-MD5 Settings| Paràm. EAP-MD5
+Enable PassThru Port| Activar PassThru
+PC Port Enabled\nYes| Port act.\nSí
+PC Port Disabled\nNo| Port desact.\nNo
+802.1x Settings| Paràm. 802.1x
+802.1x Mode| Mode 802.1x
+EAP-MD5 Settings| Paràm. EAP-MD5
+EAP-TLS Settings| Paràm. EAP-TLS 
+STUN Server| Servidor STUN
+STUN Port| Port STUN
+TURN Server| Servidor TURN
+TURN Port| Port TURN
+TURN User ID| ID utili TURN
+TURN Password| Contras. TURN
+Paging| Buscar
+Streaming| Transmissió
+Group Paging RTP Settings| Paràmetres RTP per a recerca agrupada
+Paging Listen Addresses| Recerca d'adreces d'escolta
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| Compte SIP
+Backup Registrar Used?| ¿Servidor Registrar utilitzat?
+Unregistered| No registrat
+Registered| Registrat
+SIP Status| Estat SIP
+Server Error| Error servidor
+Swap| Altern
+LLDP\nEnabled| LLDP\nActivat
+LLDP\nDisabled| LLDP\nDesactivat
+LLDP Support| Suport LLDP
+Preferred line| Línia preferida
+Preferred line Timeout (seconds)| Temporitzador de línia preferida (en seg.) 
+Invalid URI| URI no vàlida
+WebApps| Apl. Web
+Watchdog| Temporitzador de vigilància
+Speeddial/Conf| Marcatge directa/Conf.
+Call is on Hold| Trucada espera
+No subscription| Sense sol·licit.
+MDot1xFailedStartup| Error en l'inici de 802.1x
+802.1x Startup Failed| Error en l'inici de 802.1x
+LLDP Startup Failed| Error en l'inici de LLDP
+Failed to config Line Manager| Impossible configurar el gestor de línies
+Line in use| Línia utilitzada
+Get Crash Log| Obtenir l'arxiu de registre d'errors
+Time Unavailable| Hora no disp.
+Packetization Interval| Interval de paquets
+Basic| Codecs bàsics
+Note: Basic Codecs Include| Nota: els codecs bàsics inclouen
+Default| D'origen
+Not Configured| No config.
+America| Amèrica
+Asia| Àsia
+Atlantic| Atlàntic
+Pacific| Pacífic
+Australia| Austràlia
+Europe| Europa
+Malaysia| Malàisia
+Invalid Setting| Valor no vàlid
+Must not be empty| No ha d'estar buit
+Must be a valid number| Ha de ser un número vàlid
+Must be a nonzero number| Ha de ser un núm. diferent de 0
+Not in range| Fora de l'interval
+Invalid Hostname| Número de host no vàlid
+802.1x Failed| 802.1x ha fallat
+Admin Password:| Contras. admin
+Voicemail| Correu de veu
+Voicemail| Correu de veu
+HTTPS Failed| HTTPS ha fallat
+LLDP Failed| LLDP ha fallat
+TR69 connect Err| Err. connex. TR69
+Downloading Language Packs| Descarregant paq. d'idiomes
+Please Wait...| Espereu...
+to edit| per editar
+Cfg Svr Failure| Error conf. serv.
+Lines| Línies
+LDAP Directory| 
+Ldap Directory| 
+Item| Entrada
+item| entrada
+Certificate Revoked| Certificat revocat
+Certificate Unknown| Certificat desconegut
+Delete entire| 
+LDAP Search Filter| 
+Ldap Search Filter| 
+LDAP Server| 
+Ldap Server| 
+Certificate Expired| Certificat caducat
+Unsupported Certificate| Certificat no admès
+No Certificate| Sense certificat
+Options List| Llista d'opcions
+Directory?| 
+Work| Treball
+No available lines| No hi ha cap línia disponible
+Search| Cerca
+Ldap Base DN| 
+items| entrades
+Spddial| Marcatge directe
+Ldap Number Attributes| 
+Ldap Max Hits| 
+Ldap Settings| 
+Ldap Name Attributes| 
+Timezone zoneAmerica| 
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curaçao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-São Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlàntic
+CA-Central| CA-Central
+CA-Eastern| CA-Est
+CA-Mountain| CA-Muntanya
+CA-Newfoundland| CA-Terranova
+CA-Pacific| CA-Pacífic
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Est
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogotà
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havana
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Caiena
+GP-Guadeloupe| GP-Guadalupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Illes Caiman
+LC-St Lucia| LC-Saint Lucia
+MQ-Martinique| MQ-Martinica
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Mérida
+MX-Mexico City| MX-Ciutat de Mèxic
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panamà
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asunción
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port-of-Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Illes Aleutianes
+US-Central| US-Central
+US-Eastern| US-Est
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mountain
+US-Pacific| US-Pacífic
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Pequín
+CY-Nicosia| CY-Nicòsia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tòquio
+MU-Mauritius| MU-Maurici
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anàdir
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamtxatka
+RU-Krasnoyarsk| RU-Krasnoiarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novossibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalín
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Iakutsk
+RU-Yekaterinburg| RU-Iekaterinburg
+SA-Saudi Arabia| SA-Aràbia Saudita
+SG-Singapore| SG-Singapur
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Illes Canàries
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Illes Fèroe
+GS-South Georgia| GS-Geòrgia del Sud
+IS-Reykjavik| IS-Reykjavík
+PT-Azores| PT-Azores
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Adelaida
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmània
+Timezone zoneEurope| 
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirana
+AT-Vienna| AT-Viena
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Brussel·les
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zuric
+CZ-Prague| CZ-Praga
+DE-Berlin| DE-Berlín
+DK-Copenhagen| DK-Copenhagen
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-París
+GB-Belfast| GB-Belfast
+GB-London| GB-Londres
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Atenes
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublín
+IT-Rome| IT-Roma
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vílnius
+LU-Luxembourg| LU-Luxemburg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Mònaco
+MD-Chisinau| MD-Chișinău
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Àmsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Varsòvia
+PT-Lisbon| PT-Lisboa
+RO-Bucharest| RO-Bucarest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moscou
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Estocolm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vaticà
+YU-Belgrade| YU-Belgrad
+Timezone zonePacific| 
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Teclat actiu
+1h    summertime| Estiu 1h
+Link Down| Enllaç inactiu
+Slovakia| Eslovàquia
+Cfg. Svr.| Serv confg
+Custom| Personalitzat
+HPQ Enable| HPQ activat
+Checking For Firmware| Comprovant nou firmware
+Firmware Check| Comprov firmware
+Speeddial/MWI| Marcatge directe/MWI
+Handset| auricular
+WBand RX Filters| 
+HS Setting1| ParàmSenseFil1
+HS Setting2| ParàmSenseFil2
+HS Setting3| ParàmSenseFil3
+HS Setting4| ParàmSenseFil4
+Spkr Setting1| Paràm. Altaveu1
+Spkr Setting2| Paràm. Altaveu2
+Spkr Setting3| Paràm. Altaveu3
+Spkr Setting4| Paràm. Altaveu4
+Hold Failed| Espera trucada
+Can not save record without number| 
+Feature Name| Nom de la funció
+Source| Origen
+License File| Fitxer de llicència
+SW Version Restrictions| Restriccions de la versió de SW
+Unlimited| Il·limitada
+Expiration| Caducitat
+Upgrade| Millorar
+License Server| Servidor de llicències
+License Info| Informació de llicència
+License PBX| PBX llicència
+Voice Recording| Enregistrament de veu
+BLF List Subscription Period| Període de subscripció BLF Lista
+Conf Failed| Conf. trucada
+Push| Push
+Forward Filtering| Filtre de desviament
+OUT| SORTIDA
+Opt Status| Estat opc.
+Filter| Filtre
+Filtering| Filtrant
+Executives| Executius
+IN| ENTRADA
+Divert| Desviament
+Divert to Number| Desvia a número
+ Enter Unlock Password| Introduïu contrasenya
+ Enter Administrator Password| Contrasenya administrador
+Today| Avui
+Yesterday| Ahir
+Two Days Ago| Fa dos dies
+Three Days Ago| Fa tres dies
+Four Days Ago| Fa quatre dies
+Five Days Ago| Fa cinc dies
+Six Days Ago| Fa sis dies
+Last Week| La setmana passada
+Two Weeks Ago| Fa dues setmanes
+Three Weeks Ago| Fa tres setmanes
+Last Month| El mes passat
+Older| Més antic
+Monday| Dilluns
+Tuesday| Dimarts
+Wednesday| Dimecres
+Thursday| Dijous
+Friday| Divendres
+Saturday| Dissabte
+Sunday| Diumenge
+Upload Sys Info| CarregaInfoSist
+Cfwd State| Estat desviament
+Cfwd Number| Desviar a núm.
+Cfwd Mode| Mode desviament
+Set| Ajus
+#Confirm| #confirmar
+Call held| Trucada reting.
+Calls held| Trucades reting.
+Apply Changes?| Aplicar canvis?
+Dialpad| Teclat
+Edit| Edit
+Quit| Sortir
+Directory Empty| Agenda buida
+Saved Memory key| Tecla Guardr Mem
+Speaker volume  | Volum altaveu  
+Handset volume  | Volum telèfon  
+Headset volume  | Volum auricular 
+Ringer volume   | Volum timbre   
+Enter Number:| Intr. número:
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Supr. tot
+Erase Local Configuration?| Suprimir config?
+Audio| Àudio
+Application| Aplicació
+NAT| NAT
+DSCP| DSCP
+User| Usuari
+802.1x| 802.1x
+Enter Date (m/d/y):| Intr. data (m/a/d):
+Brightness Timer| Tempo. de brillantor
+Brightness Level| Ajust. de brillantor
+Level 1| Nivell 1
+Level 2| Nivell 2
+Level 3| Nivell 3
+Level 4| Nivell 4
+Level 5| Nivell 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Línia: %d
+Line %d: %s| Línia %d: %s
+Invalid %s (%d to %d)| Errònia %s (%d to %d)
+Sys Info| Info. Sist
+keypad| Teclat
+Login| Log In
+Seized| En línia
+Active| Actiu
+Held| Reting.
+Ringing| Trucant
+Park Failed| Error en aparcar
+Canada| Canadá
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Prem un botó de contacte per veure la informació del contacte.
+No info available. Please press a contact button.| No hi ha informació disponible. Premeu un botó de contacte.
+Set Date and Time| Establiu data i hora
+Ethernet Ports| Ports d'Ethernet
+Call Server| Servidor de trucades
+Use Network Time| Utilitza l'hora de la xarxa
+Speed Dial Key %d| Tecla de marcatge directe %d
+%d/%d records| %d/%d registres
+%d days stored| %d dies emmagatzemats
+1 day stored| 1 dia emmagatzemat
+Upload System Info Files?| Carregar fitxers d'informació del sistema?
+Entries Saved| Entrades desades
+Storage| Emmagatzematge
+IP and gateway are equal| IP i gateway coincideixen
+IP gateway subnet mismatch| La subxarxa d'IP i gateway no coincideix
+Bridge active| Pont actiu
+Please enter a number| Introduïu un número
+Deleted| Suprimit
+No Matches Found| No s’han trobat coincidències
+Name| Nom
+Contact already exists| Contacte ja existeix
+Left Softkey %d| Tecla programable esquerra %d
+Bottom Softkey %d| Tecla inferior %d
+New Call| Nova trucada
+All Accounts| Tots els comptes
+Exp. Mod. %d Key %d| Mod. exp. %d tecla %d
+Add Num| Intr. núm
+Diverted to: | Desviada a: 
+No lines are configured| No s'ha configurat cap línia
+"Dot ""."""| Punt "."
+Mode %d| Mode %d
+Top Softkey %d| Tecla programable superior %d
+Home Screen Mode| 
+Screen Saver Timer| Temporitzador d'estalvi de pantalla
+Home Screen| Pantalla d'inici
+Cannot add new number. Limit reached.| No es pot afegir número nou. Límit assolit.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Introduïu un nom
+Top Softkeys| Tecles programables superiors
+Left Softkeys| Tecles programables de l'esquerra
+Bottom Softkeys| Tecles programables inferiors
+Brightness| Brillantor
+Speed Dial 8| Marcatge directe 8
+A filename-related error occurred. Rename the specified file and try again.| S'ha produït un error relacionat amb el nom del fitxer. Canvieu el nom del fitxer especificat i torneu-ho a provar.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| S'ha produït un error relacionat amb l'HTTP. Torneu-ho a provar (o reinicieu el telèfon si ha heu rebut aquest error anteriorment).
+A system-related error occurred. Please restart the phone and try again.| S'ha produït un error relacionat amb el sistema. Reinicieu el telèfon i torneu a intentar-ho.
+Xsi Enterprise Directory| Directori corporatiu Xsi
+Xsi Personal Contacts| Contactes personals Xsi
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Fax d'empresa
+By First Name| Per nom
+By Last Name| Per cognom
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| No es pot afegir registre nou. Límit assolit.
+City| Ciutat
+Corporate| Corporatiu
+Country| País
+Custom Ringtones| Sons de trucada personalitzats
+Delete %s from %s?| Suprimir %s de %s?
+Delete all entries in %s?| Suprimir totes les entrades de %s?
+Directory import failed| Error en importar directori
+Directory loading| Carregant directori
+Directory not available at this time| Directori no disponible en aquest moment
+Display Name Order| Mostra noms en ordre
+Name Order| Noms en ordre
+Edit Details| Edita els detalls
+Email| Adreça electrònica
+Email 1| Adreça electrònica 1
+Email 2| Adreça electrònica 2
+Email 3| Adreça electrònica 3
+Enabled also in call| Activat també durant trucada
+Enterprise Directory| Directori corporatiu
+Exchange Contacts| Contactes Exchange
+Explicit| Explícit
+External Sources| Orígens externs
+Failed to retrieve contact details| No s'han pogut recuperar els detalls del contacte
+First Last| Nom Cognom
+First name| Nom
+Home 1| Particular 1
+Home 2| Particular 2
+Home Address| Adreça de casa
+Implicit| Implícit
+Invalid Subscription Time| Temps de subscripció no vàlid
+Job Title| Lloc de treball
+LDAP| LDAP
+Last%c First| Cognom%c Nom
+Last First| Cognom Nom
+Last Name| Cognom
+Local| Local
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mòbil
+New Contact| Contacte nou
+Numbers| Números
+Organization| Organització
+Other| Altres
+Personal| Personal
+Personal Contacts| Contactes personals
+Province/State| Província/Estat
+Request Failed| La sol·licitud ha fallat
+Sorting Preferences| Classificació de preferències
+Sorting| Classificació
+Street Address| Adreça postal
+Test| Prova
+Test Connection| Connexió de prova
+The phone does not have enough space to store this file.| El telèfon no té prou espai per desar aquest fitxer.
+The specified file is too large. Each file cannot exceed 1 MB in size.| El fitxer especificat és massa gran. Els fitxers individuals no poden tenir més d'1 MB de mida.
+UA-Profile-Event Subscription| Subscripció UA-Profile-Event
+UA-Profile-Event Subscription Period| Període de subscripció UA-Profile-Event
+Undefined| Sense definir
+Work 1| Treball 1
+Work 2| Treball 2
+Work Address| Adreça de la feina
+Zip/Postal Code| Codi postal
+Credentials| Credencials
+Enable/Disable| Activa/desactiva
+Labels| Etiquetes
+Ringtone files must be in WAV format| Els fitxers dels sons de trucada han d'estar en format WAV
+Copy| Copiar tot
+Add New| Nou
+ALU SCA| ALU SCA
+Accessory Info| Informació d'accessoris
+Add| Afeg
+Alerting| Avisant
+Delete selected item or delete all items?| Suprimir element seleccionat o suprimir tots els elements?
+DialingIn| MarcInt
+DialingOut| MarcExt
+Disconnecting| Desconnectant
+Enter First Name| Introduïu nom
+Enter Last Name| Introduïu cognom
+Enter Number| Intr. Número
+Enter Password>| Introduïu contrasenya>
+Enter Username>| Introduïu nom d'usuari>
+Enterprise Dir.| Dir. corporatiu
+Exp. Mod. 1 Version| Mod. exp. 1 Versió
+Exp. Mod. 2 Version| Mod. exp. 2 Versió
+Exp. Mod. 3 Version| Mod. exp. 3 Versió
+Get user.cfg| Obtenir user.cfg
+Get user_local.cfg| Obtenir user_local.cfg
+Keyboard Version| Versió de teclat
+F| R
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| EnEspera
+Pending| Pendent
+Phone Info| Informació del telèfon
+Please Login| Connecteu-vos
+Please select a file to upload| Seleccioneu un fitxer que vulgueu carregar
+Saved| S'ha desat
+Unmute| Activa el so
+Line 11| Línia 11
+Line 12| Línia 12
+Line 13| Línia 13
+Line 14| Línia 14
+Line 15| Línia 15
+Line 16| Línia 16
+Line 17| Línia 17
+Line 18| Línia 18
+Line 19| Línia 19
+Line 20| Línia 20
+Line 21| Línia 21
+Line 22| Línia 22
+Line 23| Línia 23
+Line 24| Línia 24
+Line 25| Línia 25
+Client Method| Mètode client
+#Edit| #Edit
+#Copy| #Copiar tot
+Action forbidden| Acció prohibida
+Action not supported| L'acció no és permesa
+ Additional Settings|  Ajustos addicionals
+ Barge-In|  Intrusió 
+Congestion| Embús
+Discreet| Discret
+Discreet Ringing| Timbre discret
+Executives list is empty| La llista d'executius està buida
+Extension not registered| Extensió no registrada
+Internal error| Error intern
+Invalid Password| Contras. errònia
+Invalid forwarding number| Número de reenviament no vàlid
+ Listen|  Escolta
+ Normal|  Normal
+Phone not registered| Telèfon no registrat
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  En prémer la tecla programable de silenci, s'activa/es desactiva el so d'avís d'intrusió.
+Prv| Prv
+Pub| Pub
+Record not found| No s'ha trobat el registre
+SCAP-Bridged| SCAP-Pont
+SCAP-Held| SCAP-Retinguda
+ Select Barge-In Mode|  Seleccioneu mode d'intrusió
+ UA-Profile-Event Subscription Period|  Període de subscripció UA-Profile-Event
+Unique ID| ID únic
+ Whisper|  Xiuxiueig
+Missed Calls| Trucades no contestades
+Silence| Silenci
+As-Feature-Event Subscription| Subscripció per a un esdeveniment-funció en el servidor d'aplicacions
+As-Feature-Event Subscription Period| Període de subscripció per a un esdeveniment-funció en el servidor d'aplicacions
+Feature-Status-Exchange Subscription| Subscripció a Feature-Status-Exchange
+Feature-Status-Exchange Subscription Period| Període de subscripció a Feature-Status-Exchange
+Action superseded by a previous command| Acció substituïda per una ordre anterior
+Attendant| Operadora
+BLF Privacy| Privadesa BLF
+BLF Privacy Key Mode| Mode de clau de privadesa BLF
+Feature not configured| Funció no configurada
+Forward Type| Tipus de desviament
+Live Keyboard| Teclat en directe
+Not assigned| No assignat
+PIN| PIN
+Pin Required| PIN necessari
+Privacy| Privadesa
+Privacy On| Privadesa activada
+Restart | Reiniciar
+Capture| Captura
+Get capture file| Obtén fitxer de captura
+Mute All| Silencia-ho tot
+No Participant| No hi ha cap participant
+Private Call| Trucada privada
+Start| Inicia
+Stop| Atura
+TLS Preferred| TLS preferit
+Timeout| 
+Unmute All| Activa el so de tot
+Speeddial/Mwi| Marcatge directe/MWI
+Phone will restart automatically after finishing.| Quan l'operació hagi acabat, el telèfon es reinciarà automàticament.
+Idle| Lliure
+CFWD Filtering| Filtratge CFWD
+Volume| Volum
+DTMF| DTMF
+All Accounts| Tots
+Outgoing| Sortint
+Call History is Empty| L’historial de trucades és buit
+No Outgoing Calls| No hi ha cap trucada de sortida
+No Missed Calls| No hi ha trucades perdudes
+No Received Calls| No s'han rebut trucades
+Received| Rebudes
+Missed| Perdudes
+Screenshot| Captura de pantalla
+Xsi Enterprise Common Directory| Directori comú corporatiu Xsi
+Enterprise Common Directory| Directori comú corporatiu
+Enterprise Common Dir.| Dir. comú corporatiu
+Xsi Group Directory| Directori de grup Xsi
+Group Directory| Directori de grup
+Xsi Group Common Directory| Directori comú de grup Xsi
+Group Common Directory| Directori comú de grup
+Call Settings| Ajustos de trucada
+%s Call Settings| Ajustos de trucada %s
+Hide Number| Amaga el número
+Xsi Password Not Configured| Contrasenya Xsi no configurada
+Xsi User Not Configured| Usuari Xsi no configurat
+Xsi Authentication Failure| Error d'autenticació Xsi
+Xsi File Not Found| No s'ha trobat el fitxer Xsi
+Xsi Invalid URI| URi Xsi no vàlida
+Xsi Invalid Download Configuration| Configuració de descàrrega Xsi no vàlida
+Call History| Historial de trucades
+Bluetooth| Bluetooth
+Scan| Buscar
+Timeout [1..168 h]| Temps d'espera [1..168 h]
+Paired Devices| Dispositius enllaçats
+Available Devices| Dispositius disponibles
+Swipe the toggle switch to the right to enable Bluetooth| Mou l'interruptor a la dreta per activar el Bluetooth
+Pairing| Enllaçant
+Connecting| Connectar:
+Device| Dispositiu
+No paired devices| No hi ha dispositius enllaçats
+Connection successful| Connexió correcta
+Connection failed| Error de connexió
+Disconnection successful| Desconnexió correcta
+Disconnection failed| Error de desconnexió
+Pairing failed| Registre erroni
+Operation failed| L'operació ha fallat
+Connected| Connectat
+Retry| Reintentar
+Do you want to forget this device?| Voleu oblidar aquest dispositiu?
+Close| Tancar
+Enabling Bluetooth...| Activant Bluetooth...
+Disabling Bluetooth...| Desactivant Bluetooth...
+Connecting...| Connectar...
+Disconnecting...| Desconnectant...
+Boot| Inici
+App| Aplicació
+USB disabled. Insufficient power for current configuration.| USB desactivat. Potència insuficient per a la configuració actual.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| El fitxer especificat no compleix les especificacions de sons de trucada que demana el telèfon. Trobareu els requisits del fitxer de sons de trucada a la Guia de l'usuari.
+%d/%d| %d/%d
+%d days| %d dies
+1 day| 1 dia
+System Messages| Missatges del sistema
+Authorization Canceled| Autorització cancel·lada
+Crash Logs| Registres d'errors
+Warning - All entries in %s will also be deleted| Advertència: també se suprimiran totes les entrades de %s
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Timbre trucada
+Identity| Identitat
+Extension| Extensió
+Address| Adreça
+Server Error| Error servidor
+Use Global Ring Tone| 
+Standard Ring Tone| So de trucada estàndard
+Hide Number| Amaga el número
+Remote Office| Oficina remota
+Remote Office| Oficina remota
+Phone Number/SIP-URI| Número de telèfon/SIP-URI
+Simultaneous Ring Personal| Timbre simultani personal
+Simultaneous Ring| Timbre simultani
+Do Not Ring if on a Call| Sense timbre durant trucada
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Núm. tel./SIP-URI
+Alt Num/SIP-URI| Alt Num/SIP-URI
+Ring for all Incoming Calls| Timbre per a totes les trucades entrants
+Invalid Number or SIP-URI| Número o SIP-URI no vàlid
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Número de portal
+Alert Locations for Click-To-Dial| Ubicacions d'avís per a clic-per-marcar
+Alert Locations for Group Paging| Ubicacions d'avís per a paginació de grup
+Phone Number| Número telèfon
+Description| Descripció
+Alternate Number| 
+Call Control| Control de trucades
+Diversion Inhibitor| Inhibidor de desviaments
+Answer Confirmation| Confirmació de resposta
+Xsi Server Not Found| No s'ha trobat el servidor Xsi
+Xsi Invalid Input| Entrada Xsi no vàlida
+Call Center| Centre de trucades
+Presence| Presència
+My Status| El meu estat
+Contacts| Contactes
+Favorite| Preferit
+Available| Disponible
+Eager to Chat| Tinc ganes de parlar
+Busy| Ocupat
+Away| Absent
+Extended Away| Absent durant una bona estona
+Offline| Fora de línia
+Unknown| Desconegut
+Enter custom presence text here...| Introduïu aquí el text de presència personalitzat...
+Status| Estat
+Custom| Personalitzant
+Favorites| Preferits
+All Contacts| Tots els contactes
+No contact in folder| No hi ha cap contacte a la carpeta
+No phone number| No hi ha cap número de telèfon
+No contact| No hi ha contactes
+Contact list currently not available| La llista de contactes no està disponible en aquest moment
+Contact| Contacte
+Contact| Contacte
+Connection to server failed| Ha fallat la connexió amb el servidor
+Configuration error| Error de configuració
+Authentication error| Error d’autenticació
+Connection to server lost| S'ha perdut la connexió amb el servidor
+Mobile| Mòbil
+Connect| Connecta
+%s disconnected| %s desconnectada
+%s connected| %s connectada
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Nou firmware. No desconnecteu el telèfon!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Copiar a tots?
+Loading...| 
+Password Changed| Contrasenya canviada
+Restore Default| 
+Restore Default| 
+Enter Again| Confirmar
+Erase| Suprimir
+Set All| 
+VLAN Settings| Paràmetres VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Avançat
+Phonebook| 
+Update| 
+Copyright| Copyright
+Pause| Pausa
+Incorrect password| Contrasenya incorrecta
+Please input duration between 1 to 1440 minutes| 
+Level 0| Nivell 0
+Static Network Settings| 
+Enter| Intr.
+Reset Configuration?| Reinicialitzar la configuració?
+TCP DUMP| 
+minutes| minuts
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| ID VLAN
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Detalls
+First Name| 
+Home| Casa
+People| 
+Contacts - Add New| 
+Work| Treball
+Entry copied to| Entrada copiada a
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Agenda completa
+Directory full| Agenda completa
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Connecta
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Trucada en procés
+Scan| Buscar
+Stop| Atura
+Close| Tancar
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Oblida
+Unknown Caller| 
+Answer| Contestar
+Decline| 
+Push Call| Trucada «push»
+End Call| 
+Caller| 
+Disconnect| Desconnecta
+Capturing ...| 
+Speaker| Altaveu 
+Headset| Auriculars
+Ringer| Timbre
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Informació del telèfon
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| DNS principal
+Secondary DNS| DNS secundari
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Contras.
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Canviar
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Sense enllaç
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Privat
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| No molesteu
+Phone Lock| Bloqueig telèfon
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Canvia el nom
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Més...
+Restart| Reiniciar
+Key is Programmed| Tecla programada
+Advanced XML| XML avançat
+Too many answers - Refine your search| Massa respostes, limiteu la cerca
+%s Search| % Buscar
+Searching| Buscant
+Server not configured| El servidor no està configurat
+SimRing| TimbSim
+Phone No/SIP-URI Not Configured| Nº tel./SIP-URI no configurat
+ Xsi Server Update Failed|  Error en actualitzar servidor Xsi
+Call Settings| Ajustos de trucada
+Missing Config| Falta config.
+Deflect| Desvia
+AnswerIcom| ItercResp
+In a call| En una trucada
+Chats| Xats
+Chat| Xat
+Send| Enviar
+Delete all chat sessions?| Suprimir totes les sessions de xat?
+Delete chat session with %s?| Suprimir la sessió de xat amb %s?
+No active chat session| No hi ha cap sessió de xat activa
+Push Notifications| Notificacions «push»
+Sound| So
+Bluetooth| Bluetooth
+Chat| Xat
+%s is typing...| %s està escrivint...
+Last message received %s at %s| Darrer missatge rebut %s a les %s
+Last message received while offline| Darrer missatge rebut fora de línia
+now| ara
+%ld secs ago| Fa %ld seg.
+1 min ago| Fa 1 min
+%ld mins ago| Fa %ld min.
+1 hour ago| Fa 1 hora
+%ld hours ago| Fa %ld hores
+yesterday| ahir
+%ld days ago| Fa %ld dies
+while offline| fora de línia
+Can't talk right now. I'll call you later.| Ara no puc parlar. Et trucaré més tard.
+On another call| Tinc una altra trucada
+I'll call you back| Ja et tornaré la trucada
+Call me back in 10 minutes| Truca'm en 10 minuts
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Personalitzant...
+Message to %s| Missatge per a %s
+Cancel - No message sent| Cancel·la: no s'ha enviat cap missatge
+Chat Messages| Missatges del xat
+Reject Call Message Configuration| Rebutja configuració de missatges de trucada
+Message| Missatge
+Server Failure| Error de servidor
+Use ^v to view| Per veure utilitzi ^v
+Answer| Contestar
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Avís
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Escriure nom
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| S'ha esgotat el temps de la sol·licitud
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Port Pass Thru
+Page Expired. Please reload the page.| La pàgina ha caducat. Carregueu la pàgina de nou.
+Application busy. Please try again later.| Aplicació ocupada. Torneu-ho a provar més tard.
+User ID required| ID d'usuari obligatori
+Directory file must be in WAV format| El fitxer de directori ha d'estar en format WAV
+Local Directory Upload| Càrrega de directori local
+Upload failed - Too many records detected in csv file| Error en carregar: s'han detectat massa registres al fitxer csv
+Upload failed - No record detected in csv file| Error en carregar: no s'ha detectat cap registre al fitxer csv
+Upload performed - %d records created| S'ha carregat: %d registres creats
+minutes| minuts
+User ID| ID d'usuari
+Any PBX| Qualsevol PBX
+Screen Mode| Mode pantalla
+Show Picture| Mostra imatge
+Request timed out| S'ha esgotat el temps de la sol·licitud
+No Mobile phone connected| No s'ha connectat cap telèfon mòbil
+Only one Handset can be paired to the phone| Només es pot enllaçar un auricular amb el telèfon
+Only one Speaker can be paired to the phone| Només es pot enllaçar un altaveu amb el telèfon
+Maximum number of paired devices reached| S'ha assolit el nombre màxim de dispositius enllaçats
+Reload| Torna a carregar
+Mobile Contacts| Contactes de mòbil
+Mobile| Mòbil
+Press "Turn on" to enable Bluetooth| Prem "Activa" per activar el Bluetooth
+Turn on| Activa
+Turn off| Desactiva
+Mobile : %s| Mòbil: %s
+Pair| Registre
+Connect| Connecta
+Disconnect| Desconnecta
+Forget| Oblida
+Rename| Canvia el nom
+Rename Device| Canvia el nom del dispositiu
+Disabling Bluetooth will disconnect your Cordless Handset| Si desactiveu el Bluetooth, es desconnectarà l'auricular sense fil
+Warning| Avís
+Do you want to continue?| Voleu continuar?
+Bluetooth pairing request| Sol·licitud d'enllaç Bluetooth
+Pair with %s| Enllaça amb %s
+Pairing code - %06ld| Codi d'enllaç: %06ld
+External| Extern
+Lock Settings| Bloqueja els ajustos
+Proximity auto-lock| Bloqueig autom. proximitat
+Delay before auto-lock| Retard abans de bloq. aut.
+Proximity auto-unlock| Desbloq.autom. proximitat
+Delay before auto-unlock| Retard abans de desbl. aut.
+Proximity auto-lock| Bloqueig autom. proximitat
+Proximity auto-unlock| Desbloq.autom. proximitat
+Delay before auto-lock (minutes)| Retard abans de bloq. aut. (minuts)
+Delay before auto-unlock (minutes)| Retard abans de desbl. aut. (minuts)
+M695: New Firmware. Do not unplug phone!| M695: Firmware nou. No desendolleu el telèfon!
+Login/Logout| Inicia/tanca sessió
+Logout user %s| Tanca la sessió de l'usuari %s
+Login successful| S'ha iniciat la sessió correctament
+Logout successful| S'ha tancat la sessió correctament
+Login failed| Error en iniciar la sessió
+Logout failed| Error en tancar la sessió
+Hot desk user can not pair handset please login as a local user| Un usuari d'equip compartit no pot enllaçar l'auricular, inicieu la sessió com a usuari local
+Hot desk user can not pair speaker please login as a local user| Un usuari d'equip compartit no pot enllaçar l'altaveu, inicieu la sessió com a usuari local
+Hot desk user can not unpair handset please login as a local user| Un usuari d'equip compartit no pot cancel·lar l'enllaç de l'auricular, inicieu la sessió com a usuari local
+Hot desk user can not unpair speaker please login as a local user| Un usuari d'equip compartit no pot cancel·lar l'enllaç de l'altaveu, inicieu la sessió com a usuari local
+Push Call| Trucada «push»
+Cordless Handset| Auricular sense fil
+Low Battery| Bateria baixa
+Critical Battery| Nivell de bateria molt baix
+Ongoing Call| Trucada en procés
+Incoming Call| Trucada entrant
+Incoming Call from %s| Trucada entrant de %s
+Incoming Call from %s (%s)| Trucada entrant de %s (%s)
+Voicemail access of Mobile Phone not supported| No s'admet l'accés al correu de veu del telèfon mòbil
+Device not supported| Dispositiu no compatible
+Phone not compatible| Telèfon no compatible
+Dialing out through Mobile Line not supported| No es pot fer una trucada externa a través de la línia de mòbil
+Page Expired. Please reload the page.| La pàgina ha caducat. Carregueu la pàgina de nou.
+Application busy. Please try again later.| Aplicació ocupada. Torneu-ho a provar més tard.
+Invalid prefix length (0 to 128)| Longitud de prefix no vàlida (de 0 a 128)
+User ID required| ID d'usuari obligatori
+IPv6 Settings| Configuració de IPv6
+Basic Network Settings (IPv6)| Configuració de xarxa bàsica (IPv6)
+Basic Network Settings (IPv4)| Configuració de xarxa bàsica (IPv4)
+Ethernet Port Settings| Configuració del port Ethernet
+User ID| ID d'usuari ID
+Colon ":"| Dos punts ":"
+Login/Logout| Inicia/tanca sessió
+Logout user %s| Tanca la sessió de l'usuari %s
+Login successful| S'ha iniciat la sessió correctament
+Logout successful| S'ha tancat la sessió correctament
+Login failed| Error en iniciar la sessió
+Logout failed| Error en tancar la sessió
+IPv6| IPv6
+Enable IPv6| Activa IPv6
+Mode DHCPv6| Mode DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Autoconfiguració
+Prefix Length| Longitud de prefix
+IPv6 Address| Adreça IPv6
+Local Directory Upload| Càrrega de directori local
+Upload failed - Too many records detected in csv file| Error en carregar: s'han detectat massa registres al fitxer csv
+Upload failed - No record detected in csv file| Error en carregar: no s'ha detectat cap registre al fitxer csv
+Upload performed - %d records created| S'ha carregat: %d registres creats
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Error: Error d'actualització/degradació per microprogramari incompatible
+Directory file must be in CSV format| El fitxer de directori ha d'estar en format CSV
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Error: Error d'actualització/degradació per microprogramari incompatible
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Mapa de port incomplet
+DSP| DSP
+SIP| SIP
+Checking DECT| Comprovant DECT
+Updating DECT Firmware| Actualitzant Firmware de DECT
+Tone| To
+Interface| Interfície
+Web| Web
+7 +294| 7 +294
+Updating configuration| Actualitzant configuració
+Waiting assignment| Esperant assignació
+Checking for new firmware| Buscant firmware nou
+Firmware Check| Comprovació de firmware
+Firmware Check| Comprovació de firmware
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Firmware nou: NO DESENDOLLEU EL TELÈFON
+New Firmware: Restarting...| Firmware nou: Reiniciant...
+Downloading configuration| Descarregant configuració
+9 +397| 9 +397
+erase all calls| esborreu totes les trucades
+DELETE again to erase this item| SUPR una altra vegada per esborrar aquest element
+DELETE to erase item  or # to erase Number| SUPR per esborrar element o # per esborrar número
+DELETE again to erase all calls| SUPR una altra vegada per esborrar totes les trucades
+DELETE again to erase all items| SUPR una altra vegada per esborrar tots els elements
+Delete All| Esborreu-ho tot
+DELETE again to erase all calls| SUPR una altra vegada per esborrar totes les trucades
+DELETE again to erase all items| SUPR una altra vegada per esborrar tots els elements
+Delete All| Esborreu-ho tot
+Factory Defaults| Ajustaments predeterminats
+ Missed Call|  Trucada perduda
+ Missed Calls|  Trucades perdudes
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Push
+Push| Push
+Leave| Sortiu
+Conf| Conf
+SIP Settings| Configuració de SIP
+8 +743| 8 +743
+Cannot Save| No es pot desar
+1 item| 1 element
+ items|  elements
+item| element
+items| elements
+item| element
+items| elements
+No User| No hi ha cap usuari
+Missing User ID| Falta ID d'usuari
+DHCP failed| Ha fallat DHCP
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS preferit
+Cfg Svr Failure| Error conf. serv.
+Bad Certificate| Certificat dolent
+Bad Cert/TLS Err| Certificat dolent/ Error de TLS
+Certificates| Certificats
+Cert Validation| Validació de certificat
+All defaults| Tots els ajustaments
+6 +1070| 6 +1070
+Debug Level| Nivell de depuració
+Support Information| Informació de suport
+Get local.cfg| Obtingueu local.cfg
+Get Log Files| Obtingueu arxius de registre
+Get server.cfg| Obtingueu servidor.cfg
+Get user_local.cfg| Obtingueu usuari_local.cfg
+Get user.cfg| Obtingueu usuari.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Màscara de subxarxa no vàlida
+Invalid primary DNS address| Adreça DNS principal no vàlida
+Invalid secondary DNS address| Adreça DNS secundària no vàlida
+Invalid prefix length (0 to 128)| Longitud de prefix no vàlida (de 0 a 128)
+User ID required| ID d'usuari obligatori
+IP cannot be equal to gateway address| L'IP no pot ser igual a l'adreça de la gateway
+IP and gateway have to be on same subnet| L'IP i la gateway han de ser a la mateix subxarxa
+IP and gateway are equal| IP i gateway coincideixen
+IP gateway subnet mismatch| La subxarxa d'IP i gateway no coincideix
+IPv6 Settings| Configuració d'IPv6
+Basic Network Settings| Configuració de xarxa bàsica
+Basic Network Settings (IPv6)| Configuració de xarxa bàsica (IPv6)
+Basic Network Settings (IPv4)| Configuració de xarxa bàsica (IPv4)
+Advanced Network Settings| Configuració de xarxa avançada
+DHCP| DHCP
+NAT Port| Port NAT
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| El fitxer especificat és massa gran. Els fitxers individuals no poden tenir més d'1 MB de mida.
+The phone does not have enough space to store this file.| El telèfon no té prou espai per desar aquest fitxer.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| El fitxer especificat no compleix les especificacions de sons de trucada que demana el telèfon. Trobareu els requisits del fitxer de sons de trucada a la Guia de l'usuari.
+Directory file must be in WAV format| El fitxer de directori ha d'estar en format WAV
+Directory file must be in CSV format| El fitxer de directori ha d'estar en format CSV
+Local Directory Upload| Càrrega de directori local
+Upload failed - Too many records detected in csv file| Error en carregar: s'han detectat massa registres al fitxer csv
+Upload failed - No record detected in csv file| Error en carregar: no s'ha detectat cap registre al fitxer csv
+6 +1370| 6 +1370
+IP&MAC Addresses| Adreces IP i MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Port Mirroring| Mirroring de port
+Set Audio| Establir àudio
+Config. Server| Config. Servidor
+IP Address:| Adreça d'IP:
+7 +1463| 7 +1463
+App| App
+Watchdog| Guardià
+Speeddial/Conf| Marcatge ràpid/Conf
+Speeddial/MWI| Marcatge ràpid/MWI
+Speeddial/MWI| Marcatge ràpid/MWI
+Call is on Hold| La trucada és en espera
+No subscription| No hi ha cap subscripció
+802.1x Failed| 802.1x ha fallat
+6 +1473| 6 +1473
+Failed to config Line Manager| No s'ha pogut configurar el gestor de línia
+Line in use| Línia utilitzada
+Get Crash Log| Obtingueu el registre de bloquejos
+Logging Issue| Problema de registre
+Time Unavailable| Hora no disponible
+Packetization Interval| Interval de paquetització
+Basic| Bàsic
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmània
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Personalitzat
+IN| ENTRADA
+OUT| SORTIDA
+Filter| Filtre
+Filtering| Filtrant
+Opt Status| Estat opc.
+Executives| Executius
+Forward Filtering| Filtre de desviament
+Divert| Desviament
+Divert to Number| Desvia a número
+IN| ENTRADA
+OUT| SORTIDA
+Filter| Filtre
+Filtering| Filtrant
+Opt Status| Estat opc.
+Executives| Executius
+Forward Filtering| Filtre de desviament
+Divert| Desviament
+Divert to Number| Desvia a número
+Press a contact button to view contact info.| Prem un botó de contacte per veure la informació del contacte.
+No info available. Please press a contact button.| No hi ha informació disponible. Premeu un botó de contacte.
+ Enter Administrator Password|  Introduïu la contrasenya de l'administrador
+6 +1749| 6 +1749
+Level 4| Nivell 4
+Level 5| Nivell 5
+Dot "."| Punt "."
+Colon ":"| Coma ":"
+(Min: %d  Max: %d)| (Mín.: %d Màx.: %d)
+Line: %d| Línia: %d
+Line %d: %s| Línia %d: %s
+6 +1780| 6 +1780
+Please enter a number| Introduïu un número
+Please enter a name| Introduïu un nom
+Login| Inicieu la sessió
+Log Issue| Problema de registre
+Log Out| Sortiu de la sessió
+Avail| Habilitar
+Unavail| Deshabilitar
+14 +1852| 14 +1852
+Show Picture| Mostra imatge
+Mode %d| Mode %d
+Screen Saver Timer| Temporitzador d'estalvi de pantalla
+Enabled also in call| Activat també durant trucada
+Enabled also in call| Activat també durant trucada
+Invalid Subscription Time| Temps de subscripció no vàlid
+Speed Dial 8| Marcatge ràpid 8
+Request Failed| La sol·licitud ha fallat
+Request timed out| S'ha esgotat el temps de la sol·licitud
+Too many answers - Refine your search| Massa respostes, limiteu la cerca
+New Contact| Contacte nou
+Edit Details| Edita els detalls
+Edit Details| Edita els detalls
+Failed to retrieve contact details| No s'han pogut recuperar els detalls del contacte
+No Mobile phone connected| No s'ha connectat cap telèfon mòbil
+Only one Handset can be paired to the phone| Només es pot enllaçar un auricular amb el telèfon
+7 +2039| 7 +2039
+Volume| Volum
+DTMF| DTMF
+Screenshot| Captura de pantalla
+All| Tots
+All| Tots
+Missed| Perdudes
+Outgoing| Sortint
+Received| Rebudes
+7 +2053| 7 +2053
+Paired Devices| Dispositius enllaçats
+Available Devices| Dispositius disponibles
+Swipe the toggle switch to the right to enable Bluetooth| Mou l'interruptor a la dreta per activar el Bluetooth
+Press "Turn on" to enable Bluetooth| Prem "Activa" per activar el Bluetooth
+Press "Turn on" to enable Bluetooth| Prem "Activa" per activar el Bluetooth
+Turn on| Activa
+Turn off| Desactiva
+Mobile : %s| Mòbil: %s
+9 +2067| 9 +2067
+Device| Dispositiu
+Rename Device| Canvia el nom del dispositiu
+No paired devices| No hi ha dispositius enllaçats
+Connection successful| Connexió correcta
+Connection failed| Error de connexió
+Disconnection successful| Desconnexió correcta
+Connection successful| Connexió correcta
+Connection failed| Error de connexió
+Disconnection successful| Desconnexió correcta
+Disconnection failed| Error de desconnexió
+Pairing failed| Error d'aparellament
+Operation failed| L'operació ha fallat
+7 +2153| 7 +2153
+%ld days ago| Fa %ld dies
+while offline| fora de línia
+Can't talk right now. I'll call you later.| Ara no puc parlar. Et trucaré més tard.
+On another call| Tinc una altra trucada
+On another call| Tinc una altra trucada
+I'll call you back| Ja et tornaré la trucada
+Call me back in 10 minutes| Truca'm en 10 minuts
+Custom...| Personalitzar...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Un usuari d'equip compartit no pot enllaçar l'altaveu, inicieu la sessió com a usuari local
+Hot desk user can not unpair handset please login as a local user| Un usuari d'equip compartit no pot cancel·lar l'enllaç de l'auricular, inicieu la sessió com a usuari local
+Hot desk user can not unpair speaker please login as a local user| Un usuari d'equip compartit no pot cancel·lar l'enllaç de l'altaveu, inicieu la sessió com a usuari local
+Push Call| Trucada «push»
+Cordless Handset| Auricular sense fil
+Push Call| Trucada «push»
+Cordless Handset| Auricular sense fil
+Low Battery| Bateria baixa
+Critical Battery| Nivell de bateria molt baix
+Ongoing Call| Trucada en procés
+5 +2188| 5 +2188
+Device not supported| Dispositiu no compatible
+Phone not compatible| Telèfon no compatible
+Dialing out through Mobile Line not supported| No es pot fer una trucada externa a través de la línia de mòbil
+IPv6| IPv6
+Enable IPv6| Habilitar IPv6
+Mode DHCPv6| Mode DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Autoconfiguració
+Prefix Length| Longitud del prefix
+IPv6 Address| Adreça IPv6
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Error: Error d'actualització/degradació per microprogramari incompatible
+Audio Diagnostics| Diagnòstic d'àudio
+Diagnostics| Diagnòstic
+Timeout (1-5 Minutes)| Temps d'espera (1-5 minuts)
+Disconnect| Desconnecta
+Capturing ...| Capturant ...
+Complete ...| Completar ...
+Collecting Logs ...| Recopilant registres...
+Collect Logs| Recopileu registres
+Please input a duration between 1 and 5 minutes| Introduïu una durada d'entre 1 i 5 minuts
+Erase| Esborreu
+Cloud Service| Servei de núvol
+Enable Cloud Service| Habilitar servei de núvol
+Cloud SIP| Núvol SIP
+Cloud Directory| Directori de núvol
+Active Config Server| Activeu servidor de configuració
+Cloud Config Server 1| Servidor de configuració del núvol 1
+Cloud Config Server 2| Servidor de configuració del núvol 2
+Cloud Staging Server| Servidor d'instal·lació del núvol
+Cloud Domain| Domini de núvol
+Replay| Reproduir
+Backward| Enrere
+Forward| Endavant
+Send To| Envieu a
+Logout| Final de sessió
+To Email| A correu electrònic
+Delete Failure| Error de supressió
+Play Failure| Error de reproducció
+Play Failure due to a system error. See your system administrator.| Error de reproducció a causa d'un error del sistema. Vegeu el vostre administrador del sistema.
+Save Failure| Error en desar
+Add Contact| Afegir contacte
+Voicemail and Recordings| Correu de veu i enregistraments
+Voicemail User Login| Inici de sessió de l'usuari del correu de veu
+Send to| Envieu a
+Cannot dial a private number| No es pot marcar un número privat
+Cannot copy a private number| No es pot copiar un número privat
+Number not available| Número no disponible
+Loading...| Carregant...
+Login| Inicieu la sessió
+Contacts| Contactes
+Private| Privat
+To| Per a
+Send| Enviar
+Voicemail has been sent.| S'ha enviat el correu de veu.
+Error in sending Voicemail. Please send it again.| Error en enviar el correu de veu. Torneu-lo a enviar.
+Voicemail has been sent to email.| S'ha enviat el correu de veu al correu electrònic.
+Error in sending to Email.| Error en enviar a correu electrònic.
+New| Nou
+Recorded| Enregistrat
+Receipt Confirmation| Confirmació de rebut
+Passcode| Clau d'accés
+Mailbox Number| Número de bústia electrònica
+Remember passcode| Recordar clau d'accés
+Passcode is incorrect. Enter a valid passcode.| La clau d'accés és incorrecta. Introduïu una clau d'accés vàlida.
+Invalid mailbox number.| Número de bústia no vàlid.
+Error - Mailbox in use| Error - S'està utilitzant la bústia de veu
+Error - maximum sessions exceeded| Error - s'ha superat el màxim de sessions
+Error - no session exists| Error - no existeix cap sessió
+Error - bad extension| Error - extensió incorrecta
+Mailbox locked for security reasons. See your system administrator.| Bústia de veu bloquejada per motius de seguretat Vegeu el vostre administrador del sistema.
+DECT Headset| Auricular DECT
+DECT Headset Version| Versió d'auricular DECT
+DECT Headset Battery| Bateria d'auricular DECT
+DECT Headset Rf Power| Potència Rf d'auricular DECT
+DECT Headset Rf Power| Potència Rf d'auricular DECT
+Very Low| Molt baixa
+Downloading font| descarregant tipus de lletra
+No calls to unpark| Cap trucadas per desaparcar
+For …| Per...
+To VM| Per a VM
+Number of Packets Sent| Número de paquets enviats
+Number of Packets Received| Número de paquets rebudes
+RTT min/avg/max| RTT min/mitj/màx
+traceroute to| traceroute a
+hops max| hops máx.
+byte max| byte máx.
+Voicemail box is full| La bústia de veu és plena
+ALL| TOT
+REMOTE| REMOT
+Local| Local
+Not allowed on this call| No permès en aquesta trucada
+ Whisper|  Xiuxiueig
+ Consult|  Consultar
+ Coach|  Entrenador
+ Barge|  Intrusió
+ Monitor|  Monitor
+ For| Per a
+ External Speaker| Altaveu extern
+ UnPark| Desaparcar
+ Call Parked| Trucada aparcada
+ UnPark Failed| Error en desaparcar
+ Rev:| Rev:
+ You must restart the phone before the new settings will take effect.| Ha Reiniciar el telèfon perquè la nova configuració tingui efecte.
+ None| Cap
+ Use LLDP-MED| Utilitzar LLDP-MED
+ LLDP neighbor| Veí de LLDP
+ Cache LLDP-MED| Cache LLDP-MED
+ Conf In Progress| Conf en curs
+  Enter Voicemail Password|  Intr. correu de veu contrasenya
+ Call Server| 
+ Do Not Ring if on a Call| Sense timbre durant trucada
+ P| P
+ To Vm| A màquina virtual
+ Pickup not permitted| Despenjar no permès
+ Pickup/unpark not permitted| Despenjar/ desaparcar no permès
+ Unpark not permitted| Desaparcar no permès
+ Silent Monitor not permitted on this call| Monitor silenciós no permès en aquesta trucada
+ Silent Coach not permitted on this call| Entrenador silenciós no permès en aquesta trucada
+ Barge In not permitted on this call| Intrusió no permesa en aquesta trucada
+ Park not permitted| Aparcar no permès
+ Park/Transfer is still in progress| Aparcar/ Transferència en curs
+ No calls to unpark| Cap trucada per desaparcar
+ No calls to park| Cap trucada per aparcar
+ No calls to pickup| Cap trucada per contestar
+ No calls to take action| Cap trucada per emprendre acció
+ My Status| El meu estat
+ Favorite| Preferit
+ Voicemail playback failed| Error en la reproducció de correu de veu
+ Voicemail skip failed| Error en ignorar el correu de veu
+ Voicemail bad address| Adreça incorrecta de correu de veu
+ Voicemail box is full for| La bústia de correu de veu està plena per
+ Not supported| No es permet
+ Service unavalilable at this time| Servei no disponible en aquest moment
+ Hold not permitted on this call| Espera no permesa en aquesta trucada
+ Action not permitted| Acció no permesa
+ Not Permitted on this call| No permès en aquesta trucada
+ Request denied or \r\nunacceptable at this time| Sol·licitud denegada o \r\inacceptable en aquest moment
+ Phone number is invalid or not properly formatted| El número de telèfon no es vàlid o no està formatejat adequadament
+ Move Message Failure| Error en moure el missatge
+ Contacts| Contactes
+ Cloud Connect| Connectar núvol
+ Service Type| Tipus de servei
+ MiCloud Connect|  MiCloud Connect
+ MiVoice Border Gateway|  MiVoice Border Gateway
+ User DID| DID de usuari
+ Domain| Domini
+ Call Back| Retrucada
+ Play| Reproduir
+ Exit| Sortir
+ Skip Back| Saltar endarrere
+ Skip Forward| Saltar endavant
+ Inbox| Safata d'entrada
+ MiCloud| MiCloud
+ Fetching Details| Detalls de recerca
+ Additional Phone| Telèfon addicional
+ Agent state| Estat d'agent
+ Availability| Disponibilitat
+ Standard| Estàndard
+ In a meeting| En una reunió
+ Out of office| Fora de l'oficina
+ Extended Absence| Absència perllongada
+ Do not disturb| No molesteu
+ On the Phone| Al telèfon
+ Assign| Assignar
+ Assign user| Assignar usuari
+ Assign user failed| Error en assignar usuari
+ Assign user to phone in progress. Please wait...| Assignar usuari al telèfon en curs. Espereu....
+ Extension or password invalid| Extensió o contrasenya no vàlida
+ Unassign| Desassignar
+ Unassign user| Desassignar usuari
+ Unassign user failed| Error en desassignar usuari
+ Unassign user?| Desassignar usuari?
+ Unassigning user...| Desassignant usuari...
+ Voicemail password| Contrasenya de correu de veu
+ Ping| Ping
+ Host Name or IP Address| Nom o adreça IP d'amfitrió
+ Please enter a valid HostName/IP Address| Introduïu un nom/ adreça IP d'amfitrió vàlida
+ Pinging %s...| Pinging %s...
+ Tracerouting...| Tracerouting...
+ Tracerouting Complete| Tracerouting complet
+ Traceroute| Traceroute
+ Page Up| Retrocedir pàgina
+ Page Down| Avançar pàgina
+ Traceroute Command| Ordre de traceroute
+ Always| Sempre
+ Never| Mai
+ Always destination| Sempre destinació
+ No answer destination| Mai destinació
+ Busy destination| Destinació ocupada
+ Simulring| Simulring
+ VPN| VPN
+ Use VPN| Utilitzeu VPN
+ VPN gateway| Gateway de VPN
+ VPN gateway port| Port de gateway de VPN
+ Tunnel IP| Túnel IP
+ VPN protocol| Protocol VPN
+ VPN debug mode| Mode de depuració de VPN
+ System| Sistema
+ Log upload| Carregar registre
+ Timeout (1-1440 Minutes)| Temps d'espera (1-1440 minuts)
+ Please input a duration between 1 and 1440 minutes| Introduïu una durada entre 1 i 1.440 minuts
+ User Settings| Configuració d'usuari
+ Diagnostic server| Servidor diagnòstic
+ Diag Server| Servidor diag.
+ Wrap up| Acabar
+ UnWrap| Desfer
+  Open|  Obrir
+ Confirm| Confirmar
+ New voicemail password| Nova contrasenya de correu de veu
+ Password entries do not match| Les contrasenya no coincideixen
+ Password change succeeded| Contrasenya canviada amb èxit
+ New password same as old password| Nova contrasenya idèntica a la vella
+  Reply| Respondre
+  ReplyAll| Respondre a tots
+  Compose| Composar
+  Call VM| Trucar a VM
+ Cannot choose your own extension| No es pot escollir la pròpia extensió
+ Save Changes?| Guardar canvis?
+ Validating number...| Validant número...
+ Invalid %s| %s erronis
+ Upgrade Required| Actualització necessària
+ Invalid DID or Password| DID o contrasenya erronis
+ Register| Registrar
+ Voice Service| Servei de veu
+ Start Over| Recomençar
+ Empty domain name| Nom de domini buit
+ Registering| Enregistrant
+ DID or password no update| Sense actualització de DID o contrasenya
+ Invalid domain name| Nom de domini erroni
+  Registration cancelled| Enregistrament anul·lat
+ Pager| Localitzador
+ Phone not registered| Telèfon no registrat
+ Enterprise| Empresa
+  Parameter Type| Tipus de paràmetre
+ Remote| Remot
+  Filter Page| Pàgina de filtre
+  Parameter Filter| Filtre de paràmetre
+  Get Parameters| Obtingueu paràmetres
+ Assigned| Assignat
+ Assigning| Assignació
+ Invalid extension| Extensió no vàlida
+ Extension or password no update| Sense actualització de extensió o contrasenya
+ Assignment cancelled| Assignació anul·lada
+ Extension already assigned| Extensió ja assignada
+  Select a call to park| Seleccionar una trucada per aparcar
+  Select a call to unpark| Seleccionar una trucada per desaparcar
+  Unpark| Desaparcar
+ Duration| Durada
+ Subject| Assumpte
+ Uploading Fail| Error en carregar
+ Diagnostic server is empty| El servidor diagnòstic és buit
+ Logs uploaded successfully| Registres carregats amb èxit
+ Urgent| Urgent
+ Return Receipt| Retornar rebut
+ Include Original| Incloure original
+ Re: Voice Message| Re: Missatge de veu
+ Fw: Voice Message| Fw: Missatge de veu
+ Phone not assigned| Telèfon no assignat
+ Whisper Page| Pàgina de xiuxiueig
+ Intercom| Intercom
+ Silent Monitor| Monitor silenciós
+ Barge In| Intrusió
+ Silent Coach| Entrenador silenciós
+ To Inbox| Per a safata d'entrada
+ Save Message?| Guardar missatge?
+ By First| Per nom
+ By Last| Per cognom
+ Dial Voicemail| Marcar correu de veu
+ Dial VM| Marcar VM
+  Invalid Phone Number|  Número de telèfon no vàlid
+ Transfer not permitted on this call| Transferència no permesa en aquesta trucada
+ Conference not permitted on this call| Conferència no permesa en aquesta trucada
+ Remote log upload in progress| Carregar registre remot en curs
+ Remote capture upload in progress| Carregar captura remota en curs
+ Standard| Estàndard
+ Ring 2| Trucada 2
+ Ring 3| Trucada 3
+ Ring 4| Trucada 4
+ Play Int| Reproduir Int
+ Play Ext| Reproduir Ext
+ Press "Upload" to upload a debug log| Prémer "carregar" per carregar un registre de depuració
+ Select a call to merge| Seleccionar una trucada per combinar
+ Add Caller:| Afegir trucada:
+ Assign user?| Assignar usuari?
+ Participants| Participants
+ Conferenced| Conferenciat
+ calls| trucades
+ held calls| trucades retingudes
+ Debug on| Depuració activada
+ Debug off| Depuració desactivada
+ Unknown Error| Error desconegut
+ Connection Error| Error de connexió
+ Application Error| Error d'aplicació
+ Number of Packets Sent:| Nombre de paquets enviats:
+ Number of Packets Received:| Nombre de paquets rebuts:
+ RTT min/avg/max| RTT min/mitj/màx
+ traceroute to| traceroute a
+ hops max| hops máx.
+ byte packets| paquets de bytes
+ Help| Ajuda
+ Call Mitel Support ?| Trucar a suport de Mitel?
+ Mitel Support| Suport de Mitel
+ Remote| 
+ OnHold| 
+Initializing Components|  Inicialitzant components
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

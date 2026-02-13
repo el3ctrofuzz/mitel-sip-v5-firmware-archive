@@ -1,0 +1,3606 @@
+简体中文
+AQUARIUS_3 prompts| 
+Net. General Info| 网络 通用信息
+Net. Persist. Data| 网络 存续数据
+Net. DHCP Info| 网络 DHCP信息
+Net. QoS| 网络 QoS
+Message Key Launch Voicemail App| 邮箱留言消息键
+AQUARIUS_4 prompts| 
+Network Persist. Data| 网络 存续数据
+Network QoS| 网络 QoS
+Message Key Launches Voicemail Application| 邮箱留言消息键
+AQUARIUS_5 prompts| 
+Network General Info| 网络 通用信息
+Network DHCP Info| 网络 DHCP信息
+480iCT prompts| 
+No handsets are currently paired| 目前没有匹配的手柄
+Cordless Handset Feature Key Configuration| 无线手柄功能键配置
+None| 无
+Attempting to pair...| 尝试配对…
+Pairing successful| 配对成功
+Pairing failed       | 配对失败
+Try again| 再次尝试
+Remove Handset:| 移除手柄
+Attempting to remove| 尝试移除
+Wait...| 等待…
+Removal successful| 移除成功
+Cordless| 无线
+Cordless Handsets| 无线手柄
+None Registered| 未注册
+Sync| 同步
+Private Line| 专线
+Sending Directory| 发送电话簿
+to Handsets| 到手机
+System Unavailable| 系统不可用
+Handset Pairing| 手机配对
+Handset Keys| 手机键
+Feature Key programming complete.| 功能键编程完成
+Two Call Support| 支持2线呼叫
+Intercom| 对讲机
+Sending Directory to Handsets| 发送电话簿到手机
+No Public Number Found| 没有找到公共号码
+480i prompts| 480i提示
+Time Format| 时间格式
+    NOT MATCH !!!| 不匹配！！！
+Erase local config?| 删除本地配置？
+Alternate Server| 备份服务器
+Contrast Level| 对比度
+TypeService SIP| 服务类型 SIP
+TypeService RTP| 服务类型 RTP
+TypeService DSCP| 服务类型 DSCP
+TypeService RTCP| 服务类型 RTCP
+Dn| 下
+Rt| 右
+Lf| 左
+Del| 删除
+System Info Upload| 系统信息上传
+Up| 上线
+Copyright| 版权
+Reset| 重置
+Phone will restart automatically after finishing.| 完成后电话将会重新启动。
+Please login| 请登录
+Incorrect password| 密码错误
+Reset Configuration?| 重置配置？
+Cfg. Svr.| 配置服务
+Enable| 启用
+List| 列表
+Move Up| 向上移动
+Move Down| 向下移动
+Firmware Loaded| 固件加载
+802.1x Authenticating| 802.1x认证
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP：等待IP地址
+Bluetooth Upgrade .. Please wait| 蓝牙升级，等待
+Contacting Redirector| 接触重定向器
+Redirecting Step 1| 重定向 步骤1
+Redirecting Step 2| 重定向 步骤2
+Redirecting Step 3| 重定向 步骤3
+Redirecting Step 4| 重定向 步骤4
+Redirecting Step 5| 重定向 步骤5
+Redirecting Step 6| 重定向 步骤6
+Auto Discovery...| 自动搜索…
+Starting in Generic SIP Mode| 开始于通用SIP模式
+Starting in AastraLink Mode| 开始于AastraLink模式
+Updating config| 更新配置
+Waiting assignment| 等待分配
+Checking for Firmware  Do not unplug phone!| 检查固件，请不要拔电话!
+New Firmware. Do not unplug phone!| 新的固件，请不要拔电话!
+New Firmware. Restarting...| 新的固件，重新启动…
+Downloading configuration| 下载配置
+Downloading Language Packs| 下载语言包
+Network| 网络
+UPnP device not found| 即插即用设备没有找到
+Port Map In Progress| 端口映射中
+Port Map Incomplete| 端口映射未完成
+DSP| DSP
+SIP| SIP
+Tone| 信号音
+Interface| 接口
+Web| 网络
+Done| 完成
+CopyToAll| 复制到所有
+Cannot use firmware.| 不能使用固件。
+No available lines| 无可用线路
+Current Password:| 当前密码:
+New Password:| 新密码:
+Re-enter Password:| 重新输入密码:
+  Password Changed| 密码已更改
+Change| 更改
+Use DHCP?| 使用DHCP？
+Advanced| 高级
+DNS| DNS
+Ringer | 振铃
+ ERROR: invalid port| 错误：无效端口
+SIP Register| SIP注册
+Register?| 注册？
+Authentication Name| 认证姓名
+Nortel NAT| Nortel NAT
+Reset phone to| 重置话机到
+factory defaults?| 默认出厂配置？
+Setting phone back to| 设置话机回退到
+Factory Defaults| 出厂默认值
+  Please enter the   | 请输入
+    administrator    | 管理员
+      password.      | 密码
+Password: | 密码:
+Quit| 退出
+More| 更多
+Timeserver Address:| 时间服务器地址：
+Network Time Disabled| 关闭网络时间
+Dialing| 拨号
+Incoming| 来电
+Calling| 主叫方
+Pause| 暂停
+Pickup| 代接
+Previous| 前一个
+Enter Time:| 输入时间:
+Message Waiting| 消息等待
+Live Dialpad| 直播拨号盘
+Live Dialpad is| 直播拨号盘
+Options List| 可选列表
+    Access denied    | 拒绝访问
+Directory is full| 电话簿已满
+30min summertime| 夏季时间30分钟
+1h    summertime| 夏季时间1小时
+No Link| 无链路
+Next| 下一个
+Retry| 重试
+Negotiation| 协商
+Live Dialpad disabled| 关闭直播拨号盘
+Link State| 链路状态
+Headset Mic Volume| 头戴式耳麦音量
+Gateway IP Address:| 网关IP地址
+Enter Date (y-m-d):| 输入日期 (y-m-d):
+Enter| 输入
+Enable| 启动
+Full 10Mbps| 10Mbps全
+Full 100Mbps| 100Mbps全
+Full 1000Mbps| 1000Mbps全
+Half 10Mbps| 10Mbps半
+Half 100Mbps| 100Mbps半
+Half 1000Mbps| 1000Mbps半
+Default| 默认
+Add New| 添加新的
+DeleteList| 删除列表
+Delete entire| 删除条目
+Directory?| 电话簿？
+Enter Number:| 输入号码:
+Network disconnected| 网络未连接
+Network connected| 网络已连接
+Entry Saved| 保存条目
+Entry Removed| 删除条目
+Private| 专用
+Public| 公共
+Delete entry?| 删除条目？
+Delete?| 删除？
+Delete number| 删除号码
+or delete all| 或者删除所有的
+entries?| 条目？
+Name is full| 名字满了
+Empty| 空
+Redial List| 重拨列表
+Details| 详细
+Copy| 复制
+Select| 选择
+Voicemail| 语音邮箱
+DeleteItem| 删除项
+Delete All| 删除所有
+Entry copied to| 条目复制到
+Entry Exists| 条目已存在
+All items erased| 所有项删除
+Sort| 排序
+Resume| 继续
+EditNum| 编辑号码
+DeleteList again to| 再次删除列表
+Delete again to| 再次删除列表
+erase this item| 清除这项
+erase all calls| 清除所有呼叫
+ new caller| 新的呼叫者
+ new callers| 新的呼叫者们
+Press 1st letter| 按第一个字母
+Handset | 手机
+ Missed Call| 未接来电
+ Missed Calls| 个未接来电
+Call Forward Mode| 呼叫转移模式
+CFWD All| 全部转移
+CFWD Busy| 遇忙转移
+CFWD NoAnswer| 无应答转移
+Call| 呼叫
+Select TFTP| 选择TFTP
+Use %c for new| %c用于新的
+Use %c to view| %c用于查看
+Download Protocol| 下载协议
+OFF| 关
+ON| 开
+Add Number| 添加号码
+Arrange| 安排
+%cmore| %c更多
+Office| 办公室
+Home| 家里
+Cell| 手机
+Pager| 传呼
+VLAN Settings| VLAN设置
+Softkeys and XML| 软功能键和XML
+Softkeys Configuration| 软功能键配置
+Bottom Keys| 底部按键
+Top Keys| 顶部按键
+Page1| 第1页
+Page2| 第2页
+Page3| 第3页
+Page4| 第4页
+Page5| 第5页
+Idle| 空闲
+Outgoing| 呼出通话
+Empty| 空
+Enter server name/IP:| 输入服务器名称/IP地址
+Enter HTTPS port:| 输入HTTPS端口
+Erase| 删除
+Proxy IP/Port| 代理IP/端口
+Registrar IP/Port| 注册IP/端口
+Erasing local config| 删除本地配置
+Proxy Port:| 代理端口
+Registrar Port:| 注册端口
+Proxy Server:| 代理服务器
+Registrar Server:| 注册服务器
+Contrast Level:| 对比度
+Erase Local Config.| 删除本地配置
+Administrator Menu| 管理员菜单
+Backlight On Time| 背光时间
+Redirect HTTP->HTTPS?| 重定向 HTTP-->HTTPS？
+Block XML HTTP POSTs?| 闭锁XML HTTP POSTs？
+HTTP->HTTPS| HTTP-->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| 客户端方法
+To unlock the phone| 到解锁话机
+No more softkeys| 没有更多的软功能键
+Ignore| 忽略
+Answer| 应答
+Configuration Server| 配置服务器
+Primary Path| 主路径
+Alternate Path| 备选路径
+Logging in| 登录
+Login Failed| 登录失败
+Enable?| 启动？
+Check Expires| 过期检查
+Check Hostnames| 节点名称检查
+Conf. Unavailable| 配置无效
+Ringing...| 振铃…
+Error Messages| 错误消息
+No Error Messages| 无错误消息
+Download Options| 下载选项
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| 更多
+A # &| A # &
+  Invalid password   | 无效密码
+Upload Sys Info| 上传系统信息
+Config is updated. Restarting...| 配置已上传。重启中…
+CFWD Filtering| 呼叫转移过滤
+Checking for Firmware| 检查固件
+for new| 更新
+9133i prompts| 
+Password Changed| 密码已更改
+Leave| 离开
+Time Format| 时间格式
+Erase local cfg?| 删除本地配置？
+TypeService SIP| 服务类型SIP
+TypeService RTP| 服务类型RTP
+TypeService DSCP| 服务类型DSCP
+TypeService RTCP| 服务类型RTCP
+Alternate Server| 备用服务器
+Contrast Level| 对比度
+Options List| 可选列表
+DELETE to erase item  or # to erase Number| 删除：条目或号码
+Upload Sys Info| 上传系统信息
+Directory Empty. Use Save to add| 电话簿空 保存后添加
+Directory Empty Use Save to add| 电话簿空 保存后添加
+  NOT MATCH !!!| 不匹配！！！
+DELETE again to erase this item| 再次删除这个条目
+System Info Upload| 系统信息上传
+Phone will restart after| 在…后电话将重启
+Copyright| 版权
+Reset| 重置
+Use DHCP?| 使用DHCP？
+Full 10Mbps| 10Mbps全
+Full 100Mbps| 100Mbps全
+Half 10Mbps| 1000Mbps全
+Half 100Mbps| 10Mbps半
+Full 1000Mbps| 100Mbps半
+Half 1000Mbps| 1000Mbps半
+Cfwd Destination| 呼叫转移目的地
+Please login| 请登录
+Incorrect password| 密码错误
+Reset Configuration?| 重置配置？
+Cfg. Svr.| 配置服务
+Net disconnected| 网络未连接
+Live Dialpad| 直播拨号盘
+Firmware Loaded| 固件已加载
+802.1x Authenticating| 802.1x认证
+LLDP| LLDP
+Initializing network| 初始化网络
+Bluetooth Upgrade| 蓝牙升级
+Contacting Redirector| 接触重定向器
+Redirecting Step 1| 重定向步骤1
+Redirecting Step 2| 重定向步骤2
+Redirecting Step 3| 重定向步骤3
+Redirecting Step 4| 重定向步骤4
+Redirecting Step 5| 重定向步骤5
+Redirecting Step 6| 重定向步骤6
+Auto Discovery| 自动搜索…
+Starting in Generic SIP Mode| 从一般SIP模式开始
+Starting in Aastra Link Mode| 从AastraLink模式开始
+Updating configuration| 更新配置
+Waiting assignment| 等待分配
+Checking for new firmware| 检查新的固件
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| 新的固件，请不要拔电话!
+New Firmware: Restarting...| 新的固件：重新启动…
+Downloading configuration| 下载配置
+Downloading Language Packs| 下载语言包
+Network| 网络
+UPnP Gateway Not Found| 即插即用网关没有找到
+UPnP Port Map In Progress| 即插即用端口映射中
+UPnP Port Map Incomplete| 即插即用端口映射未完成
+DSP| DSP
+SIP| SIP
+Tone| 信号音
+Registering with the voice network...| 注册语音网络…
+Web| Web
+Done| 已完成
+Cannot use| 不能使用
+this firmware.| 这个固件。
+All lines in use| 所有线路都在使用中…
+Current Password| 当前密码:
+New Password| 新的密码
+Enter Again| 再次输入
+Ringer volume   | 振铃音量
+DELETE again to| 再次删除
+erase all calls| 删除所有呼叫
+Caller is erased| 主叫方被删除
+Network Time| 网络时间
+Change| 改变
+Options| 选项
+Access denied| 访问失败
+Directory full| 电话簿满
+Link Active| 链路激活
+No Link| 无链路
+Live Dialpad is\nnot available.| 直播拨号盘有效/无效。
+Live Dialpad is\nON| 直播拨号盘开
+Live Dialpad is\nOFF| 直播拨号盘关
+-  confirmed   -| - 已确认-
+Contrast | 对比度
+Set| 配置
+DHCP\nON| DHCP\n开
+DHCP\nOFF| DHCP\n关
+Enable?\nYes| 启动？\n开
+Enable?\nNo| 启动？\n关
+Check Expires| 检查过期
+Check Expires?\nYes| 检查是否过期？\n是
+Check Expires?\nNo| 检查是否过期？\n否
+Check Hostnames| 检查主机名？\n是
+Check Hostnames?\nYes| 检查主机名？\n是
+Check Hostnames?\nNo| 检查主机名？\n否
+Cancel| 取消
+SIP Register\nON| SIP注册\n是
+SIP Register\nOFF| SIP注册\n否
+Nortel NAT\nEnabled| Nortel NAT\n是
+Nortel NAT\nDisabled| Nortel NAT\n否
+Next| 下一个
+Done| 已完成
+Retry| 再次尝试
+Exit| 退出
+Pickup| 代接
+Call held| 呼叫保留
+Calls held| 呼叫保留
+Country Code: | 国家代码：
+*List Countries| *列表 国家
+Enter| 输入
+Admin Password| 管理员密码
+yyyy-mm-dd | yyyy-mm-dd 
+Restart phone?| 重启话机？
+#Confirm| #确认
+RestoreDefaults?| 恢复默认值？
+Call Agent 1| 坐席1
+Call Agent 2| 坐席2
+Call Agent 3| 坐席3
+Invalid Code    | 无效代码
+E: Invalid port!| 错误：无效端口！
+Application:| 应用：
+Boot ROM:| 启动ROM
+Negotiation:| 协商
+30m summertime| 夏季时间30分钟
+1h summertime| 夏季时间1小时
+Invalid password| 无效密码
+  disconnected| 已断开
+   connected| 已连接
+    Network| 网络
+erase all items| 删除所有条目
+Enter Number>| 输入号码>
+Setting phone to| 设置话机到
+Use Save to end| 使用保存到最后
+to enter name>| 输入名字
+Saved: Directory| 已保存：电话簿
+Retrying config | 重新尝试配置
+download...     | 下载中…
+empty| 空
+No Match| 不匹配
+Save to?| 保存到？
+Saved Memory key| 保存内存键
+Removed Key| 移除键
+Key saved | 键保存
+Key removed| 键移除
+Press 1st letter| 按第一个字母
+Speaker volume  | 扬声器音量
+Handset volume  | 手柄音量
+Headset volume  | 耳机音量
+Factory Defaults| 出厂默认值
+ Missed Call| 未接来电
+ Missed Calls| 未接来电
+Cfwd State| 呼叫转移状态
+Cfwd Number| 呼叫转移号码
+Cfwd Mode| 呼叫转移模式
+CFWD All| 全部转移
+CFWD Busy| 遇忙转移
+CFWD NoAnswer| 无应答转移
+Select TFTP\nPrimary| 选择TFTP/n主
+Select TFTP\nAlternate| 选择TFTP/n备用
+DownloadProtocol| 下载协议
+VLAN Settings| VLAN设置
+Server Name/IP?| 服务器名称/IP地址？
+HTTPS Port?| HTTPS 端口？
+Client Method\nSSL 3.0| 客户端方式\nSSL 3.0
+Client Method\nTLS 1.0| 客户端方式\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP-->HTTPS\n重定向
+HTTP->HTTPS\nDo not redirect| HTTP-->HTTPS\n不重定向
+Redirect| 重定向
+Do not redirect| 不重定向
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\n不闭锁
+XML HTTP POSTs\nBlock| XML HTTP POSTs\n闭锁
+Do not block| 不闭锁
+Block| 闭锁
+Erasing config| 删除配置
+Pri TFTP Path| TFTP主路径
+Alt TFTP Path| TFTP备份路径
+Backlight Mode| 背景灯模式
+Backlight Time| 背景灯时间
+Answer| 应答
+Ignore| 忽略
+Cfwd| 转移
+Copy to All?| 复制到所有？
+Apply Changes?| 改变生效？
+Logging in| 登录
+Login Failed| 登录失败
+Conf Unavailable| 配置无效
+Error Messages| 错误消息
+No Error Messages| 无错误消息
+Delete All| 删除所有
+Download Options| 下载选项
+Config updated. Restarting...| 配置更新。重新启动…
+DELETE again to erase all calls| 再次删除并移除所有呼叫
+Firmware Check| 固件检查
+Fwd Filtering| 转移过滤
+CFWD Filtering| 转移过滤
+DELETE again to erase all items| 再次删除并移除所有条目
+Upload Sys Info| 上传系统信息
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| SID_输入_管理员_密码
+Error Msg| 错误消息
+Unlock the phone?| 解锁话机？
+ Enter Unlock Password| 输入解锁密码
+softkey| 软功能键
+Edit Number| 编辑号码
+Lock the phone| 闭锁话机
+keypad| 键盘
+Unlock| 未闭锁
+ Cust Feat| 自定义功能
+Phone is locked| 话机加锁
+Unlock the phone| 解锁话机
+GoodBye| 再见
+Pass Thru Port| 经过Thru端口
+First| 第一个
+Last| 最后一个
+Name| 名字
+Add| 添加
+Edit| 编辑
+Space| 空格
+Bksp| 回车
+caps| 小写字母
+CAPS| 大写字母
+Reject| 拒绝
+Silence| 静音
+Hold| 保留
+Transfer| 转接
+>| >
+Lines| 线路
+Settings| 配置
+Device Name| 设备名称
+Bluetooth Devices| 蓝牙设备
+Bluetooth Status:| 蓝牙状态：
+Search| 搜索
+Searching...| 搜索中…
+device(s) found.| 未发现设备。
+Press on a device to start pairing.| 按下设备开始配对。
+Enter PIN| 输入PIN码
+Add Device| 添加设备
+Active| 激活
+Are you sure?| 确认吗？
+ALL| 所有的
+Phone No:| 话机号码
+Copy to all modes| 复制到所有模式
+BUSY| 忙
+NO ANSWER| 无应答
+CFWD NO ANS:| 无应答转移
+CFWD BUSY:| 遇忙转移
+CFWD ALL:| 全部转移
+Audio| 音频
+Calibrate Screen| 校准屏幕
+Recalibrate Touchscreen?| 重新校准触摸屏？
+Softkeys| 软功能键
+Headset Mic Volume| 耳麦音量
+Headset Device| 耳麦设备
+Bluetooth| 蓝牙
+Wired| 有线
+Restart | 重启
+No Calls| 无呼叫
+Brightness Timer| 亮度定时器
+Brightness Level| 亮度级
+Add to Directory| 添加到电话簿
+Waiting for Touch Screen activity to subside ...| 等待触摸屏活动消退…
+Touch the UPPER-LEFT corner of the screen| 触摸屏幕的左上方角落
+Touch the UPPER-RIGHT corner of the screen| 触摸屏幕的右上方角落
+Touch the LOWER-RIGHT corner of the screen| 触摸屏幕的右下方角落
+Touch the LOWER-LEFT corner of the screen| 触摸屏幕的左下方角落
+Received unreliable data. You will be asked to touch the same point again| 再次触摸同样的点
+Processing ...| 处理中…
+Validating calibration data ... please wait| 验证校准数据…请等待
+Sanity Check OK. Save changes?| 检查OK。保存改变吗？
+Sanity Check Failed| 检查失败
+Retry| 重新尝试
+Quit| 退出
+Please Enter| 请输入
+Submit| 提交
+User ID:| 用户ID：
+Password:| 密码：
+Transferring| 转接中
+No. Rings| 无铃声
+Line| 线路
+Unable to Pair| 不能匹配
+Please Wait...| 请等待…
+Add new device...| 添加新的设备…
+Detected:| 检测：
+Connecting:| 连接：
+Disonnecting:| 断开：
+Connected:| 已连接
+ALL| 所有
+BUSY| 忙
+NO ANSWER| 无应答
+CFWD ALL:| 全部转移
+CFWD BUSY:| 遇忙转移
+CFWD NO ANSWER:| 无应答转移
+Copy to all modes| 复制到若有模式
+OFF| 关
+Off| 关
+Phone Number:| 话机号码
+Level 1| 等级1
+Level 2| 等级2
+Level 3| 等级3
+Level 4| 等级4
+Level 5| 等级5
+(Min: %d  Max: %d)| (最小值: %d  最大值: %d)
+ Enter Administrator Password| 输入管理员密码
+Phone will restart automatically after finishing.| 完成后电话将会重新启动。
+Conference| 会议
+Conf| 配置
+Reset Configuration?| 重置配置？
+Hide| 隐藏
+Live Dialpad| 直播拨号盘
+Live Dial| 直播拨叫
+Lock| 闭锁
+Lock the phone?| 闭锁话机？
+Directory| 电话簿
+Phone Number:| 话机号码
+Common prompts| 公共提示
+None| 无
+Disable| 关闭
+Logout failed| 退出失败
+Logout successful| 退出成功
+Login successful| 登录成功
+Logout user %s| 退出用户 %s
+Login/Logout| 登录/退出
+User ID| 用户ID
+User ID required| 需要用户ID
+Application busy. Please try again later.| 应用忙，请稍后再试。
+Page Expired. Please reload the page.| 页面过期。请重新加载页面。 
+Check Expires| 检查过期
+Check Hostnames| 检查主机名
+Use DHCP?| 使用DHCP？
+Restart Phone?| 重启话机？
+12 Hour| 12小时
+Speeddial| 速拨
+Erase local cfg?| 删除本地配置？
+Spd Dial| 速拨
+Backup Outbound Proxy Server| 备份出站代理服务器
+Backup Outbound Proxy Port| 备份出站代理端口
+Firmware Info| 固件信息
+DHSG| DHSG
+DHSG is ON| DHSG开
+DHSG is OFF| DHSG关
+Backlight On Time| 背光时间
+Use Alt TFTP| 使用备用TFTP
+Pri TFTP Path| TFTP主路径
+Alt TFTP Path| TFTP备份路径
+RestoreDefaults?| 恢复默认值？
+HTTP Init Failed| HTTP初始化失败
+Get aastra.lic| 获取aastra许可
+Get mac.lic| 获取mac许可
+Firmware not licensed for use on this phone| 未授权使用此话机的固件
+Redial List is empty| 重拨列表为空
+Callers List is empty| 主叫方列表为空
+Callers List| 主叫列表
+Redial List| 重拨列表
+Directory| 电话簿
+License Information| 许可信息
+XML Application URI:| XML应用URI
+Missing User ID| 缺少用户ID
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| 使用
+Active Features| 激活功能
+WWW MMM DD| WWW MMM DD
+DD-MMM-YY| DD-MMM-YY
+YYYY-MM-DD| YYYY-MM-DD
+DD/MM/YYYY| DD/MM/YYYY
+DD/MM/YY| DD/MM/YY
+DD-MM-YY| DD-MM-YY
+MM/DD/YY| MM/DD/YY
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM YYYY
+WWW DD MMM| WWW DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.YYYY
+24 Hour| 24小时
+XML Application Title:| XML应用标题
+License Status| 许可状态
+FTP| FTP
+to view| 查看
+Contact Name already exists| 联系人已存在
+Leave| 离开
+Contact Mismatch| 联系人不匹配
+ Call Terminated| 呼叫中止
+IP and gateway have to be on same subnet| IP地址和网关必须是相同的子网
+IP cannot be equal to gateway address| IP地址不能与网关地址一样
+Call Waiting Tone Period| 呼叫等待音周期
+OK| OK
+Directory empty| 电话簿空
+Files Sent| 文件发送
+Upload System Info| 上传系统信息
+Upload| 上传
+Call Transferred| 呼叫已转接
+Firmware Information| 固件信息
+Contact Name already exists| 联系人已存在
+Replace| 替代
+No Services| 无服务
+Merge| 合并
+Enter Name:| 输入名字：
+Call Hold Reminder| 呼叫保留提醒
+Others| 其他的
+Call Hold Reminder During Active Calls| 在激活呼叫的时候提醒呼叫保留
+Out of service| 无服务
+Reason: | 原因：
+Add blank record?| 添加空的记录？
+Audio Setting| 音频设置
+Delete Item| 删除条目
+Services| 服务
+Server| 服务
+Service Disabled| 服务禁止
+Port| 端口
+Path| 路径
+Username| 用户名
+No. Rings| 无振铃
+Use xx to view| 使用 xx查看
+User Password| 用户密码
+Time and Date| 时间和日期
+Language| 语言
+Screen Language| 屏幕语言
+Tones| 信号音
+Tone Set| 信号音设置
+Ring Tone| 铃音
+State| 状态
+State:| 状态
+User-Busy| 用户-忙
+Unconditional| 无条件的
+Time of day| 一天中的时间
+Deflection| 转移
+Follow Me| 跟随转移
+Away| 离开
+Busy| 忙
+Restart| 重启
+All On| 所有开
+All Off| 所有关
+AllAccts| 所有账户
+Conference| 会议
+Flash| 拍叉
+Dial| 拨叫
+Directory| 电话簿
+Callers| 主叫方
+Icom| 对讲机
+Icom| 对讲机
+Dir| 电话簿
+Xfer| 转移
+Conf| 会议
+SIP Settings| SIP设置
+Proxy Port| 代理端口
+Registrar Port| 注册端口
+User Name| 用户名
+Screen Name| 显示名
+Proxy Server| 代理服务器
+Registrar Server| 注册服务器
+Auth. Name| 认证名
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| Broadsoft
+Display Name| 显示名
+RTP Port Base| RTP端口
+Static NAT| 静态NAT
+NAT Settings| NAT设置
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP端口
+NAT RTP Port| NAT RTP端口
+NAT HTTPS Port| NAT HTTPS端口
+Phone Status| 话机状态
+Auto Discovery| 自动搜索…
+Trying...| 尝试…
+Remote| 远端
+Reset| 重置
+Choose Server| 选择服务器
+Select| 选择
+Select| 选择
+Ring Tone:| 铃音
+Silent| 静音
+Network Settings| 网络配置
+Clear| 清楚
+Speaker | 扬声器
+Headset | 头戴式耳机
+Speaker/Headset| 扬声器/头戴式耳机
+Headset/Speaker| 头戴式耳机/扬声器
+Audio Mode| 音频模式
+Low| 低
+Medium| 中
+High| 高
+OFF| 关
+Off| 关
+ON| 开
+DHCP Settings| DHCP配置
+DHCP User Class| DHCP用户级别
+Hostname| 主机名
+IP Address| IP地址
+Subnet Mask| 子网掩码
+Subnet Mask:| 子网掩码
+Gateway| 网关
+Primary DNS| 主DNS
+Secondary DNS| 备用DNS
+TFTP Settings| TFTP配置
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC端口 VLAN ID
+LAN Port VLAN| LAN端口VLAN
+PC Port VLAN| PC端口 VLAN
+Priority| 优先级
+VLAN Enabled\nYes| 启用VLAN\n是
+VLAN Enabled\nNo| 启用VLAN\n否
+PC Port Priority| PC端口优先级
+LAN Port VLAN ID| LAN端口VLAN ID
+UPnP| UPnP
+Use UPnP| 使用UPnP
+Select Gateway| 选择网关
+Portmap Started| 端口映射开始
+Portmap Error| 端口映射错误
+LLDP| LLDP
+LLDP packet interval| LLDP 分组间隔
+LLDP Settings| LLDP配置
+Use LLDP ELIN| 使用LLDP ELIN
+TypeService DSCP| 服务类型 DSCP
+Type of Service DSCP| DSCP服务的类型
+VLAN Priority| VLAN优先级
+Other Priority| 其它优先级
+SessionBorderCtl| 会话边界控制
+Session Border Ctrl| 会话边界控制
+Select SBC| 选择SBC
+SBC Settings| SBC配置
+Kagoor| Kagoor
+Update Interval (sec)| 更新间隔（秒）
+Backspace| 回删
+No| 否
+Yes| 是
+DHCP Download Options| DHCP下载选项
+DHCP Download Option| DHCP下载选项
+Firmware Version| 固件版本
+Restart Phone| 重启话机
+Show| 显示
+is OFF| 是关闭的
+Password| 密码
+Restarting...| 重启…
+Speed| 速度
+Manual| 人工
+Auto| 自动
+Auto| 自动
+Half| 半
+Full| 全
+Duplex| 双工
+ ERROR: | 错误：
+Invalid IP addr.| 无效IP地址
+Invalid mask| 无效子网掩码
+Range is 1-4094| 范围是1-4094
+Range is 1-4095| 范围是1-4095
+Range is 1-4095| 范围是1-4095
+Range is 0-63| 范围是0-63
+Range is 0-7| 范围是0-7
+DND| 免打扰
+DND On| 免打扰开启
+Time Server| 时间服务器
+Set Time| 设置时间
+Set Date| 设置日期
+Date Format| 日期格式
+Time Zone| 时区
+Daylight Savings| 夏令时
+Invalid Time| 无效时间
+Invalid Date| 无效日期
+Invalid IP| 无效IP地址
+ Invalid Number| 无效号码
+On| 开
+On| 开
+On| 开
+OFF| 关
+Automatic| 自动
+Conf Hold| 会议保留
+No Service| 无服务
+Mute| 静音
+Connected| 已连接
+Drop| 挂机
+Park| 驻留
+PickUp| 代接
+Redial| 重拨
+DCP| DCP
+DCP List| DCP列表
+Cancel| 取消
+Done| 已完成
+Callers List| 呼叫列表
+No changes made| 无改变
+Key is Locked| 键被锁
+Cannot Save| 不能保存
+1 item| 1项
+ items| 项
+No User| 无用户
+DHCP failed| DHCP失败
+Unknown Name| 未知名字
+Unknown Number| 未知号码
+Unknown Line| 未知线路
+Item is erased| 项被删除
+Unknown| 未知的
+NextSpace| 下一空格
+Dot "."| 点“.”
+Transfer Failed| 转接失败
+Call Forward| 呼叫转移
+Call Fwd| 呼叫转移
+All| 全部
+All| 所有的
+Any| 任何的
+NoAns| 无应答
+BusyNoAns| 遇忙及无应答
+Number:| 号码
+Mode:| 模式：
+No. Rings:| 无铃声：
+Line: | 线路：
+Contrast Level| 对比度
+ Message| 消息
+ Messages| 消息
+Loading Page...| 加载页面…
+Abort Loading...| 终止加载…
+Connect Timeout| 连接超时
+Data Timeout| 数据超时
+File Not Found| 未找到文件
+Page Load Error| 页面加载错误
+Cannot display| 不能显示
+Skip| 跳过
+Call Failed| 呼叫失败
+Primary Server| 主服务器
+Primary Server| 主服务器
+Alternate Server| 备用服务器
+Primary| 主的
+Alternate| 备用的
+Bad encrypted cfg| 损坏的加密配置
+Use TFTP| 使用TFTP
+Use FTP| 使用FTP
+Use HTTP| 使用HTTP
+Use HTTPS| 使用HTTPS
+FTP Settings| FTP配置
+FTP Server| FTP服务器
+FTP Path| FTP路径
+FTP Username| FTP用户名
+FTP Password| FTP密码
+HTTP Settings| HTTP设置
+HTTP Server| HTTP服务器
+HTTP Path| HTTP路径
+HTTP Port| HTTP端口
+HTTPS Settings| HTTPS设置
+Download Server| 下载服务器
+Download Path| 下载路径
+Download Port| 下载端口
+HTTPS Server| HTTPS服务器
+HTTPS Path| HTTPS路径
+HTTPS Port| HTTPS端口
+HTTPS Client| HTTPS客户端
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| 证书损坏
+Certificates| 证书
+Cert Validation| 证书校验
+All defaults| 所有默认值
+Config default| 默认配置
+AM| 上午
+PM| 下午
+Factory Default| 出厂默认值
+Factory Default?| 出厂默认值？
+Erase Local Cfg.| 删除本地配置
+New IP Obtained| 获取新的IP地址
+New NAT IP| 新的NAT IP
+Server IP Change| 服务器IP地址已改变
+AastraLink Menu| AastraLink菜单
+Server Options| 服务器选项
+AastraLink Info| AastraLink信息
+Server Remote IP| 服务器远端IP地址
+Server Local IP| 服务器本地IP地址
+Preferences| 属性
+Network Status| 网络状态
+MAC Address:| MAC地址
+MAC Address| MAC地址
+BT MAC Address:| BT MAC地址
+Invalid Key| 无效键
+Speed Dial Edit:| 速拨编辑：
+Press SD button| 按下速拨键
+From: | 从：
+To: | 到：
+Via: | 经过：
+Diverted: | 转移到：
+Log Off| 退出
+Customer Support| 用户支持
+Status| 状态
+Operation| 操作
+Basic Settings| 基本配置
+Advanced Settings| 高级配置
+System Information| 系统信息
+Down| 下线
+Up| 上
+n/a| 不可用
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| 属性
+Link State| 线路状态
+Negotiation| 协商
+Hardware Information| 硬件信息
+Firmware Information| 固件信息
+Firmware Release Code| 固件发布代码
+Value| 值
+Platform| 平台
+Boot Version| 启动版本
+Date/Time| 日期/时间
+DND Key Mode| 免打扰键模式
+Call Forward Key Mode| 呼叫转移键模式
+Option 160| 选项 160
+Option 159| 选项 159
+Option 66| 选项 66
+Option 43| 选项 43
+Account| 账户
+Both| 二者都
+Line| 线路
+Line 1| 线路1
+Line 2| 线路2
+Line 3| 线路3
+Line 4| 线路4
+Line 5| 线路5
+Line 6| 线路6
+Line 7| 线路7
+Line 8| 线路8
+Line 9| 线路9
+Line 10| 线路10
+Configuration Line %d| 配置线路 %d
+Basic SIP Authentication Settings| 基本SIP认证配置
+Screen Name| 显示名
+Screen Name 2| 显示名2
+Phone Number:| 话机号码：
+Phone Number| 话机号码
+Caller ID| 主叫号码
+Authentication Name| 认证名
+Password| 密码
+BLA Number| BLA号码
+Line Mode| 线路模式
+Generic| 一般
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| 基本SIP网络配置
+Outbound Proxy Server| 出站代理服务器
+Outbound Proxy Port| 出站代理端口
+Registration Period| 注册周期
+RTP Settings| RTP配置
+Autodial Settings| 自动拨号配置
+Autodial Number| 自动拨号号码
+Autodial Timeout| 自动拨号超时
+Use Global Settings| 使用全局配置
+DTMF Method| DTMF方式
+SIP INFO| SIP INFO
+BOTH| 两者都
+Save Settings| 保存配置
+Global SIP| 全局SIP
+Global SIP Settings| 全局SIP配置
+RTP Encryption| RTP加密
+SRTP Disabled| 禁用SRTP
+SRTP Preferred| SRTP优先
+SRTP Only| 仅SRTP
+Advanced SIP Settings| 高级SIP配置
+Explicit MWI Subscription| 信息等待开启
+Explicit MWI Subscription Period| 信息等待周期
+MWI for BLA account| BLA账户的信息等待
+Enabled| 启用
+Send MAC Address in REGISTER Message| 在REGISTER消息中发送MAC地址
+Send Line Number in REGISTER Message| 在REGISTER消息中发送线路号码
+Session Timer| 会话计时器
+T1 Timer| T1计时器
+T2 Timer| T2计时器
+Transaction Timer| 事务计时器
+Transport Protocol| 传输协议
+UDP and TCP| UDP和TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| 注册TLS
+Registration Failed Retry Timer| 注册失败再次尝试计时器
+Registration Timeout Retry Timer| 注册超时再次尝试计时器
+Registration Renewal Timer| 注册更新计时器
+BLF Subscription Period| BLF订阅期
+ACD Subscription Period| ACD订阅期
+BLA Subscription Period| BLA订阅期
+Blacklist Duration| 黑名单持续时间
+ Park Pickup Config| 驻留代接配置
+RTP Port| RTP端口
+Basic Codecs| 基本编码
+Force RFC2833 Out-of-Band DTMF| 带外DTMF时强制RFC2833
+Codec Preference List| 编解码性能列表
+Silence Suppression| 静音抑制
+Provisioning complete.| 配置完成。
+You must restart the phone before the new settings will take effect.| 必须重启使设置生效。
+You must restart the phone before the new settings take effect.| 必须重启使设置生效。
+ERROR: Maximum number of connections reached.| 错误： 已到最大可连接数。
+Logout Complete| 退出完成
+Your session has ended.  Please close the browser.| 你的会话已结束。请关闭浏览器。
+Session Expired| 会话过期
+Please close the browser or use the link below to log in again.| 请关闭浏览器或使用下面的链接再次登录。
+Log In| 登录
+Log Out| 退出
+Log Out| 退出
+Avail| 有效
+Avail| 有效
+Unavail| 无效
+Unavail| 无效
+Reset User Password| 重置用户密码
+Please enter the current and new passwords| 请输入当前或新的密码
+Current Password| 当前密码
+New Password| 新的密码
+Password Confirm| 确认密码
+Please Enter| 请输入
+Submit| 提交
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| 授权中…
+Authorization Failed| 授权失败
+Auth Failed| 授权失败
+Current password is incorrect.| 当前密码不正确。
+Please try again.| 请再次尝试。
+The new password fields do not match.| 新密码区域不匹配。
+The new password can not be saved.| 新密码不能被保存。
+The user password has been changed.| 用户密码已改变。
+Task and Stack Info| 任务和栈信息
+Back| 后退
+Files Available for Download| 文件可下载
+Custom| 用户
+Save As...| 保存为…
+Directory List| 电话簿列表
+Current Settings| 当前配置
+Restore To Factory Defaults| 恢复到出厂值
+Restore| 恢复
+Remove Local Configuration Settings| 移除本地配置设定
+Remove| 移除
+Restarting the hardware...| 重启硬件…
+Please return to the main page after your phone restarts.| 请在话机重启后回主菜单。
+User not authorized to make changes.| 未授权用户进行修改。
+Local configuration file has been deleted.| 本地配置文件已被删除。
+Please restart the phone for the settings to take effect.| 重启使新设置生效。
+Phone has been set to factory Defaults.| 话机已被设置成出厂值。
+Action URI| 活动的URI
+Action URI Configuration| 配置活动的URI
+Event| 事件
+StartUp| 开始
+Successful Registration| 成功注册
+Registration Event| 注册事件
+Incoming Call| 来话
+Outgoing Call| 去话
+Offhook| 摘机
+Onhook| 挂机
+Disconnected| 断开
+Poll| 控制
+Interval| 间隔
+Settings saved.| 设置已保存。
+Settings could not be saved.| 设置不能被保存。
+Firmware Update| 固件更新
+TLS Support| 支持TLS
+Manual Firmware Update| 手动更新固件
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| 输入服务器的IP地址和以下固件的名字，启动固件更新。
+Configuration Server| 配置服务器
+Configuration Server Settings| 配置服务器设置
+Server IP| 服务器IP地址
+File Name| 文件名称
+Configure File Names| 配置文件名称
+Root and Intermediate Certificates Filename| 根证书和中间证书文件名
+Local Certificate Filename| 本地证书文件名
+Private Key Filename| 专用钥匙文件名
+Trusted Certificates Filename| 信任证书文件名
+Download Firmware| 下载固件
+Firmware upgrade in progress.  Please wait.| 固件正在更新中，请等待。
+Please enter a valid filename and TFTP server IP address.| 请输入一个有效的文件名和TFTP服务器IP地址。
+Invalid TFTP server IP address| 无效的TFTP服务器IP地址
+Invalid download settings.| 无效的下载设置。
+Unable to upgrade firmware.| 不能升级固件。
+The phone is restarting...| 话机重启中…
+Firmware upgrade successful.| 固件升级成功。
+This firmware already exists on the phone.| 固件在话机上已存在。
+No upgrade is needed.| 无需升级。
+Troubleshooting| 故障排除
+Module| 模块
+Log Settings| 登录配置
+Log IP| 登录IP
+Log Port| 登录端口号
+Debug Level| 调试级别
+Support Information| 支持信息
+Get local.cfg| 获取本地配置
+Get server.cfg| 获取服务器配置
+Show Task and Stack Status| 显示任务和堆栈的状态
+Settings| 设置
+Download Protocol| 下载协议
+Auto-Resync| 自动重新同步
+Days| 日期
+Maximum Delay| 最大延迟
+Mode| 模式
+Configuration Files| 配置文件名称
+Time (24-hour)| 时间（24小时格式）
+XML Push Server List(Approved IP Addresses)| XML推送服务器列表（核准IP地址）
+Phone-side Call Forward Settings| 话机侧呼叫转移设置
+Global Settings| 全局设置
+No Answer| 无应答
+Number| 号码
+Number of Rings| 号码或振铃
+Local Line| 本地线路
+Forward Number| 转移号码
+Global| 全局
+Enable| 启动
+Network| 网络
+Must provision a valid default gateway IP if DHCP is enabled| 如果DHCP启动，必须配置一个有效的默认网关IP地址
+Invalid IP Address| 无效IP地址
+Invalid IP address| 无效IP地址
+Invalid IP addr.| 无效IP地址
+Invalid gateway address| 无效网关地址
+Invalid subnet mask| 无效子网掩码地址
+Invalid primary DNS address| 无效主DNS地址
+Invalid secondary DNS address| 无效第二DNS地址
+Basic Network Settings| 基本网络设置
+Advanced Network Settings| 高级网络设置
+DHCP| DHCP
+NAT Port| NAT端口
+Nortel NAT Traversal Enabled| 启用Nortel NAT穿越
+Nortel NAT Timer (seconds)| Nortel NAT计时器（秒）
+NTP Time Servers| NTP时间服务器
+Time Server 1| 时间服务器1
+Time Server 2| 时间服务器2
+Time Server 3| 时间服务器3
+SIP| SIP
+VLAN Enable| VLAN启动
+Non-IP Packet| 无IP分组
+SIP Priority| SIP优先级
+RTP Priority| RTP优先级
+RTCP Priority| RTCP优先级
+Preferences| 参数
+General| 通用
+Idle Display Name 1| 空闲显示名字1
+Idle Display Name 2| 空闲显示名字2
+Local Dial Plan| 本地拨号规划
+Send Dial Plan Terminator| 发送拨号规划终止符
+Digit Timeout (seconds)| 位超时（秒）
+Park Call:| 驻留呼叫
+Pick Up Parked Call:| 代接驻留呼叫
+Suppress DTMF Playback| 抑制DTMF回放
+Display DTMF Digits| 显示DTMF数字
+Call Waiting| 呼叫等待
+Call Waiting| 呼叫等待
+Play Call Waiting Tone| 播放呼叫等待音
+Stuttered Dial Tone| 断续拨号音
+Incoming Call Interrupts Dialing| 来话中断拨号
+Switch UI Focus To Ringing Line| 切换UI焦点到振铃线路
+Outgoing Intercom Settings| 去话对讲机设置
+Type| 类型
+Phone-Side| 话机侧
+Server-Side| 服务器侧
+Prefix Code| 前缀代码
+Incoming Intercom Settings| 来话对讲机设置
+Microphone Mute| 麦克风静音
+Play Warning Tone| 播放警告音
+Allow Barge In| 允许Barge
+Auto-Answer| 自动应答
+Key Mapping| 键映射
+Map Redial Key To| 映射重拨键到
+Map Conf Key To| 映射会议键到
+Ring Tones| 振铃
+Brazil| 巴西
+France| 法国
+Germany| 德国
+Italy| 意大利
+Italy2| 意大利2
+Mexico| 墨西哥
+Russia| 俄罗斯
+UK| 英国
+US| 美国
+Global Ring Tone| 全局振铃音
+Tone 1| 铃音1
+Tone 2| 铃音2
+Tone 3| 铃音3
+Tone 4| 铃音4
+Tone 5| 铃音5
+Tone 6| 铃音6
+Tone 7| 铃音7
+Tone 8| 铃音8
+Tone 9| 铃音9
+Tone 10| 铃音10
+Tone 11| 铃音11
+Tone 12| 铃音12
+Tone 13| 铃音13
+Tone 14| 铃音14
+Tone 15| 铃音15
+Priority Alerting Settings| 告警优先级设置
+Enable Priority Alerting| 启动告警优先级
+Group| 组
+External| 外部的
+Internal| 内部的
+Emergency| 紧急
+Auto call distribution| 自动话务分配
+Auto Call Distribution Settings| 自动话务分配设置
+ACD| ACD
+Community 1| 社区1
+Community 2| 社区2
+Community 3| 社区3
+Community 4| 社区4
+Normal ringing| 普通振铃
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| 直接呼叫代接设置
+Directed Call Pickup| 直接呼叫代接
+Directed Call Pickup by Prefix| 通过前缀直接呼叫代接
+Play a Ring Splash| 播放哔哔哔哔声
+Auto Available| 自动可用
+Auto Available Timer| 自动可用计数器
+Time and Date Setting| 时间和日期设置
+Time Format| 时间格式
+Date Format| 日期格式
+Programmable Keys| 可编程键
+Programmable Keys Configuration| 可编程键设置
+Hard Key| 固定键
+Key| 键
+BLF List URI:| BLF列表URI
+Speeddial/Xfer| 速拨/转移
+Do Not Disturb| 免打扰
+BLF| BLF
+BLF/Xfer| BLF/转移
+BLF/List| BLF/列表
+XML| XML
+WebApps| 网页应用
+Flash| 拍叉
+Last Call Return| 最后呼叫返回
+Sprecode| Sprecode
+Transfer| 转接
+Conference| 会议
+Save| 保存
+Delete| 删除
+Data has been transmitted to the phone successfully.| 数据成功传送到话机。
+Data cannot be posted to the phone.| 数据不能发送到话机。
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| 请保证数据不大于512字节且电话配置为从主机接收数据。
+Expansion Modules| 扩展模块
+Expansion Module 1| 扩展模块1
+Expansion Module 2| 扩展模块2
+Expansion Module 3| 扩展模块3
+Page 1| 第1页
+Page 2| 第2页
+Page 3| 第3页
+List 1| 第1行
+List 2| 第2行
+List 3| 第3行
+List 4| 第4行
+List 5| 第5行
+List 6| 第6行
+Incompatible with phone model| 和话机类型不匹配
+Backup Proxy Server| 备份代理服务器
+Backup Proxy Port| 备份代理端口
+Backup Registrar Server| 备份注册服务器
+Backup Registrar Port| 备份注册端口
+Phone is locked| 话机已锁定
+Phone Lock| 话机锁定
+Lock the phone?| 锁定话机？
+Phone is unlocked| 话机未锁定
+Password:| 密码：
+Emergency Dial Plan| 紧急拨号规划
+Account Configuration| 账户配置
+Lock| 闭锁
+Unlock| 解锁
+Unlock the phone?| 解锁话机？
+Lock or unlock the phone| 闭锁或解锁话机
+HTTPS Client Method| HTTPS客户端方式
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS服务器-重定向HTTP-->HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS服务器-闭锁XML HTTP POSTs
+Validate Certificates| 有效证书
+Check Certificate Expiration| 检查证书过期
+Check Certificate Hostnames| 检查证书主机名
+Language Settings| 语言设置
+Webpage Language| 网页语言
+Input Language| 输入语言
+Input Language| 输入语言
+Jan| 1月
+Feb| 2月
+Mar| 3月
+Apr| 4月
+May| 5月
+Jun| 6月
+Jul| 7月
+Aug| 8月
+Sep| 9月
+Oct| 10月
+Nov| 11月
+Dec| 12月
+Sun| 周日
+Mon| 周一
+Tue| 周二
+Wed| 周三
+Thu| 周四
+Fri| 周五
+Sat| 周六
+New Password Invalid.| 新密码无效。
+New password must be 10 characters or less.| 新密码必须少于10个字符。
+New password must be numeric.| 新密码必须是数字的。
+New password and confirm password do not match.| 新密码和确认密码不匹配。
+Error| 错误
+Are you sure you want to restart the phone?| 你确信要重启话机吗？
+This will restore the phone to default settings and cannot be undone.| 这将恢复话机到出厂值且不可恢复。
+This will remove the local configuration settings and cannot be undone.| 这将删除本地配置且不可恢复。
+Continue| 继续
+Error: Intercom Settings| 错误：对讲机设置
+Please enter a prefix code for server-side intercom.| 请为服务器侧对讲机输入一个前缀代码。
+Value must be between| 值必须是..间
+and| 和
+Invalid Setting:| 无效设置：
+Please select at least one state for softkey| 请为软功能键至少选择一种状态
+DSCP value| DSCP值
+is mapped to multiple priorities.| 映射到多个优先级。
+Please enter Admin name and password| 请输入管理员名字和密码
+Please enter User name and password| 请输入用户名字和密码
+Centralized Conference| 集中会议
+Conference Server URI| 集中服务器URI
+UPnP device not found| 未发现UPnP（即插即用）设备
+Ethernet| 以太网
+Ethernet Link| 以太网链路
+Ethernet & VLAN| 以太网和VLAN
+Link| 链路
+10M| 10M
+100M| 100M
+Unavailable| 无效
+Available| 有效
+Server Info| 服务器信息
+Unique ID:| 唯一ID：
+UPnP Mapping Lines| UPnP（即插即用）映射线路
+Port Failed| 端口失败
+Trying...| 尝试…
+Seize Failed| 占线失败
+Missed Call Summary Subscription| 未接呼叫摘要订阅
+Missed Call Summary Subscription Period| 未接呼叫摘要订阅周期
+AS-Feature-Event Subscription| AS功能事件订阅
+AS-Feature-Event Subscription Period| AS功能事件订阅周期
+Goodbye Key Cancels Incoming Call| 再见键取消来电
+Address Incomplete| 地址不完整
+Admin Menu| 管理员菜单
+IP&MAC Addresses| IP及MAC地址
+LAN Port| LAN端口
+PC Port| PC端口
+Set Audio| 设置音频
+Config. Server| 配置服务器
+IP Address:| IP地址
+Error Messages| 错误消息
+No Error Messages| 无错误消息
+ Errors| 错误
+ Error| 错误
+Disabled| 关闭
+LAN Port Link| LAN端口链路
+PC Port Link| PC端口链路
+RTP| RTP
+RTCP| RTCP
+Phone| 话机
+Headset Mic Vol| 头戴耳机麦克风音量
+TypeService SIP| 服务类型SIP
+TypeService RTP| 服务类型RTP
+TypeService RTCP| 服务类型RTCP
+Authentic. Name| 认证名
+XML Beep Support| XML 哔哔声支持
+Status Scroll Delay (seconds)| 状态滚动延迟（延迟）
+Backlight| 背景灯
+Backlight| 背景灯
+Display| 显示
+Speed Dial Edit| 速拨编辑
+second| 秒
+seconds| 秒
+Label| 标签
+Message Waiting Indicator Line| 信息等待指示线路
+Keypad Speed Dial| 速拨键盘
+Digit| 数字
+Whitelist Proxy| 白名单代理
+XML SIP Notify| XML SIP通知
+Custom Feature| 用户功能
+User ID:| 用户 ID
+Local SIP UDP/TCP Port| 本地SIP UDP/TCP端口
+Local SIP TLS Port| 本地SIP TLS端口
+802.1x Support| 支持802.1x
+EAP Type| EAP类型
+EAP-MD5| MD5-EAP
+EAP-TLS| TLS-EAP
+Identity| 身份
+MD5 Password| MD5 密码
+PC Port PassThru Enable/Disable| PC端口允许/禁止
+EAP-TLS Settings| EAP-TLS设置
+EAP-MD5 Settings| EAP-MD5设置
+Enable PassThru Port| 允许同行端口
+PC Port Enabled\nYes| PC端口开启\n是
+PC Port Disabled\nNo| PC端口关闭\n否
+802.1x Settings| 802.1x设置
+802.1x Mode| 802.1x模式
+EAP-MD5 Settings| EAP-MD5设置
+EAP-TLS Settings| EAP-TLS设置
+STUN Server| STUN服务器
+STUN Port| STUN端口
+TURN Server| TURN服务器
+TURN Port| TURN端口
+TURN User ID| TURN用户ID
+TURN Password| TURN密码
+Paging| 寻呼
+Streaming| 流
+Group Paging RTP Settings| 群组寻呼RTP设置
+Paging Listen Addresses| 寻呼监听地址
+Rport (RFC 3581)| 远程端口（RFC3581）
+SIP Account| SIP账户
+Backup Registrar Used?| 使用备份注册？
+Unregistered| 未注册
+Registered| 已注册
+SIP Status| SIP状态
+Server Error| 服务器错误
+Swap| 交换
+LLDP\nEnabled| LLDP\n打开
+LLDP\nDisabled| LLDP\n关闭
+LLDP Support| 支持LLDP
+Preferred line| 线路优先
+Preferred line Timeout (seconds)| 线路优先超时（秒）
+Invalid URI| 无效的URI
+WebApps| 网页应用
+Watchdog| 看门狗
+Speeddial/Conf| 速拨/会议
+Call is on Hold| 呼叫保留中
+No subscription| 无订阅
+MDot1xFailedStartup| MDot1xFailedStartup
+802.1x Startup Failed| 802.1x启动失败
+LLDP Startup Failed| LLDP启动失败
+Failed to config Line Manager| 配置线路管理失败
+Line in use| 线路正在使用中
+Get Crash Log| 获取崩溃日志
+Time Unavailable| 时间无效
+Packetization Interval| 分组间隔
+Basic| 基本的
+Note: Basic Codecs Include| 注意：包含基本编解码
+Default| 默认
+Not Configured| 没配置
+America| 美国
+Asia| 亚洲
+Atlantic| 大西洋
+Pacific| 太平洋
+Australia| 澳大利亚
+Europe| 欧洲
+Malaysia| 马来西亚
+Invalid Setting| 无效设置
+Must not be empty| 不能为空
+Must be a valid number| 必须是有效数字
+Must be a nonzero number| 必须是非0数字
+Not in range| 不在范围内
+Invalid Hostname| 无效主机名
+802.1x Failed| 802.1x失败
+Admin Password:| 管理员密码
+Voicemail| 语音邮箱
+Voicemail| 语音邮箱
+HTTPS Failed| HTTPS失败
+LLDP Failed| LLDP失败
+TR69 connect Err| TR69连接错误
+Downloading Language Packs| 下载语言包
+Please Wait...| 请等待…
+to edit| 去编辑
+Cfg Svr Failure| 配置服务器失败
+Lines| 线路
+LDAP Directory| LDAP电话簿
+Ldap Directory| LDAP电话簿
+Item| 项
+item| 项
+Certificate Revoked| 吊销证书
+Certificate Unknown| 证书未知
+Delete entire| 完全删除
+LDAP Search Filter| LDAP搜索过滤
+Ldap Search Filter| LDAP搜索过滤
+LDAP Server| LDAP服务器
+Ldap Server| ldap服务器
+Certificate Expired| 证书过期
+Unsupported Certificate| 不支持的证书
+No Certificate| 无证书
+Options List| 可选列表
+Directory?| 电话簿？
+Work| 工作
+No available lines| 无效线路
+Search| 搜索
+Ldap Base DN| LDAP基本DN
+items| 项
+Spddial| 速拨
+Ldap Number Attributes| LDAP号码属性
+Ldap Max Hits| LDAP最大点击
+Ldap Settings| LDAP配置
+Ldap Name Attributes| LDAP名字属性
+Timezone zoneAmerica| 时区 美国地区
+AG-Antigua| AG-安提瓜
+AI-Anguilla| AI-安圭拉岛
+AN-Curacao| AN-库拉索
+AR-Buenos Aires| AR-布宜诺斯艾利斯
+AR-San Luis| AR-圣路易斯
+AW-Aruba| AW-阿鲁巴
+BB-Barbados| BB-巴巴多斯
+BO-La Paz| BO-拉巴斯
+BR-Araguaina| BR-阿拉瓜伊纳
+BR-Belem| BR-贝伦
+BR-Boa Vista| BR-博阿维斯塔岛
+BR-Cuiaba| BR-库亚巴
+BR-Eirunepe| BR-艾伦普
+BR-Fortaleza| BR-福塔莱萨
+BR-Maceio| BR-马赛约 
+BR-Manaus| BR-马瑙斯
+BR-Noronha| BR-诺隆尼亚
+BR-Porto Velho| BR-波多韦柳
+BR-Recife| BR-累西腓
+BR-Rio Branco| BR-里奥布兰科
+BR-Sao Paulo| BR-圣保罗
+BS-Nassau| BS-拿骚
+BZ-Belize| BZ-伯利兹
+CA-Atlantic| CA-大西洋
+CA-Central| CA-中心的
+CA-Eastern| CA-东方的
+CA-Mountain| CA-山脉
+CA-Newfoundland| CA-纽芬兰岛
+CA-Pacific| CA-太平洋
+CA-Saskatchewan| CA-萨斯喀彻温
+CA-Yukon| CA-育空河
+CL-Easter| CL-复活节
+CL-Santiago| CL-圣地亚哥
+CO-Bogota| CO-波哥大
+CR-Costa Rica| CR-哥斯达黎加
+CU-Havana| CU-哈瓦那
+DM-Dominica| DM-多米尼加
+DO-Santo Domingo| DO-圣多明各
+GD-Grenada| GD-格林纳达
+GF-Cayenne| GF-卡宴
+GP-Guadeloupe| GP-瓜德罗普
+GT-Guatemala| GT-危地马拉
+GY-Guyana| GY-圭亚那
+HN-Tegucigalpa| HN-特古西加尔巴
+HT-Port-au-Prince| HT-太子港
+JM-Jamaica| JM-牙买加
+KY-Cayman| KY-开曼
+LC-St Lucia| LC-圣露西亚
+MQ-Martinique| MQ-马提尼克
+MS-Montserrat| MS-蒙特塞拉特
+MX-Cancun| MX-坎昆
+MX-Chihuahua| MX-奇瓦瓦
+MX-Hermosillo| MX-埃尔莫西洛
+MX-Mazatlan| MX-马萨特兰
+MX-Merida| MX-美利达
+MX-Mexico City| MX-墨西哥城
+MX-Monterrey| MX-蒙特雷
+MX-Tijuana| MX-蒂华纳
+NI-Managua| NI-马那瓜
+PA-Panama| PA-巴拿马
+PE-Lima| PE-利马
+PR-Puerto Rico| PR-波多黎各
+PY-Asuncion| PY-亚松森
+SR-Paramaribo| SR-帕拉马里博 
+SV-El Salvador| SV-萨尔瓦多
+TT-Port of Spain| TT-西班牙港
+US-Alaska| US-阿拉斯加
+US-Aleutian| US-阿留申语
+US-Central| US-中心的
+US-Eastern| US-东方的
+US-Hawaii| US-夏威夷
+US-Mountain| US-山脉
+US-Pacific| US-太平洋
+UY-Montevideo| UY-蒙得维的亚
+VE-Caracas| VE-加拉加斯
+Timezone zoneAsia| 时区 亚洲地区
+AE-Dubai| AE-迪拜
+AZ-Baku| AZ-巴库
+CN-Beijing| CN-北京
+CY-Nicosia| CY-尼科西亚
+GE-Tbilisi| GE-第比利斯
+HK-Hong Kong| HK-香港
+JP-Tokyo| JP-东京
+MU-Mauritius| MU-毛里求斯
+OM-Muscat| OM-马斯喀特
+RU-Anadyr| RU-阿纳德尔
+RU-Irkutsk| RU-伊尔库茨克
+RU-Kamchatka| RU-堪察加半岛
+RU-Krasnoyarsk| RU-克拉斯诺亚尔斯克
+RU-Magadan| RU-马加丹
+RU-Novosibirsk| RU-新西伯利亚
+RU-Omsk| RU-鄂木斯克
+RU-Sakhalin| RU-库页岛
+RU-Vladivostok| RU-海参崴
+RU-Yakutsk| RU-雅库茨克
+RU-Yekaterinburg| RU-叶卡捷琳堡
+SA-Saudi Arabia| SA-沙特阿拉伯
+SG-Singapore| SG-新加坡
+TW-Taipei| TW-台北
+Timezone zoneAtlantic| 时区 大西洋地区
+BM-Bermuda| BM-百慕大群岛
+ES-Canary| ES-金丝雀
+FK-Stanley| FK-斯坦利
+FO-Faeroe| FO-法罗
+GS-South Georgia| GS-南乔治亚
+IS-Reykjavik| IS-雷克雅未克
+PT-Azores| PT-亚速尔群岛
+PT-Madeira| PT-马德拉
+Timezone zoneAustralia| 时区 澳大利亚地区
+AU-Adelaide| AU-阿德莱德
+AU-Brisbane| AU-布里斯班
+AU-Broken Hill| AU-布罗肯希尔
+AU-Darwin| AU-达尔文
+AU-Lindeman| AU-林德曼
+AU-Lord Howe| AU-贺维勋爵
+AU-Melbourne| AU-墨尔本
+AU-Perth| AU-珀斯
+AU-Sydney| AU-悉尼
+AU-Tasmania| AU-塔斯马尼亚
+Timezone zoneEurope| 时区 欧洲地区
+AD-Andorra| AD-安道尔
+AL-Tirane| AL-地拉那
+AT-Vienna| AT-维也纳
+BA-Sarajevo| BA-萨拉热窝
+BE-Brussels| BE-布鲁塞尔
+BG-Sofia| BG-索非亚
+BY-Minsk| BY-明斯克
+CH-Zurich| CH-苏黎世
+CZ-Prague| CZ-布拉格
+DE-Berlin| DE-柏林
+DK-Copenhagen| DK-哥本哈根
+EE-Tallinn| EE-塔林
+ES-Madrid| ES-马德里
+FI-Helsinki| FI-赫尔辛基
+FR-Paris| FR-巴黎
+GB-Belfast| GB-贝尔法斯特
+GB-London| GB-伦敦
+GI-Gibraltar| GI-直布罗陀
+GR-Athens| GR-雅典
+HR-Zagreb| HR-萨格勒布
+HU-Budapest| HU-布达佩斯
+IE-Dublin| IE-都柏林
+IT-Rome| IT-罗马
+LI-Vaduz| LI-瓦杜兹
+LT-Vilnius| LT-维尔纽斯
+LU-Luxembourg| LU-卢森堡
+LV-Riga| LV-里加
+MC-Monaco| MC-摩纳哥
+MD-Chisinau| MD-基希讷乌
+MK-Skopje| MK-斯科普里
+MT-Malta| MT-马耳他
+NL-Amsterdam| NL-阿姆斯特丹
+NO-Oslo| NO-奥斯陆
+PL-Warsaw| PL-华沙
+PT-Lisbon| PT-里斯本
+RO-Bucharest| RO-布加勒斯特
+RU-Kaliningrad| RU-加里宁格勒
+RU-Moscow| RU-莫斯科
+RU-Samara| RU-萨马拉
+SE-Stockholm| SE-斯德哥尔摩
+SI-Ljubljana| SI-卢布尔雅那
+SK-Bratislava| SK-布拉迪斯拉发
+SM-San Marino| SM-圣马利诺
+TR-Istanbul| TR-伊斯坦布尔
+UA-Kiev| UA-基辅
+VA-Vatican| VA-梵蒂冈
+YU-Belgrade| YU-贝尔格莱德
+Timezone zonePacific| 时区 太平洋地区
+AS-Pago Pago| AS-帕果帕果
+CK-Rarotonga| CK-拉罗汤加岛
+FJ-Fiji| FJ-斐济
+GU-Guam| GU-关岛
+NR-Nauru| NR-瑙鲁
+NU-Niue| NU-纽埃
+NZ-Auckland| NZ-奥克兰
+NZ-Chatham| NZ-查塔姆
+Timezone zoneOthers| 时区 其它地区
+DP-Dhcp| DP-Dhcp
+Live Dialpad| 直播拨号盘
+1h    summertime| 夏季时间1小时
+Link Down| 链路中断
+Slovakia| 斯洛伐克
+Cfg. Svr.| 配置服务器
+Custom| 用户
+HPQ Enable| HPQ启用
+Checking For Firmware| 检查固件
+Firmware Check| 固件检查
+Speeddial/MWI| 速拨/留言等待指示
+Handset| 手柄
+WBand RX Filters| W波段 RX 滤波器
+HS Setting1| HS设置1
+HS Setting2| HS设置2
+HS Setting3| HS设置3
+HS Setting4| HS设置4
+Spkr Setting1| 扬声器设置1
+Spkr Setting2| 扬声器设置2
+Spkr Setting3| 扬声器设置3
+Spkr Setting4| 扬声器设置4
+Hold Failed| 保留失败
+Can not save record without number| 无法保存无编号的记录
+Feature Name| 功能名
+Source| 源
+License File| 许可文件
+SW Version Restrictions| SW版本限制
+Unlimited| 无限
+Expiration| 过期
+Upgrade| 升级
+License Server| 许可服务器
+License Info| 许可信息
+License PBX| PBX许可
+Voice Recording| 录音
+BLF List Subscription Period| BLF列表订阅周期
+Conf Failed| 配置失败
+Push| 推送
+Forward Filtering| 发送过滤
+OUT| 外
+Opt Status| 可选状态
+Filter| 过滤
+Filtering| 过滤
+Executives| 经理
+IN| 内
+Divert| 转移
+Divert to Number| 转移到号码
+ Enter Unlock Password| 输入解锁密码
+ Enter Administrator Password| 输入管理员密码
+Today| 今天
+Yesterday| 昨天
+Two Days Ago| 两天前
+Three Days Ago| 三天前
+Four Days Ago| 四天前
+Five Days Ago| 五天前
+Six Days Ago| 六天前
+Last Week| 上周
+Two Weeks Ago| 两周前
+Three Weeks Ago| 三周前
+Last Month| 上个月
+Older| 旧的
+Monday| 周一
+Tuesday| 周二
+Wednesday| 周三
+Thursday| 周四
+Friday| 周五
+Saturday| 周六
+Sunday| 周日
+Upload Sys Info| 上传系统信息
+Cfwd State| 呼叫转移状态
+Cfwd Number| 呼叫转移号码
+Cfwd Mode| 呼叫转移模式
+Set| 设置
+#Confirm| #确认
+Call held| 呼叫保留
+Calls held| 呼叫保留
+Apply Changes?| 改变生效？
+Dialpad| 拨号盘
+Edit| 编辑
+Quit| 退出
+Directory Empty| 电话簿空
+Saved Memory key| 保存记忆键
+Speaker volume  | 扬声器音量
+Handset volume  | 手柄音量
+Headset volume  | 头戴式耳机音量
+Ringer volume   | 振铃音量
+Enter Number:| 输入号码
+Full 10Mbps| 10Mbps全 
+Full 100Mbps| 100Mbps全
+Full 1000Mbps| 1000Mbps全
+Half 10Mbps| 10Mbps半
+Half 100Mbps| 100Mbps半
+Half 1000Mbps| 1000Mbps半
+Delete All| 删除所有
+Erase Local Configuration?| 删除本地配置？
+Audio| 音频
+Application| 应用
+NAT| NAT
+DSCP| DSCP
+User| 用户
+802.1x| 802.1x
+Enter Date (m/d/y):| 输入日期（月/日/年）
+Brightness Timer| 亮度计数器
+Brightness Level| 亮度级别
+Level 1| 级别1
+Level 2| 级别2
+Level 3| 级别3
+Level 4| 级别4
+Level 5| 级别5
+(Min: %d  Max: %d)| (最小: %d 最大: %d)
+Line: %d| 线路: %d
+Line %d: %s| 线路 %d: %s
+Invalid %s (%d to %d)| 无效 %s (%d to %d)
+Sys Info| 系统信息
+keypad| 拨号盘
+Login| 登录
+Seized| 占线
+Active| 激活
+Held| 保留
+Ringing| 振铃
+Park Failed| 驻留失败
+Canada| 加拿大
+Press a contact button on the left to view contact information.| 在左侧按下联系人键查看联系人信息。
+Press a contact button to view contact info.| 按下联系人键查看联系人信息。
+No info available. Please press a contact button.| 无可用信息。请按下联系人键。
+Set Date and Time| 设置日期和时间
+Ethernet Ports| 以太网端口
+Call Server| 呼叫服务器
+Use Network Time| 使用网络时间
+Speed Dial Key %d| 速拨键%d
+%d/%d records| %d/%d 记录
+%d days stored| %d 日期被保存
+1 day stored| 1天存储
+Upload System Info Files?| 上传系统信息文件？
+Entries Saved| 条目存储
+Storage| 存储
+IP and gateway are equal| IP和网关相同
+IP gateway subnet mismatch| IP和网关子网掩码不匹配
+Bridge active| 桥激活
+Please enter a number| 请输入一个号码
+Deleted| 已删除
+No Matches Found| 无匹配项
+Name| 名字
+Contact already exists| 联系人已存在
+Left Softkey %d| 左边软功能键 %d
+Bottom Softkey %d| 下部软功能键 %d
+New Call| 新的呼叫
+All Accounts| 所有账户
+Exp. Mod. %d Key %d| Exp. Mod. %d Key %d
+Add Num| 添加号码
+Diverted to: | 转移到：
+No lines are configured| 无线路配置
+"Dot ""."""| 点“.”
+Mode %d| 模式 %d
+Top Softkey %d| 上方软功能键 %d
+Home Screen Mode| 主屏幕模式
+Screen Saver Timer| 屏幕保护计数器
+Home Screen| 主屏幕
+Cannot add new number. Limit reached.| 不能添加新号码。已达上限。
+Key is already programmed for functionality in a non-idle state| 键已被编程为非空闲状态下的功能。
+Please enter a name| 请输入一个名字
+Top Softkeys| 上方软功能键
+Left Softkeys| 左侧软功能键
+Bottom Softkeys| 下方软功能键
+Brightness| 亮度
+Speed Dial 8| 速拨 8
+A filename-related error occurred. Rename the specified file and try again.| 相关文件名发生错误，重命名这个文件并再次尝试
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| 相关HTTP发生错误。请再次尝试（如果你以前曾收到过这个错误，也可以重新启动话机）
+A system-related error occurred. Please restart the phone and try again.| 相关系统发生错误。请重新启动话机并再次尝试。
+Xsi Enterprise Directory| Xsi 企业电话簿
+Xsi Personal Contacts| Xsi 个人通讯录
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| 商务传真
+By First Name| 名
+By Last Name| 姓
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| 不能添加新的记录，已达上限。
+City| 城市
+Corporate| 公司
+Country| 国家
+Custom Ringtones| 用户铃音
+Delete %s from %s?| 删除 %s 从 %s 中？
+Delete all entries in %s?| 从%s中删除所有条目？
+Directory import failed| 电话簿导入错误
+Directory loading| 电话簿加载
+Directory not available at this time| 此时电话簿无效
+Display Name Order| 显示名字顺序
+Name Order| 名字顺序
+Edit Details| 编辑详细
+Email| 电子邮件
+Email 1| 电子邮件1
+Email 2| 电子邮件2
+Email 3| 电子邮件3
+Enabled also in call| 在呼叫中启动
+Enterprise Directory| 企业电话簿
+Exchange Contacts| 交换机联系人
+Explicit| 明确的
+External Sources| 外部源
+Failed to retrieve contact details| 未能检索联系人详细信息
+First Last| 第一个 最后一个
+First name| 名
+Home 1| 家庭1
+Home 2| 家庭2
+Home Address| 家庭住址
+Implicit| 隐性的
+Invalid Subscription Time| 无效订阅时间
+Job Title| 职位
+LDAP| LDAP
+Last%c First| 名%c姓
+Last First| 名 姓
+Last Name| 姓
+Local| 本地电话簿
+Microsoft Exchange| Microsoft Exchange
+Mobile| 手机
+New Contact| 新的联系人
+Numbers| 号码
+Organization| 组织
+Other| 其他
+Personal| 个人
+Personal Contacts| 个人通信录
+Province/State| 省/州
+Request Failed| 请求失败
+Sorting Preferences| 排序偏好
+Sorting| 排序
+Street Address| 街道地址
+Test| 测试
+Test Connection| 测试连接
+The phone does not have enough space to store this file.| 电话没有足够的空间来存储这个文件。
+The specified file is too large. Each file cannot exceed 1 MB in size.| 指定文件过大。每个文件大小不能超过1MB。
+UA-Profile-Event Subscription| UA-Profile-Event订阅
+UA-Profile-Event Subscription Period| UA-Profile-Event订阅周期
+Undefined| 未定义
+Work 1| 工作1
+Work 2| 工作2
+Work Address| 工作地址
+Zip/Postal Code| 邮政编码
+Credentials| 资格证书
+Enable/Disable| 启动/关闭
+Labels| 标签
+Ringtone files must be in WAV format| 铃声文件必须是WAV格式
+Copy| 复制
+Add New| 添加新的
+ALU SCA| ALU SCA
+Accessory Info| 附件信息
+Add| 添加
+Alerting| 告警优先级设置
+Delete selected item or delete all items?| 删除选择的项目或删除所有项目？
+DialingIn| 拨入
+DialingOut| 拨出
+Disconnecting| 断开
+Enter First Name| 输入名
+Enter Last Name| 输入姓
+Enter Number| 输入号码
+Enter Password>| 输入密码>
+Enter Username>| 输入用户名>
+Enterprise Dir.| 企业通讯录
+Exp. Mod. 1 Version| Exp. Mod. 1 版本
+Exp. Mod. 2 Version| Exp. Mod. 2 版本
+Exp. Mod. 3 Version| Exp. Mod. 3 版本
+Get user.cfg| 获取用户配置
+Get user_local.cfg| 获取用户本地配置
+Keyboard Version| 键盘版本
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| 保留
+Pending| 挂起
+Phone Info| 话机信息
+Please Login| 请登录
+Please select a file to upload| 请选择要上传的文件
+Saved| 保存
+Unmute| 取消静音
+Line 11| 线路11
+Line 12| 线路12
+Line 13| 线路13
+Line 14| 线路14
+Line 15| 线路15
+Line 16| 线路16
+Line 17| 线路17
+Line 18| 线路18
+Line 19| 线路19
+Line 20| 线路20
+Line 21| 线路21
+Line 22| 线路22
+Line 23| 线路23
+Line 24| 线路24
+Line 25| 线路25
+Client Method| 客户端方式
+#Edit| #编辑
+#Copy| #复制
+Action forbidden| 禁止动作
+Action not supported| 不支持的动作
+ Additional Settings| 附件设置
+ Barge-In| 
+Congestion| 拥塞
+Discreet| 谨慎的
+Discreet Ringing| 谨慎振铃
+Executives list is empty| 管理人员名单是空的
+Extension not registered| 管理人员未注册
+Internal error| 内部错误
+Invalid Password| 无效密码
+Invalid forwarding number| 无效转移号码
+ Listen| 倾听
+ Normal| 普通的
+Phone not registered| 话机未注册
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.| 按下静音软功能键切换打开/关闭插入警告音。
+Prv| 专用的
+Pub| 公共的
+Record not found| 未找到记录
+SCAP-Bridged| SCAP桥
+SCAP-Held| SCAP保留
+ Select Barge-In Mode| 选择Barge-In模式
+ UA-Profile-Event Subscription Period| UA-Profile-Event 订阅周期
+Unique ID| 唯一ID
+ Whisper| 小声
+Missed Calls| 未接来电
+Silence| 静音
+As-Feature-Event Subscription| As-Feature-Event 订阅
+As-Feature-Event Subscription Period| As-Feature-Event 订阅周期
+Feature-Status-Exchange Subscription| 功能-状态-交换订阅
+Feature-Status-Exchange Subscription Period| 功能-状态-交换订阅周期
+Action superseded by a previous command| 通过先前的命令取代的动作
+Attendant| 话务台
+BLF Privacy| BLF隐私
+BLF Privacy Key Mode| BLF隐私键模式
+Feature not configured| 功能未被配置
+Forward Type| 转移类型
+Live Keyboard| 直播键盘
+Not assigned| 未指定
+PIN| PIN
+Pin Required| 需要PIN
+Privacy| 隐私
+Privacy On| 开启隐私
+Restart | 重新启动
+Capture| 捕捉
+Get capture file| 获取抓包文件
+Mute All| 全部静音
+No Participant| 无参与方
+Private Call| 专用呼叫
+Start| 启动
+Stop| 停止
+TLS Preferred| TLS优先
+Timeout| 超时
+Unmute All| 清除所有静音
+Speeddial/Mwi| 速拨/Mwi
+Phone will restart automatically after finishing.| 完成后电话将会重新启动。
+Idle| 空闲
+CFWD Filtering| 呼叫转移过滤
+Volume| 音量
+DTMF| DTMF
+All Accounts| 所有账户
+Outgoing| 外呼
+Call History is Empty| 呼叫历史为空
+No Outgoing Calls| 无外呼呼叫
+No Missed Calls| 无未接来电
+No Received Calls| 无已接来电
+Received| 已接来电
+Missed| 未接来电
+Screenshot| 屏幕快照
+Xsi Enterprise Common Directory| Xsi企业公共电话簿
+Enterprise Common Directory| 企业公共电话簿
+Enterprise Common Dir.| 企业公共电话簿
+Xsi Group Directory| Xsi组公共电话簿
+Group Directory| 组公共电话簿
+Xsi Group Common Directory| Xsi组公共电话簿
+Group Common Directory| 组公共电话簿
+Call Settings| 呼叫设置
+%s Call Settings| %s 呼叫设置
+Hide Number| 隐藏号码
+Xsi Password Not Configured| Xsi 密码未配置
+Xsi User Not Configured| Xsi 用户未配置
+Xsi Authentication Failure| Xsi 认证失败
+Xsi File Not Found| Xsi 文件未找到
+Xsi Invalid URI| Xsi 无效URI
+Xsi Invalid Download Configuration| Xsi 无效下载配置
+Call History| 呼叫历史
+Bluetooth| 蓝牙
+Scan| 扫描
+Timeout [1..168 h]| 超时【1..168 h】
+Paired Devices| 配对设备
+Available Devices| 有效设备
+Swipe the toggle switch to the right to enable Bluetooth| 将开关拨到右边以启用蓝牙
+Pairing| 配对
+Connecting| 连接
+Device| 设备
+No paired devices| 无配对设备
+Connection successful| 连接成功
+Connection failed| 连接失败
+Disconnection successful| 断开成功
+Disconnection failed| 断开失败
+Pairing failed| 配对失败
+Operation failed| 操作失败
+Connected| 已连接
+Retry| 重试
+Do you want to forget this device?| 你想要忘记这个设备吗？
+Close| 关闭
+Enabling Bluetooth...| 开启蓝牙…
+Disabling Bluetooth...| 关闭蓝牙…
+Connecting...| 连接…
+Disconnecting...| 断开中…
+Boot| 启动
+App| 应用
+USB disabled. Insufficient power for current configuration.| USB禁用。当前配置的电源不足。
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| 指定的文件不符合电话所要求的铃声规范。请参阅用户指南的铃声文件要求。
+%d/%d| %d/%d
+%d days| %d 天
+1 day| 1 天
+System Messages| 系统消息
+Authorization Canceled| 认证删除
+Crash Logs| 崩溃日志
+Warning - All entries in %s will also be deleted| 警告 - 在 %s 中的所有条目将被删除
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| 振铃音
+Identity| 身份
+Extension| 分机
+Address| 地址
+Server Error| 服务器错误
+Use Global Ring Tone| 使用全局振铃音
+Standard Ring Tone| 标准振铃音
+Hide Number| 隐藏号码
+Remote Office| 远端办公室
+Remote Office| 远端办公室
+Phone Number/SIP-URI| 话机号码/SIP-URI
+Simultaneous Ring Personal| 个人同时振铃
+Simultaneous Ring| 同时振铃
+Do Not Ring if on a Call| 通话中不再振铃
+Answer Confirmation Required| 需要应答确认
+Phone Num/SIP-URI| 话机号码/SIP-URI
+Alt Num/SIP-URI| 备份号码/SIP-URI
+Ring for all Incoming Calls| 所有来话的铃声
+Invalid Number or SIP-URI| 无效号码或SIP-URI
+Anywhere| 任何地方
+%s Anywhere| %s 任何地方
+Portal Number| 移动号码
+Alert Locations for Click-To-Dial| 用于点击拨号的告警区域
+Alert Locations for Group Paging| 用于组广播的告警区域
+Phone Number| 话机号码
+Description| 描述
+Alternate Number| 备用号码
+Call Control| 呼叫控制
+Diversion Inhibitor| 转移抑制
+Answer Confirmation| 应答确认
+Xsi Server Not Found| Xsi服务器未找到
+Xsi Invalid Input| Xsi无效输入
+Call Center| 呼叫中心
+Presence| 呈现
+My Status| 我的状态
+Contacts| 通信录
+Favorite| 收藏
+Available| 可用的
+Eager to Chat| 渴望聊天
+Busy| 忙
+Away| 离开
+Extended Away| 立即转接
+Offline| 离线
+Unknown| 未知
+Enter custom presence text here...| 在这里输入自定义呈现文本…
+Status| 状态
+Custom| 自定义
+Favorites| 收藏
+All Contacts| 所有联系人
+No contact in folder| 文件夹中没有联系人
+No phone number| 没有电话号码
+No contact| 没有联系人
+Contact list currently not available| 当前的联系人列表无效
+Contact| 联系人
+Contact| 联系人
+Connection to server failed| 连接到服务器失败
+Configuration error| 配置错误
+Authentication error| 认证错误
+Connection to server lost| 连接到服务器丢失
+Mobile| 移动号码
+Connect| 连接
+%s disconnected| %s 断开
+%s connected| %s 连接
+Confirm passkey is "%ld" to pair with "%s"| 和 “%s” 配对确认的钥匙是 “%ld” 
+Failed to disable Bluetooth| 关闭蓝牙失败
+Failed to enable Bluetooth| 启动蓝牙失败
+M685i: New Firmware. Do not unplug phone!| M685I：新固件。不要拔话机！
+.| .
+Static Settings| 静态设置
+Port Mirroring| 端口镜像
+Audio Feedback| 音频反馈
+Audio Path| 音频路径
+Button Beep| 按键声
+Error Beep| 错误声
+Made| 制造
+To my prime line| 到我的主线路
+To any appearance| 到任何外观
+Display Call Info| 显示呼叫信息
+Always| 通常
+Busy Internal| 内部分机忙
+Busy External| 外部电话忙
+No Answer Internal| 内部分机无应答
+No Answer External| 外部电话无应答
+Copy to All?| 复制到所有？
+Loading...| 加载…
+Password Changed| 密码已改变
+Restore Default| 恢复默认值
+Restore Default| 恢复默认值
+Enter Again| 再次输入
+Erase| 删除
+Set All| 设置所有的
+VLAN Settings| VLAN设置
+Broadsoft XSI| Broadsoft Xsi
+Advanced| 高级的
+Phonebook| 电话本
+Update| 更新
+Copyright| 版权
+Pause| 暂停
+Incorrect password| 密码错误
+Please input duration between 1 to 1440 minutes| 请输入1到1440分钟的持续时间
+Level 0| 级别0
+Static Network Settings| 静态网络设置
+Enter| 输入
+Reset Configuration?| 重置配置？
+TCP DUMP| TCP转储
+minutes| 分钟
+IP and gateway have to be on the same subnet| IP地址和网关必须是相同的子网
+Timeout (1-1440 Minutes)| 超时（1-1440分钟）
+Timeout (1-5 Minutes)| 超时（1-5分钟）
+Call Server IP Address| 呼叫服务器的IP地址
+TFTP Server IP Address| TFTP服务器的IP地址
+IPA IP Address| IPA的IP地址
+Ping| Ping
+Test POE| POE测试
+Host Name or IP Address| 主机名或IP地址
+Please enter a valid HostName/IP Address| 请输入一个主机名或IP地址
+Pinging %s...| Pinging %s...
+Add Contact| 添加联系人
+Cannot dial a private number| 不能拨叫专网号码
+Delete all contacts from %s?| 从%s中删除所有联系人？
+Search contacts| 搜索联系人
+CDP Settings| CDP设置
+Current Network Settings| 当前网络设置
+VLAN Id| VLAN ID
+DSCP Default| DSCP 默认
+DSCP Voice| DSCP 语音
+DSCP Signaling| DSCP 信令
+DSCP Other| DSCP 其它
+L2P Default| L2P 默认
+L2P Voice| L2P 语音
+L2P Signaling| L2P 信令
+L2P Other| L2P 其它
+Modify PIN| 修改PIN
+Registering...| 注册中…
+Erase PIN| 删除PIN
+Erase PIN?| 删除PIN？
+Duration| 持续
+Details| 详细
+First Name| 姓
+Home| 家庭
+People| 人们
+Contacts - Add New| 联系人 - 添加新的
+Work| 工作
+Entry copied to| 条目复制到
+Settings - Bluetooth| 设置 - 蓝牙
+Bluetooth| 蓝牙
+Screen Saver| 屏幕保护
+Dimmer Level| 调光电平
+Paired| 配对
+Press the Turn On softkey to enable Bluetooth| 按下 开 功能键打开蓝牙
+Connected successfully| 连接成功
+Directory is full| 电话簿已满
+Directory full| 电话簿已满
+Do you want to connect this device?| 你想要连接这个设备吗？
+Do you want to disconnect this device?| 你想要断开这个设置吗？
+Connect| 连接
+%s audio connected| %s 音频连接
+%s audio connection failed| %s 音频连接失败
+Pair with %s\nPairing code - %06ld| 和%s\n配对码 - %06ld配对
+Do you want to get the device's contacts?| 你想要获得这个设备的联系人吗？
+Retrieving contacts...| 检索联系人…
+Contacts retrieved successfully| 联系人检索成功
+Phonebook retrieval unavailable| 电话本检索无效
+ Failed to retrieve contacts| 检索联系人失败
+Ongoing Call| 正在通话的呼叫
+Scan| 扫描
+Stop| 停止
+Close| 关闭
+Press scan to find a device| 请扫描发现新设备
+Please Wait. Scanning for nearby devices| 请等待。扫描临近的设备
+Connect Automatically| 自动连接
+Pairing ...| 配对…
+Successfully paired| 配对成功
+Unable to pair with the device| 不能与设备配对
+Does the passkey match?| 钥匙匹配吗？
+Unpair| 不配对
+Bluetooth is currently off.| 蓝牙目前是关闭的。
+Turn Off| 关闭
+Turn On| 打开
+Sorry! Unable to turn Bluetooth on. | 抱歉！不能打开蓝牙
+Sorry! Too many devices paired.| 抱歉！太多设备配对。
+Only one Handset can be paired to a phone| 只有一个手机可以跟话机配对
+Forget| 忘记
+Unknown Caller| 未知呼叫
+Answer| 应答
+Decline| 拒绝
+Push Call| 推送呼叫
+End Call| 终止呼叫
+Caller| 主叫方
+Disconnect| 断开
+Capturing ...| 捕获…
+Speaker| 扬声器
+Headset| 头戴式耳机
+Ringer| 振铃
+Internal Ring| 内部铃音
+External Ring| 外部铃音
+Classic 1| 类别1
+Classic 2| 类别2
+Classic 3| 类别3
+Classic 4| 类别4
+Classic 5| 类别5
+Classic 6| 类别6
+Classic 7| 类别7
+Classic 8| 类别8
+Classic 9| 类别9
+Classic 10| 类别10
+Call Notification| 呼叫通知
+Config Teleworker| 配置远程分机
+Diagnostics| 诊断
+MinetDump| Minet转储
+Float Keys| 浮动键
+Network Services| 网路服务
+DHCP Trace| DHCP跟踪
+Firewall Settings| 防火墙设置
+Wi-Fi| Wi-Fi
+Port Info| 端口信息
+Phone Info| 电话信息
+Error Message| 错误消息
+Current Call Server IP Address| 当前呼叫服务器IP地址
+TFTP Server Port| TFTP服务器端口
+Primary DNS| 主DNS
+Secondary DNS| 第二DNS
+Call Server1 IP Address| 呼叫服务器1的IP地址
+Call Server2 IP Address| 呼叫服务器2的IP地址
+Call Server3 IP Address| 呼叫服务器3的IP地址
+Call Server4 IP Address| 呼叫服务器4的IP地址
+DHCP Status| DHCP状态
+T1 (Seconds)| T1（秒）
+T1 Left (Seconds)| T1 左（秒）
+T2 (Seconds)| T2（秒）
+T2 Left (Seconds)| T2 左（秒）
+LAN Port Speed| LAN端口速率
+LAN Port Duplex| LAN端口双工
+PC Port Speed| PC端口速率
+PC Port Duplex| PC端口双工
+Model| 模型
+Call Server Rev.| 呼叫服务器版本
+Main Version| 主版本
+802.1x| 802.1x
+Password| 密码
+Save to Confirm or Cancel to Revert| 保存确认或取消回复
+Hardware Rev.| 硬件版本
+Change| 更改
+Change Password| 密码更改
+Confirm Password| 确认密码
+ Blank| 空白的
+ Wrong| 错误的
+ Passwords don't match.| 密码不匹配。
+No Link| 无线路配置
+Half-Duplex| 半双工
+Full_Duplex| 全双工
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 敏迪网络公司版权所有2016.\n拥有所有版权。
+Proxy Logoff| 代理退出
+No Network| 无网络
+Contacting Server| 联系服务器
+Private| 私有的
+Miscellaneous| 其他
+Programmable Key| 可编程键
+Speed Call| 速拨呼叫
+Other Features| 其他功能
+Account Code Verified| 账户代码验证
+Acct Verified| 账户验证
+Call Forward Always| 全部呼叫转移
+Fwd Always| 全部呼叫转移
+Do Not Disturb| 免打扰
+Phone Lock| 话机锁
+Account Code Non Verified| 未经验证的帐户代码
+Acct Non-Ver| 账户未验证
+Name or Number is empty| 名字或号码为空
+Label Name| 标签名字
+Rename| 重命名
+Rename this device| 重命名这台设备
+PKM version| PKM版本
+Department| 部门
+Location| 区域
+Softphone| 软电话
+My Phone| 我的电话
+More ...| 更多…
+Restart| 重新启动
+Key is Programmed| 键被编程
+Advanced XML| 高级XML
+Too many answers - Refine your search| 太多答案-完善你的搜索
+%s Search| %s 搜索
+Searching| 搜索
+Server not configured| 服务器未没配置
+SimRing| SimRing
+Phone No/SIP-URI Not Configured| 话机 序号/SIP-URI 未配置
+ Xsi Server Update Failed| Xsi服务器更新失败
+Call Settings| 呼叫设置
+Missing Config| 丢失配置
+Deflect| 偏转
+AnswerIcom| 应答项
+In a call| 呼叫中
+Chats| 聊天
+Chat| 聊天
+Send| 发送过滤
+Delete all chat sessions?| 删除所有聊天会话？
+Delete chat session with %s?| 从%s中删除聊天会话？
+No active chat session| 没有激活的聊天会话
+Push Notifications| 推送通知
+Sound| 声音
+Bluetooth| 蓝牙
+Chat| 聊天
+%s is typing...| %s 正在打字…
+Last message received %s at %s| 在%s收到最后一条信息%s
+Last message received while offline| 离线时收到的最后一条消息
+now| 现在
+%ld secs ago| %ld 秒以前
+1 min ago| 1分钟以前
+%ld mins ago| %ld 分钟以前
+1 hour ago| 1小时以前
+%ld hours ago| %ld 小时以前
+yesterday| 昨天
+%ld days ago| %ld 天以前
+while offline| 离线时
+Can't talk right now. I'll call you later.| 现在不能说话。我稍后呼叫你。
+On another call| 正在接另一通呼叫
+I'll call you back| 我会给你回电话
+Call me back in 10 minutes| 10分钟后回我电话
+I’m not able to answer your call right now| 我现在不能接听您的电话
+On my way| 我在路上
+I’m in a meeting| 我在开会
+Custom...| 自定义…
+Message to %s| %s 的消息
+Cancel - No message sent| 取消-没有消息发送
+Chat Messages| 聊天消息
+Reject Call Message Configuration| 拒绝呼叫消息配置
+Message| 消息
+Server Failure| 服务器失败
+Use ^v to view| 使用^v查看
+Answer| 应答
+Log Issue| 日志问题
+Logging Issue| 日志问题
+Administrator access is disabled| 管理员访问关闭
+Please input a duration between 1 and 1440 minutes| 请输入1到1440分钟的持续时间
+Please input a duration between 1 and 5 minutes| 请输入1到5分钟的持续时间
+Teleworker Settings| 远程话机的设置
+Invalid TFTP Port| 无效的TFTP端口
+Cannot copy a private number| 不能复制一个私人号码
+Search Corporate| 公司内搜索
+Warning| 警告
+Configuration changes detected\nApplication must be closed| 检测到配置已改变\n应用必须关闭
+Desktop Portal URL| 桌面门户网址
+Velocity| 速度
+Skyline| 天际
+Rise| 上升
+Daybreak| 天亮
+After Hours| 下班后
+Open Road| 开路
+Pronto| 急速的
+Voyage| 航程
+Bloom| 开花
+Move| 移动号码
+EAP-Type| EAP类型
+Phone Numbers| 电话号码
+ Max Exceeded| 已超过最大值
+Press "%s" key to search corporate contacts| 按 “%s” 搜索企业通信录
+Too many answers\nRefine your search| 太多答案-完善你的搜索
+Not available\nConfiguration error| 无效/未配置错误
+DHCP Trace information is not available| DHCP 跟踪信息无效
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 检测到IP地址冲突
+Do you want to save this IP?| 你想保存这个IP地址吗？
+Max allowed Number length is 26| 允许的最大值是26
+Enabling DHSG Headset...| 启动DHSG头戴式耳机…
+Disabling DHSG Headset...| 关闭DHSG头戴式耳机…
+Enter name| 输入名字
+Lastname Firstname| 名 姓
+Call History currently not available| 当前呼叫历史无效
+Audio Diagnostics| 音频检测
+Avatars| 化身
+Request timed out| 请求超时
+Complete ...| 完成…
+Collecting Logs ...| 收集日志…
+Pass Thru Port| 通过Thru端口
+Page Expired. Please reload the page.| 网页过期。请重新装载这个网页。
+Application busy. Please try again later.| 应用忙。请稍后再尝试。
+User ID required| 使用所需的ID
+Directory file must be in WAV format| 目录文件必须是WAV格式
+Local Directory Upload| 本地电话簿上传
+Upload failed - Too many records detected in csv file| 上传失败-在csv文件中检测到过多的记录
+Upload failed - No record detected in csv file| 上传失败-在csv文件中没有检测到记录
+Upload performed - %d records created| 上传执行完毕- %d 记录创建
+minutes| 分钟
+User ID| 用户ID
+Any PBX| 任何电话系统
+Screen Mode| 屏幕模式
+Show Picture| 显示图片
+Request timed out| 请求超时
+No Mobile phone connected| 无移动电话连接
+Only one Handset can be paired to the phone| 只有一个手柄可以跟话机配对
+Only one Speaker can be paired to the phone| 只有一个扬声器可以跟话机配对
+Maximum number of paired devices reached| 已到可配对设备的数量上限
+Reload| 重新加载
+Mobile Contacts| 手机通讯录
+Mobile| 手机
+Press "Turn on" to enable Bluetooth| 按下“开” 打开蓝牙
+Turn on| 开
+Turn off| 关
+Mobile : %s| 移动：%s
+Pair| 配对
+Connect| 连接
+Disconnect| 断开
+Forget| 忘记
+Rename| 重命名
+Rename Device| 重命名设备
+Disabling Bluetooth will disconnect your Cordless Handset| 关闭蓝牙将断开你的无线手柄
+Warning| 警告
+Do you want to continue?| 你想继续吗？
+Bluetooth pairing request| 蓝牙配对请求
+Pair with %s| 与%s配对
+Pairing code - %06ld| 配对码 - %06ld
+External| 外部的
+Lock Settings| 锁定设置
+Proximity auto-lock| 接近自动锁定
+Delay before auto-lock| 自动锁定前延迟
+Proximity auto-unlock| 接近自动锁定
+Delay before auto-unlock| 自动锁定前延迟
+Proximity auto-lock| 接近自动锁定
+Proximity auto-unlock| 接近自动解锁
+Delay before auto-lock (minutes)| 自动锁定前延迟（分钟）
+Delay before auto-unlock (minutes)| 自动解锁前延迟（分钟）
+M695: New Firmware. Do not unplug phone!| M695：新固件。不要拔话机！
+Login/Logout| 登录/退出
+Logout user %s| 退出用户 %s
+Login successful| 登录成功
+Logout successful| 退出成功
+Login failed| 登录失败
+Logout failed| 退出失败
+Hot desk user can not pair handset please login as a local user| 若热台用户不能配对手机，请作为本地用户登录
+Hot desk user can not pair speaker please login as a local user| 若热台用户不能配对扬声器，请作为本地用户登录
+Hot desk user can not unpair handset please login as a local user| 若热台用户不能断开手机，请作为本地用户登录
+Hot desk user can not unpair speaker please login as a local user| 若热台用户不能断开扬声器，请作为本地用户登录
+Push Call| 推送呼叫
+Cordless Handset| 无线手柄
+Low Battery| 电量低
+Critical Battery| 关键电池
+Ongoing Call| 正在呼叫
+Incoming Call| 来话
+Incoming Call from %s| 从 %s 的来话
+Incoming Call from %s (%s)| 从 %s（%s）的来话
+Voicemail access of Mobile Phone not supported| 不支持移动电话语音信箱接入
+Device not supported| 设备不支持
+Phone not compatible| 电话不兼容
+Dialing out through Mobile Line not supported| 不支持通过移动电话外呼
+Page Expired. Please reload the page.| 网页过期。请重新装载这个网页。
+Application busy. Please try again later.| 应用忙。请稍后再尝试。
+Invalid prefix length (0 to 128)| 无效前缀长度（0-128）
+User ID required| 需要用户ID
+IPv6 Settings| IPv6设置
+Basic Network Settings (IPv6)| 基本网络设备（IPv6）
+Basic Network Settings (IPv4)| 基本网络设备（IPv4）
+Ethernet Port Settings| 以太网端口设置
+User ID| 用户ID
+Colon ":"| 冒号 “：”
+Login/Logout| 登录/退出
+Logout user %s| 退出用户 %s
+Login successful| 登录成功
+Logout successful| 退出成功
+Login failed| 登录失败
+Logout failed| 退出失败
+IPv6| IPv6
+Enable IPv6| 开启IPv6
+Mode DHCPv6| DHCPv6模式
+DHCPv6| DHCPv6
+Auto-configuration| 自动配置
+Prefix Length| 前缀长度
+IPv6 Address| IPv6地址
+Local Directory Upload| 本地电话簿上传
+Upload failed - Too many records detected in csv file| 上传失败-在csv文件中有过多的记录
+Upload failed - No record detected in csv file| 上传失败-检测到在csv文件中无记录
+Upload performed - %d records created| 上传执行完毕- %d 记录创建
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 错误：因不兼容的固件版本，拒绝升级/降级
+Directory file must be in CSV format| 电话簿文件必须是CSV格式
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 错误：因不兼容的固件版本，拒绝升级/降级
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| 端口影射不完整
+DSP| 数字信号处理器（DSP）
+SIP| SIP
+Checking DECT| 正在检查DECT
+Updating DECT Firmware| 正在更新DECT固件
+Tone| 语调
+Interface| 接口
+Web| Web
+7 +294| 7 +294
+Updating configuration| 正在更新配置
+Waiting assignment| 正在等待任务
+Checking for new firmware| 正在检查新固件
+Firmware Check| 固件检查
+Firmware Check| 固件检查
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| 新固件：请勿拔除听筒
+New Firmware: Restarting...| 新固件：正在重新启动......
+Downloading configuration| 正在下载配置
+9 +397| 9 +397
+erase all calls| 清除所有通话
+DELETE again to erase this item| 再按DELETE清除此项目
+DELETE to erase item  or # to erase Number| 按DELETE清除项目或＃清除数字
+DELETE again to erase all calls| 再按DELETE清除所有通话
+DELETE again to erase all items| 再按DELETE清除所有项目
+Delete All| 全部删除
+DELETE again to erase all calls| 再按DELETE清除所有通话
+DELETE again to erase all items| 再按DELETE清除所有项目
+Delete All| 全部删除
+Factory Defaults| 出厂默认值
+ Missed Call|  未接来电
+ Missed Calls|  未接来电
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| 推送
+Push| 推送
+Leave| 离开
+Conf| 配置
+SIP Settings| SIP设置
+8 +743| 8 +743
+Cannot Save| 无法保存
+1 item| 1 项
+ items|  件商品
+item| 件商品
+items| 件商品
+item| 件商品
+items| 件商品
+No User| 没有用户
+Missing User ID| 缺少用户ID
+DHCP failed| 动态主机配置（DHCP）失败
+7 +813| 7 +813
+TLS 1.2| 线程局部存储（TLS）1.2
+TLS Preferred| 首选线程局部存储（TLS）
+Cfg Svr Failure| 配置服务器失败
+Bad Certificate| 证书不符
+Bad Cert/TLS Err| 证书不符/线程局部存储（TLS）错误
+Certificates| 证书
+Cert Validation| 证书验证
+All defaults| 全部默认值
+6 +1070| 6 +1070
+Debug Level| 调试级别
+Support Information| 支持信息
+Get local.cfg| 获取local.cfg
+Get Log Files| 获取日志文件
+Get server.cfg| 获取server.cfg
+Get user_local.cfg| 获取user_local.cfg
+Get user.cfg| 获取user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| 无效的子网掩码
+Invalid primary DNS address| 主DNS地址无效
+Invalid secondary DNS address| 辅助DNS地址无效
+Invalid prefix length (0 to 128)| 前缀长度无效（0到128）
+User ID required| 需要用户名
+IP cannot be equal to gateway address| IP不能为网关地址
+IP and gateway have to be on same subnet| IP和网关必须位于同一子网上
+IP and gateway are equal| IP和网关相同
+IP gateway subnet mismatch| IP网关子网不匹配
+IPv6 Settings| IPv6 设置
+Basic Network Settings| 基本网络设置
+Basic Network Settings (IPv6)| 基本网络设置（IPv6）
+Basic Network Settings (IPv4)| 基本网络设置（IPv4）
+Advanced Network Settings| 高级网络设置
+DHCP| 动态主机配置（DHCP）
+NAT Port| NAT端口
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| 指定文件太大。单个文件的大小不能超过 1 MB。
+The phone does not have enough space to store this file.| 手机没有足够的空间存放此文件。
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| 指定文件不符合手机要求的铃声规格。有关铃声文件要求，请参阅用户指南。
+Directory file must be in WAV format| 目录文件必须是WAV格式
+Directory file must be in CSV format| 目录文件必须为CSV格式
+Local Directory Upload| 本地目录上传
+Upload failed - Too many records detected in csv file| 上传失败 - 在csv文件中检测到太多记录
+Upload failed - No record detected in csv file| 上传失败 - 在csv文件中未检测到任何记录
+6 +1370| 6 +1370
+IP&MAC Addresses| IP和MAC地址
+LAN Port| 局域网端口
+PC Port| PC端口
+Port Mirroring| 端口镜像
+Set Audio| 设置音频
+Config. Server| 配置服务器
+IP Address:| IP 地址：
+7 +1463| 7 +1463
+App| App
+Watchdog| 监视器
+Speeddial/Conf| 快速拨号/配置
+Speeddial/MWI| 快速拨号/信息等待指示器（MWI）
+Speeddial/MWI| 快速拨号/信息等待指示器（MWI）
+Call is on Hold| 通话已挂起
+No subscription| 未订阅
+802.1x Failed| 802.1x失败
+6 +1473| 6 +1473
+Failed to config Line Manager| 无法配置直属经理
+Line in use| 使用中的线路
+Get Crash Log| 获取崩溃日志
+Logging Issue| 记录问题
+Time Unavailable| 不可用时间
+Packetization Interval| 分组间隔
+Basic| 基本
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| 自定义
+IN| 入
+OUT| 出
+Filter| 筛选器
+Filtering| 过滤
+Opt Status| 选择状态
+Executives| 高管人员
+Forward Filtering| 转发过滤
+Divert| 转向
+Divert to Number| 转拨号码
+IN| 入
+OUT| 出
+Filter| 筛选器
+Filtering| 过滤
+Opt Status| 选择状态
+Executives| 高管人员
+Forward Filtering| 转发过滤
+Divert| 转向
+Divert to Number| 转拨号码
+Press a contact button to view contact info.| 按联系人按钮查看联系资料。
+No info available. Please press a contact button.| 没有可用信息。请按联系人按钮。
+ Enter Administrator Password|  输入管理员密码
+6 +1749| 6 +1749
+Level 4| 级别 4
+Level 5| 级别 5
+Dot "."| 点“.”
+Colon ":"| 冒号“:”
+(Min: %d  Max: %d)| （最小：％d 最大：％d）
+Line: %d| 线路: %d
+Line %d: %s| 线路％d：%s
+6 +1780| 6 +1780
+Please enter a number| 请输入一个号码
+Please enter a name| 请输入一个名称
+Login| 登录
+Log Issue| 记录问题
+Log Out| 登出
+Avail| 可用
+Unavail| 不可用
+14 +1852| 14 +1852
+Show Picture| 显示图片
+Mode %d| 模式％d
+Screen Saver Timer| 屏保程序
+Enabled also in call| 同样在通话中启用
+Enabled also in call| 同样在通话中启用
+Invalid Subscription Time| 订阅时间无效
+Speed Dial 8| 快速拨号8
+Request Failed| 请求失败
+Request timed out| 请求超时
+Too many answers - Refine your search| 答案太多 - 请细化您的搜索
+New Contact| 新联系人
+Edit Details| 编辑细节
+Edit Details| 编辑细节
+Failed to retrieve contact details| 无法检索联系人详情
+No Mobile phone connected| 未连接手机
+Only one Handset can be paired to the phone| 只能与听筒配对一部手机
+7 +2039| 7 +2039
+Volume| 音量
+DTMF| DTMF
+Screenshot| 截图
+All| 全部
+All| 全部
+Missed| 未接来电
+Outgoing| 传出
+Received| 已收到
+7 +2053| 7 +2053
+Paired Devices| 配对设备
+Available Devices| 可用设备
+Swipe the toggle switch to the right to enable Bluetooth| 向右滑动开关可启用蓝牙
+Press "Turn on" to enable Bluetooth| 按“开启”以启用蓝牙
+Press "Turn on" to enable Bluetooth| 按“开启”以启用蓝牙
+Turn on| 开启
+Turn off| 关闭
+Mobile : %s| 手机：%s
+9 +2067| 9 +2067
+Device| 设备
+Rename Device| 重命名设备
+No paired devices| 无配对设备
+Connection successful| 连接成功
+Connection failed| 连接失败
+Disconnection successful| 断开连接成功
+Connection successful| 连接成功
+Connection failed| 连接失败
+Disconnection successful| 断开连接成功
+Disconnection failed| 断开连接失败
+Pairing failed| 配对失败
+Operation failed| 操作失败
+7 +2153| 7 +2153
+%ld days ago| ％ld天前
+while offline| 离线时
+Can't talk right now. I'll call you later.| 抱歉，现在不能通话。我稍后联系你。
+On another call| 下次通话再说
+On another call| 下次通话再说
+I'll call you back| 我给你回电话
+Call me back in 10 minutes| 10分钟后给我回电话
+Custom...| 自定义...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| 共用桌面用户不能配对扬声器，请以本地用户身份登录
+Hot desk user can not unpair handset please login as a local user| 共用桌面用户不能解除听筒配对，请以本地用户身份登录
+Hot desk user can not unpair speaker please login as a local user| 共用桌面用户不能解除扬声器配对，请以本地用户身份登录
+Push Call| 按下呼叫
+Cordless Handset| 无绳手机
+Push Call| 按下呼叫
+Cordless Handset| 无绳手机
+Low Battery| 低电量
+Critical Battery| 主电池
+Ongoing Call| 当前通话
+5 +2188| 5 +2188
+Device not supported| 设备不受支持
+Phone not compatible| 手机不兼容
+Dialing out through Mobile Line not supported| 不支持通过移动线路拨出
+IPv6| IPv6
+Enable IPv6| 启用IPv6
+Mode DHCPv6| DHCPv6模式
+DHCPv6| DHCPv6
+Auto-configuration| 自动配置
+Prefix Length| 前缀长度
+IPv6 Address| IPv6地址
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 错误：版本升级/回滚因固件版本不兼容而被拒
+Audio Diagnostics| 音频诊断
+Diagnostics| 诊断
+Timeout (1-5 Minutes)| 超时（1-5分钟）
+Disconnect| 断开连接
+Capturing ...| 正在捕获......
+Complete ...| 完成......
+Collecting Logs ...| 正在收集日志......
+Collect Logs| 收集日志
+Please input a duration between 1 and 5 minutes| 请输入1到5分钟的持续时间
+Erase| 删除讯息
+Cloud Service| 云服务
+Enable Cloud Service| 启用云服务
+Cloud SIP| 云SIP
+Cloud Directory| 云目录
+Active Config Server| 活动配置服务器
+Cloud Config Server 1| 云配置服务器1
+Cloud Config Server 2| 云配置服务器2
+Cloud Staging Server| 云分段服务器
+Cloud Domain| 云域
+Replay| 重播
+Backward| 回退
+Forward| 前进
+Send To| 收件人
+Logout| 登出
+To Email| 发邮件
+Delete Failure| 删除失败
+Play Failure| 播放失败
+Play Failure due to a system error. See your system administrator.| 由于系统错误，播放失败。请与系统管理员联系。
+Save Failure| 保存失败
+Add Contact| 添加联系人
+Voicemail and Recordings| 语音邮件和录音
+Voicemail User Login| 语音邮件用户登录
+Send to| 收件人
+Cannot dial a private number| 无法拨打私人号码
+Cannot copy a private number| 无法复制私人号码
+Number not available| 号码不可用
+Loading...| 正在加载...
+Login| 登录
+Contacts| 联系人
+Private| 私人
+To| 收件人
+Send| 发送
+Voicemail has been sent.| 已发送语音邮件。
+Error in sending Voicemail. Please send it again.| 发送语音邮件时出错。请再发一次。
+Voicemail has been sent to email.| 语音信箱已发送至电子邮件。
+Error in sending to Email.| 发送到电子邮件时出错。
+New| 新建
+Recorded| 已记录
+Receipt Confirmation| 接收确认
+Passcode| 密码
+Mailbox Number| 邮箱号码
+Remember passcode| 记住密码
+Passcode is incorrect. Enter a valid passcode.| 密码有误。输入有效密码。
+Invalid mailbox number.| 邮箱号码无效。
+Error - Mailbox in use| 错误 - 正在使用的邮箱
+Error - maximum sessions exceeded| 错误 - 超出最大会话数
+Error - no session exists| 错误 - 会话不存在
+Error - bad extension| 错误 - 扩展错误
+Mailbox locked for security reasons. See your system administrator.| 邮箱因安全问题被锁定。请与系统管理员联系。
+DECT Headset| DECT耳机
+DECT Headset Version| DECT耳机版
+DECT Headset Battery| DECT耳机电池
+DECT Headset Rf Power| DECT耳机射频功率
+DECT Headset Rf Power| DECT耳机射频功率
+Very Low| 非常低
+Downloading font| 下载字体
+No calls to unpark| 没有需停止驻留的呼叫
+For …| 对于…
+To VM| 至 VM
+Number of Packets Sent| 已发送的分组数
+Number of Packets Received| 已接收的分组数
+RTT min/avg/max| 最小/平均/最大 RTT
+traceroute to| 跟踪路线至
+hops max| 最大跳跃
+byte max| 最大字节
+Voicemail box is full| 语音邮箱已满
+ALL| 全部
+REMOTE| 远程
+Local| 本地
+Not allowed on this call| 本呼叫不允许
+ Whisper| 
+ Consult| 
+ Coach| 
+ Barge| 
+ Monitor| 
+ For| 
+ External Speaker| 
+ UnPark| 
+ Call Parked| 
+ UnPark Failed| 
+ Rev:| 
+ You must restart the phone before the new settings will take effect.| 
+ None| 
+ Use LLDP-MED| 
+ LLDP neighbor| 
+ Cache LLDP-MED| 
+ Conf In Progress| 
+  Enter Voicemail Password| 
+ Call Server| 
+ Do Not Ring if on a Call| 
+ P| 
+ To Vm| 
+ Pickup not permitted| 
+ Pickup/unpark not permitted| 
+ Unpark not permitted| 
+ Silent Monitor not permitted on this call| 
+ Silent Coach not permitted on this call| 
+ Barge In not permitted on this call| 
+ Park not permitted| 
+ Park/Transfer is still in progress| 
+ No calls to unpark| 
+ No calls to park| 
+ No calls to pickup| 
+ No calls to take action| 
+ My Status| 
+ Favorite| 
+ Voicemail playback failed| 
+ Voicemail skip failed| 
+ Voicemail bad address| 
+ Voicemail box is full for| 
+ Not supported| 
+ Service unavalilable at this time| 
+ Hold not permitted on this call| 
+ Action not permitted| 
+ Not Permitted on this call| 
+ Request denied or \r\nunacceptable at this time| 
+ Phone number is invalid or not properly formatted| 
+ Move Message Failure| 
+ Contacts| 
+ Cloud Connect| 
+ Service Type| 
+ MiCloud Connect| 
+ MiVoice Border Gateway| 
+ User DID| 
+ Domain| 
+ Call Back| 
+ Play| 
+ Exit| 
+ Skip Back| 
+ Skip Forward| 
+ Inbox| 
+ MiCloud| 
+ Fetching Details| 
+ Additional Phone| 
+ Agent state| 
+ Availability| 
+ Standard| 
+ In a meeting| 
+ Out of office| 
+ Extended Absence| 
+ Do not disturb| 
+ On the Phone| 
+ Assign| 
+ Assign user| 
+ Assign user failed| 
+ Assign user to phone in progress. Please wait...| 
+ Extension or password invalid| 
+ Unassign| 
+ Unassign user| 
+ Unassign user failed| 
+ Unassign user?| 
+ Unassigning user...| 
+ Voicemail password| 
+ Ping| 
+ Host Name or IP Address| 
+ Please enter a valid HostName/IP Address| 
+ Pinging %s...| 
+ Tracerouting...| 
+ Tracerouting Complete| 
+ Traceroute| 
+ Page Up| 
+ Page Down| 
+ Traceroute Command| 
+ Always| 
+ Never| 
+ Always destination| 
+ No answer destination| 
+ Busy destination| 
+ Simulring| 
+ VPN| 
+ Use VPN| 
+ VPN gateway| 
+ VPN gateway port| 
+ Tunnel IP| 
+ VPN protocol| 
+ VPN debug mode| 
+ System| 
+ Log upload| 
+ Timeout (1-1440 Minutes)| 
+ Please input a duration between 1 and 1440 minutes| 
+ User Settings| 
+ Diagnostic server| 
+ Diag Server| 
+ Wrap up| 
+ UnWrap| 
+  Open| 
+ Confirm| 
+ New voicemail password| 
+ Password entries do not match| 
+ Password change succeeded| 
+ New password same as old password| 
+  Reply| 
+  ReplyAll| 
+  Compose| 
+  Call VM| 
+ Cannot choose your own extension| 
+ Save Changes?| 
+ Validating number...| 
+ Invalid %s| 
+ Upgrade Required| 
+ Invalid DID or Password| 
+ Register| 
+ Voice Service| 
+ Start Over| 
+ Empty domain name| 
+ Registering| 
+ DID or password no update| 
+ Invalid domain name| 
+  Registration cancelled| 
+ Pager| 
+ Phone not registered| 
+ Enterprise| 
+  Parameter Type| 
+ Remote| 
+  Filter Page| 
+  Parameter Filter| 
+  Get Parameters| 
+ Assigned| 
+ Assigning| 
+ Invalid extension| 
+ Extension or password no update| 
+ Assignment cancelled| 
+ Extension already assigned| 
+  Select a call to park| 
+  Select a call to unpark| 
+  Unpark| 
+ Duration| 
+ Subject| 
+ Uploading Fail| 
+ Diagnostic server is empty| 
+ Logs uploaded successfully| 
+ Urgent| 
+ Return Receipt| 
+ Include Original| 
+ Re: Voice Message| 
+ Fw: Voice Message| 
+ Phone not assigned| 
+ Whisper Page| 
+ Intercom| 
+ Silent Monitor| 
+ Barge In| 
+ Silent Coach| 
+ To Inbox| 
+ Save Message?| 
+ By First| 
+ By Last| 
+ Dial Voicemail| 
+ Dial VM| 
+  Invalid Phone Number| 
+ Transfer not permitted on this call| 
+ Conference not permitted on this call| 
+ Remote log upload in progress| 
+ Remote capture upload in progress| 
+ Standard| 
+ Ring 2| 
+ Ring 3| 
+ Ring 4| 
+ Play Int| 
+ Play Ext| 
+ Press "Upload" to upload a debug log| 
+ Select a call to merge| 
+ Add Caller:| 
+ Assign user?| 
+ Participants| 
+ Conferenced| 
+ calls| 
+ held calls| 
+ Debug on| 
+ Debug off| 
+ Unknown Error| 
+ Connection Error| 
+ Application Error| 
+ Number of Packets Sent:| 
+ Number of Packets Received:| 
+ RTT min/avg/max| 
+ traceroute to| 
+ hops max| 
+ byte packets| 
+ Help| 
+ Call Mitel Support ?| 
+ Mitel Support| 
+ Remote| 
+ OnHold| 
+Initializing Components| 初始化组件
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

@@ -1,0 +1,3606 @@
+Magyar
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Nincs kézibeszélő párosítva
+Cordless Handset Feature Key Configuration| Kézibesz. beállítás
+None| Nincs
+Attempting to pair...| Kísérlet párosításra...
+Pairing successful| Párosítás sikeres
+Pairing failed       | Párosítás sikertelen
+Try again| Újrapróbál
+Remove Handset:| Kézibesz. eltávolít:
+Attempting to remove| Törlés
+Wait...| Várakozás...
+Removal successful| Eltávolítás sikeres
+Cordless| Vez. nélk.
+Cordless Handsets| Vez. nélk. kézibesz.
+None Registered| nincs regisztrálva
+Sync| Sync
+Private Line| Magánvonal
+Sending Directory| Címtár küldése
+to Handsets|  Kézibeszélőkhöz
+System Unavailable| Rendszer nem elérhető
+Handset Pairing| Kézibesz. párosít
+Handset Keys| Kézibeszélő gombok
+Feature Key programming complete.| Funkciógombok programozása sikeres.
+Two Call Support| Kétvonalas mód
+Intercom| Intercom
+Sending Directory to Handsets| Telefonkönyv küldése
+No Public Number Found| Nyilvános szám nem található
+480i prompts| 
+Time Format| Idő formátum
+    NOT MATCH !!!|     NEM EGYEZIK!
+Erase local config?| Konfig töröl?
+Alternate Server| Alternat. server
+Contrast Level| Kontraszt
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService DSCP| TypeService DSCP
+TypeService RTCP| TypeService RTCP
+Dn| Le
+Rt| Jobbra
+Lf| Balra
+Del| Töröl
+System Info Upload| Rendszer info feltöltve
+Up| Fel
+Copyright| Copyright
+Reset| Újraindítás
+Phone will restart automatically after finishing.| A telefon automatikusan újraindul befejezés után.
+Please login| Jelentkezzen be
+Incorrect password| Helytelen jelszó
+Reset Configuration?| Reset konfig?
+Cfg. Svr.| Cfg. Svr.
+Enable| Engedélyez
+List| Lista
+Move Up| Mozgat fel
+Move Down| Mozgat le
+Firmware Loaded| Firmware betöltve
+802.1x Authenticating| 802.1x Autentikáció
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: IP cím lekérés
+Bluetooth Upgrade .. Please wait| Bluetooth frissítés..Kérem várjon
+Contacting Redirector| Átirányítás kérés
+Redirecting Step 1| Átirányítás 1. lépés
+Redirecting Step 2| Átirányítás 2. lépés
+Redirecting Step 3| Átirányítás 3. lépés
+Redirecting Step 4| Átirányítás 4. lépés
+Redirecting Step 5| Átirányítás 5. lépés
+Redirecting Step 6| Átirányítás 6. lépés
+Auto Discovery...| Automatikus lekérés...
+Starting in Generic SIP Mode| Kezdés Generic SIP módban
+Starting in AastraLink Mode| Kezdés AastraLink módban
+Updating config| Konfiguráció betöltés
+Waiting assignment| Várakozás beállítás
+Checking for Firmware  Do not unplug phone!| FW ellenőrzése, ne húzza ki a telefont!
+New Firmware. Do not unplug phone!| Új firmware. Ne húzza ki a telefont!
+New Firmware. Restarting...| Új firmware. Újraindítás..
+Downloading configuration| Konfig letöltése
+Downloading Language Packs| Nyelvi fájl letöltése
+Network| Hálózat
+UPnP device not found| Upnp eszköz nincs
+Port Map In Progress| Port Map folyamatban
+Port Map Incomplete| Port Map sikertelen
+DSP| DSP
+SIP| SIP
+Tone| Hangszín
+Interface| Interfész
+Web| Web
+Done| Kész
+CopyToAll| Másol
+Cannot use firmware.| FW nem használható.
+No available lines| Nincs elérhető vonal
+Current Password:| Jelenlegi jelszó:
+New Password:| Új jelszó:
+Re-enter Password:| Új jelszó mégegyszer:
+  Password Changed|   Jelszó cserélve
+Change| Módosít
+Use DHCP?| DHCP?
+Advanced| Haladó
+DNS| DNS
+Ringer | Csengő 
+ ERROR: invalid port|  HIBA: helytelen port
+SIP Register| SIP Regiszter
+Register?| Regisztrál?
+Authentication Name| Autentikációs név
+Nortel NAT| Nortel NAT
+Reset phone to| telefon visszaállítás
+factory defaults?| gyári beállításra?
+Setting phone back to| Telefon visszaállítás
+Factory Defaults| gyári beállításra
+  Please enter the   |   Adja meg az    
+    administrator    |     admin    
+      password.      |    jelszót.      
+Password: | Jelszó: 
+Quit| Kilép
+More| Tovább
+Timeserver Address:| TimeServer cím:
+Network Time Disabled| Hálózat Idő letiltva
+Dialing| Tárcsázás
+Incoming| Bejövő
+Calling| Hívás
+Pause| Szünet
+Pickup| Átvétel
+Previous| Előző
+Enter Time:| Idő:
+Message Waiting| Üzenet vár
+Live Dialpad| Live Dialpad
+Live Dialpad is| Live Dialpad 
+Options List| Beállítások
+    Access denied    |     Hozzáférés tiltva
+Directory is full| Címtár megtelt
+30min summertime| 30 perces átállás
+1h    summertime| 1 órás átállítás
+No Link| No Link
+Next| Következő
+Retry| Ismét
+Negotiation| Egyeztetés
+Live Dialpad disabled| Live Dialpad letiltva
+Link State| Link áll.
+Headset Mic Volume| Mikrofon erősítés
+Gateway IP Address:| Gateway IP cím:
+Enter Date (y-m-d):| Dátum (É-H-N):
+Enter| OK
+Enable| Engedélyez
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Default| Default
+Add New| Hozzáad
+DeleteList| ListaTöröl
+Delete entire| Összes törlése
+Directory?| Címtár?
+Enter Number:| Szám:
+Network disconnected| Hálózat leválasztva
+Network connected| Hálózat csatlakozva
+Entry Saved| Elmentve
+Entry Removed| Törölve
+Private| Magán
+Public| Nyilvános
+Delete entry?| Törlés?
+Delete?| Törlés?
+Delete number| Szám törlése
+or delete all| vagy minden elem
+entries?| bevitel?
+Name is full| Név kitöltve
+Empty| Üres
+Redial List| Újrahívási Lista
+Details| Részletek
+Copy| Másol
+Select| Kiválaszt
+Voicemail| Hangposta
+DeleteItem| Tétel törl
+Delete All| Mind Töröl
+Entry copied to|  másolva 
+Entry Exists| Bejegyzés létezik
+All items erased| Összes tétel törölve
+Sort| Rendez
+Resume| Indít
+EditNum| Szerkeszt
+DeleteList again to| Lista törlése újra 
+Delete again to| Törlés újra 
+erase this item| tétel törlése
+erase all calls| összes hívás törlése
+ new caller|  új hívás
+ new callers|  új hívás
+Press 1st letter| vagy kezdőbetű
+Handset | Kézibesz.
+ Missed Call|  Nem fogadott hív.
+ Missed Calls|  Nem fogadott hív.
+Call Forward Mode| Átirányítások
+CFWD All| Átirányítva
+CFWD Busy| Átirányítva (f)
+CFWD NoAnswer| Átirányítva (nv)
+Call| Hívás
+Select TFTP| TFTP kiválasztás
+Use %c for new| Megjelenítés: %c
+Use %c to view| Megjelenítés: %c
+Download Protocol| Letöltő protokoll
+OFF| KI
+ON| BE
+Add Number| Új szám
+Arrange| Szervez
+%cmore| %ctovább
+Office| Hivatali
+Home| Otthoni
+Cell| Mobil
+Pager| Pager
+VLAN Settings| VLAN Beállítások
+Softkeys and XML| Szoft billentyűk
+Softkeys Configuration| Szoft billentyű beállítások
+Bottom Keys| Alsó billentyűk
+Top Keys| Fölső billentyűk
+Page1| Oldal 1
+Page2| Oldal 2
+Page3| Oldal 3
+Page4| Oldal 4
+Page5| Oldal 5
+Idle| Szabad
+Outgoing| Kimenő
+Empty| Üres
+Enter server name/IP:| Szerver név/IP cím:
+Enter HTTPS port:| HTTPS port:
+Erase| Törlés
+Proxy IP/Port| Proxy IP/Port
+Registrar IP/Port| Registrar IP/Port
+Erasing local config| Local config törlése
+Proxy Port:| Proxy Port:
+Registrar Port:| Registrar Port:
+Proxy Server:| Proxy Server:
+Registrar Server:| Registrar Server:
+Contrast Level:| Kontraszt szint:
+Erase Local Config.| Local config törlése
+Administrator Menu| Admin Menü
+Backlight On Time| Háttérvilágítás be 
+Redirect HTTP->HTTPS?| Átállás HTTP->HTTPS?
+Block XML HTTP POSTs?| XML HTTP POST blokk?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POST
+Client Method| Kliens Mód
+To unlock the phone| Telefon feloldása
+No more softkeys| Nincs több bill.
+Ignore| Kihagy
+Answer| Válasz
+Configuration Server| Konfigurációs szerver
+Primary Path| Útvonal
+Alternate Path| Alternatív út
+Logging in| Bejelentkezés
+Login Failed| Sikertelen
+Enable?| Engedélyez?
+Check Expires| Lejárat ellenőrzés
+Check Hostnames| Hostname ellenőrzés
+Conf. Unavailable| Konf. Elérhetetlen
+Ringing...| Cseng...
+Error Messages| Hibaüzenetek
+No Error Messages| Nincs hibaüzenet
+Download Options| Letöltés opciók
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| Tovább
+A # &| A # &
+  Invalid password   |   Érvénytelen jelszó
+Upload Sys Info| Sys info feltöltés
+Config is updated. Restarting...| Konfig frissítve. Újraindítás...
+CFWD Filtering| CFWD szűrés
+Checking for Firmware| Firmware ellenőrzés
+for new| új
+9133i prompts| 
+Password Changed| Jelszó cserélve
+Leave| 
+Time Format| Idő formátum
+Erase local cfg?| Local.cfg töröl?
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService DSCP| TypeService DSCP
+TypeService RTCP| TypeService RTCP
+Alternate Server| Alternate Server
+Contrast Level| Kontraszt
+Options List| Beállítások
+DELETE to erase item  or # to erase Number| TÖRÖL a bejegyzés vagy # a szám törléséhez
+Upload Sys Info| Upload Sys Info
+Directory Empty. Use Save to add| Címtár üres. Ment gombbal hozzáadhat
+Directory Empty Use Save to add| Címtár üres. Ment gombbal hozzáadhat
+  NOT MATCH !!!|  NEM EGYEZIK!!!
+DELETE again to erase this item| TÖRÖL gomb a törléshez
+System Info Upload| System Info feltölt
+Phone will restart after| Telefon újra indul ezután
+Copyright| Copyright
+Reset| Újraindítás
+Use DHCP?| DHCP?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Half 1000Mbps
+Cfwd Destination| Hívásátirányítás célállomása
+Please login| Kérem lépjen be
+Incorrect password| Helytelen jelszó
+Reset Configuration?| Konfig reset?
+Cfg. Svr.| Cfg. Svr.
+Net disconnected| Net megszakadt
+Live Dialpad| Live Dialpad
+Firmware Loaded| Firmware betöltve
+802.1x Authenticating| 802.1x Autentikáció
+LLDP| LLDP
+Initializing network| Hálózat Inicializáció
+Bluetooth Upgrade| Bluetooth frissítés
+Contacting Redirector| Átirányítás kérés
+Redirecting Step 1| Átirányítás 1. lépés
+Redirecting Step 2| Átirányít 2. lépés
+Redirecting Step 3| Átirányít 3. lépés
+Redirecting Step 4| Átirányít 4. lépés
+Redirecting Step 5| Átirányít 5. lépés
+Redirecting Step 6| Átirányít 6. lépés
+Auto Discovery| Auto Discovery 
+Starting in Generic SIP Mode| Indítás Generic SIP módban
+Starting in Aastra Link Mode| Indítás Aastra Link módban
+Updating configuration| Konfiguráció frissítése
+Waiting assignment| Várakozás beállítás
+Checking for new firmware| Új firmware keresése
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Új firmware: KÉREM NE HÚZZA KI A TELEFONT
+New Firmware: Restarting...| Új firmware: Újraindítás...
+Downloading configuration| Konfiguráció letöltése
+Downloading Language Packs| Nyelvi fájl letöltése
+Network| Hálózat
+UPnP Gateway Not Found| UPnP Gateway nem található
+UPnP Port Map In Progress| UPnP Port Map folyamatban
+UPnP Port Map Incomplete| UPnP Port Map hiányos
+DSP| DSP
+SIP| SIP
+Tone| Hangszín
+Registering with the voice network...| Regisztráció a hang hálózatba...
+Web| Web
+Done| Kész
+Cannot use| Nem használható
+this firmware.| ez a firmware.
+All lines in use| Össz. vonal fogl
+Current Password| Jelenlegi jelszó
+New Password| Új Jelszó
+Enter Again| Még egyszer
+Ringer volume   | Cseng. hangerő
+DELETE again to| TÖRÖL minden
+erase all calls| hívást újra
+Caller is erased| Hívó törölve
+Network Time| Hálózat Idő
+Change| Módosít
+Options| Opciók
+Access denied| Belépés letiltva
+Directory full| Megtelt 
+Link Active| Link Aktív
+No Link| Nincs Link
+Live Dialpad is\nnot available.| Live Dialpad \nnem elérhető.
+Live Dialpad is\nON| Live Dialpad \nBE
+Live Dialpad is\nOFF| LIVE Dialpad \nKI
+-  confirmed   -| - megerősítve -
+Contrast | Kontraszt
+Set| Beáll.
+DHCP\nON| DHCP\nBE
+DHCP\nOFF| DHCP\nKI
+Enable?\nYes| Enged?\nIGEN
+Enable?\nNo| Enged?\nNEM
+Check Expires| Lejárat ellenőr.
+Check Expires?\nYes| Lejár. ellenőr.?\nIGEN
+Check Expires?\nNo| Lejár. ellenőr.?\nNEM
+Check Hostnames| Hostname ellenő.
+Check Hostnames?\nYes| Hostname ellenőr.?\nIGEN
+Check Hostnames?\nNo| Hostname  ellenőr.?\nNEM
+Cancel| Mégsem
+SIP Register\nON| SIP Register\nBE
+SIP Register\nOFF| SIP Register\nKI
+Nortel NAT\nEnabled| Nortel Nat\nEnged
+Nortel NAT\nDisabled| Nortel Nat\nLetiltva
+Next| Köv.
+Done| Kész
+Retry| Ismét
+Exit| Kilép
+Pickup| Átvétel
+Call held| Hívástartás
+Calls held| Hívástartás
+Country Code: | Ország kód: 
+*List Countries| *Ország lista
+Enter| Enter
+Admin Password| Admin jelszó
+yyyy-mm-dd | yyyy-mm-dd 
+Restart phone?| Tel. újraindít.?
+#Confirm| #megerősítés
+RestoreDefaults?| Gyári beállítás?
+Call Agent 1| Kezelő 1 hívása
+Call Agent 2| Kezelő 2 hívása
+Call Agent 3| Kezelő 3 hívása
+Invalid Code    | Érvénytelen kód
+E: Invalid port!| Érvénytelen port
+Application:| Alkalmazás:
+Boot ROM:| Boot ROM:
+Negotiation:| Negotiation:
+30m summertime| 30p nyári idő
+1h summertime| 1 órás átállítás
+Invalid password| Érvénytelen
+  disconnected|   bontva
+   connected|   csatlakoztatva
+    Network|     Hálózat
+erase all items| össz. tétel törl
+Enter Number>| Szám>
+Setting phone to| Telefon vissza
+Use Save to end| Mentés gomb=vége
+to enter name>| név megadás>
+Saved: Directory| Elmentve
+Retrying config | Konfig újboli
+download...     | letöltése...
+empty| Üres
+No Match| Nem egyezik
+Save to?| Ment?
+Saved Memory key| Elmentve
+Removed Key| Szabad bill.
+Key saved | Elmentve
+Key removed| Szabad bill.
+Press 1st letter| vagy kezdőbetű
+Speaker volume  | Kihang. hangerő
+Handset volume  | Telefon hangerő 
+Headset volume  | Headset hangerő 
+Factory Defaults| Gyári beáll.ra
+ Missed Call|  nem fogadott
+ Missed Calls|  nem fogadott
+Cfwd State| Állapot
+Cfwd Number| Szám
+Cfwd Mode| Mód:
+CFWD All| Átirányítva
+CFWD Busy| Átirányítva (f)
+CFWD NoAnswer| Átirányítva (nv)
+Select TFTP\nPrimary| Elsődleges\nTFTP
+Select TFTP\nAlternate| Alternatív\nTFTP
+DownloadProtocol| AtviteliProtokol
+VLAN Settings| VLAN Beállítások
+Server Name/IP?| Szerver név/IP?
+HTTPS Port?| HTTPS Port?
+Client Method\nSSL 3.0| Client Method\nSSL 3.0
+Client Method\nTLS 1.0| Client Method\nTLS 1.0
+HTTP->HTTPS\nRedirect| Http->https\nredirect
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nDo not redirect
+Redirect| Redirect
+Do not redirect| Do not redirect
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nDo not block
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBlock
+Do not block| Do not block
+Block| Block
+Erasing config| config törlése
+Pri TFTP Path| Pri TFTP Path
+Alt TFTP Path| Alt TFTP Path
+Backlight Mode| Háttérvil. módja
+Backlight Time| Háttérvil. Idő
+Answer| Válasz
+Ignore| Kihagy
+Cfwd| Tov.
+Copy to All?| Összes másolása?
+Apply Changes?| Rendben?
+Logging in| Bejelentkezés
+Login Failed| Sikertelen
+Conf Unavailable| Konf elérhetetlen
+Error Messages| Hiba üzenetek
+No Error Messages| Nincs hibaüzenet
+Delete All| Összes törlése
+Download Options| Letöltés opciók
+Config updated. Restarting...| Konfig frissítve. Újraindulás...
+DELETE again to erase all calls| TÖRÖL minden hívás törlése
+Firmware Check| Firmware ellenőrzés
+Fwd Filtering| Átir. szűrés
+CFWD Filtering| Átir. szűrés
+DELETE again to erase all items| TÖRÖL minden elem törlése
+Upload Sys Info| Upload Sys Info
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| SID_ENTER_ADMIN_PASSWORD
+Error Msg| Hiba üzenet
+Unlock the phone?| Feloldja a telefont?
+ Enter Unlock Password| Üsse be a kódot a feloldáshoz
+softkey| szoftgomb
+Edit Number| Szám módosítás
+Lock the phone| Telefon zárolás
+keypad| Tárcsapad
+Unlock| Felold
+ Cust Feat| Cust Feat
+Phone is locked| Telefon lezárva
+Unlock the phone| Telefonzár feloldás
+GoodBye| Viszlát
+Pass Thru Port| Pass Thru Port
+First| Első
+Last| Utolsó
+Name| Név
+Add| Ad
+Edit| Szerk.
+Space| Space
+Bksp| Bksp
+caps| caps
+CAPS| CAPS
+Reject| Elutasít
+Silence| Némít
+Hold| Tart
+Transfer| Átadás
+>| >
+Lines| Vonalak
+Settings| Beállítások
+Device Name| Készülék név
+Bluetooth Devices| Bluetooth eszk.
+Bluetooth Status:| Bluetooth Státusz:
+Search| Keresés
+Searching...| Keresés...
+device(s) found.| eszköz találva
+Press on a device to start pairing.| Válassza ki a párosítandó eszközt.
+Enter PIN| Üsse be a PIN-t
+Add Device| Eszköz hozzáad
+Active| Aktív
+Are you sure?| Biztos benne?
+ALL| összes hívás
+Phone No:| Telefonszám
+Copy to all modes| Másolás minden módhoz
+BUSY| Foglalt
+NO ANSWER| Nincs válasz
+CFWD NO ANS:| Átir. Nincs válasz:
+CFWD BUSY:| Átir. Foglalt:
+CFWD ALL:| Átir. Minden:
+Audio| Audio
+Calibrate Screen| Képernyő kalibrálás
+Recalibrate Touchscreen?| Érintőképernyő újrakalibrálása?
+Softkeys| Szoft gombok
+Headset Mic Volume| Mikrofon hangerő
+Headset Device| Fejbeszélő
+Bluetooth| Bluetooth
+Wired| Vezetékes
+Restart | Újraindít
+No Calls| Nincs hívás
+Brightness Timer| Fényerő időzítő
+Brightness Level| Fényerő szint
+Add to Directory| Telefonkönyvhöz adás
+Waiting for Touch Screen activity to subside ...| Várakozás az érintőképernyő nyugalmi állapotára...
+Touch the UPPER-LEFT corner of the screen| Érintse meg a képernyő bal felső sarkát
+Touch the UPPER-RIGHT corner of the screen| Érintse meg a képernyő jobb felső sarkát
+Touch the LOWER-RIGHT corner of the screen| Érintse meg a képernyő jobb alsó sarkát
+Touch the LOWER-LEFT corner of the screen| Érintse meg a képernyő bal alsó sarkát
+Received unreliable data. You will be asked to touch the same point again| Helytelen adatok. Érintse meg ugyanazt a pontot még egyszer
+Processing ...| Feldolgozás...
+Validating calibration data ... please wait| Kalibrációs adatok feldolgozása...kérem várjon
+Sanity Check OK. Save changes?| Sanity check ok. Változások mentése?
+Sanity Check Failed| Sanity check hiba
+Retry| Ismét
+Quit| Kilép
+Please Enter| Kérem adjam meg
+Submit| Elküld
+User ID:| Felhasználói ID:
+Password:| Jelszó:
+Transferring| Átadás
+No. Rings| Csengetés szám
+Line| Vonal
+Unable to Pair| Párosítás sikertelen
+Please Wait...| Kérem várjon...
+Add new device...| Új eszköz hozzáad
+Detected:| Detektálva:
+Connecting:| Csatlakozás:
+Disonnecting:| Szétkapcs:
+Connected:| Csatlakozva:
+ALL| Összes
+BUSY| Foglalt
+NO ANSWER| Nincs válasz
+CFWD ALL:| Átir. Minden:
+CFWD BUSY:| Átir. Foglalt:
+CFWD NO ANSWER:| Átir. Nincs válasz:
+Copy to all modes| Másolás
+OFF| KI
+Off| KI
+Phone Number:| Telefonszám:
+Level 1| Szint 1
+Level 2| Szint 2
+Level 3| Szint 3
+Level 4| Szint 4
+Level 5| Szint 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Üsse be az admin jelszót
+Phone will restart automatically after finishing.| A telefon automatikusan újra fog indulni.
+Conference| Konferencia
+Conf| Konf
+Reset Configuration?| Konfiguráció újra
+Hide| Elrejt
+Live Dialpad| Live Dialpad
+Live Dial| Live Dial
+Lock| Lezár
+Lock the phone?| Telefonzár
+Directory| Tel.könyv
+Phone Number:| Telefonszám:
+Common prompts| 
+None| Nincs
+Disable| Tilt
+Logout failed| Sikertelen kijelentkezés
+Logout successful| Sikeres kijelentkezés
+Login successful| Sikeres bejelentkezés
+Logout user %s| %s felhasználó kijelentkeztetése
+Login/Logout| Bejelentkezés/kijelentkezés
+User ID| Felhasználói azonosító
+User ID required| Felhasználói azonosító szükséges
+Application busy. Please try again later.| Az alkalmazás elfoglalt. Próbálja újra később.
+Page Expired. Please reload the page.| Az oldal elévült. Töltse újra az oldalt.
+Check Expires| Lejárat ellenőr.
+Check Hostnames| Hostname ellenőrzés
+Use DHCP?| DHCP?
+Restart Phone?| Tel. újraindít?
+12 Hour| 12 óra
+Speeddial| Gyorshívás
+Erase local cfg?| local cfg töröl?
+Spd Dial| Gyorshívó
+Backup Outbound Proxy Server| Backup Outbound Proxy Server
+Backup Outbound Proxy Port| Backup Outbound Proxy Port
+Firmware Info| Firmware Info
+DHSG| DHSG
+DHSG is ON| DHSG Bekapcsolva
+DHSG is OFF| DHSG Kikapcsolva
+Backlight On Time| Háttérvilágítás be 
+Use Alt TFTP| Use Alt TFTP
+Pri TFTP Path| Pri TFTP Path
+Alt TFTP Path| Alt TFTP Path
+RestoreDefaults?| Gyári beállítás?
+HTTP Init Failed| HTTP Init Failed
+Get aastra.lic| Get aastra.lic
+Get mac.lic| Get mac.lic
+Firmware not licensed for use on this phone| A firmware ezen a telefonon nem rendelkezik licenccel
+Redial List is empty| Az újrahívási lista üres
+Callers List is empty| Hívás lista üres
+Callers List| Hívásinfó
+Redial List| Újrahívási Lista
+Directory| Címtár
+License Information| Licencadatok
+XML Application URI:| XML alkalmazás URI:
+Missing User ID| Hiányzó felhasználói azonosító
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Használ
+Active Features| Aktív szolg
+WWW MMM DD| Hét-Hónap-Nap
+DD-MMM-YY| NN-HHH-ÉÉ
+YYYY-MM-DD| ÉÉÉÉ-HH-NN
+DD/MM/YYYY| NN/HH/ÉÉÉÉ
+DD/MM/YY| NN/HH/ÉÉ
+DD-MM-YY| NN-HH-ÉÉ
+MM/DD/YY| HH/NN/ÉÉ
+MMM DD| HHH NN
+DD MMM YYYY| NN HHH ÉÉÉÉ
+WWW DD MMM| Hét-Nap- Hónap
+DD MMM| NN HHH
+DD.MM.YYYY| NN.HH.ÉÉÉÉ
+24 Hour| 24 óra
+XML Application Title:| XML alkalmazás Fejléc:
+License Status| Licence státusz
+FTP| FTP
+to view| megnézni
+Contact Name already exists| Kontakt név már létezik
+Leave| Elhagy
+Contact Mismatch| Kontakt hibás
+ Call Terminated|  Hívás megszakítva
+IP and gateway have to be on same subnet| IP és a gateway-nek azonos hálózaton kell lennie
+IP cannot be equal to gateway address| IP nem lehet azonos a gateway címmel
+Call Waiting Tone Period| Hívásvárakoztatás tárcsahang periódus
+OK| OK
+Directory empty| Címtár üres
+Files Sent| File elküldve
+Upload System Info| System info feltöltés
+Upload| Feltöltés
+Call Transferred| Hívás átadva
+Firmware Information| Firmware Információ
+Contact Name already exists| Kontakt név már létezik
+Replace| Kicserél
+No Services| Nincs szolgált.
+Merge| Egybevon
+Enter Name:| Név:
+Call Hold Reminder| Hívás tartás emlékeztető
+Others| Mások
+Call Hold Reminder During Active Calls| Hívás tartás emlékeztető aktív hívások alatt
+Out of service| Üzemen kívül
+Reason: | Ok:
+Add blank record?| Üres rekord hozzáad?
+Audio Setting| Audio beállítás
+Delete Item| Tétel törlése
+Services| Menü
+Server| Szerver
+Service Disabled| Szolgált. tiltva
+Port| Port
+Path| Út
+Username| Felhasználói név
+No. Rings| Csengetés szám
+Use xx to view| <Vissza  xx Köv.
+User Password| Felhaszn. jelszó
+Time and Date| Idő és Dátum
+Language| Nyelv
+Screen Language| Képernyő nyelv
+Tones| Hangbeállítások
+Tone Set| Tárcsahang
+Ring Tone| Csengőhang
+State| Állapot
+State:| Állapot:
+User-Busy| Foglalt
+Unconditional| Feltétlen
+Time of day| Napszak
+Deflection| Elterelés
+Follow Me| Kövess
+Away| Távol
+Busy| Foglalt
+Restart| Újraindít
+All On| Összes BE
+All Off| Összes KI
+AllAccts| Össz. von.
+Conference| Konferencia
+Flash| Flash
+Dial| Hívás
+Directory| Címtár
+Callers| Hívásinfó
+Icom| Icom
+Icom| Icom
+Dir| Címtár
+Xfer| Átadás
+Conf| Konf
+SIP Settings| SIP beállítások
+Proxy Port| Proxy Port
+Registrar Port| Registrar Port
+User Name| Felhasználó név
+Screen Name| Kijelző név
+Proxy Server| Proxy Server
+Registrar Server| Registrar Server
+Auth. Name| Auth. Név
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Hívóazonosító
+RTP Port Base| RTP Port Base
+Static NAT| Static NAT
+NAT Settings| NAT beállítások
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP Port
+NAT RTP Port| NAT RTP Port
+NAT HTTPS Port| NAT HTTPS Port
+Phone Status| Telefonállapot
+Auto Discovery| Auto Discovery 
+Trying...| Folyamatban...
+Remote| Távoli
+Reset| Újra
+Choose Server| Szerver választ.
+Select| OK
+Select| OK
+Ring Tone:| Csengőhang:
+Silent| Csendes
+Network Settings| Hálózat beáll.
+Clear| Törlés
+Speaker | Kihangosító
+Headset | Fejbeszélő
+Speaker/Headset| Fejbesz/Kihang
+Headset/Speaker| Fejbesz/Kihang
+Audio Mode| Headset üzemmód
+Low| Min.
+Medium| Közép
+High| Max.
+OFF| KI
+Off| KI
+ON| BE
+DHCP Settings| DHCP Beállítások
+DHCP User Class| DHCP User Class
+Hostname| Hostname
+IP Address| IP cím
+Subnet Mask| Subnet Mask
+Subnet Mask:| Subnet Mask:
+Gateway| Gateway
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+TFTP Settings| TFTP beállítások
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC Port VLAN ID
+LAN Port VLAN| LAN Port VLAN
+PC Port VLAN| PC Port VLAN
+Priority| Prioritás
+VLAN Enabled\nYes| VLAN \nigen
+VLAN Enabled\nNo| VLAN \nnem
+PC Port Priority| PC Port Priority
+LAN Port VLAN ID| LAN Port VLAN ID
+UPnP| UPnP
+Use UPnP| UPnP használata
+Select Gateway| Gateway választ
+Portmap Started| Portmap start
+Portmap Error| Portmap Hiba
+LLDP| LLDP
+LLDP packet interval| LLDP csomag időköz
+LLDP Settings| LLDP Beállítások
+Use LLDP ELIN| LLDP ELIN be
+TypeService DSCP| TypeService DSCP
+Type of Service DSCP| Type of Service DSCP
+VLAN Priority| VLAN Prioritás
+Other Priority| Egyéb Prioritás
+SessionBorderCtl| SessionBorderCtl
+Session Border Ctrl| SessionBorderCtl
+Select SBC| SBC választás
+SBC Settings| SBC beállítások
+Kagoor| Kagoor
+Update Interval (sec)| Update Időzítés (mp)
+Backspace| Backspace
+No| Nem
+Yes| Igen
+DHCP Download Options| DHCP Download opciók
+DHCP Download Option| DHCP Download opciók
+Firmware Version| Firmware verzió
+Restart Phone| Újraindítás
+Show| Megnéz
+is OFF|  kikapcsolva
+Password| Jelszó
+Restarting...| Újraindítás...
+Speed| Sebesség
+Manual| Kézi
+Auto| Auto
+Auto| Auto
+Half| Half
+Full| Full
+Duplex| Duplex
+ ERROR: |  HIBA: 
+Invalid IP addr.| Hibás IP cím
+Invalid mask| Hibás Mask
+Range is 1-4094| 1-4094 tartomány
+Range is 1-4095| 1-4095 tartomány
+Range is 1-4095| 1-4095 tartomány
+Range is 0-63| 0-63 tartomány
+Range is 0-7| 0-7 tartomány
+DND| Ne zavarj
+DND On| Ne zavarj BE
+Time Server| Time Server
+Set Time| Idő beállítás
+Set Date| Dátum beállítás
+Date Format| Dátum formátum
+Time Zone| Időzóna
+Daylight Savings| Nyár/tél időszá.
+Invalid Time| Hibás idő 
+Invalid Date| Hibás dátum 
+Invalid IP| Hibás IP
+ Invalid Number|  Hibás szám
+On| BE
+On| BE
+On| BE
+OFF| KI
+Automatic| Automatikus
+Conf Hold| Konf Tart
+No Service| nincs vonal
+Mute| Némít
+Connected| Kapcsolva
+Drop| Letesz
+Park| Parkolás
+PickUp| Átvétel
+Redial| Újratárcsáz
+DCP| DCP
+DCP List| DCP Lista
+Cancel| Vissza
+Done| Kész
+Callers List| Hívásinfó
+No changes made| Nincs változás
+Key is Locked| A gomb zárolt
+Cannot Save| Nem menthető
+1 item| 1 tétel
+ items| tétel
+No User| Nincs felhasz.
+DHCP failed| DHCP hiba
+Unknown Name| Ismeretlen név
+Unknown Number| Ismeretlen szám
+Unknown Line| Ismeretlen vonal
+Item is erased| Tétel törölve
+Unknown| Ismeretlen
+NextSpace| Következő
+Dot "."| Pont "."
+Transfer Failed| Átadási hiba
+Call Forward| Hívásátirányítás
+Call Fwd| Átir.
+All| összes hívás
+All| összes hívás
+Any| Bármilyen
+NoAns| nincs válasz
+BusyNoAns| ha foglalt
+Number:| Szám:
+Mode:| Mód:
+No. Rings:| Cseng. szám:
+Line: | Vonal: 
+Contrast Level| Kontraszt
+ Message|  üzenet
+ Messages|  üzenet
+Loading Page...| Oldal betölt....
+Abort Loading...| Megszakítás...
+Connect Timeout| Kapcs. túllépés
+Data Timeout| Adat túllépés
+File Not Found| Fájl nincs meg
+Page Load Error| Oldal hiba
+Cannot display| Nincs kijelzés
+Skip| Kihagy
+Call Failed| Sikertelen hívás
+Primary Server| Primary Szerver
+Primary Server| Primary Szerver
+Alternate Server| Altern. Szerver
+Primary| Elsődleges
+Alternate| Alternatív
+Bad encrypted cfg| Rossz cfg
+Use TFTP| TFTP
+Use FTP| FTP
+Use HTTP| HTTP
+Use HTTPS| HTTPS
+FTP Settings| FTP beállítások
+FTP Server| FTP Server
+FTP Path| FTP Útvonal
+FTP Username| FTP Felhaszn név
+FTP Password| FTP Jelszó
+HTTP Settings| HTTP beállítások
+HTTP Server| HTTP Server
+HTTP Path| HTTP Útvonal
+HTTP Port| HTTP Port
+HTTPS Settings| HTTPS beáll.
+Download Server| Download Szerver
+Download Path| Download Útvonal
+Download Port| Download Port
+HTTPS Server| HTTPS Szerver
+HTTPS Path| HTTPS Útvonal
+HTTPS Port| HTTPS Port
+HTTPS Client| HTTPS Kliens
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Hibás Cert
+Certificates| Certifikációk
+Cert Validation| Cert validáció
+All defaults| Mind alapállapot
+Config default| Alapkonfig
+AM| AM
+PM| PM
+Factory Default| Gyári beállítás
+Factory Default?| Gyári beállítás?
+Erase Local Cfg.| Local Cfg. töröl
+New IP Obtained| IP cím megújítva
+New NAT IP| Új NAT IP
+Server IP Change| Server IP vált.
+AastraLink Menu| AastraLink Menü
+Server Options| Szerver opciók
+AastraLink Info| AastraLink Info
+Server Remote IP| Távoli Server IP
+Server Local IP| Helyi Server IP
+Preferences| Általános
+Network Status| Hálózat Állapot
+MAC Address:| MAC Cím:
+MAC Address| MAC Cím
+BT MAC Address:| BT MAC Cím:
+Invalid Key| Érvénytelen gomb
+Speed Dial Edit:| Gyorshívó gombok
+Press SD button| Gombválasztás
+From: | Honnan:
+To: | Hova:
+Via: | Keresztül:
+Diverted: | Átirányított:
+Log Off| Kijelentkezés
+Customer Support| Vevő Támogatás
+Status| Info
+Operation| Műveletek
+Basic Settings| Beállítások
+Advanced Settings| Haladó beállítások
+System Information| Telefonállapot
+Down| Ki
+Up| Be
+n/a| n/a
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Tulajdonság
+Link State| Link állapot
+Negotiation| Negotiation
+Hardware Information| Hardver Információ
+Firmware Information| Firmware Információ
+Firmware Release Code| Firmware Release Kód
+Value| Szám
+Platform| Platform
+Boot Version| Boot verzió
+Date/Time| Dátum/Idő
+DND Key Mode| DND típus
+Call Forward Key Mode| Hívásátirányítás típus
+Option 160| Opció 160
+Option 159| Opció 159
+Option 66| Opció 66
+Option 43| Opció 43
+Account| Vonal
+Both| Mindkét
+Line| Vonal
+Line 1| Vonal 1
+Line 2| Vonal 2
+Line 3| Vonal 3
+Line 4| Vonal 4
+Line 5| Vonal 5
+Line 6| Vonal 6
+Line 7| Vonal 7
+Line 8| Vonal 8
+Line 9| Vonal 9
+Line 10| Vonal 10
+Configuration Line %d| Vonal konfiguráció %d
+Basic SIP Authentication Settings| SIP Authentikációs beállítások
+Screen Name| Megjelenített név
+Screen Name 2| Megjelenített név 2
+Phone Number:| Telefonszám:
+Phone Number| Telefonszám
+Caller ID| Hívó azonosító (Caller ID)
+Authentication Name| Authentikációs név
+Password| Jelszó
+BLA Number| BLA Szám
+Line Mode| Vonal típus
+Generic| Általános
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| SIP Hálózat beállítások
+Outbound Proxy Server| Outbound Proxy Server
+Outbound Proxy Port| Outbound Proxy Port
+Registration Period| Regisztrációs periódus
+RTP Settings| RTP Beállítások
+Autodial Settings| Forróvonal beállítások
+Autodial Number| Hívószám
+Autodial Timeout| Időzítés
+Use Global Settings| Beállítások
+DTMF Method| DTMF típus
+SIP INFO| SIP INFO
+BOTH| BOTH
+Save Settings| Beállítások mentése
+Global SIP| SIP beállítások
+Global SIP Settings| SIP beállítások
+RTP Encryption| RTP Titkosítás
+SRTP Disabled| SRTP letiltva
+SRTP Preferred| SRTP preferált
+SRTP Only| Csak SRTP 
+Advanced SIP Settings| Haladó SIP beállítások
+Explicit MWI Subscription| Explicit MWI Subscription
+Explicit MWI Subscription Period| Explicit MWI Subscription Period
+MWI for BLA account| MWI BLA fiók
+Enabled| Engedélyezett
+Send MAC Address in REGISTER Message| Send MAC Address in REGISTER Message
+Send Line Number in REGISTER Message| Send Line Number in REGISTER Message
+Session Timer| Session Timer
+T1 Timer| T1 Timer
+T2 Timer| T2 Timer
+Transaction Timer| Transaction Timer
+Transport Protocol| Transzport protokoll
+UDP and TCP| UDP és TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| Persistent TLS
+Registration Failed Retry Timer| Registration Failed Retry Timer
+Registration Timeout Retry Timer| Registration Timeout Retry Timer
+Registration Renewal Timer| Registration Renewal Timer
+BLF Subscription Period| BLF Subscription Period
+ACD Subscription Period| ACD Subscription Period
+BLA Subscription Period| BLA Subscription Period
+Blacklist Duration| Blacklist Duration
+ Park Pickup Config|  Park Pickup beállítás
+RTP Port| RTP Port
+Basic Codecs| Alap kodekek
+Force RFC2833 Out-of-Band DTMF| Force RFC2833 Out-of-Band DTMF
+Codec Preference List| Kodek preferencia
+Silence Suppression| Silence Suppression
+Provisioning complete.| Beállítások elmentve.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Az új beállítások érvényesítéséhez újra kell indítani a telefont.
+ERROR: Maximum number of connections reached.| HIBA: Maximum kapcsolódási szám túllépés.
+Logout Complete| Sikeres kilépés
+Your session has ended.  Please close the browser.| A munkafolyamat befejeződött.
+Session Expired| Munkafolyamat lejárt.
+Please close the browser or use the link below to log in again.| Kattintson az alábbi linkre a bejelentkezéshez.
+Log In| Log In
+Log Out| Log Out
+Log Out| Log Out
+Avail| Elérh.
+Avail| Elérh.
+Unavail| Nem elérh.
+Unavail| Nem elérh.
+Reset User Password| Felhasználói jelszó módosítása
+Please enter the current and new passwords| Adja meg a jelenlegi és az új jelszót
+Current Password| Jelenlegi jelszó
+New Password| Új Jelszó
+Password Confirm| Jelszó megerősítés
+Please Enter| Kérem adjam meg
+Submit| Elküld
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Autorizáció...
+Authorization Failed| Hibás autorizáció
+Auth Failed| Hibás aut.
+Current password is incorrect.| Jelenlegi jelszó helytelen.
+Please try again.| Próbálja újra.
+The new password fields do not match.| Az új jelszó nem egyezik.
+The new password can not be saved.| Az új jelszót nem lehet elmenteni.
+The user password has been changed.| A felhasználói jelszó megváltoztatva.
+Task and Stack Info| Task és Stack Információ
+Back| Vissza
+Files Available for Download| Letölthető fájlok
+Custom| Egyedi
+Save As...| Mentés másként...
+Directory List| Címtár
+Current Settings| Jelenlegi beállítások
+Restore To Factory Defaults| Gyári beállítások visszaállítása
+Restore| Visszaállítás
+Remove Local Configuration Settings| Helyi beállítások törlése
+Remove| Törlés
+Restarting the hardware...| Hardver újraindítás...
+Please return to the main page after your phone restarts.| Kérem térjen vissza a main page oldalra miután a telefon újraindult.
+User not authorized to make changes.| Felhasználó nem jogosult a változtatásra.
+Local configuration file has been deleted.| Helyi konfigurációs (local.cfg.) fájl törölve.
+Please restart the phone for the settings to take effect.| Kérem indítsa újra a telefont a beállítások érvényesítéséhez.
+Phone has been set to factory Defaults.| Gyári Beállítások visszaállítva.
+Action URI| Action URI
+Action URI Configuration| Action URI konfiguráció
+Event| Esemény
+StartUp| Betöltés
+Successful Registration| Sikeres Regisztráció
+Registration Event| Regisztrációs esemény
+Incoming Call| Bejövő hívás
+Outgoing Call| Kimenő hívás
+Offhook| Vonalban
+Onhook| Alapállapot
+Disconnected| Hívásbontás
+Poll| Poll
+Interval| Időköz
+Settings saved.| Beállítások elmentve.
+Settings could not be saved.| Beállításokat nem lehet elmenteni.
+Firmware Update| Firmware Update
+TLS Support| TLS Támogatás
+Manual Firmware Update| Manuális Firmware Update
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Üsse be a szerver IP címét és a firmware nevét a frissítés megkezdéséhez.
+Configuration Server| Konfigurációs szerver
+Configuration Server Settings| Konfigurációs Szerver Beállítások
+Server IP| Szerver IP
+File Name| Fájl név
+Configure File Names| Fájl nevek konfigurálása
+Root and Intermediate Certificates Filename| Root and Intermediate Certificates Filename
+Local Certificate Filename| Local Certificate Filename
+Private Key Filename| Private Key Filename
+Trusted Certificates Filename| Trusted Certificates Filename
+Download Firmware| Firmware letöltés
+Firmware upgrade in progress.  Please wait.| Firmware letöltés folyamatban. Kérem várjon .
+Please enter a valid filename and TFTP server IP address.| Adja meg a fájl nevet és TFTP Szerver IP címét.
+Invalid TFTP server IP address| Érvénytelen TFTP Szerver IP cím
+Invalid download settings.| Érvénytelen letöltési beállítások.
+Unable to upgrade firmware.| Firmware-t nem lehet frissíteni.
+The phone is restarting...| A telefon újraindul...
+Firmware upgrade successful.| Sikeres Firmware frissítés..
+This firmware already exists on the phone.| Ez Firmware már le van töltve a telefonra.
+No upgrade is needed.| Nincs szükség Update-re.
+Troubleshooting| Hibaelhárítás
+Module| Modul
+Log Settings| Log beállítások
+Log IP| Log IP
+Log Port| Log Port
+Debug Level| Debug Level
+Support Information| Támogatási Információ
+Get local.cfg| local.cfg letöltés
+Get server.cfg| server.cfg letöltés
+Show Task and Stack Status| Task és Stack Info
+Settings| Beállítások
+Download Protocol| Protokoll letöltés
+Auto-Resync| Auto-Resync
+Days| Napok
+Maximum Delay| Max. késleltetés
+Mode| Mód
+Configuration Files| Konfigurációs fájlok
+Time (24-hour)| Idő (24-óra)
+XML Push Server List(Approved IP Addresses)| XML Push Szerver Lista (Engedélyezett IP Címek)
+Phone-side Call Forward Settings| Hívásátirányítási Beállítások
+Global Settings| Beállítások
+No Answer| Nincs válasz
+Number| Telefonszám
+Number of Rings| Csengetés száma
+Local Line| Helyi Vonal
+Forward Number| Átirányítási szám
+Global| Globális
+Enable| Engedélyez
+Network| Hálózat
+Must provision a valid default gateway IP if DHCP is enabled| DHCP esetén érvényes Default Gateway beállítás kell legyen a hálózaton.
+Invalid IP Address| Érvénytelen IPcím
+Invalid IP address| Érvénytelen IPcím
+Invalid IP addr.| Hibás IP cím
+Invalid gateway address| Érvénytelen Gateway cím
+Invalid subnet mask| Érvénytelen Subnet Mask
+Invalid primary DNS address| Érvénytelen elsődleges DNS cím
+Invalid secondary DNS address| Érvénytelen másodlagos DNS cím
+Basic Network Settings| Hálózati beállítások
+Advanced Network Settings| Haladó Hálózati beállítások
+DHCP| DHCP
+NAT Port| NAT Port
+Nortel NAT Traversal Enabled| Nortel NAT Traversal engedélyezve
+Nortel NAT Timer (seconds)| Nortel NAT Timer (másodperc)
+NTP Time Servers| NTP Time Szerverek
+Time Server 1| Time Szerver 1
+Time Server 2| Time Szerver 2
+Time Server 3| Time Szerver 3
+SIP| SIP
+VLAN Enable| VLAN aktiválás
+Non-IP Packet| Non-IP Packet
+SIP Priority| SIP prioritás
+RTP Priority| RTP prioritás
+RTCP Priority| RTCP prioritás
+Preferences| Általános
+General| Általános beállítások
+Idle Display Name 1| Kijelző Név 1
+Idle Display Name 2| Kijelző Név 2
+Local Dial Plan| Helyi tárcsázási terv
+Send Dial Plan Terminator| Tárcsázási terv küldés
+Digit Timeout (seconds)| Leidőzítés (másodperc)
+Park Call:| Parkoló hívás
+Pick Up Parked Call:| Parkoló hívás átvétele
+Suppress DTMF Playback| DTMF kijelzés tiltása
+Display DTMF Digits| DTMF számjegyek megjelenítése
+Call Waiting| Hívásvárakoztatás
+Call Waiting| Hívásvárakoztatás
+Play Call Waiting Tone| Hívásvárakoztatási hang engedélyezés
+Stuttered Dial Tone| Szaggatott tárcsahang
+Incoming Call Interrupts Dialing| Tárcsázás megszakítása bejövő hívás esetén
+Switch UI Focus To Ringing Line| Bejövő hívás elsőbbsége a kijelzőn
+Outgoing Intercom Settings| Kimenő Intercom Beállítások
+Type| Típus
+Phone-Side| Telefon oldali
+Server-Side| Szerver oldali
+Prefix Code| Prefix kód (előtét szám)
+Incoming Intercom Settings| Bejövő Intercom beállítások
+Microphone Mute| Mikrofonnémítás
+Play Warning Tone| Figyelmeztető hang lejátszása
+Allow Barge In| Belépés engedélyezése
+Auto-Answer| Automatikus válasz
+Key Mapping| Billentyű beállítás
+Map Redial Key To| Újratárcsázás billentyű
+Map Conf Key To| Konferencia billentyű
+Ring Tones| Csengőhang
+Brazil| Brazília
+France| Franciaország
+Germany| Németország
+Italy| Olaszország
+Italy2| Olaszország2
+Mexico| Mexikó
+Russia| Oroszország
+UK| UK
+US| US
+Global Ring Tone| Csengetési hang
+Tone 1| Hangszín 1
+Tone 2| Hangszín 2
+Tone 3| Hangszín 3
+Tone 4| Hangszín 4
+Tone 5| Hangszín 5
+Tone 6| Hangszín 6
+Tone 7| Hangszín 7
+Tone 8| Hangszín 8
+Tone 9| Hangszín 9
+Tone 10| Hangszín 10
+Tone 11| Hangszín 11
+Tone 12| Hangszín 12
+Tone 13| Hangszín 13
+Tone 14| Hangszín 14
+Tone 15| Hangszín 15
+Priority Alerting Settings| Elsőbbségi Riasztás Beállítások
+Enable Priority Alerting| Elsőbbségi Riasztás engedélyezés
+Group| Csoport
+External| Külső
+Internal| Belső
+Emergency| Sürgősségi
+Auto call distribution| Automatikus híváselosztás
+Auto Call Distribution Settings| Automatikus híváselosztás beállítások
+ACD| ACD
+Community 1| Csoport 1
+Community 2| Csoport 2
+Community 3| Csoport 3
+Community 4| Csoport 4
+Normal ringing| Normál csengetés
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Közvetlen hívásátvétel beállítások
+Directed Call Pickup| Közvetlen hívásátvétel
+Directed Call Pickup by Prefix| Közvetlen hívásátvétel előtét számmal
+Play a Ring Splash| Csengetési hang lejátszás
+Auto Available| Automatikus elérhetőség
+Auto Available Timer| Automatikus elérhetőség időzítője
+Time and Date Setting| Idő és Dátum beállítás
+Time Format| Idő formátum
+Date Format| Dátum formátum
+Programmable Keys| Programozható billentyűk
+Programmable Keys Configuration| Programozható billentyűk beállítása
+Hard Key| Funkció billentyűk
+Key| Sorsz.
+BLF List URI:| Foglaltsági mező Lista URI:
+Speeddial/Xfer| Gyorshívás/átadás
+Do Not Disturb| Ne zavarj
+BLF| Foglaltsági mező
+BLF/Xfer| Foglaltsági mező/átadás
+BLF/List| Foglaltsági mező/Lista
+XML| XML
+WebApps| Web menü
+Flash| Flash
+Last Call Return| Utolsó szám hívása
+Sprecode| Sprecode
+Transfer| Átadás
+Conference| Konferencia
+Save| Ment
+Delete| Törlés
+Data has been transmitted to the phone successfully.| Sikeres adatátvitel.
+Data cannot be posted to the phone.| Az adat nem küldhető el a telefonra.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Az adat  512 byte-nál kevesebb kell legyen és a telefont fogadóként kell beállítani a host-on.
+Expansion Modules| Bővítőmodulok
+Expansion Module 1| Bővítőmodul 1
+Expansion Module 2| Bővítőmodul 2
+Expansion Module 3| Bővítőmodul 3
+Page 1| Oldal 1
+Page 2| Oldal 2
+Page 3| Oldal 3
+List 1| Lista 1
+List 2| Lista 2
+List 3| Lista 3
+List 4| Lista 4
+List 5| Lista 5
+List 6| Lista 6
+Incompatible with phone model| Nem kompatibilis a telefon típusával.
+Backup Proxy Server| Backup Proxy Szerver
+Backup Proxy Port| Backup Proxy port
+Backup Registrar Server| Backup Registrar Szerver
+Backup Registrar Port| Backup Registrar Port
+Phone is locked| Telefon lezárva
+Phone Lock| Telefonzár
+Lock the phone?| Telefonzár
+Phone is unlocked| Telefon feloldva
+Password:| Jelszó:
+Emergency Dial Plan| Sürgősségi Tárcsázási terv
+Account Configuration| Hívásátirányítások
+Lock| Lezár
+Unlock| Felold
+Unlock the phone?| Feloldja a telefont?
+Lock or unlock the phone| Lezárás/feloldás
+HTTPS Client Method| HTTPS Client Method
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS Server - Redirect HTTP to HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS Server - Block XML HTTP POSTs
+Validate Certificates| Certificate érvényesítés
+Check Certificate Expiration| Certificate lejárat ellenőrzés
+Check Certificate Hostnames| Certificate Hostname ellenőrzés
+Language Settings| Nyelvi beállítások
+Webpage Language| Weboldal nyelv
+Input Language| Beviteli nyelv
+Input Language| Beviteli nyelv
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| Máj
+Jun| Jún
+Jul| Júl
+Aug| Aug
+Sep| Sep
+Oct| Okt
+Nov| Nov
+Dec| Dec
+Sun| Va
+Mon| Hé
+Tue| Ke
+Wed| Sze
+Thu| Cs
+Fri| Pé
+Sat| Szo
+New Password Invalid.| Az új jelszó érvénytelen.
+New password must be 10 characters or less.| Az új jelszó 10 karakter vagy kevesebb kell legyen.
+New password must be numeric.| Az új jelszó csak számokat tartalmazhat.
+New password and confirm password do not match.| Új jelszó és a megerősítés nem egyezik.
+Error| Hiba
+Are you sure you want to restart the phone?| Biztos benne, hogy újraindítja a telefont?
+This will restore the phone to default settings and cannot be undone.| Ez visszaállítja a telefont a gyári alapbeállításra és az eddigi beállítások elvesznek.
+This will remove the local configuration settings and cannot be undone.| Ez törli a helyi konfigurációt.
+Continue| Tovább
+Error: Intercom Settings| Hiba: Intercom beállítások
+Please enter a prefix code for server-side intercom.| Kérem, adja meg az előtét számot (prefix), amit az alközpont (szerver) használ az Intercomhoz.
+Value must be between| Az érték következők között kell legyen
+and| és
+Invalid Setting:| Érvénytelen beállítás:
+Please select at least one state for softkey| Válasszon legalább egy állapotot a szoft billentyűhöz
+DSCP value| DSCP érték
+is mapped to multiple priorities.| több prioritáshoz is hozzá van rendelve.
+Please enter Admin name and password| Kérem, adja meg az Admin nevet és jelszót
+Please enter User name and password| Kérem, adja meg a Felhasználói nevet és jelszót
+Centralized Conference| Központosított Konferencia
+Conference Server URI| Konferencia Szerver URI
+UPnP device not found| Upnp eszköz nem található 
+Ethernet| Ethernet
+Ethernet Link| Ethernet Link
+Ethernet & VLAN| Ethernet & VLAN
+Link| Link
+10M| 10M
+100M| 100M
+Unavailable| Nem elérhető
+Available| Elérhető
+Server Info| Szerver Info
+Unique ID:| Unique ID:
+UPnP Mapping Lines| UPnP Mapping Lines
+Port Failed| Hibás Port
+Trying...| Folyamatban...
+Seize Failed| Foglalás sikertelen
+Missed Call Summary Subscription| Nem fogadott hívások összesítése
+Missed Call Summary Subscription Period| Nem fogadott hívások összesítettése Időszak
+AS-Feature-Event Subscription| AS-Feature-Event Subscription
+AS-Feature-Event Subscription Period| AS-Feature-Event Subscription Period
+Goodbye Key Cancels Incoming Call| Kilépés billentyű visszautasíthatja a bejövő hívásokat
+Address Incomplete| Cím nem teljes
+Admin Menu| Admin Menü
+IP&MAC Addresses| IP&MAC Címek
+LAN Port| LAN Port
+PC Port| PC Port
+Set Audio| Headset
+Config. Server| Konfig. Szerver
+IP Address:| IP cím:
+Error Messages| Hibaüzenetek
+No Error Messages| Nincsenek hibaüzenetek
+ Errors|  Hibák
+ Error|  Hiba
+Disabled| Letiltva
+LAN Port Link| LAN Port Link
+PC Port Link| PC Port Link
+RTP| RTP
+RTCP| RTCP
+Phone| Telefon
+Headset Mic Vol| Mik. erősítés
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService RTCP| TypeService RTCP
+Authentic. Name| Authentic. név
+XML Beep Support| XML hangok engedélyezése
+Status Scroll Delay (seconds)| Állapot listázás késleltetés (másodperc)
+Backlight| Háttérvilágítás
+Backlight| Háttérvilágítás
+Display| Kijelző
+Speed Dial Edit| Gyorshívások
+second| másodperc
+seconds| másodperc
+Label| Címke
+Message Waiting Indicator Line| Üzenet vár kijelzés sora
+Keypad Speed Dial| Gyorshívó gombok
+Digit| Szám
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| XML SIP értesít
+Custom Feature| Egyedi funkciók
+User ID:| Felh. ID:
+Local SIP UDP/TCP Port| Helyi SIP UDP/TCP Port
+Local SIP TLS Port| Helyi SIP TLS Port
+802.1x Support| 802.1x Támogatás
+EAP Type| EAP Típus
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Azonosító
+MD5 Password| MD5 Jelszó
+PC Port PassThru Enable/Disable| PC Port PassThru be/ki
+EAP-TLS Settings| EAP-TLS Beállítások
+EAP-MD5 Settings| EAP-MD5 Beállítások
+Enable PassThru Port| Passthru Port enged
+PC Port Enabled\nYes| PC Port be\nigen
+PC Port Disabled\nNo| PC Port ki\nnem
+802.1x Settings| 802.1x Beáll.
+802.1x Mode| 802.1x Mód
+EAP-MD5 Settings| EAP-MD5 Beáll.
+EAP-TLS Settings| EAP-TLS Beáll.
+STUN Server| STUN Server
+STUN Port| STUN Port
+TURN Server| TURN Server
+TURN Port| TURN Port
+TURN User ID| TURN Felh. ID
+TURN Password| TURN Jelszó
+Paging| Paging
+Streaming| Streaming
+Group Paging RTP Settings| Group Paging RTP beállítások
+Paging Listen Addresses| Paging Listen címek
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP Azonosító
+Backup Registrar Used?| Backup Registrar használatban?
+Unregistered| Nem regisztrált
+Registered| Regisztrált
+SIP Status| SIP állapot
+Server Error| Szerver Hiba
+Swap| Lapoz
+LLDP\nEnabled| LLLDP\nenged
+LLDP\nDisabled| LLDP\nletiltott
+LLDP Support| LLDP Támogatás
+Preferred line| Preferált vonal
+Preferred line Timeout (seconds)| Preferált vonal Leidőzítés (másodperc)
+Invalid URI| Érvénytelen URI
+WebApps| Web menü
+Watchdog| Watchdog
+Speeddial/Conf| Gyorshívó/Konf
+Call is on Hold| Hívás tartásban
+No subscription| Nincs szolgált.
+MDot1xFailedStartup| MDot1x hiba
+802.1x Startup Failed| 802.1x hiba
+LLDP Startup Failed| LLDP hiba
+Failed to config Line Manager| Line Manager konfigurációs hiba
+Line in use| Vonal foglalt
+Get Crash Log| Crash Log
+Time Unavailable| Idő elérhetetlen
+Packetization Interval| Packetization Interval
+Basic| Basis Codec
+Note: Basic Codecs Include| Megjegyzés: Az alap kodekek tartalmazzák
+Default| Alapállapot
+Not Configured| Nem konfigurált
+America| Amerika
+Asia| Ázsia
+Atlantic| Atlantic
+Pacific| Pacific
+Australia| Ausztrália
+Europe| Európa
+Malaysia| Malajzia
+Invalid Setting| Helytelen beállítás
+Must not be empty| Nem lehet üres
+Must be a valid number| Érvényes szám legyen
+Must be a nonzero number| Nullával nem egyenlő számnak kell lennie
+Not in range| Nincs a tartományban
+Invalid Hostname| Rossz Hostname
+802.1x Failed| 802.1x hiba
+Admin Password:| Admin jelszó:
+Voicemail| Hangposta
+Voicemail| Hangposta
+HTTPS Failed| HTTPS hiba
+LLDP Failed| LLDP hiba
+TR69 connect Err| TR69 hiba
+Downloading Language Packs| Nyelvi fájl letöltése
+Please Wait...| Kérem várjon...
+to edit| szerk
+Cfg Svr Failure| Cfg Svr hiba
+Lines| Vonalak
+LDAP Directory| LDAP címtár
+Ldap Directory| Ldap címtár
+Item| Tétel
+item| tétel
+Certificate Revoked| Cert. visszavonva
+Certificate Unknown| Certifikáció ismeretlen
+Delete entire| Összes törlése
+LDAP Search Filter| LDAP ker. szűrő
+Ldap Search Filter| Ldap ker. szűrő
+LDAP Server| LDAP szerver
+Ldap Server| Ldap szerver
+Certificate Expired| Certifikáció lejárt
+Unsupported Certificate| Nem támogatott cert.
+No Certificate| Nincs certifikáció
+Options List| Beállítások
+Directory?| Címtár?
+Work| Munka
+No available lines| Nincs elérhető vonal
+Search| Keresés
+Ldap Base DN| Ldap Base DN
+items| tételek
+Spddial| Spddial
+Ldap Number Attributes| Ldap Number Attributes
+Ldap Max Hits| Ldap Max Hits
+Ldap Settings| Ldap Settings
+Ldap Name Attributes| Ldap Name Attributes
+Timezone zoneAmerica| Amerikai időzóna
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlantic
+CA-Central| CA-Central
+CA-Eastern| CA-Eastern
+CA-Mountain| CA-Mountain
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Pacific
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Easter
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havana
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Cayman
+LC-St Lucia| LC-St Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleutian
+US-Central| US-Central
+US-Eastern| US-Eastern
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mountain
+US-Pacific| US-Pacific
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| Ázsiai időzóna
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Beijing
+CY-Nicosia| CY-Nicosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tokyo
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamchatka
+RU-Krasnoyarsk| RU-Krasnoyarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Yakutsk
+RU-Yekaterinburg| RU-Yekaterinburg
+SA-Saudi Arabia| SA-Saudi Arabia
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| Atlanti időzóna
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Canary
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Faeroe
+GS-South Georgia| GS-South Georgia
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azores
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| Ausztrál időzóna
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+Timezone zoneEurope| Európai időzóna
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirane
+AT-Vienna| AT-Vienna
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Brussels
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zurich
+CZ-Prague| CZ-Prague
+DE-Berlin| DE-Berlin
+DK-Copenhagen| DK-Copenhagen
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-Paris
+GB-Belfast| GB-Belfast
+GB-London| GB-London
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Athens
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rome
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxembourg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Warsaw
+PT-Lisbon| PT-Lisbon
+RO-Bucharest| RO-Bucharest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moscow
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Stockholm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatican
+YU-Belgrade| YU-Belgrade
+Timezone zonePacific| Pacific időzóna
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| Más időzóna
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Live Dialpad
+1h    summertime| 1 órás átállítás
+Link Down| Link nem él
+Slovakia| Szlovákia
+Cfg. Svr.| Cfg. Svr.
+Custom| Egyedi
+HPQ Enable| HPQ engedélyez
+Checking For Firmware| Firmware ellenőrzés
+Firmware Check| Firmware ellenőrzés
+Speeddial/MWI| Gyorshívó/MWI
+Handset| Kézibeszélő
+WBand RX Filters| WBand RX Filters
+HS Setting1| Fejb. Beaáll. 1
+HS Setting2| Fejb. Beaáll. 2
+HS Setting3| Fejb. Beaáll. 3
+HS Setting4| Fejb. Beaáll. 4
+Spkr Setting1| Kihang beáll. 1
+Spkr Setting2| Kihang beáll. 2
+Spkr Setting3| Kihang beáll. 1
+Spkr Setting4| Kihang beáll. 1
+Hold Failed| Tartás sikertelen
+Can not save record without number| Nem menthet név nélkül
+Feature Name| Szolgáltatás neve
+Source| Forrás
+License File| Licence file
+SW Version Restrictions| SW verzió korlátok
+Unlimited| Korlátlan
+Expiration| Lejárat
+Upgrade| Frissítés
+License Server| Licence szerver
+License Info| Licence info
+License PBX| Licence PBX
+Voice Recording| Hangrögzítés
+BLF List Subscription Period| BLF List Subscription periódus
+Conf Failed| Konf sikertelen
+Push| Push
+Forward Filtering| Átirányítás szűrés
+OUT| KI
+Opt Status| Opt státusz
+Filter| Szűrő
+Filtering| Szűrés
+Executives| Vezetők
+IN| BE
+Divert| Átirányítás
+Divert to Number| Átirányítás számra
+ Enter Unlock Password| Üsse be a feloldó jelszót
+ Enter Administrator Password| Üsse be az admin jelszót
+Today| Ma
+Yesterday| Tegnap
+Two Days Ago| Két nappal ezelőtt
+Three Days Ago| Három nappal ezelőtt
+Four Days Ago| Négy nappal ezelőtt
+Five Days Ago| Öt nappal ezelőtt
+Six Days Ago| Hat nappal ezelőtt
+Last Week| Múlt héten
+Two Weeks Ago| Két hete
+Three Weeks Ago| Három hete
+Last Month| Múlt havi
+Older| Régebbi
+Monday| Hétfő
+Tuesday| Kedd
+Wednesday| Szerda
+Thursday| Csütörtök
+Friday| Péntek
+Saturday| Szombat
+Sunday| Vasárnap
+Upload Sys Info| Sys Info feltöltés
+Cfwd State| Átir. Állapot
+Cfwd Number| Átir. szám
+Cfwd Mode| Átir. mód:
+Set| Beáll.
+#Confirm| #megerősítés
+Call held| Hívástartás
+Calls held| Hívástartás
+Apply Changes?| Rendben?
+Dialpad| Tárcsapad
+Edit| Szerk
+Quit| Kilép
+Directory Empty| Címtár üres
+Saved Memory key| Elmentve
+Speaker volume  | Kihangosító erő
+Handset volume  | Telefon hangerő 
+Headset volume  | Headset hangerő 
+Ringer volume   | Cseng. hangerő
+Enter Number:| Szám:
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Mind töröl
+Erase Local Configuration?| Helyi konf. töröl?
+Audio| Audio
+Application| Alkalmazás
+NAT| NAT
+DSCP| DSCP
+User| Felhasználó
+802.1x| 802.1x
+Enter Date (m/d/y):| Dátum hozzáadása (hónap/nap/év):
+Brightness Timer| Fényerő időzítés
+Brightness Level| Fényerő szint
+Level 1| Szint 1
+Level 2| Szint 2
+Level 3| Szint 3
+Level 4| Szint 4
+Level 5| Szint 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Vonal: %d
+Line %d: %s| Vonal %d: %s
+Invalid %s (%d to %d)| Érvénytelen %s (%d to %d)
+Sys Info| Sys Info
+keypad| tárcsapad
+Login| Belépés
+Seized| Lefoglalt
+Active| Aktív
+Held| Tartva
+Ringing| Csengetés
+Park Failed| Parkolás sikertelen
+Canada| Kanada
+Press a contact button on the left to view contact information.| Nyomjon meg egy kontakt gombot a bal oldalon a kontakt információért.
+Press a contact button to view contact info.| Nyomjon meg egy kontakt gombot a részletes információért.
+No info available. Please press a contact button.| Nincs info. Kérem nyomjon meg egy kontakt gombot.
+Set Date and Time| Idő és dátum beállítása
+Ethernet Ports| Ethernet Portok
+Call Server| Hívásvezérlő szerver
+Use Network Time| Hálózati idő használata
+Speed Dial Key %d| Gyorshívó gomb %d
+%d/%d records| %d/%d rekord
+%d days stored| %d nap elmentve
+1 day stored| 1 nap tárolva
+Upload System Info Files?| Rendszer info feltöltése?
+Entries Saved| Bejegyzések mentve
+Storage| Tároló
+IP and gateway are equal| IP és gateway egyforma
+IP gateway subnet mismatch| IP gateway subnet hiba
+Bridge active| Bridge aktív
+Please enter a number| Kérem üsse be a számot
+Deleted| Törölve
+No Matches Found| Nincs találat
+Name| Név
+Contact already exists| Kontakt már létezik
+Left Softkey %d| Bal szoft gomb %d
+Bottom Softkey %d| Alsó szoft gomb %d
+New Call| Új hívás
+All Accounts| Minden vonal
+Exp. Mod. %d Key %d| Bőv. Mod. %d gomb %d
+Add Num| Hozzáad
+Diverted to: | Átirányítva:
+No lines are configured| Nincs vonal konfigurálva
+"Dot ""."""| "Pont ""."""
+Mode %d| Mód %d
+Top Softkey %d| Felső szoft gomb %d
+Home Screen Mode| Kezdő oldal mód
+Screen Saver Timer| Képernyőkímélő időzítés
+Home Screen| Kezdő oldal
+Cannot add new number. Limit reached.| Nem adható hozzá új szám. Limit elérve.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Írjon be egy nevet
+Top Softkeys| Felső szoft gomb
+Left Softkeys| Bal szoft gomb
+Bottom Softkeys| Alsó szoft gomb
+Brightness| Fényerő
+Speed Dial 8| Gyorshívás 8
+A filename-related error occurred. Rename the specified file and try again.| Fájlnévvel kapcsolatos hiba történt. Nevezze át az adott fájlt, majd próbálja újra.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| HTTP protokollal kapcsolatos hiba történt. Kérjük, próbálja újra (vagy indítsa újra a telefont, ha korábban már megjelent a hibaüzenet).
+A system-related error occurred. Please restart the phone and try again.| Rendszerrel kapcsolatos hiba történt. Indítsa újra a telefont, majd próbálja újra.
+Xsi Enterprise Directory| Xsi vállalati könyvtár
+Xsi Personal Contacts| Xsi saját névjegyek
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Üzleti fax
+By First Name| Utónév szerint
+By Last Name| Vezetéknév szerint
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Nem adható hozzá új bejegyzés. Limit elérve.
+City| Város
+Corporate| Vállalati
+Country| Ország
+Custom Ringtones| Egyedi csengőhangok
+Delete %s from %s?| Töröljön %s elemet innen: %s?
+Delete all entries in %s?| Törölje az összes bejegyzést innen: %s?
+Directory import failed| Könyvtár importálása sikertelen
+Directory loading| Könyvtár betöltése
+Directory not available at this time| A könyvtár jelenleg nem elérhető
+Display Name Order| Nevek megjelenítési sorrendje
+Name Order| Név sorrendje
+Edit Details| Részletek szerkesztése
+Email| E-mail
+Email 1| 1. e-mail
+Email 2| 2. e-mail
+Email 3| 3. e-mail
+Enabled also in call| Hívás közben is engedélyezve
+Enterprise Directory| Vállalati könyvtár
+Exchange Contacts| Exchange-névjegyek
+Explicit| Explicit
+External Sources| Külső források
+Failed to retrieve contact details| Nem sikerült lekérni a kapcsolatok részleteit
+First Last| Utónév Vezetéknév
+First name| Utónév
+Home 1| 1. otthoni
+Home 2| 2. otthoni
+Home Address| Lakcím
+Implicit| Implicit
+Invalid Subscription Time| Érvénytelen előfizetési idő
+Job Title| Pozíció
+LDAP| LDAP
+Last%c First| Vezetéknév%c Utónév
+Last First| Vezetéknév Utónév
+Last Name| Vezetéknév
+Local| Helyi
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobil
+New Contact| Új kapcsolat
+Numbers| Számok
+Organization| Szervezet
+Other| Egyéb
+Personal| Egyéni
+Personal Contacts| Saját névjegyek
+Province/State| Megye
+Request Failed| Kérés sikertelen
+Sorting Preferences| Rendezési beállítások
+Sorting| Rendezés
+Street Address| Utca, házszám
+Test| Teszt
+Test Connection| Kapcsolat tesztelése
+The phone does not have enough space to store this file.| A telefonon nem található elég hely a fájl tárolásához.
+The specified file is too large. Each file cannot exceed 1 MB in size.| A megadott fájl mérete túl nagy. Az egyes fájlok nem haladhatják meg az 1 MB méretet.
+UA-Profile-Event Subscription| UA-Profile-Event Subscription
+UA-Profile-Event Subscription Period| UA-Profile-Event Subscription Period
+Undefined| Meghatározatlan
+Work 1| 1. munkahelyi
+Work 2| 2. munkahelyi
+Work Address| Munkahelyi cím
+Zip/Postal Code| Irányítószám
+Credentials| Hitelesítő adatok
+Enable/Disable| PC Port PassThru be/ki
+Labels| Tilt
+Ringtone files must be in WAV format| A csengőhangfájloknak WAV formátumúnak kell lenniük
+Copy| Másol
+Add New| Hozzáad
+ALU SCA| ALU SCA
+Accessory Info| Tartozékok adatai
+Add| Ad
+Alerting| Riasztás
+Delete selected item or delete all items?| Törölje a kiválasztott elemet vagy az összes elemet?
+DialingIn| Bejövő hívás
+DialingOut| Kimenő hívás
+Disconnecting| Szétkapcsolás
+Enter First Name| Írja be az utónevet
+Enter Last Name| Írja be a vezetéknevet
+Enter Number| Szám
+Enter Password>| Írja be a jelszót>
+Enter Username>| írja be a felhasználónevet>
+Enterprise Dir.| Vállalati könyvt.
+Exp. Mod. 1 Version| Bőv. Mod. 1. verzió
+Exp. Mod. 2 Version| Bőv. Mod. 2. verzió
+Exp. Mod. 3 Version| Bőv. Mod. 3. verzió
+Get user.cfg| Get user.cfg
+Get user_local.cfg| Get user_local.cfg
+Keyboard Version| Billentyűzetverzió
+F| F
+H1| O1
+H2| O2
+M| Mob
+O| E
+W1| M1
+W2| M2
+OnHold| Hívás tartása
+Pending| Folyamatban
+Phone Info| Telefon adatai
+Please Login| Kérem lépjen be
+Please select a file to upload| Válasszon ki egy feltölteni kívánt fájlt
+Saved| Elmentve
+Unmute| Némítás feloldása
+Line 11| Vonal 11
+Line 12| Vonal 12
+Line 13| Vonal 13
+Line 14| Vonal 14
+Line 15| Vonal 15
+Line 16| Vonal 16
+Line 17| Vonal 17
+Line 18| Vonal 18
+Line 19| Vonal 19
+Line 20| Vonal 20
+Line 21| Vonal 21
+Line 22| Vonal 22
+Line 23| Vonal 23
+Line 24| Vonal 24
+Line 25| Vonal 25
+Client Method| Kliens Mód
+#Edit| #Szerk
+#Copy| #Másol
+Action forbidden| Művelet letiltva
+Action not supported| A művelet nem támogatott
+ Additional Settings|  További beállítások
+ Barge-In|  Belépés
+Congestion| Torlódás
+Discreet| Diszkrét
+Discreet Ringing| Diszkrét csengetés
+Executives list is empty| Végrehajtólista üres
+Extension not registered| A mellék nincs regisztrálva
+Internal error| Belső hiba
+Invalid Password| Érvénytelen
+Invalid forwarding number| Érvénytelen átirányítási szám
+ Listen|  Hallgatás
+ Normal|  Normál
+Phone not registered| A telefon nincs regisztrálva
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  A némító gomb megnyomásával be- és kikapcsolhatja a beavatkozásra figyelmeztető hangot.
+Prv| Privát
+Pub| Nyilv.
+Record not found| Bejegyzés nem található
+SCAP-Bridged| SCAP-Bridged
+SCAP-Held| SCAP-Held
+ Select Barge-In Mode|  Belépési mód kiválasztása
+ UA-Profile-Event Subscription Period|  UA-Profile-Event Subscription Period
+Unique ID| Unique ID
+ Whisper|  Suttogás
+Missed Calls| Nem fogadott hív.
+Silence| Némít
+As-Feature-Event Subscription| As-Feature-Event Subscription
+As-Feature-Event Subscription Period| As-Feature-Event Subscription Period
+Feature-Status-Exchange Subscription| Feature-Status-Exchange előfizetés
+Feature-Status-Exchange Subscription Period| Feature-Status-Exchange előfizetési időszak
+Action superseded by a previous command| A műveletet felülírja egy korábbi parancs
+Attendant| Szolgáltató
+BLF Privacy| BLF adatvédelem
+BLF Privacy Key Mode| BLF adatvédelmi kulcs mód
+Feature not configured| A szolgáltatás nincs konfigurálva
+Forward Type| Átirányítás típusa
+Live Keyboard| Élő billentyűzet
+Not assigned| Nincs hozzárendelve
+PIN| PIN-kód
+Pin Required| PIN-kód szükséges
+Privacy| Adatvédelem
+Privacy On| Adatvédelem bekapcsolva
+Restart | Újraindít
+Capture| Felvétel
+Get capture file| Felvételi fájl megszerzése
+Mute All| Összes elnémítása
+No Participant| Nincs résztvevő
+Private Call| Privát hívás
+Start| Kezdés
+Stop| Leállítás
+TLS Preferred| Beállított TLS
+Timeout| 
+Unmute All| Minden némítást felold
+Speeddial/Mwi| Gyorshívó/MWI
+Phone will restart automatically after finishing.| A telefon automatikusan újra fog indulni.
+Idle| Szabad
+CFWD Filtering| CFWD szűrés
+Volume| Hangerő
+DTMF| DTMF
+All Accounts| összes hívás
+Outgoing| Kimenő
+Call History is Empty| A hívásnapló üres
+No Outgoing Calls| Nincsenek kimenő hívások
+No Missed Calls| Nincsenek nem fogadott hívások
+No Received Calls| Nincsenek fogadott hívások
+Received| Fogadott
+Missed| Nem fogadott
+Screenshot| Képernyőfelvétel
+Xsi Enterprise Common Directory| Xsi közös vállalati könyvtár
+Enterprise Common Directory| Közös vállalati könyvtár
+Enterprise Common Dir.| Közös vállalati könyvt.
+Xsi Group Directory| Xsi csoportos könyvtár
+Group Directory| Csoportos könyvtár
+Xsi Group Common Directory| Xsi közös csoportos könyvtár
+Group Common Directory| Közös csoportos könyvtár
+Call Settings| Hívásbeállítások
+%s Call Settings| %s hívásbeállítás
+Hide Number| Szám elrejtése
+Xsi Password Not Configured| Xsi jelszó nincs konfigurálva
+Xsi User Not Configured| Xsi felhasználó nincs konfigurálva
+Xsi Authentication Failure| Xsi hitelesítési hiba
+Xsi File Not Found| Xsi fájl nem található
+Xsi Invalid URI| Xsi érvénytelen URI
+Xsi Invalid Download Configuration| Xsi érvénytelen letöltési konfiguráció
+Call History| Hívásnapló
+Bluetooth| Bluetooth
+Scan| Keresés
+Timeout [1..168 h]| Időtúllépés [1–168 óra]
+Paired Devices| Párosított eszközök
+Available Devices| Elérhető eszközök
+Swipe the toggle switch to the right to enable Bluetooth| A Bluetooth engedélyezéséhez csúsztassa jobbra a kapcsolót
+Pairing| Párosítás
+Connecting| Csatlakozás
+Device| Eszköz
+No paired devices| Nincs párosított eszköz
+Connection successful| Sikeres kapcsolódás
+Connection failed| Sikertelen kapcsolódás
+Disconnection successful| Sikeres szétkapcsolás
+Disconnection failed| Sikertelen szétkapcsolás
+Pairing failed| Párosítás sikertelen
+Operation failed| Sikertelen művelet
+Connected| Csatlakozva
+Retry| Ismét
+Do you want to forget this device?| Szeretné elfelejtetni ezt az eszközt?
+Close| Bezárás
+Enabling Bluetooth...| Bluetooth engedélyezése...
+Disabling Bluetooth...| Bluetooth letiltása...
+Connecting...| Csatlakozás...
+Disconnecting...| Szétkapcsolás...
+Boot| Boot
+App| Alkalmazás
+USB disabled. Insufficient power for current configuration.| USB letiltva. Nincs elegendő áramellátás az aktuális konfigurációhoz.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| A megadott fájl nem felel meg a telefon által előírt csengőhang-specifikációknak. A csengőhangfájlokra vonatkozó követelmények a felhasználói útmutatóban tekinthetők meg.
+%d/%d| %d/%d
+%d days| %d nap
+1 day| 1 nap
+System Messages| Rendszerüzenetek
+Authorization Canceled| Engedélyezés megszakítva
+Crash Logs| Hibanaplók
+Warning - All entries in %s will also be deleted| Figyelmeztetés – A(z) %s helyen található bejegyzések is törlődnek
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Csengőhang
+Identity| Azonosító
+Extension| Mellék
+Address| Cím
+Server Error| Szerver Hiba
+Use Global Ring Tone| 
+Standard Ring Tone| Normál csengőhang
+Hide Number| Szám elrejtése
+Remote Office| Távoli iroda
+Remote Office| Távoli iroda
+Phone Number/SIP-URI| Telefonszám/SIP-URI
+Simultaneous Ring Personal| Egyéni egyidejű csengetés
+Simultaneous Ring| Egyidejű csengetés
+Do Not Ring if on a Call| Hívás közben ne csengjen
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Tel. szám/SIP-URI
+Alt Num/SIP-URI| Másik szám/SIP-URI
+Ring for all Incoming Calls| Csengés minden bejövő hívás esetén
+Invalid Number or SIP-URI| Érvénytelen szám vagy SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Portál száma
+Alert Locations for Click-To-Dial| Click-To-Dial riasztási helyei
+Alert Locations for Group Paging| Group Paging riasztási helyei
+Phone Number| Telefonszám
+Description| Leírás
+Alternate Number| 
+Call Control| Hívásvezérlés
+Diversion Inhibitor| Átirányítás elkerülése
+Answer Confirmation| Válasz megerősítése
+Xsi Server Not Found| Xsi nem található szerver
+Xsi Invalid Input| Xsi érvénytelen bevitel
+Call Center| Telefonos ügyfélszolgálat
+Presence| Jelenlét
+My Status| Saját állapot
+Contacts| Névjegyek
+Favorite| Kedvenc
+Available| Elérhető
+Eager to Chat| Készen áll a csevegésre
+Busy| Foglalt
+Away| Távol
+Extended Away| Hosszabb távollét
+Offline| Nem elérhető
+Unknown| Ismeretlen
+Enter custom presence text here...| Egyedi jelenléti állapot megadása...
+Status| Info
+Custom| Egyedi
+Favorites| Kedvencek
+All Contacts| Minden kapcsolat
+No contact in folder| Nincs névjegy a mappában
+No phone number| Nincs telefonszám
+No contact| Nincs kapcsolat
+Contact list currently not available| A névjegyzék jelenleg nem elérhető
+Contact| Kapcsolat
+Contact| Kapcsolat
+Connection to server failed| A szerverhez való csatlakozás sikertelen
+Configuration error| Konfigurációs hiba
+Authentication error| Hitelesítési hiba
+Connection to server lost| A szerverhez való csatlakozás megszakadt
+Mobile| Mobil
+Connect| Kapcsolódás
+%s disconnected| %s bontva
+%s connected| %s csatlakoztatva
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Új firmware. Ne húzza ki a telefont!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Összes másolása?
+Loading...| 
+Password Changed| Jelszó cserélve
+Restore Default| 
+Restore Default| 
+Enter Again| Még egyszer
+Erase| Törlés
+Set All| 
+VLAN Settings| VLAN Beállítások
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Haladó
+Phonebook| 
+Update| 
+Copyright| Copyright
+Pause| Szünet
+Incorrect password| Helytelen jelszó
+Please input duration between 1 to 1440 minutes| 
+Level 0| Szint 0
+Static Network Settings| 
+Enter| Enter
+Reset Configuration?| Reset konfig?
+TCP DUMP| 
+minutes| perc
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| VLAN ID
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Részletek
+First Name| 
+Home| Otthoni
+People| 
+Contacts - Add New| 
+Work| Munka
+Entry copied to|  másolva 
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Címtár megtelt
+Directory full| Megtelt 
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Kapcsolódás
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Folyamatban lévő hívás
+Scan| Keresés
+Stop| Leállítás
+Close| Bezárás
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Elfelejt
+Unknown Caller| 
+Answer| Válasz
+Decline| 
+Push Call| Hívás küldése
+End Call| 
+Caller| 
+Disconnect| Szétkapcsolás
+Capturing ...| 
+Speaker| Kihangosító
+Headset| Fejbeszélő
+Ringer| Csengő
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Telefon adatai
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Jelszó
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Módosít
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| No Link
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Magán
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Ne zavarj
+Phone Lock| Telefonzár
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Átnevezés
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Tovább...
+Restart| Újraindít
+Key is Programmed| Programozott gomb
+Advanced XML| Továbbfejlesztett XML
+Too many answers - Refine your search| Túl sok találat – Szűkítse a keresést
+%s Search| % Keresés
+Searching| Keresés
+Server not configured| A szerver nincs konfigurálva
+SimRing| Egyid. cseng.
+Phone No/SIP-URI Not Configured| Telefonszám/SIP-URI nincs konfigurálva
+ Xsi Server Update Failed|  Xsi szerver frissítése sikertelen
+Call Settings| Hívásbeállítások
+Missing Config| Hiányzó konfig
+Deflect| Eltérítés
+AnswerIcom| Intercom válasz
+In a call| Hívásban
+Chats| Csevegések
+Chat| Csevegés
+Send| Küldés
+Delete all chat sessions?| Törli az összes csevegést?
+Delete chat session with %s?| Törli a következővel való csevegést: %s?
+No active chat session| Nincs aktív csevegés
+Push Notifications| Értesítések
+Sound| Hang
+Bluetooth| Bluetooth
+Chat| Csevegés
+%s is typing...| %s gépel...
+Last message received %s at %s| Az utolsó üzenet ekkor érkezett: %s, %s
+Last message received while offline| Az utolsó, offline állapotban kapott üzenet
+now| most
+%ld secs ago| %ld másodperce
+1 min ago| 1 perce
+%ld mins ago| %ld perce
+1 hour ago| 1 órája
+%ld hours ago| %ld órája
+yesterday| tegnap
+%ld days ago| %ld napja
+while offline| offline állapotban
+Can't talk right now. I'll call you later.| Most nem tudok beszélni. Később visszahívlak.
+On another call| Másik hívás alkalmával
+I'll call you back| Visszahívlak
+Call me back in 10 minutes| Hívj vissza 10 perc múlva
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Egyedi...
+Message to %s| Üzenet neki: %s
+Cancel - No message sent| Mégse – Nincs elküldött üzenet
+Chat Messages| Csevegési üzenetek
+Reject Call Message Configuration| Hívást elutasító üzenet konfigurációja
+Message| üzenet
+Server Failure| Szerverhiba
+Use ^v to view| Megjelenítés: ^v
+Answer| Válasz
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Figyelmeztetés
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Név
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Kérés ideje lejárt
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Pass Thru Port
+Page Expired. Please reload the page.| Az oldal elévült. Töltse újra az oldalt.
+Application busy. Please try again later.| Az alkalmazás elfoglalt. Próbálja újra később.
+User ID required| Felhasználói azonosító szükséges
+Directory file must be in WAV format| A könyvtárban lévő fájlnak WAV formátumúnak kell lennie
+Local Directory Upload| Helyi könyvtár feltöltése
+Upload failed - Too many records detected in csv file| Sikertelen feltöltés – Túl sok bejegyzés található a csv-fájlban
+Upload failed - No record detected in csv file| Sikertelen feltöltés – Nem található bejegyzés a csv-fájlban
+Upload performed - %d records created| Feltöltés befejezve – %d bejegyzés jött létre
+minutes| perc
+User ID| Felhasználói azonosító
+Any PBX| Bármely PBX
+Screen Mode| Képernyőmód
+Show Picture| Kép megjelenítése
+Request timed out| Kérés ideje lejárt
+No Mobile phone connected| Nincs csatlakoztatott mobiltelefon
+Only one Handset can be paired to the phone| Csak egy fejhallgató csatlakoztatható a telefonhoz
+Only one Speaker can be paired to the phone| Csak egy hangszóró csatlakoztatható a telefonhoz
+Maximum number of paired devices reached| A párosítható eszközök maximális száma elérve
+Reload| Újratöltés
+Mobile Contacts| Mobilnévjegyek
+Mobile| Mobil
+Press "Turn on" to enable Bluetooth| A Bluetooth engedélyezéséhez nyomja meg a „Bekapcsolás” gombot
+Turn on| Bekapcsolás
+Turn off| Kikapcsolás
+Mobile : %s| Mobil: %s
+Pair| Párosítás
+Connect| Kapcsolódás
+Disconnect| Szétkapcsolás
+Forget| Elfelejt
+Rename| Átnevezés
+Rename Device| Eszköz átnevezése
+Disabling Bluetooth will disconnect your Cordless Handset| A Bluetooth letiltásával leválasztja a vezeték nélküli kézibeszélőt
+Warning| Figyelmeztetés
+Do you want to continue?| Folytatja?
+Bluetooth pairing request| Bluetooth-párosítási kérelem
+Pair with %s| Párosítás a következővel: %s
+Pairing code - %06ld| Párosításhoz szükséges kód – %06ld
+External| Külső
+Lock Settings| Zárolási beállítások
+Proximity auto-lock| Autom. zárolás közeledésre
+Delay before auto-lock| Késl. autom. zárolás előtt
+Proximity auto-unlock| Autom. feloldás közeledésre
+Delay before auto-unlock| Késl. autom. feloldás előtt
+Proximity auto-lock| Autom. zárolás közeledésre
+Proximity auto-unlock| Autom. feloldás közeledésre
+Delay before auto-lock (minutes)| Késl. autom. zárolás előtt (percekben)
+Delay before auto-unlock (minutes)| Késl. autom. feloldás előtt (percekben)
+M695: New Firmware. Do not unplug phone!| M695: Új firmware. Ne húzza ki a telefont!
+Login/Logout| Bejelentkezés/kijelentkezés
+Logout user %s| %s felhasználó kijelentkeztetése
+Login successful| Sikeres bejelentkezés
+Logout successful| Sikeres kijelentkezés
+Login failed| Sikertelen bejelentkezés
+Logout failed| Sikertelen kijelentkezés
+Hot desk user can not pair handset please login as a local user| A hot-desk-felhasználó nem tudja párosítani a kézibeszélőt. Jelentkezzen be helyi felhasználóként
+Hot desk user can not pair speaker please login as a local user| A hot-desk-felhasználó nem tudja párosítani a hangszórót. Jelentkezzen be helyi felhasználóként
+Hot desk user can not unpair handset please login as a local user| A hot-desk-felhasználó nem tudja leválasztani a kézibeszélőt. Jelentkezzen be helyi felhasználóként
+Hot desk user can not unpair speaker please login as a local user| A hot-desk-felhasználó nem tudja leválasztani a hangszórót. Jelentkezzen be helyi felhasználóként
+Push Call| Hívás küldése
+Cordless Handset| Vezeték nélküli kézibeszélő
+Low Battery| Alacsony töltöttségi szint
+Critical Battery| Kritikus töltöttségi szint
+Ongoing Call| Folyamatban lévő hívás
+Incoming Call| Bejövő hívás
+Incoming Call from %s| Bejövő hívás tőle: %s
+Incoming Call from %s (%s)| Bejövő hívás tőle: %s (%s)
+Voicemail access of Mobile Phone not supported| A mobiltelefon hangposta-hozzáférése nem támogatott
+Device not supported| Nem támogatott eszköz
+Phone not compatible| Nem kompatibilis telefon
+Dialing out through Mobile Line not supported| A mobilvonalon keresztül történő tárcsázás nem támogatott
+Page Expired. Please reload the page.| Az oldal elévült. Töltse újra az oldalt.
+Application busy. Please try again later.| Az alkalmazás elfoglalt. Próbálja újra később.
+Invalid prefix length (0 to 128)| Érvénytelen hosszúságú előtag (0–128)
+User ID required| Felhasználói azonosító szükséges
+IPv6 Settings| IPv6-beállítások
+Basic Network Settings (IPv6)| Alapvető hálózati beállítások (IPv6)
+Basic Network Settings (IPv4)| Alapvető hálózati beállítások (IPv4)
+Ethernet Port Settings| Ethernet-port-beállítások
+User ID| Felhasználói azonosító
+Colon ":"| Kettőspont ":"
+Login/Logout| Bejelentkezés/kijelentkezés
+Logout user %s| %s felhasználó kijelentkeztetése
+Login successful| Sikeres bejelentkezés
+Logout successful| Sikeres kijelentkezés
+Login failed| Sikertelen bejelentkezés
+Logout failed| Sikertelen kijelentkezés
+IPv6| IPv6
+Enable IPv6| IPv6 engedélyezése
+Mode DHCPv6| DHCPv6 mód
+DHCPv6| DHCPv6
+Auto-configuration| Automatikus konfigurálás
+Prefix Length| Előtag hossza
+IPv6 Address| IPv6-cím
+Local Directory Upload| Helyi könyvtár feltöltése
+Upload failed - Too many records detected in csv file| Sikertelen feltöltés – Túl sok bejegyzés található a csv-fájlban
+Upload failed - No record detected in csv file| Sikertelen feltöltés – Nem található bejegyzés a csv-fájlban
+Upload performed - %d records created| Feltöltés befejezve – %d bejegyzés jött létre
+Error: Upgrade/Downgrade rejected for incompatible firmware version| HIBA: Inkompatibilis firmware-verzió: a Frissítés/Visszaállítás nem lehetséges
+Directory file must be in CSV format| A könyvtárban lévő fájlnak CSV formátumúnak kell lennie
+Error: Upgrade/Downgrade rejected for incompatible firmware version| HIBA: Inkompatibilis firmware-verzió: a Frissítés/Visszaállítás nem lehetséges
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Port Map sikertelen
+DSP| DSP
+SIP| SIP
+Checking DECT| DECT ellenőrzése
+Updating DECT Firmware| A DECT Firmware frissítése
+Tone| Hangszín
+Interface| Interfész
+Web| Web
+7 +294| 7 +294
+Updating configuration| Konfiguráció frissítése
+Waiting assignment| Várakozás beállítás
+Checking for new firmware| Új firmware keresése
+Firmware Check| Firmware ellenőrzés
+Firmware Check| Firmware ellenőrzés
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Új Firmware: KÉREM, NE HÚZZA KI A TELEFONT
+New Firmware: Restarting...| Új Firmware: Újraindítás...
+Downloading configuration| Konfiguráció letöltése
+9 +397| 9 +397
+erase all calls| összes hívás törlése
+DELETE again to erase this item| TÖRÖL gomb a tétel törléséhez
+DELETE to erase item  or # to erase Number| TÖRÖL a tétel vagy # a szám törléséhez
+DELETE again to erase all calls| TÖRÖL minden hívás törléséhez
+DELETE again to erase all items| TÖRÖL minden tétel törléséhez
+Delete All| Mind töröl
+DELETE again to erase all calls| TÖRÖL minden hívás törléséhez
+DELETE again to erase all items| TÖRÖL minden tétel törléséhez
+Delete All| Mind töröl
+Factory Defaults| Gyári beállítások
+ Missed Call|  Nem fogadott hívás
+ Missed Calls|  Nem fogadott hívások
+7 +596| 7 +596
+Icom| Icom
+Dir| Címtár
+Xfer| Átadás
+Push| Push
+Push| Push
+Leave| Elhagy
+Conf| Konf
+SIP Settings| SIP beállítások
+8 +743| 8 +743
+Cannot Save| Nem menthető
+1 item| 1 tétel
+ items|  tételek
+item| tétel
+items| tételek
+item| tétel
+items| tételek
+No User| Nincs felhasználó
+Missing User ID| Hiányzó felhasználói azonosító
+DHCP failed| DHCP hiba
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| Beállított TLS
+Cfg Svr Failure| Cfg Svr hiba
+Bad Certificate| Hibás Cert
+Bad Cert/TLS Err| Hibás Cert/TLS hiba
+Certificates| Certifikációk
+Cert Validation| Cert validáció
+All defaults| Minden alapállapot
+6 +1070| 6 +1070
+Debug Level| Debug Level
+Support Information| Támogatási Információ
+Get local.cfg| local.cfg letöltés
+Get Log Files| Log fájlok letöltés
+Get server.cfg| server.cfg letöltés
+Get user_local.cfg| user_local.cfg letöltés
+Get user.cfg| user.cfg letöltés
+12 +1104| 12 +1104
+Invalid subnet mask| Érvénytelen Subnet Mask
+Invalid primary DNS address| Érvénytelen primary DNS cím
+Invalid secondary DNS address| Érvénytelen secondary DNS cím
+Invalid prefix length (0 to 128)| Érvénytelen hosszúságú előtag (0–128)
+User ID required| Felhasználói azonosító szükséges
+IP cannot be equal to gateway address| IP nem lehet azonos a gateway címmel
+IP and gateway have to be on same subnet| IP és a gateway-nek azonos hálózaton kell lennie
+IP and gateway are equal| IP és gateway egyforma
+IP gateway subnet mismatch| IP gateway subnet hiba
+IPv6 Settings| IPv6-beállítások
+Basic Network Settings| Alapvető hálózati beállítások
+Basic Network Settings (IPv6)| Alapvető hálózati beállítások (IPv6)
+Basic Network Settings (IPv4)| Alapvető hálózati beállítások (IPv4)
+Advanced Network Settings| Haladó Hálózati beállítások
+DHCP| DHCP
+NAT Port| NAT Port
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| A megadott fájl mérete túl nagy. Az egyes fájlok nem haladhatják meg az 1 MB méretet.
+The phone does not have enough space to store this file.| A telefonon nem található elég hely a fájl tárolásához.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| A megadott fájl nem felel meg a telefon által előírt csengőhang-specifikációknak. A csengőhangfájlokra vonatkozó követelmények a felhasználói útmutatóban tekinthetők meg.
+Directory file must be in WAV format| A könyvtárban lévő fájlnak WAV formátumúnak kell lennie
+Directory file must be in CSV format| A könyvtárban lévő fájlnak CSV formátumúnak kell lennie
+Local Directory Upload| Helyi könyvtár feltöltése
+Upload failed - Too many records detected in csv file| Sikertelen feltöltés – Túl sok bejegyzés található a csv-fájlban
+Upload failed - No record detected in csv file| Sikertelen feltöltés – Nem található bejegyzés a csv-fájlban
+6 +1370| 6 +1370
+IP&MAC Addresses| IP&MAC Címek
+LAN Port| LAN Port
+PC Port| PC Port
+Port Mirroring| Port tükrözés
+Set Audio| Audió-szett
+Config. Server| Konfig. Szerver
+IP Address:| IP-cím:
+7 +1463| 7 +1463
+App| Alkalmazás
+Watchdog| Watchdog
+Speeddial/Conf| Gyorshívás/Konf
+Speeddial/MWI| Gyorshívás/MWI
+Speeddial/MWI| Gyorshívás/MWI
+Call is on Hold| Hívás tartásban
+No subscription| Nincs szolgált.
+802.1x Failed| 802.1x hiba
+6 +1473| 6 +1473
+Failed to config Line Manager| Line Manager konfigurációs hiba
+Line in use| Vonal foglalt
+Get Crash Log| Crash Log letöltés
+Logging Issue| Bejelentkezési kérdés
+Time Unavailable| Idő elérhetetlen
+Packetization Interval| Packetization Interval
+Basic| Alapvető
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Egyedi
+IN| BE
+OUT| KI
+Filter| Szűrő
+Filtering| Szűrés
+Opt Status| Opt státusz
+Executives| Vezetők
+Forward Filtering| Átirányítás szűrés
+Divert| Átirányítás
+Divert to Number| Átirányítás számra
+IN| BE
+OUT| KI
+Filter| Szűrő
+Filtering| Szűrés
+Opt Status| Opt státusz
+Executives| Vezetők
+Forward Filtering| Átirányítás szűrés
+Divert| Átirányítás
+Divert to Number| Átirányítás számra
+Press a contact button to view contact info.| Nyomjon meg egy kontakt gombot a részletes információért.
+No info available. Please press a contact button.| Nem érhető el információ. Kérjük, nyomja meg a kapcsolat gombot.
+ Enter Administrator Password|  Üsse be az admin jelszót
+6 +1749| 6 +1749
+Level 4| Szint 4
+Level 5| Szint 5
+Dot "."| Pont "."
+Colon ":"| Kettőspont ":"
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Vonal: %d
+Line %d: %s| Vonal %d: %s
+6 +1780| 6 +1780
+Please enter a number| Kérem, adjon meg egy számot
+Please enter a name| Írjon be egy nevet
+Login| Belépés
+Log Issue| Log kérdés
+Log Out| Kijelentkezés
+Avail| Elérh.
+Unavail| Nem elérh.
+14 +1852| 14 +1852
+Show Picture| Kép megjelenítése
+Mode %d| Mód %d
+Screen Saver Timer| Képernyőkímélő időzítés
+Enabled also in call| Hívás közben is engedélyezve
+Enabled also in call| Hívás közben is engedélyezve
+Invalid Subscription Time| Érvénytelen előfizetési idő
+Speed Dial 8| Gyorshívás 8
+Request Failed| Kérés sikertelen
+Request timed out| Kérés ideje lejárt
+Too many answers - Refine your search| Túl sok találat – Szűkítse a keresést
+New Contact| Új kapcsolat
+Edit Details| Részletek szerkesztése
+Edit Details| Részletek szerkesztése
+Failed to retrieve contact details| Nem sikerült lekérni a kapcsolatok részleteit
+No Mobile phone connected| Nincs csatlakoztatott mobiltelefon
+Only one Handset can be paired to the phone| Csak egy fejhallgató csatlakoztatható a telefonhoz
+7 +2039| 7 +2039
+Volume| Hangerő
+DTMF| DTMF
+Screenshot| Képernyőfelvétel
+All| Összes
+All| Összes
+Missed| Nem fogadott
+Outgoing| Kimenő
+Received| Fogadott
+7 +2053| 7 +2053
+Paired Devices| Párosított eszközök
+Available Devices| Elérhető eszközök
+Swipe the toggle switch to the right to enable Bluetooth| A Bluetooth engedélyezéséhez csúsztassa jobbra a kapcsolót
+Press "Turn on" to enable Bluetooth| A Bluetooth engedélyezéséhez nyomja meg a „Bekapcsolás” gombot
+Press "Turn on" to enable Bluetooth| A Bluetooth engedélyezéséhez nyomja meg a „Bekapcsolás” gombot
+Turn on| Bekapcsolás
+Turn off| Kikapcsolás
+Mobile : %s| Mobil: %s
+9 +2067| 9 +2067
+Device| Eszköz
+Rename Device| Eszköz átnevezése
+No paired devices| Nincs párosított eszköz
+Connection successful| Sikeres kapcsolódás
+Connection failed| Sikertelen kapcsolódás
+Disconnection successful| Sikeres szétkapcsolás
+Connection successful| Sikeres kapcsolódás
+Connection failed| Sikertelen kapcsolódás
+Disconnection successful| Sikeres szétkapcsolás
+Disconnection failed| Sikertelen szétkapcsolás
+Pairing failed| Párosítás sikertelen
+Operation failed| Sikertelen művelet
+7 +2153| 7 +2153
+%ld days ago| %ld napja
+while offline| offline állapotban
+Can't talk right now. I'll call you later.| Most nem tudok beszélni. Később visszahívlak.
+On another call| Másik hívás alkalmával
+On another call| Másik hívás alkalmával
+I'll call you back| Visszahívlak
+Call me back in 10 minutes| Hívj vissza 10 perc múlva
+Custom...| Egyedi...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| A hot-desk-felhasználó nem tudja párosítani a hangszórót. Jelentkezzen be helyi felhasználóként
+Hot desk user can not unpair handset please login as a local user| A hot-desk-felhasználó nem tudja leválasztani a kézibeszélőt. Jelentkezzen be helyi felhasználóként
+Hot desk user can not unpair speaker please login as a local user| A hot-desk-felhasználó nem tudja leválasztani a hangszórót. Jelentkezzen be helyi felhasználóként
+Push Call| Hívás küldése
+Cordless Handset| Vezeték nélküli kézibeszélő
+Push Call| Hívás küldése
+Cordless Handset| Vezeték nélküli kézibeszélő
+Low Battery| Alacsony töltöttségi szint
+Critical Battery| Kritikus töltöttségi szint
+Ongoing Call| Folyamatban lévő hívás
+5 +2188| 5 +2188
+Device not supported| Nem támogatott eszköz
+Phone not compatible| Nem kompatibilis telefon
+Dialing out through Mobile Line not supported| A mobilvonalon keresztül történő tárcsázás nem támogatott
+IPv6| IPv6
+Enable IPv6| IPv6 engedélyezése
+Mode DHCPv6| DHCPv6 mód
+DHCPv6| DHCPv6
+Auto-configuration| Automatikus konfigurálás
+Prefix Length| Előtag hossza
+IPv6 Address| IPv6-cím
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Hiba: Inkompatibilis firmware-verzió: a Frissítés/Visszaállítás nem lehetséges
+Audio Diagnostics| Audió diagnosztikák
+Diagnostics| Diagnosztikák
+Timeout (1-5 Minutes)| Időtúllépés (1-5 perc)
+Disconnect| Szétkapcsolás
+Capturing ...| Felvétel...
+Complete ...| Befejezett ...
+Collecting Logs ...| Logok összegyűjtése ...
+Collect Logs| Logok összegyűjtése
+Please input a duration between 1 and 5 minutes| Kérem, adjon meg egy 1 és 5 perc közötti időtartamot
+Erase| Törlés
+Cloud Service| Felhőszolgáltatás
+Enable Cloud Service| Felhőszolgáltatás engedélyezése
+Cloud SIP| Felhő SIP
+Cloud Directory| Felhő címtár
+Active Config Server| Aktív konfig. szerver
+Cloud Config Server 1| Felhő konfig. szerver 1
+Cloud Config Server 2| Felhő konfig. szerver 2
+Cloud Staging Server| Felhő rendezési szerver
+Cloud Domain| Felhő domén
+Replay| Kicserél
+Backward| Visszafelé
+Forward| Továbbítás
+Send To| Küldés
+Logout| Kijelentkezés
+To Email| Az e-mailhez
+Delete Failure| Törlési hiba
+Play Failure| Lejátszási hiba
+Play Failure due to a system error. See your system administrator.| Rendszerhiba miatt történt lejátszási hiba. Keresse fel a rendszergazdát.
+Save Failure| Hiba mentése
+Add Contact| Névjegy hozzáadása
+Voicemail and Recordings| Hangposta és felvételek
+Voicemail User Login| Hangposta-felhasználó belépése
+Send to| Küldés
+Cannot dial a private number| Magán telefonszámot nem lehet felhívni
+Cannot copy a private number| Magán telefonszámot nem lehet másolni
+Number not available| A telefonszám nem érhető el
+Loading...| Betöltés...
+Login| Belépés
+Contacts| Névjegyek
+Private| Magán
+To| Címzett
+Send| Küldés
+Voicemail has been sent.| A hangposta el lett küldve.
+Error in sending Voicemail. Please send it again.| A hangposta elküldése közben hiba lépett fel. Kérem, küldje el újra.
+Voicemail has been sent to email.| A hangposta el lett küldve az e-mail-címre.
+Error in sending to Email.| Az e-mail elküldése közben hiba lépett fel.
+New| Új
+Recorded| Felvett
+Receipt Confirmation| Átvétel megerősítve
+Passcode| Belépési kód
+Mailbox Number| E-mail fiók száma
+Remember passcode| Emlékezzen a belépési kódra
+Passcode is incorrect. Enter a valid passcode.| Helytelen belépési kód. Adjon meg egy érvényes belépési kódot.
+Invalid mailbox number.| Érvénytelen e-mail fiók szám.
+Error - Mailbox in use| Hiba - Az e-mail fiók használatban van
+Error - maximum sessions exceeded| Hiba - a maximális munkamenet túllépve
+Error - no session exists| Hiba - nincsen munkamenet
+Error - bad extension| Hiba - rossz mellék
+Mailbox locked for security reasons. See your system administrator.| Az e-mail fiókot biztonsági okokból zárolták. Keresse fel a rendszergazdát.
+DECT Headset| DECT fejbeszélő
+DECT Headset Version| DECT fejbeszélő verzió
+DECT Headset Battery| DECT fejbeszélő akkumulátor
+DECT Headset Rf Power| DECT fejbeszélő rf teljesítmény
+DECT Headset Rf Power| DECT fejbeszélő rf teljesítmény
+Very Low| Nagyon alacsony
+Downloading font| Betűtípus letöltése
+No calls to unpark| Nincsen átadható hívás
+For …| A következő részére ...
+To VM| A VM-nek
+Number of Packets Sent| Elküldött csomagok száma
+Number of Packets Received| Fogadott csomagok száma
+RTT min/avg/max| RTT min/átl/max
+traceroute to| nyomkövetési útvonal eddig
+hops max| ugrás max
+byte max| bájt max
+Voicemail box is full| A hangpostafiók full
+ALL| ÖSSZES HÍVÁS
+REMOTE| TÁVOLI
+Local| Helyi
+Not allowed on this call| Ennél a hívásnál nem engedélyezett
+ Whisper| Suttogás
+ Consult| Konzultáció
+ Coach| Előkészítés
+ Barge| Betolakodás
+ Monitor| Felügyelet
+ For| A következőhöz
+ External Speaker| Külső hangszóró
+ UnPark| Átadás
+ Call Parked| Hívás parkolva
+ UnPark Failed| Átadás sikertelen
+ Rev:| Mód.:
+ You must restart the phone before the new settings will take effect.| Az új beállítások érvénybe lépése előtt újra kell indítani a telefont.
+ None| Nincs
+ Use LLDP-MED| LLDP-MED használata
+ LLDP neighbor| LLDP szomszéd
+ Cache LLDP-MED| LLDP-MED gyorsítótár
+ Conf In Progress| Konferenciahívás folyamatban
+  Enter Voicemail Password| Adja meg a hangpostafiók jelszavát
+ Call Server| 
+ Do Not Ring if on a Call| Hívás közben ne csengjen
+ P| P
+ To Vm| A HP-hez
+ Pickup not permitted| Átvétel nem engedélyezett
+ Pickup/unpark not permitted| Átvétel/átadás nem engedélyezett
+ Unpark not permitted| Átadás nem engedélyezett
+ Silent Monitor not permitted on this call| Csendes felügyelet nem engedélyezett ehhez a híváshoz
+ Silent Coach not permitted on this call| Csendes előkészítés nem engedélyezett ehhez a híváshoz
+ Barge In not permitted on this call| Betolakodás nem engedélyezett ehhez a híváshoz
+ Park not permitted| Parkolás nem engedélyezett
+ Park/Transfer is still in progress| Parkolás/Átadás folyamatban
+ No calls to unpark| Nincsen átadható hívás
+ No calls to park| Nincsen parkolható hívás
+ No calls to pickup| Nincsen átvehető hívás
+ No calls to take action| Nincsen műveletet igénylő hívás
+ My Status| Saját állapot
+ Favorite| Kedvenc
+ Voicemail playback failed| Hangposta lejátszása sikertelen
+ Voicemail skip failed| Hangposta kihagyása sikertelen
+ Voicemail bad address| Hangposta címe hibás
+ Voicemail box is full for| A hangpostafiók tele van a következőhöz
+ Not supported| Nem támogatott
+ Service unavalilable at this time| A szolgáltatás jelenleg nem elérhető
+ Hold not permitted on this call| Tartás nem engedélyezett ehhez a híváshoz
+ Action not permitted| A művelet nem engedélyezett
+ Not Permitted on this call| Ennél a hívásnál nem engedélyezett
+ Request denied or \r\nunacceptable at this time| Kérelem megtagadva vagy \r\njelenleg nem fogadható el
+ Phone number is invalid or not properly formatted| A telefonszám érvénytelen vagy nincs megfelelően formázva
+ Move Message Failure| Hiba az üzenet áthelyezésekor
+ Contacts| Névjegyek
+ Cloud Connect| Csatlakozás a felhőhöz
+ Service Type| Szolgáltatás típusa
+ MiCloud Connect| MiCloud Connect
+ MiVoice Border Gateway| MiVoice Border Gateway
+ User DID| Felhasználó DID
+ Domain| Tartomány
+ Call Back| Visszahívás
+ Play| Lejátszás
+ Exit| Kilép
+ Skip Back| Ugrás vissza
+ Skip Forward| Ugrás előre
+ Inbox| Bejövő üzenetek
+ MiCloud| MiCloud
+ Fetching Details| Részletek lekérése
+ Additional Phone| További telefonszám
+ Agent state| Ügynök állapota
+ Availability| Elérhetőség
+ Standard| Standard
+ In a meeting| Megbeszélésen
+ Out of office| Nincs az irodában
+ Extended Absence| Kibővített távollét
+ Do not disturb| Ne zavarj
+ On the Phone| Telefonál
+ Assign| Hozzárendelés
+ Assign user| Felhasználó hozzárendelése
+ Assign user failed| Felhasználó hozzárendelése sikertelen
+ Assign user to phone in progress. Please wait...| Felhasználó telefonhoz történő hozzárendelése olyamatban. Kérem várjon...
+ Extension or password invalid| A mellék vagy a jelszó érvénytelen
+ Unassign| Hozzárendelés törlése
+ Unassign user| Felhasználó hozzárendelésének törlése
+ Unassign user failed| Felhasználó hozzárendelésének törlése sikertelen
+ Unassign user?| Törli a felhasználó hozzárendelését?
+ Unassigning user...| Felhasználó hozzárendelésének törlése...
+ Voicemail password| Hangpostafiók jelszava
+ Ping| Ping
+ Host Name or IP Address| Gazdagép neve vagy IP-címe
+ Please enter a valid HostName/IP Address| Kérjük, adjon meg egy érvényes gazdagépnevet/IP-címet
+ Pinging %s...| %s pingelése...
+ Tracerouting...| Nyomkövetés...
+ Tracerouting Complete| Nyomkövetés kész
+ Traceroute| Nyomkövetés
+ Page Up| Oldal fel
+ Page Down| Oldal le
+ Traceroute Command| Nyomkövetési parancs
+ Always| Mindig
+ Never| Soha
+ Always destination| Célállomás mindig
+ No answer destination| Célállomás, ha nem válaszol
+ Busy destination| Célállomás, ha foglalt
+ Simulring| Simulring
+ VPN| VPN
+ Use VPN| VPN használata
+ VPN gateway| VPN gateway
+ VPN gateway port| VPN gateway portszáma
+ Tunnel IP| Alagút IP címe
+ VPN protocol| VPN protokoll
+ VPN debug mode| VPN hibakeresés üzemmód
+ System| Rendszer
+ Log upload| Napló feltöltése
+ Timeout (1-1440 Minutes)| Időtúllépés (1–1440 perc)
+ Please input a duration between 1 and 1440 minutes| Kérjük, adjon meg egy 1 és 1440 perc közti időtartamot
+ User Settings| Felhasználói beállítások
+ Diagnostic server| Diagnosztikai kiszolgáló
+ Diag Server| Diagnosztikai kiszolgáló
+ Wrap up| Becsomagolás
+ UnWrap| Kicsomagolás
+  Open|  Megnyitás
+ Confirm| Jóváhagyás
+ New voicemail password| Hangpostafiók új jelszava
+ Password entries do not match| A megadott jelszavak nem egyeznek
+ Password change succeeded| A jelszómódosítás sikeres
+ New password same as old password| Az új és a régi jelszó megegyezik
+  Reply|  Válasz
+  ReplyAll|  Válasz mindenkinek
+  Compose|  Levélírás
+  Call VM|  HP hívása
+ Cannot choose your own extension| Saját mellék nem választható ki
+ Save Changes?| Menti a módosításokat?
+ Validating number...| Szám érvényesítése...
+ Invalid %s| Érvénytelen %s
+ Upgrade Required| Frissítés szükséges
+ Invalid DID or Password| A DID vagy a jelszó érvénytelen
+ Register| Regisztráció
+ Voice Service| Hangszolgáltatás
+ Start Over| Újraindítás
+ Empty domain name| Üres tartománynév
+ Registering| Regisztráció
+ DID or password no update| A DID vagy a jelszó nem frissíthető
+ Invalid domain name| Érvénytelen tartománynév
+  Registration cancelled| Regisztráció megszakítva
+ Pager| Pager
+ Phone not registered| A telefon nincs regisztrálva
+ Enterprise| Vállalati
+  Parameter Type| Paraméter típusa
+ Remote| Távoli
+  Filter Page| Oldal szűrése
+  Parameter Filter| Paraméter-filter
+  Get Parameters| Paraméterek beolvasása
+ Assigned| Hozzárendelve
+ Assigning| Hozzárendelés
+ Invalid extension| Érvénytelen mellék
+ Extension or password no update| A mellék vagy a jelszó nem frissíthető
+ Assignment cancelled| Hozzárendelés megszakítva
+ Extension already assigned| A mellék már hozzá van rendelve
+  Select a call to park| Válasszon egy hívást a parkoláshoz
+  Select a call to unpark| Válasszon egy hívást az átadáshoz
+  Unpark| Átadás
+ Duration| Időtartam
+ Subject| Tárgy
+ Uploading Fail| A feltöltés sikertelen
+ Diagnostic server is empty| A diagnosztikai kiszolgáló üres
+ Logs uploaded successfully| Naplók sikeresen feltöltve
+ Urgent| Sürgős
+ Return Receipt| Olvasási igazolás visszaküldése
+ Include Original| Az eredetivel együtt
+ Re: Voice Message| Vá: Hangüzenet
+ Fw: Voice Message| Tov: Hangüzenet
+ Phone not assigned| Telefon nincs hozzárendelve
+ Whisper Page| Suttogás oldal
+ Intercom| Intercom
+ Silent Monitor| Csendes felügyelet
+ Barge In| Betolakodás
+ Silent Coach| Csendes előkészítés
+ To Inbox| Ugrás a bejövő üzenetekre
+ Save Message?| Üzenet mentése?
+ By First| Keresztnév szerint
+ By Last| Vezetéknév szerint
+ Dial Voicemail| Hangposta tárcsázása
+ Dial VM| HP tárcsázása
+  Invalid Phone Number| Érvénytelen telefonszám
+ Transfer not permitted on this call| Átadás nem engedélyezett ehhez a híváshoz
+ Conference not permitted on this call| Konferencia nem engedélyezett ehhez a híváshoz
+ Remote log upload in progress| Távoli napló feltöltése folyamatban
+ Remote capture upload in progress| Távoli hangrögzítés feltöltése folyamatban
+ Standard| Standard
+ Ring 2| 2. gyűrű
+ Ring 3| 3. gyűrű
+ Ring 4| 4. gyűrű
+ Play Int| Belső lejátszás
+ Play Ext| Külső lejátszás
+ Press "Upload" to upload a debug log| Nyomja meg a „Feltöltés” gombot a hibakeresési napló feltöltéséhez
+ Select a call to merge| Válasszon egy hívást a bekapcsoláshoz
+ Add Caller:| Hívó hozzáadása_
+ Assign user?| Felhasználó hozzárendelése?
+ Participants| Résztvevők
+ Conferenced| Konferencia
+ calls| hívások
+ held calls| tartott hívások
+ Debug on| Hibakeresés be
+ Debug off| Hibakeresés ki
+ Unknown Error| Ismeretlen hiba
+ Connection Error| Csatlakozási hiba
+ Application Error| Alkalmazáshiba
+ Number of Packets Sent:| Elküldött csomagok száma:
+ Number of Packets Received:| Fogadott csomagok száma:
+ RTT min/avg/max| RTT min/átl/max
+ traceroute to| nyomkövetési útvonal eddig
+ hops max| ugrás max
+ byte packets| bájtos csomag
+ Help| Súgó
+ Call Mitel Support ?| Hívja a Mitel ügyfélszolgálatot?
+ Mitel Support| Mitel ügyfélszolgálat
+ Remote| 
+ OnHold| 
+Initializing Components| Alkatrészek inicializálása
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

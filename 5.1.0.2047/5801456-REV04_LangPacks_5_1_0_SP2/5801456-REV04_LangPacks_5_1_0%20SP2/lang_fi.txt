@@ -1,0 +1,3606 @@
+Suomi
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Luureja ei ole liitetty
+Cordless Handset Feature Key Configuration| Toiminnenäppäin
+None| Ei liitetty
+Attempting to pair...| Liittää ...
+Pairing successful| Liittäminen onnistui
+Pairing failed       | Liittäm. Epäonnistui       
+Try again| Yritä uudelleen
+Remove Handset:| Poista luuri
+Attempting to remove| Yrittää poistaa
+Wait...| Odota ...
+Removal successful| Poistaminen onnistui
+Cordless| Langaton
+Cordless Handsets| Langattomat luurit
+None Registered| Ei rekisteröity
+Sync| Synkron.
+Private Line| Oma linja
+Sending Directory| Luettelo lähetetään
+to Handsets| luureihin
+System Unavailable| Järj. ei saatavilla
+Handset Pairing| Luuria kytketään
+Handset Keys| Luurin näppäimet
+Feature Key programming complete.| Toiminnenäppäimien ohjelmointi
+Two Call Support| Tuki 2 puhelulle
+Intercom| Pikapuhelin
+Sending Directory to Handsets| Lähettää luetteloa luuriin
+No Public Number Found| Numeroa ei löytynyt
+480i prompts| 
+Time Format| Aikamuoto
+    NOT MATCH !!!|  Ei yhteensopiva
+Erase local config?| Poista paik. asetus
+Alternate Server| Toissij. Palv.
+Contrast Level| Kontrastitaso
+TypeService SIP| Palvelutapa SIP
+TypeService RTP| Palvelutapa RTP
+TypeService DSCP| Palv.tyyppi DSCP
+TypeService RTCP| Palvelutapa RTCP
+Dn| Alas
+Rt| Hikeus
+Lf| Vasen
+Del| Poista
+System Info Upload| Lataa järjestelmätietoja
+Up| Yl
+Copyright| Tekijänoikeus
+Reset| Reset
+Phone will restart automatically after finishing.| Puhelimen uudelleenkäynn.
+Please login| Kirjaudu
+Incorrect password| Väärä salasana
+Reset Configuration?| Palauta asetukset?
+Cfg. Svr.| Palvelin
+Enable| Aktivoi
+List| Lista
+Move Up| S. Ylös
+Move Down| S. Alas
+Firmware Loaded| Ohjelmisto ladattu
+802.1x Authenticating| 802.1x autentikointi
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Odottaa IP:tä
+Bluetooth Upgrade .. Please wait| Bluetooth päivitetään ... Odota hetki
+Contacting Redirector| Muodostetaan yhteyttä uudelleenohjaukseen
+Redirecting Step 1| Uudelleenohjaus Askel 1
+Redirecting Step 2| Uudelleenohjaus Askel 2
+Redirecting Step 3| Uudelleenohjaus Askel 3
+Redirecting Step 4| Uudelleenohjaus Askel 4
+Redirecting Step 5| Uudelleenohjaus Askel 5
+Redirecting Step 6| Uudelleenohjaus Askel 6
+Auto Discovery...| Automaattinen tunnistaminen
+Starting in Generic SIP Mode| Aloitus yleisessä SIP-tilassa
+Starting in AastraLink Mode| Aloitus AastraLink-tilassa
+Updating config| Päivittää asetukset
+Waiting assignment| Odottaa tietoa
+Checking for Firmware  Do not unplug phone!| Etsii ohjelmistoa. Älä irrota puhelinta!
+New Firmware. Do not unplug phone!| Uusi ohjelmisto. Älä irroita puhelinta!
+New Firmware. Restarting...| Uusi ohjelmisto. Uudelleenkäynnistys ...
+Downloading configuration| Lataa asetukset
+Downloading Language Packs| Lataa kielitiedostot
+Network| Verkko
+UPnP device not found| UPnP-laite ei löydy
+Port Map In Progress| Porttias. suoritetaan
+Port Map Incomplete| Porttias. ei suor.
+DSP| DSP
+SIP| SIP
+Tone| Ääni
+Interface| Rajapinta
+Web| Web
+Done| Valmis
+CopyToAll| Kopioi
+Cannot use firmware.| Ohjelmisto ei käyt.
+No available lines| Ei vapaita yhteyksiä
+Current Password:| Nykyinen salasana:
+New Password:| Uusi Salasana:
+Re-enter Password:| Vahvista salasana:
+  Password Changed|    Salasana vaihdettu
+Change| Muuta
+Use DHCP?| Käytä DHCP?
+Advanced| Lisätiedot
+DNS| DNS
+Ringer | Soittaa ..
+ ERROR: invalid port|  Virhe: Väärä portti
+SIP Register| SIP-rekisteröinti
+Register?| Rekisteröi?
+Authentication Name| Nimiautentikointi
+Nortel NAT| Nortel NAT
+Reset phone to| Palauta puhelin
+factory defaults?| tehdasasetuksiin?
+Setting phone back to| Palauttaa
+Factory Defaults| tehdasasetuksiin
+  Please enter the   |     Syötä
+    administrator    | pääkäyttäjän
+      password.      |    salasana
+Password: | Salasana:
+Quit| Lopeta
+More| Lisää
+Timeserver Address:| Aikapalvelimen osoite
+Network Time Disabled| Verkkoaika suljettu
+Dialing| Numerovalinta
+Incoming| Tuleva
+Calling| Soittaa
+Pause| Tauko
+Pickup| Vastaa
+Previous| Edellinen
+Enter Time:| Syötä aika:
+Message Waiting| Viesti odottaa
+Live Dialpad| Autom. Soitto
+Live Dialpad is| Autom. Soitto on
+Options List| Valikko
+    Access denied    |  Pääsy kielletty
+Directory is full| Luettelo täynnä
+30min summertime| 30 min kesäaika
+1h    summertime| 1 t kesäaika
+No Link| Ei linkki
+Next| Seuraava
+Retry| Uudelleen
+Negotiation| Neuvottelu
+Live Dialpad disabled| Autom. Soitto Pois
+Link State| Yhteystila
+Headset Mic Volume| Mikrofonin voimakkuus
+Gateway IP Address:| Gateway IP-osoite:
+Enter Date (y-m-d):| Syötä pvm (v-k-p)
+Enter| Syötä
+Enable| Aktivoi
+Full 10Mbps| Full 10 Mbps
+Full 100Mbps| Full 100 Mbps
+Full 1000Mbps| Full 1000 Mbps
+Half 10Mbps| Half 10 Mbps
+Half 100Mbps| Half 100 Mbps
+Half 1000Mbps| Half 1000 Mbps
+Default| Vakio
+Add New| Lisää uusi
+DeleteList| Poista
+Delete entire| Poista koko
+Directory?| puhelinluettelo?
+Enter Number:| Syötä numero:
+Network disconnected| Ei verkkoyhteyttä
+Network connected| Verkkoyhteys
+Entry Saved| Talletettu
+Entry Removed| Poistettu
+Private| Henk.koht.
+Public| Yleinen
+Delete entry?| Poista tieto?
+Delete?| Poista?
+Delete number| Poista numero
+or delete all| tai poista kaikki
+entries?| tiedot
+Name is full| Nimi täynnä
+Empty| Tyhjä
+Redial List| Uudelleenvalintalista
+Details| Tiedot
+Copy| Kopioi
+Select| Valitse
+Voicemail| Puheposti
+DeleteItem| Poista
+Delete All| Poista kaikki
+Entry copied to| Kopioitu
+Entry Exists| Tiedot olemassa
+All items erased| Kaikki poistettu
+Sort| Järjestä
+Resume| Jatka
+EditNum| Muuta no.
+DeleteList again to| Poista taas
+Delete again to| Poista taas
+erase this item| Poista tämä
+erase all calls| Poista kaikki puhelut
+ new caller|  Uusi puhelu
+ new callers|  Uudet puhelut
+Press 1st letter| Syötä 1 kirjain
+Handset | Luuri 
+ Missed Call| Vastaamaton puhelu
+ Missed Calls| Vastaamattomat puh
+Call Forward Mode| Puhelusiirto-tila
+CFWD All| Siirto Kaikki
+CFWD Busy| Siirto Varattu
+CFWD NoAnswer| Siirto Ei vastaa
+Call| Puhelu
+Select TFTP| Valitse TFTP
+Use %c for new| Käytä %c Uusi
+Use %c to view| Käytä %c Näytä
+Download Protocol| Latausprotokolla
+OFF| POIS
+ON| PÄÄLLÄ
+Add Number| Lisää no.
+Arrange| Järjestä
+%cmore| %c Lisää
+Office| Konttori
+Home| Koti
+Cell| Matkapuhelin
+Pager| Hakulaite
+VLAN Settings| VLAN asetukset
+Softkeys and XML| Toiminnenäppäimet ja XML
+Softkeys Configuration| Toiminnenäppäin-asetus
+Bottom Keys| Alanäppäimet
+Top Keys| Ylänäppäimet
+Page1| Sivu 1
+Page2| Sivu 2
+Page3| Sivu 3
+Page4| Sivu 4
+Page5| Sivu 5
+Idle| Lepotila
+Outgoing| Ulos
+Empty| Tyhjä
+Enter server name/IP:| Syötä palvelinnimi/IP
+Enter HTTPS port:| Syötä HTTPS-portti
+Erase| Poista
+Proxy IP/Port| Proxy IP/portti
+Registrar IP/Port| Rek. IP/Porttia
+Erasing local config| Poistaa asetuksia
+Proxy Port:| Proxy-portti:
+Registrar Port:| Rekisteröi porttia:
+Proxy Server:| Proxy Palvelin:
+Registrar Server:| Rek. Palvelin:
+Contrast Level:| Kontrastitaso
+Erase Local Config.| Poista paik. Asetus
+Administrator Menu| Pääkäyttäjävalikko
+Backlight On Time| Taustavaloaika
+Redirect HTTP->HTTPS?| Siirry HTTP->HTTPS?
+Block XML HTTP POSTs?| Estä XML HTTPviestit?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP viestit
+Client Method| Työasema-tapa
+To unlock the phone| Avataksesi puhelimen
+No more softkeys| Ei lisää toiminnenäpp
+Ignore| Älä välitä
+Answer| Vastaa
+Configuration Server| Asetuspalvelin
+Primary Path| Ensisijainen polku
+Alternate Path| Toissijainen polku
+Logging in| Kirjautuu
+Login Failed| Kirjautumisvirhe
+Enable?| Aktivoi?
+Check Expires| Tarkista erääntyminen
+Check Hostnames| Tarkista IsäntäNimi
+Conf. Unavailable| Neuv. ei saatavilla
+Ringing...| Soittaa ...
+Error Messages| Virheilmoitukset
+No Error Messages| Ei virheilmoituksia
+Download Options| Latausvaihtoehdot
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| lisää
+A # &| A # &
+  Invalid password   |   Väärä salasana!   
+Upload Sys Info| Lataa järj.tied
+Config is updated. Restarting...| Asetukset päivitetty. Uudelleenkäynnistys
+CFWD Filtering| Siirron suodatus
+Checking for Firmware| Etsii ohjelmistoa
+for new| uudelle
+9133i prompts| 
+Password Changed| Salasana vaihdettu
+Leave| Poistu
+Time Format| Aikamuoto
+Erase local cfg?| Poista asetus?
+TypeService SIP| Palvelutapa SIP
+TypeService RTP| Palvelutapa RTP
+TypeService DSCP| Palv.tyyppi DSCP
+TypeService RTCP| Palvelutapa RTCP
+Alternate Server| Toissij. Palv.
+Contrast Level| Kontrastitaso
+Options List| Valikko
+DELETE to erase item  or # to erase Number| Pikaval.
+Upload Sys Info| Lataa järj.tied
+Directory Empty. Use Save to add| Luettelo tyhjä. Tallenna lisää
+Directory Empty Use Save to add| Luettelo tyhjä Tallenna lisää
+  NOT MATCH !!!|   Ei sopiva !
+DELETE again to erase this item| POISTA poistaa
+System Info Upload| Lataa järjestelmätietoja
+Phone will restart after| Puhelin käynnistyy uudelleen, kun
+Copyright| Tekijänoikeus
+Reset| Reset
+Use DHCP?| Käytä DHCP?
+Full 10Mbps| Full 10 Mbps
+Full 100Mbps| Full 100 Mbps
+Half 10Mbps| Half 10 Mbps
+Half 100Mbps| Half 100 Mbps
+Full 1000Mbps| Full 1000 Mbps
+Half 1000Mbps| Half 1000 Mbps
+Cfwd Destination| Siirtokohde
+Please login| Kirjaudu
+Incorrect password| Väärä salasana
+Reset Configuration?| Palauta asetukset?
+Cfg. Svr.| Palvelin
+Net disconnected| Yhteys katkaistu
+Live Dialpad| Autom. Soitto
+Firmware Loaded| Ohjelmisto ladattu
+802.1x Authenticating| 802.1x autentikointi
+LLDP| LLDP
+Initializing network| Alustaa verkkoa
+Bluetooth Upgrade| Bluetooth päivitys
+Contacting Redirector| Muodostetaan yhteyttä uudelleenohjaukseen
+Redirecting Step 1| Uudelleenohjaus Askel 1
+Redirecting Step 2| Uudelleenohjaus Askel 2
+Redirecting Step 3| Uudelleenohjaus Askel 3
+Redirecting Step 4| Uudelleenohjaus Askel 4
+Redirecting Step 5| Uudelleenohjaus Askel 5
+Redirecting Step 6| Uudelleenohjaus Askel 6
+Auto Discovery| Automaattinen tunnistaminen
+Starting in Generic SIP Mode| Aloitus yleisessä SIP-tilassa
+Starting in Aastra Link Mode| Käynistyy AastraLink tilassa
+Updating configuration| Päivittää asetukset
+Waiting assignment| Odottaa tietoa
+Checking for new firmware| Etsii uutta ohjelmistoa
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Uuso ohjelmisto: ÄLÄ KYTKE IRTI PUHELINTA!
+New Firmware: Restarting...| Uusi ohjelmisto: Uudelleenkäynnistys
+Downloading configuration| Lataa asetukset
+Downloading Language Packs| Lataa kielitiedostot
+Network| Verkko
+UPnP Gateway Not Found| UPnP ei löytynyt
+UPnP Port Map In Progress| UPnP porttimappaus käynnissä
+UPnP Port Map Incomplete| Epätäydellinen UPnP
+DSP| DSP
+SIP| SIP
+Tone| Ääni
+Registering with the voice network...| Rekisteröi Puhe-
+Web| Web
+Done| Valmis
+Cannot use| Tämä ohjelmisto
+this firmware.| ei käytettävissä
+All lines in use| Linjat varattu
+Current Password| Nyk. salasana
+New Password| Uusi Salasana:
+Enter Again| Uudestaan
+Ringer volume   | Soittovoimakkuus
+DELETE again to| Poista taas
+erase all calls| Poista kaikki puhelut
+Caller is erased| Tieto poistettu.
+Network Time| Verkkoaika
+Change| Muuta
+Options| Optiot
+Access denied| Yht. Kielletty
+Directory full| Puh.luet. täynnä
+Link Active| Linkki aktivoitu
+No Link| Ei linkki
+Live Dialpad is\nnot available.| AutVal on\nei akt.
+Live Dialpad is\nON| AutVal on\n akt.
+Live Dialpad is\nOFF| AutVal on\nei akt.
+-  confirmed   -|  - hyväksytty -
+Contrast | Kontrasti 
+Set| Aseta
+DHCP\nON| DHCP\nPäällä
+DHCP\nOFF| DHCP\nPoissa
+Enable?\nYes| Aktivoi?\nKyllä
+Enable?\nNo| Aktivoi?\nEi
+Check Expires| Tarkista erääntyminen
+Check Expires?\nYes| Tark voim?\nKyllä
+Check Expires?\nNo| Tark voim?\nEi
+Check Hostnames| Tarkista IsäntäNimi
+Check Hostnames?\nYes| Tark IsäntäNimi?\nKyllä
+Check Hostnames?\nNo| Tark IsäntäNimi?\nEi
+Cancel| Peruuta
+SIP Register\nON| SIP rek.\nPäällä
+SIP Register\nOFF| SIP rek.\nPoissa
+Nortel NAT\nEnabled| Nortel NAT\nPäällä
+Nortel NAT\nDisabled| Nortel NAT\nPoissa
+Next| Seuraava
+Done| Valmis
+Retry| Uudelleen
+Exit| Lopeta
+Pickup| Vastaa
+Call held| Puhelu pidossa
+Calls held| Puhelut pidossa
+Country Code: | Maakoodi:
+*List Countries| *Maaluettelo
+Enter| Syötä
+Admin Password| Admin salasana
+yyyy-mm-dd | vvvvv-kk-pp 
+Restart phone?| Uud. käynnitys?
+#Confirm| #Hyväksy
+RestoreDefaults?| Perusasetukset?
+Call Agent 1| Puhelu Agentti 1
+Call Agent 2| Puhelu Agentti 2
+Call Agent 3| Puhelu Agentti 3
+Invalid Code    | Epäkelpo koodi  
+E: Invalid port!| E: Väärä portti!
+Application:| Sovellus:
+Boot ROM:| Boot ROM:
+Negotiation:| Neuvottelu:
+30m summertime| Kesäaika 30min
+1h summertime| Kesäaika 1t
+Invalid password| Väärä salasana!
+  disconnected|   poiskytketty
+   connected|    kytketty
+    Network|     Verkko
+erase all items| Poista rivit
+Enter Number>| Syötä numero>
+Setting phone to| Asettaa
+Use Save to end| Talleta lopettaa
+to enter name>| nimen syöttö>
+Saved: Directory| Tall: Luettelo
+Retrying config | Asetustoisto 
+download...     | lataa...     
+empty| Tyhjä
+No Match| Ei vastaavuutta
+Save to?| Talleta
+Saved Memory key| Näpp. talletettu
+Removed Key| Näpp. poistettu
+Key saved | Näpp. talletettu
+Key removed| Näpp. poistettu
+Press 1st letter| Syötä 1 kirjain
+Speaker volume  | Kaiutinvoimakk. 
+Handset volume  | Luurivoimakk.  
+Headset volume  | Sankaluurivoim. 
+Factory Defaults| tehdasasetuksiin
+ Missed Call|  Vastaamaton puhelu
+ Missed Calls|  Vastaamattomat puh
+Cfwd State| Soitonsiirtotila
+Cfwd Number| Soitonsiirto num
+Cfwd Mode| Soitonsiirtotila
+CFWD All| Siirto Kaikki
+CFWD Busy| Siirto Varattu
+CFWD NoAnswer| Siirto Ei vastaa
+Select TFTP\nPrimary| Valitse TFTP\nEnsisij
+Select TFTP\nAlternate| Valitse TFTP\n optio
+DownloadProtocol| Latausprotokolla
+VLAN Settings| VLAN asetukset
+Server Name/IP?| Palvelinnimi/IP?
+HTTPS Port?| HTTPS portti?
+Client Method\nSSL 3.0| Client Method\nSSL 3.0
+Client Method\nTLS 1.0| Client Method\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nOhjaus
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nEi ohjausta
+Redirect| Ohjaus
+Do not redirect| Ei ohjausta
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nEi estoa
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nEsto
+Do not block| Ei estoa
+Block| Esto
+Erasing config| Asetusten poisto
+Pri TFTP Path| TFTP tie
+Alt TFTP Path| TFTP optio
+Backlight Mode| Taustavalotila
+Backlight Time| Taustavaloaika
+Answer| Vastaa
+Ignore| Älä välitä
+Cfwd| Siir
+Copy to All?| Kopioi kaikki
+Apply Changes?| Muuta?
+Logging in| Kirjautuu
+Login Failed| Kirjautumisvirhe
+Conf Unavailable| Aset. ei saat.
+Error Messages| Virheilmoitukset
+No Error Messages| Ei virheilmoit.
+Delete All| Poista kaikki
+Download Options| Latausvaihtoehdot
+Config updated. Restarting...| päivitetty. Uudelleenkäynnistys
+DELETE again to erase all calls| POISTA uudelleen tyhjentääksesi
+Firmware Check| Etsii ohjelmistoa
+Fwd Filtering| Siirtosuodatus
+CFWD Filtering| Siirron suodatus
+DELETE again to erase all items| Poista taas poista rivit
+Upload Sys Info| Lataa järj.tied
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Syöta admin salasana
+Error Msg| Virheilmoitukset
+Unlock the phone?| Avaa lukitus?
+ Enter Unlock Password| Syötä Avaus-salasana
+softkey| Toiminnenäppäin
+Edit Number| Muokkaa numeroa
+Lock the phone| Lukitse puhelin
+keypad| näppäimet
+Unlock| Avaa
+ Cust Feat| Sopeutetut toiminteet
+Phone is locked| Puhelin lukittu
+Unlock the phone| Avaa puhelimen lukitus
+GoodBye| Näkemiin
+Pass Thru Port| Portin kautta
+First| Etu
+Last| Suku
+Name| Nimi
+Add| Lis
+Edit| Muok
+Space| Väli
+Bksp| Tak.
+caps| caps
+CAPS| caps
+Reject| Hylkää
+Silence| Hiljaa
+Hold| Pito
+Transfer| Siirto
+>| >
+Lines| Linjat
+Settings| Asetukset
+Device Name| Laitenimi
+Bluetooth Devices| Bluetooth nimi
+Bluetooth Status:| B.tooth tila:
+Search| Haku
+Searching...| Hakee...
+device(s) found.| Löyd. laitteet
+Press on a device to start pairing.| Valitse laite
+Enter PIN| Syötä PIN-koodi
+Add Device| Lisää laite
+Active| Aktiiv.
+Are you sure?| Oletko varma?
+ALL| Kaikki
+Phone No:| Puhelinnumero:
+Copy to all modes| Kopioi kaikki
+BUSY| Varattu
+NO ANSWER| Ei vastattu
+CFWD NO ANS:| S.siir. Ei Vastattu
+CFWD BUSY:| S.siir. Varattu
+CFWD ALL:| S.siir. Kaikki
+Audio| Audio
+Calibrate Screen| Kalibroi näyttö
+Recalibrate Touchscreen?| Kalibroi kosketusnäyttö?
+Softkeys| Ohj Näpp
+Headset Mic Volume| Mikrofonin voimakkuus
+Headset Device| Sankaluuri
+Bluetooth| Bluetooth
+Wired| Johto
+Restart | Uudelleenkäynn.
+No Calls| Ei puh.
+Brightness Timer| Valoisuus - aika
+Brightness Level| Valoisuus - taso
+Add to Directory| Lisää luetteloon
+Waiting for Touch Screen activity to subside ...| Odottaa kosketusnäyttötehtävän loppumista
+Touch the UPPER-LEFT corner of the screen| Paina YLÄ-VASENta kulmaa
+Touch the UPPER-RIGHT corner of the screen| Paina YLÄ-OIKEAta kulmaa
+Touch the LOWER-RIGHT corner of the screen| Paina ALA-OIKEAta kulmaa
+Touch the LOWER-LEFT corner of the screen| Paina ALA-VASENta kulmaa
+Received unreliable data. You will be asked to touch the same point again| Väärä tunnistus, paina samaa kohtaa uudelleen
+Processing ...| Työstää...
+Validating calibration data ... please wait| Validoi kalibrointitiedot V.G Odota ...
+Sanity Check OK. Save changes?| Voimassaolo ok. Talleta?
+Sanity Check Failed| Voimassaolo ei ok
+Retry| Uudelleen
+Quit| Lopeta
+Please Enter| Syötä
+Submit| Lähetä
+User ID:| Käy.tun:
+Password:| Salasana:
+Transferring| Siirtää
+No. Rings| Soittolukumäärä
+Line| Linjat
+Unable to Pair| Yhdistäm. ei onnistu
+Please Wait...| Odota, ole hyvä...
+Add new device...| Lisää laite...
+Detected:| Löydetty:
+Connecting:| Yhdistää:
+Disonnecting:| Katkaisee:
+Connected:| Yhdistetty
+ALL| Kaikki
+BUSY| Varattu
+NO ANSWER| Ei vastattu
+CFWD ALL:| S.siir. Kaik
+CFWD BUSY:| S.siir. Var
+CFWD NO ANSWER:| S.siir Ei Va
+Copy to all modes| Kopioi kaikki
+OFF| POIS
+Off| POIS
+Phone Number:| Puhelinnumero:
+Level 1| Taso 1
+Level 2| Taso 2
+Level 3| Taso 3
+Level 4| Taso 4
+Level 5| Taso 5
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+ Enter Administrator Password| Syöta admin salasana
+Phone will restart automatically after finishing.| Puhelimen uudelleenkäynn.
+Conference| Neuvottelu
+Conf| Neuvottelu
+Reset Configuration?| Palauta asetukset?
+Hide|  Piil
+Live Dialpad| Autom. Soitto
+Live Dial| Live Dial
+Lock| Luk.
+Lock the phone?| Lukitse puhelin?
+Directory| Luettelo
+Phone Number:| Puhelinnumero:
+Common prompts| 
+None| Ei liitetty
+Disable| Deaktivoi
+Logout failed| Uloskirjautuminen epäonnistui
+Logout successful| Uloskirjautuminen onnistui
+Login successful| Sisäänkirjautuminen onnistui
+Logout user %s| Kirjaa ulos käyttäjä %s
+Login/Logout| Kirjaudu sisään/ulos
+User ID| Käyttäjätunnus
+User ID required| Käyttäjätunnus on pakollinen
+Application busy. Please try again later.| Sovellus on varattu. Yritä myöhemmin uudelleen.
+Page Expired. Please reload the page.| Sivu on vanhentunut. Lataa sivu uudelleen.
+Check Expires| Tarkista erääntyminen
+Check Hostnames| Tarkista IsäntäNimi
+Use DHCP?| Käytä DHCP?
+Restart Phone?| Uud. käynnitys?
+12 Hour| 12 tun.
+Speeddial| Pikaval.
+Erase local cfg?| Poista asetus?
+Spd Dial| Pikaval.
+Backup Outbound Proxy Server| Vara-proxy-palvelin ulospäin
+Backup Outbound Proxy Port| Vara-proxy-palvelin portti
+Firmware Info| Ohjelm. tiedot
+DHSG| DHSG
+DHSG is ON| DGSG on Päällä
+DHSG is OFF| DHSG on Poissa
+Backlight On Time| Taustavaloaika
+Use Alt TFTP| Käytä vaihtoehtoista TFTP
+Pri TFTP Path| TFTP tie
+Alt TFTP Path| TFTP optio
+RestoreDefaults?| Perusasetukset?
+HTTP Init Failed| HTTP ei onnistu
+Get aastra.lic| Saada aastra.lic
+Get mac.lic| saada mac.lic
+Firmware not licensed for use on this phone| Ohjelma ei lisenssoitu tälle puhelimell
+Redial List is empty| Uudelleensoitto-lista on tyhjä
+Callers List is empty| Puheluloki on tyhjä
+Callers List| Puheluloki
+Redial List| Uudelleenvalintalista
+Directory| Luettelo
+License Information| Lisenssitiedot
+XML Application URI:| XML-sovell. URI:
+Missing User ID| Käyttäjätunnus puuttuu
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Käytä
+Active Features| Aktiiviset toiminnot
+WWW MMM DD| WWW KKK PP
+DD-MMM-YY| PP-KKK-VV
+YYYY-MM-DD| VVVV-KK-PP
+DD/MM/YYYY| PP/KK/VVVV
+DD/MM/YY| PP/KK/VV
+DD-MM-YY| PP-KK-VV
+MM/DD/YY| KK/PP/VV
+MMM DD| KKK PP
+DD MMM YYYY| PP KKK VVVV
+WWW DD MMM| WWW PP KKK
+DD MMM| PP KKK
+DD.MM.YYYY| PP.KK.VVVV
+24 Hour| 24 tun.
+XML Application Title:| XML-sovelluksen otsikko
+License Status| Lisenssin tila
+FTP| FTP
+to view| näyttääksesi
+Contact Name already exists| Yhteystiedot olemassa
+Leave| Poistu
+Contact Mismatch| Osoite ei sopiva
+ Call Terminated| Puhelu katkaistu
+IP and gateway have to be on same subnet| IP ja GW samassa aliverkossa
+IP cannot be equal to gateway address| IP ei voi olla sama kuin GW
+Call Waiting Tone Period| Puhelu odottaa aaniväli
+OK| Kyllä
+Directory empty| Puh.luett. tyhjä
+Files Sent| Tiedostot läh.
+Upload System Info| Lataa järj.tied.
+Upload| Lataa
+Call Transferred| Puhelu välitetty
+Firmware Information| Ohjelmistotiedot
+Contact Name already exists| Yhteystiedot olemassa
+Replace| Korvaa
+No Services| Ei palvelua
+Merge| Yhdistä
+Enter Name:| Syötä Nimi:
+Call Hold Reminder| Muistutus Pidosta
+Others| Muut
+Call Hold Reminder During Active Calls| Muistutus Pidosta puhelun aikana
+Out of service| Ei toiminnassa
+Reason: | Syy:
+Add blank record?| Lisää tyhjä?
+Audio Setting| Audio-asetukset
+Delete Item| Poista laite
+Services| Palvelut
+Server| Palvelin
+Service Disabled| Palvelu Poissa
+Port| Portti
+Path| Polku
+Username| Käyttäjänimi
+No. Rings| Soittolukumäärä
+Use xx to view| xx näyttääksesi
+User Password| Käyttäjäsalasana
+Time and Date| Aika ja päiväys
+Language| Kieli
+Screen Language| Näytön kieli
+Tones| Äänet
+Tone Set| Aseta ääni
+Ring Tone| Soittoääni
+State| Tila
+State:| Tila:
+User-Busy| Varattu
+Unconditional| Ehdoton
+Time of day| Aika
+Deflection| Siirto
+Follow Me| Soitonsiirto
+Away| Poissa
+Busy| Varattu
+Restart| Käynnistä
+All On| Kaikki Pää
+All Off| Kaikki Poi
+AllAccts| Kaikki
+Conference| Neuvottelu
+Flash| Flash
+Dial| Valitse
+Directory| Luettelo
+Callers| Soittajat
+Icom| Pikapuh.
+Icom| Pikapuh.
+Dir| Luettelo
+Xfer| Siirrä
+Conf| Neuv.
+SIP Settings| SIP asetukset
+Proxy Port| Proxy portti
+Registrar Port| Rek. Portti
+User Name| Käyttäjänimi
+Screen Name| Näyttönimi
+Proxy Server| Proxy Palvelin
+Registrar Server| Rek. Palvelin
+Auth. Name| Autentikointinimi
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Näytä Nimi
+RTP Port Base| RTP perusportti
+Static NAT| Staattinen NAT
+NAT Settings| NAT asetukset
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP portti
+NAT RTP Port| NAT RTP portti
+NAT HTTPS Port| NAT HTTPS portti
+Phone Status| Puhelintila
+Auto Discovery| Automaattinen tunnistaminen
+Trying...| Yrittää...
+Remote| Etä
+Reset| Reset
+Choose Server| Valitse palvelin
+Select| Valitse
+Select| Valitse
+Ring Tone:| Soittoääni:
+Silent| Hiljaa
+Network Settings| Verkkoasetukset
+Clear| Tyhjennä
+Speaker | Kaiutin 
+Headset | Sankaluuri 
+Speaker/Headset| Kaiutin/sankal.
+Headset/Speaker| Sankal./Kaiutin
+Audio Mode| Ääni tila
+Low| Matala
+Medium| Keski
+High| Korkea
+OFF| POIS
+Off| POIS
+ON| PÄÄLLÄ
+DHCP Settings| DHCP asetukset
+DHCP User Class| DHCP luokka
+Hostname| IsäntäNimi
+IP Address| IP osoite
+Subnet Mask| Aliverkon mask
+Subnet Mask:| Aliverkon mask:
+Gateway| Yhdyskäytävä
+Primary DNS| Ensisij. DNS
+Secondary DNS| Toissij. DNS
+TFTP Settings| TFT-asetus
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC Port VLAN ID
+LAN Port VLAN| LAN Port VLAN
+PC Port VLAN| PC Port VLAN
+Priority| Priorit.
+VLAN Enabled\nYes| VLAN päällä\nKyllä
+VLAN Enabled\nNo| VLAN päällä\nEi
+PC Port Priority| PC Port Priorit.
+LAN Port VLAN ID| LAN Port VLAN ID
+UPnP| UPnP
+Use UPnP| Käytä UPnP
+Select Gateway| Valitse yhdysk.
+Portmap Started| Mappaus käynn.
+Portmap Error| Mappausvirhe
+LLDP| LLDP
+LLDP packet interval| LLDP pakettiväli
+LLDP Settings| LLDP Asetukset
+Use LLDP ELIN| Käytä LLDP ELIN
+TypeService DSCP| Palv.tyyppi DSCP
+Type of Service DSCP| DSCP-palvelu
+VLAN Priority| VLAN Priorit.
+Other Priority| Muu Prioriteetti
+SessionBorderCtl| SessionBorderCtl
+Session Border Ctrl| Session Border Ctrl
+Select SBC| Valitse SBC
+SBC Settings| SBC Asetukset
+Kagoor| Kagoor
+Update Interval (sec)| Päiv.väli (sek)
+Backspace| Takaisin
+No| Ei
+Yes| Kyllä
+DHCP Download Options| DHCP latausvaihtoehd.
+DHCP Download Option| DHCP latausvaihtoehd.
+Firmware Version| Ohjelmisto-ver.
+Restart Phone| Uud.käynn. Puh.
+Show| Näyt
+is OFF| on Pois
+Password| Salasana
+Restarting...| Käynnistyy...
+Speed| Nopeus
+Manual| Man.
+Auto| Autom.
+Auto| Autom.
+Half| Full
+Full| Half
+Duplex| Duplex
+ ERROR: | VIRHE:
+Invalid IP addr.| Väärä IP osoite
+Invalid mask| Väärä mask
+Range is 1-4094| Väli on 1-4094
+Range is 1-4095| Väli on 1-4095
+Range is 1-4095| Väli on 1-4095
+Range is 0-63| Väli on 0-63
+Range is 0-7| Väli on 0-7
+DND| Älä häir.
+DND On| Älä häir. Päällä
+Time Server| Aikapalvelin
+Set Time| Aseta aika
+Set Date| Aseta päiväys
+Date Format| Päiväysmuoto
+Time Zone| Aikavyöhyke
+Daylight Savings| Kesäaika
+Invalid Time| Väärä aika
+Invalid Date| Väärä päiväys
+Invalid IP| Väärä IP
+ Invalid Number|  Väärä numero
+On| PÄÄLLÄ
+On| PÄÄLLÄ
+On| PÄÄLLÄ
+OFF| POIS
+Automatic| Automaattinen
+Conf Hold| Neuv. Pidossa
+No Service| Ei palvelua
+Mute| Mykistys
+Connected| Liitetty
+Drop| Katkaise
+Park| Pitoon
+PickUp| Vastaa
+Redial| Uud.valinta
+DCP| DCP
+DCP List| DCP lista
+Cancel| Peruuta
+Done| Valmis
+Callers List| Puheluloki
+No changes made| Ei muutoksia
+Key is Locked| Näpp. Lukittu
+Cannot Save| Ei voi tallentaa
+1 item| 1 kpl
+ items|  kpl
+No User| Ei käyttäjää
+DHCP failed| DHCP virhe
+Unknown Name| Tuntematon nimi
+Unknown Number| Tuntematon no
+Unknown Line| Tuntematon linja
+Item is erased| Kohde poistettu
+Unknown| Tuntematon
+NextSpace| Välilyönti
+Dot "."| Piste "."
+Transfer Failed| Siirto epäonn.
+Call Forward| Soitonsiirto
+Call Fwd| Siir
+All| Kaikki
+All| Kaikki
+Any| Valinnainen
+NoAns| EiVast
+BusyNoAns| Var. EiVast
+Number:| Numero:
+Mode:| Tila:
+No. Rings:| Soitto lkm
+Line: | Linja:
+Contrast Level| Kontrastitaso
+ Message|  Viesti
+ Messages|  Viestit
+Loading Page...| Lataa sivua...
+Abort Loading...| Keskeytä lataus
+Connect Timeout| Kytk. Aikavalv.
+Data Timeout| Tied. Aikavalv.
+File Not Found| Tied. ei löydy
+Page Load Error| Sivun lat.virhe
+Cannot display| Ei voi näyttää
+Skip| Ohita
+Call Failed| Puh. epäonnistui
+Primary Server| Ënsis. Palvelin
+Primary Server| Ënsis. Palvelin
+Alternate Server| Toissij. Palv.
+Primary| Ensisijainen
+Alternate| Toissijainen
+Bad encrypted cfg| Asetus-virhe
+Use TFTP| Käytä TFTP
+Use FTP| Käytä FTP
+Use HTTP| Käytä HTTP
+Use HTTPS| Käytä HTTPS
+FTP Settings| FTP-asetus
+FTP Server| FTP-palvelin
+FTP Path| FTP-polku
+FTP Username| FTP-käyttäjänimi
+FTP Password| FTP-salasana
+HTTP Settings| HTTP-asetukset
+HTTP Server| HTTP-palvelin
+HTTP Path| HTTP-polku
+HTTP Port| HTTP-portti
+HTTPS Settings| HTTPS-asetukset
+Download Server| Latauspalvelin
+Download Path| Latauspolku
+Download Port| Latausportti
+HTTPS Server| HTTPS-palvelin
+HTTPS Path| HTTPS-polku
+HTTPS Port| HTTPS-portti
+HTTPS Client| HTTPS Client
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Väärä sertifik.
+Certificates| Sertifikaatti
+Cert Validation| Sertif. Varmenn.
+All defaults| Kaikki perusaset
+Config default| Perusasetukset
+AM| AP
+PM| IP
+Factory Default| Perusasetukset
+Factory Default?| Perusasetukset?
+Erase Local Cfg.| Poista asetukset
+New IP Obtained| Uusi IP-osoite
+New NAT IP| Uusi NAT IP
+Server IP Change| IP_osoitemuutos
+AastraLink Menu| AastraLink Val.
+Server Options| Palvelinoptiot
+AastraLink Info| AastraLink Info
+Server Remote IP| Etä IP-osoite
+Server Local IP| Paik. IP-osoite
+Preferences| Esiasetukset
+Network Status| Verkkotila
+MAC Address:| MAC-osoite:
+MAC Address| MAC-osoite
+BT MAC Address:| BT MAC-osoite:
+Invalid Key| Väärä näppäin
+Speed Dial Edit:| Muuta pikav.näpp
+Press SD button| Paina pikaval.
+From: | Keneltä:
+To: | Kenelle:
+Via: | Kautta:
+Diverted: | Siirretty:
+Log Off| Uloskirj.
+Customer Support| Asiakastuki
+Status| Tila
+Operation| Toiminta
+Basic Settings| Perusasetukset
+Advanced Settings| Laaj.asetukset
+System Information| Järjestelmä-tiedot
+Down| Alas
+Up| Yl
+n/a| Ei käyt
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Attrib.
+Link State| Yhteystila
+Negotiation| Neuvottelu
+Hardware Information| Laite-tiedot
+Firmware Information| Ohjelmistotiedot
+Firmware Release Code| Ohjelm. Valm.koodi
+Value| Arvo
+Platform| Alusta
+Boot Version| Boot versio
+Date/Time| Päiv/Aika
+DND Key Mode| Älä häiritse
+Call Forward Key Mode| Soitonsiirto-tila
+Option 160| Optio 160
+Option 159| Optio 159
+Option 66| Optio 66
+Option 43| Optio 43
+Account| Tili
+Both| Mol.
+Line| Linjat
+Line 1| Rivi 1
+Line 2| Rivi 2
+Line 3| Rivi 3
+Line 4| Rivi 4
+Line 5| Rivi 5
+Line 6| Rivi 6
+Line 7| Rivi 7
+Line 8| Rivi 8
+Line 9| Rivi 9
+Line 10| Rivi 10
+Configuration Line %d| Asetusrivi %d
+Basic SIP Authentication Settings| Sip autentikointiasetukset
+Screen Name| Näyttönimi
+Screen Name 2| Näyttönimi 2
+Phone Number:| Puhelinnumero:
+Phone Number| Puhelinnumero
+Caller ID| Soitt. Id
+Authentication Name| Nimiautentikointi
+Password| Salasana
+BLA Number| BLA numero
+Line Mode| Linja-til
+Generic| Yleinen
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| SIP verkkoasetukset
+Outbound Proxy Server| Ulosp. Proxy Palvelin
+Outbound Proxy Port| Ulosp. Proxy Portti
+Registration Period| Rekisteröintiväli
+RTP Settings| RTP-asetus
+Autodial Settings| Aut.soitto - Aset
+Autodial Number| Aut.soitto - No
+Autodial Timeout| Aut.soit - Aikav
+Use Global Settings| Käytä yleisiä aset.
+DTMF Method| DTMF-tapa
+SIP INFO| SIP INFO
+BOTH| Mol.
+Save Settings| Talleta asetukset
+Global SIP| Yleiset SIP
+Global SIP Settings| Yleiset SIP Asetukset
+RTP Encryption| RTP Salaus
+SRTP Disabled| SRTP Pois
+SRTP Preferred| SRTP Päällä
+SRTP Only| Vain SRTP
+Advanced SIP Settings| Tark. SIP Asetukset
+Explicit MWI Subscription| Viesti odottaa -tilaus
+Explicit MWI Subscription Period| Viesti odottaa -aika
+MWI for BLA account| Viesti od. BLA-til.
+Enabled| Aktivoitu
+Send MAC Address in REGISTER Message| Lähetä MAC-osoite Register-viestissä
+Send Line Number in REGISTER Message| Lähetä linja-nro Register-viestissä
+Session Timer| Ist. Aikavalv
+T1 Timer| T1 aika
+T2 Timer| T2 aika
+Transaction Timer| Transaktio-aika
+Transport Protocol| Kuljetusprotokolla
+UDP and TCP| UDP & TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS 1.0
+Persistent TLS| Kiinteä TLS
+Registration Failed Retry Timer| Rek. Epäonnistui, aikavalvonta
+Registration Timeout Retry Timer| Rek. kuittauksen aikavalvonta
+Registration Renewal Timer| Rek uusimisen aikavalvonta
+BLF Subscription Period| BLF Tilausaika
+ACD Subscription Period| ACD Tilausaika
+BLA Subscription Period| BA Tilausaika
+Blacklist Duration| Aika estolistalla
+ Park Pickup Config| Pidosta poiminta-asetukset
+RTP Port| RTP-portti
+Basic Codecs| Perus-koodekit
+Force RFC2833 Out-of-Band DTMF| Pakota RFC2833 Out-of-Band DTMF
+Codec Preference List| Codec suositusluettelo
+Silence Suppression| Äänettömyyden poisto
+Provisioning complete.| Provisiointi valmis
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Uudet asetukset astuvat voimaan kun puhelin on käynnistetty uud.
+ERROR: Maximum number of connections reached.| VIRHE: Yhteyksien enimmäismäärä saavutettu.
+Logout Complete| Uloskirj valmis
+Your session has ended.  Please close the browser.| Istunto on loppunut. Sammuta selain.
+Session Expired| Istunto loppu
+Please close the browser or use the link below to log in again.| Sammuta selain tai käytä linkkiä uudelleenkirjautumiseen
+Log In| Kirj.
+Log Out| Kirj.ul
+Log Out| Kirj.ul
+Avail| Läsnä
+Avail| Läsnä
+Unavail| Poissa
+Unavail| Poissa
+Reset User Password| Palauta salasana
+Please enter the current and new passwords| Syötä nykyinen ja uusi salasana
+Current Password| Nyk. salasana
+New Password| Uusi Salasana:
+Password Confirm| Vahv. Salasana
+Please Enter| Syötä
+Submit| Lähetä
+ABC...| ABC...
+abc...| ABC...
+123...| 123...
+Authorizing...| Valtuuttaa...
+Authorization Failed| Valtuutusvirhe
+Auth Failed| Valtuutusvirhe
+Current password is incorrect.| Nykyinen salasana on väärin.
+Please try again.| Yritä uudelleen
+The new password fields do not match.| Uusi salasanakenttä ei yhteensopiva
+The new password can not be saved.| Uutta salasanaa ei voi tallentaa
+The user password has been changed.| Käyttäjän salasana vaihdettu
+Task and Stack Info| Tehtävä / Stacktied
+Back| Tak.
+Files Available for Download| Tiedostoja valm. lataukseen
+Custom| Henk.k
+Save As...| Tall. Nim.
+Directory List| Luettelolista
+Current Settings| Nyk. asetukset
+Restore To Factory Defaults| Palauta perusasetukset
+Restore| Palauta
+Remove Local Configuration Settings| Poista paikalliset asetukset
+Remove| Poista
+Restarting the hardware...| Laitteen uud.käynnistys
+Please return to the main page after your phone restarts.| Palaa main page sivulle kun laite on käynnistynyt.
+User not authorized to make changes.| Muutosten teko käyttäjältä kielletty
+Local configuration file has been deleted.| Paikalliset asetukset poistettu
+Please restart the phone for the settings to take effect.| Käynnistä laite uudelleen
+Phone has been set to factory Defaults.| Puhelin on palautettu perusasetuksilla
+Action URI| URI-toim.
+Action URI Configuration| URI-toiminnan asetukset
+Event| Tapah
+StartUp| Käynn.
+Successful Registration| Rekisteröinti onnistui
+Registration Event| Rek. tapahtuma
+Incoming Call| Tuleva puhelu
+Outgoing Call| Puhelu ulos
+Offhook| Nost.
+Onhook| Paik.
+Disconnected| Poiskytketty
+Poll| Kys.
+Interval| Väli
+Settings saved.| Asetukset tall.
+Settings could not be saved.| Asetuksia ei voitu tallentaa
+Firmware Update| Ohjelmisto-päiv
+TLS Support| TLS tuki
+Manual Firmware Update| Man. Ohjelmistopäiv.
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Syötä palvelimen IP osoite ja ohjemiston nimi aloittaaksesi ohjelmiston päivityksen
+Configuration Server| Asetuspalvelin
+Configuration Server Settings| Määr.palvelimen asetukset
+Server IP| Palv. IP
+File Name| Tied.nimi
+Configure File Names| Aseta tiedostonimet
+Root and Intermediate Certificates Filename| Root ja Intermediate sertif. tiedostonimet
+Local Certificate Filename| Paik. sertif. tiedostonimi
+Private Key Filename| Henk. näp. tied.nimi
+Trusted Certificates Filename| Luot. sertifikaatin tied.nimi
+Download Firmware| Lataa ohjelmisto
+Firmware upgrade in progress.  Please wait.| Ohjelmiston päivitys meneillään. Odota...
+Please enter a valid filename and TFTP server IP address.| Syötä tiedostonimi ja TFTP palvelimen IP osoite
+Invalid TFTP server IP address| Väärä TFTP palv. IP osoite
+Invalid download settings.| Väärät latausasetukset
+Unable to upgrade firmware.| Ohj. päivitys epäonnistui
+The phone is restarting...| Puhelimen uud.käynnistys
+Firmware upgrade successful.| Ohj. päivitys onnistui
+This firmware already exists on the phone.| Tämä ohjelmisto on jo olemassa puhelimessa
+No upgrade is needed.| Päivitys ei tarpeen
+Troubleshooting| Vianetsintä
+Module| Moduli
+Log Settings| Loki-aset.
+Log IP| IPloki
+Log Port| Port.lok
+Debug Level| Debug taso
+Support Information| Tuki-tiedot
+Get local.cfg| Hae paik. as.
+Get server.cfg| Hae palv. aset
+Show Task and Stack Status| Näytä Tehtävä / Stack-tila
+Settings| Asetukset
+Download Protocol| Latausprotokolla
+Auto-Resync| Auto-Resync
+Days| Päiv
+Maximum Delay| Maksimi viive
+Mode| Tila
+Configuration Files| Asetustiedostot
+Time (24-hour)| Aika (24t)
+XML Push Server List(Approved IP Addresses)| XML Push palvelinlista (Hyväksytyt IP os.)
+Phone-side Call Forward Settings| Puhelimen soitonsiirtoasetukset
+Global Settings| Ylei. asetukset
+No Answer| Ei vastattu
+Number| Numero
+Number of Rings| Soittolukumäärä
+Local Line| Paik. linja
+Forward Number| Siirtonumero
+Global| Ylei.
+Enable| Aktivoi
+Network| Verkko
+Must provision a valid default gateway IP if DHCP is enabled| Jos DHCP aktivoitu tarvitaan IP osoite yhdyskäytävää varten
+Invalid IP Address| Väärä IP osoite
+Invalid IP address| Väärä IP osoite
+Invalid IP addr.| Väärä IP osoite
+Invalid gateway address| Väärä yhdyskäytävä os.
+Invalid subnet mask| Väärä aliverkon ma.
+Invalid primary DNS address| Väärä ensisij. DNS osoite
+Invalid secondary DNS address| Väärä toissijainen DNS osoite
+Basic Network Settings| Verkon perusasetukset
+Advanced Network Settings| Verkon tark. asetukset
+DHCP| DHCP
+NAT Port| NAT port
+Nortel NAT Traversal Enabled| Nortel NAT Traversal aktiv.
+Nortel NAT Timer (seconds)| Nortel NAT ajastin (sek)
+NTP Time Servers| NTP aikapalv.
+Time Server 1| Aikapalv. 1
+Time Server 2| Aikapalv. 2
+Time Server 3| Aikapalv. 3
+SIP| SIP
+VLAN Enable| VLAN aktivointi
+Non-IP Packet| Ei IP paketti
+SIP Priority| SIP prioriteetti
+RTP Priority| RTP prioriteetti
+RTCP Priority| RTCP prior.
+Preferences| Esiasetukset
+General| Yleiset
+Idle Display Name 1| Lepotilan näyttö 1
+Idle Display Name 2| Lepotilan näyttö 2
+Local Dial Plan| Paik. nrosuunn.
+Send Dial Plan Terminator| Lähetä nrosuunn.rajoitin
+Digit Timeout (seconds)| Aikavalvonta (sek)
+Park Call:| Puh.pitoon
+Pick Up Parked Call:| Puhelu pidosta
+Suppress DTMF Playback| Vaimenna DTMF toisto
+Display DTMF Digits| Näytä DTMF numerot
+Call Waiting| Puh. odottaa
+Call Waiting| Puh. odottaa
+Play Call Waiting Tone| Puh odottaa merkkiääni
+Stuttered Dial Tone| Katkonainen soitto
+Incoming Call Interrupts Dialing| Puhelu keskeyttää numerovalinnan
+Switch UI Focus To Ringing Line| Vaihda näyttö soittolinjalle
+Outgoing Intercom Settings| Läht. pikapuhelu-asetukset
+Type| Tyyp
+Phone-Side| Puhelin-p.
+Server-Side| Palvelin-p.
+Prefix Code| Etu-merkki
+Incoming Intercom Settings| Tul. pikapuhelu-asetukset
+Microphone Mute| Mikr. mykistys
+Play Warning Tone| Varoitus-merkki
+Allow Barge In| Salli rin.kyt.
+Auto-Answer| Autom.vast.
+Key Mapping| Näppäin-as.
+Map Redial Key To| Uud.val.näppäin
+Map Conf Key To| Neuv.puh.näpp.
+Ring Tones| Soittoääni
+Brazil| Brasilia
+France| Ranska
+Germany| Saksa
+Italy| Italia
+Italy2| Italia2
+Mexico| Meksiko
+Russia| Venäjä
+UK| Iso-Britannia
+US| Yhdysvallat
+Global Ring Tone| Yleinen soitto
+Tone 1| Ääni 1
+Tone 2| Ääni 2
+Tone 3| Ääni 3
+Tone 4| Ääni 4
+Tone 5| Ääni 5
+Tone 6| Ääni 6
+Tone 7| Ääni 7
+Tone 8| Ääni 8
+Tone 9| Ääni 9
+Tone 10| Ääni 10
+Tone 11| Ääni 11
+Tone 12| Ääni 12
+Tone 13| Ääni 13
+Tone 14| Ääni 14
+Tone 15| Ääni 15
+Priority Alerting Settings| Prio.hälytys-asetukset
+Enable Priority Alerting| Aktiv. prio.hälytysääni
+Group| Ryhmä
+External| Ulkoinen
+Internal| Sisäinen
+Emergency| Hätätila
+Auto call distribution| Autom. puhelureititys
+Auto Call Distribution Settings| Autom. puhelureit. asetukset
+ACD| ACD
+Community 1| Puh.ryhmä 1
+Community 2| Puh.ryhmä 2
+Community 3| Puh.ryhmä 3
+Community 4| Puh.ryhmä 4
+Normal ringing| Norm. soitto
+Bellcore-dr2| Lisäkello 2
+Bellcore-dr3| Lisäkello 3
+Bellcore-dr4| Lisäkello 4
+Bellcore-dr5| Lisäkello 5
+Directed Call Pickup Settings| Puhelun poiminta-asetukset
+Directed Call Pickup| Puhelun poiminta
+Directed Call Pickup by Prefix| Puhelun poiminta prefiksillä
+Play a Ring Splash| Toista tervetulo
+Auto Available| Aut. Tavoit.
+Auto Available Timer| Aut. tavoit. ajastin
+Time and Date Setting| Aika- ja päiväys-aset
+Time Format| Aikamuoto
+Date Format| Päiväysmuoto
+Programmable Keys| Ohjelm. näpp.
+Programmable Keys Configuration| Ohjelm. näpp. asetukset
+Hard Key| Näppäin
+Key| Näpp
+BLF List URI:| BLF Luet URI:
+Speeddial/Xfer| Pikaval/Siirto
+Do Not Disturb| Älä häiritse
+BLF| BLF
+BLF/Xfer| BLF/Siir
+BLF/List| BLF/Luet
+XML| XML
+WebApps| Web-sov
+Flash| Flash
+Last Call Return| Viim. puhelu uud
+Sprecode| Sprecode
+Transfer| Siirto
+Conference| Neuvottelu
+Save| Talleta
+Delete| Poista
+Data has been transmitted to the phone successfully.| Tiedot siirretty puhelimeen onnistuneesti
+Data cannot be posted to the phone.| Tietoja ei voi siirtää puhelimeen
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Tarkistakaa että tiedostot eivät ylitä 512 b ja puhelimen asetukset sallivat vastaanoton palvelimelta
+Expansion Modules| Laajennusmodulit
+Expansion Module 1| Laajennusmoduli 2
+Expansion Module 2| Laajennusmoduli 2
+Expansion Module 3| Laajennusmaduli 3
+Page 1| Sivu 1
+Page 2| Sivu 2
+Page 3| Sivu 3
+List 1| List 1
+List 2| List 2
+List 3| List 3
+List 4| List 4
+List 5| List 5
+List 6| List 6
+Incompatible with phone model| Ei yhteensop puhelimen kanssa
+Backup Proxy Server| Vara Proxy palvelin
+Backup Proxy Port| Vara Proxy portti
+Backup Registrar Server| Vara rek.palvelin
+Backup Registrar Port| Vara rek.portti
+Phone is locked| Puhelin lukittu
+Phone Lock| Puhelinlukko
+Lock the phone?| Lukitse puhelin?
+Phone is unlocked| Lukitus avattu
+Password:| Salasana:
+Emergency Dial Plan| Hätäpuh. asetukset
+Account Configuration| Tili-asetukset
+Lock| Luk.
+Unlock| Avaa
+Unlock the phone?| Avaa lukitus?
+Lock or unlock the phone| Lukitse tai avaa lukitus
+HTTPS Client Method| HTTPS Client tapa
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS Server - HTTP:stä HTTPS:ään 
+HTTPS Server - Block XML HTTP POSTs| HTTPS Server - estä XML HTTP POST
+Validate Certificates| Validoi sertifikaatit
+Check Certificate Expiration| Tarkista sertif. voimassaolo
+Check Certificate Hostnames| Tarkista sertif IsäntäNimet
+Language Settings| Kieliasetukset
+Webpage Language| Web-sivun kieli
+Input Language| Syöttökieli
+Input Language| Syöttökieli
+Jan| Tam
+Feb| Hel
+Mar| Maa
+Apr| Huh
+May| Tou
+Jun| Kes
+Jul| Hei
+Aug| Elo
+Sep| Syy
+Oct| Lok
+Nov| Mar
+Dec| Joi
+Sun| Su
+Mon| Ma
+Tue| Ti
+Wed| Kes
+Thu| To
+Fri| Pe
+Sat| La
+New Password Invalid.| Uusi salasana väärä
+New password must be 10 characters or less.| Uuden salasanan pituus alle 10 merkkiä
+New password must be numeric.| Uuden salasanan pitää olla numeerinen
+New password and confirm password do not match.| Uusi salasana ja varmistus eivät yhdenmukaisia
+Error| Virhe
+Are you sure you want to restart the phone?| Haluatko käynnistää puhelimen uudelleen?
+This will restore the phone to default settings and cannot be undone.| Tämä asettaa puhelimen perusasetukset eikä ole peruutettavissa
+This will remove the local configuration settings and cannot be undone.| Tämä poistaa puhelimen paikalliset asetukset eikä ole peruutettavissa
+Continue| Jatka
+Error: Intercom Settings| Virhe: Pikapuhelu-asetukset
+Please enter a prefix code for server-side intercom.| Syötä etuliite pikapuhelupalvelimelle
+Value must be between| Arvo välillä
+and| ja
+Invalid Setting:| Väärä asetus
+Please select at least one state for softkey| Valitse yksi tila ohelmoitavalle näppäimelle
+DSCP value| DSCP-arvo
+is mapped to multiple priorities.| on liitetty useampaan profiiliin.
+Please enter Admin name and password| Syöta Admin nimin ja salasana
+Please enter User name and password| Syötä käyttäjänimi ja salasana
+Centralized Conference| Keskitetty neuvottelu
+Conference Server URI| Neuv. palvelin URI:
+UPnP device not found| UPnP-laite ei löydy
+Ethernet| Ethernet
+Ethernet Link| Ethernet linkki
+Ethernet & VLAN| Ethernet ja VLAN
+Link| Linkki
+10M| 10M
+100M| 100M
+Unavailable| Ei saatavilla
+Available| Saatavilla
+Server Info| Palvelintiedot
+Unique ID:| Uniikki ID:
+UPnP Mapping Lines| UPnP liittäminen
+Port Failed| Porttivirhe
+Trying...| Yrittää...
+Seize Failed| Kaappausvirhe
+Missed Call Summary Subscription| Vastaamat. puheluiden yhteenveto
+Missed Call Summary Subscription Period| Vastaamat. Puh. yhteenvedon tilausaika
+AS-Feature-Event Subscription| AS-Toiminto-Tapahtuma tilaus
+AS-Feature-Event Subscription Period| AS-Toiminto-Tapahtuma tilausaika
+Goodbye Key Cancels Incoming Call| Poistuminen - estää tul. puhelut
+Address Incomplete| Osoite epätäyd.
+Admin Menu| Admin valikko
+IP&MAC Addresses| IP&MAC osoitteet
+LAN Port| LAN portti
+PC Port| PC portti
+Set Audio| Aseta ääni
+Config. Server| Säädä palvelin
+IP Address:| IP osoite
+Error Messages| Virheilmoitukset
+No Error Messages| Ei virheilmoituksia
+ Errors| Viat
+ Error| Vikaviestit
+Disabled| Poiskytketty
+LAN Port Link| LAN porttilinkki
+PC Port Link| PC porttilinkki
+RTP| RTP
+RTCP| RTCP
+Phone| Puh.
+Headset Mic Vol| Sankal mikr voim
+TypeService SIP| Palvelutapa SIP
+TypeService RTP| Palvelutapa RTP
+TypeService RTCP| Palvelutapa RTCP
+Authentic. Name| Nimivarmennus
+XML Beep Support| Tuki XML-äänelle
+Status Scroll Delay (seconds)| Vierintäviive-tila (sek)
+Backlight| Taustavalo
+Backlight| Taustavalo
+Display| Näyttö
+Speed Dial Edit| Muokkaa pikaval.
+second| sekunti
+seconds| sekuntia
+Label| Merkki
+Message Waiting Indicator Line| Viesti odottaa linja
+Keypad Speed Dial| Näpp. pikavalinta
+Digit| Nrot
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| XML SIP ilm.
+Custom Feature| Oma toiminto
+User ID:| Käy.tun:
+Local SIP UDP/TCP Port| Paik SIP UDP/TCP port.
+Local SIP TLS Port| Paik SIP TLS port.
+802.1x Support| 802.1x tuki
+EAP Type| EAP tyyp
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identit.
+MD5 Password| MD5 salasana
+PC Port PassThru Enable/Disable| PC Port PassThru Päälle/Pois
+EAP-TLS Settings| EAP-TLS asetus
+EAP-MD5 Settings| EAP-MD5 asetus
+Enable PassThru Port| Aktivoi PassThru
+PC Port Enabled\nYes| PC portti auki\nKyllä
+PC Port Disabled\nNo| PC portti kiinni\nEi
+802.1x Settings| 802.1x asetukset
+802.1x Mode| 802.1x tila
+EAP-MD5 Settings| EAP-MD5 asetus
+EAP-TLS Settings| EAP-TLS asetus
+STUN Server| STUN palvelin
+STUN Port| STUN portti
+TURN Server| TURN palvelin
+TURN Port| TURN portti
+TURN User ID| TURN käyt ID:
+TURN Password| TURN salasana
+Paging| Haku
+Streaming| Streaming
+Group Paging RTP Settings| Ryhmähaku RTP asetukset
+Paging Listen Addresses| Etsii kuunt. osoitteita
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP-tili
+Backup Registrar Used?| Vara Rekisteröinti
+Unregistered| Rekisteröim.
+Registered| Rekister.
+SIP Status| SIP Tila
+Server Error| Palvelin-vika
+Swap| Vaihda
+LLDP\nEnabled| LLDP\nPäällä
+LLDP\nDisabled| LLDP\nPois
+LLDP Support| LLDP tuki
+Preferred line| Valittu linja
+Preferred line Timeout (seconds)| Valitun linja aikavalvonta (sek)
+Invalid URI| Väärä URI
+WebApps| Web-sov
+Watchdog| Aikavalv
+Speeddial/Conf| Pikaval/Neuv.
+Call is on Hold| Puhelu odottaa
+No subscription| Ei liittymää
+MDot1xFailedStartup| MDot1xFailedStartup
+802.1x Startup Failed| 802.1x epäonnistui
+LLDP Startup Failed| LLDP käynnistys
+Failed to config Line Manager| Line Manager asetus epäonn.
+Line in use| Linja käytössä
+Get Crash Log| Hae vikaloki
+Time Unavailable| Aika ei saatav.
+Packetization Interval| Pakettien väli
+Basic| Perus
+Note: Basic Codecs Include| Peruskoodekit sisältävät
+Default| Vakio
+Not Configured| Ei asetettu
+America| Yhdysvallat
+Asia| Aasia
+Atlantic| Atlantti
+Pacific| Tyy.mer
+Australia| Australia
+Europe| Eurooppa
+Malaysia| Mealesia
+Invalid Setting| Väärä asetus
+Must not be empty| Ei saa olla tyhjä
+Must be a valid number| Pitää olla hyväksytty numero
+Must be a nonzero number| Ei saa olla 0
+Not in range| Alueen ulkopuolella
+Invalid Hostname| Väärä IsäntäNimi
+802.1x Failed| 802.1x-virhe
+Admin Password:| Admin salasana:
+Voicemail| Puheposti
+Voicemail| Puheposti
+HTTPS Failed| HTTPS-virhe
+LLDP Failed| LLDP-virhe
+TR69 connect Err| TR69-virhe
+Downloading Language Packs| Lataa kielitiedostot
+Please Wait...| Odota, ole hyvä...
+to edit| muuta
+Cfg Svr Failure| Määr.palv.-virhe
+Lines| Linjat
+LDAP Directory| LDAP luettelo
+Ldap Directory| Ldap luettelo
+Item| Merkintä
+item| Merkintä
+Certificate Revoked| Setifikaatti peruutettu
+Certificate Unknown| Tuntematon varmenne
+Delete entire| Poista koko
+LDAP Search Filter| LDAP hakusuodatin
+Ldap Search Filter| Ldap hakusuodatin
+LDAP Server| LDAP palvelin
+Ldap Server| Ldap palvelin
+Certificate Expired| Sertifikaatti vanha
+Unsupported Certificate| Ei tuettu sertifikaatti
+No Certificate| Ei sertifikaattia
+Options List| Valinnat
+Directory?| Luettelo?
+Work| Työ
+No available lines| Ei vapaita linjoja
+Search| Haku
+Ldap Base DN| Ldap Base DN
+items| Merkinnät
+Spddial| Pikaval
+Ldap Number Attributes| Ldap nro määrite
+Ldap Max Hits| Ldap osumamäärä
+Ldap Settings| Ldap asetukset
+Ldap Name Attributes| Ldap nimi määrite
+Timezone zoneAmerica| 
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlantin normaaliaika
+CA-Central| CA-Keskinen normaaliaika
+CA-Eastern| CA-Itäinen normaaliaika
+CA-Mountain| CA-Kalliovuorten normaaliaika
+CA-Newfoundland| CA-Newfoundlandin normaaliaika
+CA-Pacific| CA-Tyynenmeren normaaliaika
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Easter
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havanna
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaika
+KY-Cayman| KY-Caymansaaret
+LC-St Lucia| LC-St Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaskan normaaliaika
+US-Aleutian| US-Aleuttien normaaliaika
+US-Central| US-Keskinen normaaliaika
+US-Eastern| US-Itäinen normaaliaika
+US-Hawaii| US-Havaijin normaaliaika
+US-Mountain| US-Kalliovuorten normaaliaika
+US-Pacific| US-Tyynenmeren normaaliaika
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Beijing
+CY-Nicosia| CY-Nikosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hongkong
+JP-Tokyo| JP-Tokio
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Masqat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamtšatka
+RU-Krasnoyarsk| RU-Krasnojarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sahalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Jakutsk
+RU-Yekaterinburg| RU-Jekaterinburg
+SA-Saudi Arabia| SA-Saudi-Arabia
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Kanarian saaret
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Färsaaret
+GS-South Georgia| GS-Etelä-Georgia
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azorit
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+Timezone zoneEurope| 
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirana
+AT-Vienna| AT-Wien
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Bryssel
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zürich
+CZ-Prague| CZ-Praha
+DE-Berlin| DE-Berliini
+DK-Copenhagen| DK-Kööpenhamina
+EE-Tallinn| EE-Tallinna
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-Pariisi
+GB-Belfast| GB-Belfast
+GB-London| GB-Lontoo
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Ateena
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rooma
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilna
+LU-Luxembourg| LU-Luxemburg
+LV-Riga| LV-Riika
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Varsova
+PT-Lisbon| PT-Lissabon
+RO-Bucharest| RO-Bukarest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moskova
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Tukholma
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiova
+VA-Vatican| VA-Vatikaani
+YU-Belgrade| YU-Belgrad
+Timezone zonePacific| 
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fidži
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Autom. Soitto
+1h    summertime| 1 t kesäaika
+Link Down| Yhteys poikki
+Slovakia| Slovakia
+Cfg. Svr.| Palvelin
+Custom| Mukautettu
+HPQ Enable| HPQ aktivointi
+Checking For Firmware| Etsii ohjelmistoa
+Firmware Check| Etsii ohjelmistoa
+Speeddial/MWI| Pikaval/MWI
+Handset| Luuri
+WBand RX Filters| 
+HS Setting1| Luuri-asetus1
+HS Setting2| Luuri-asetus2
+HS Setting3| Luuri-asetus3
+HS Setting4| Luuri-asetus4
+Spkr Setting1| Kaiutin-asetus1
+Spkr Setting2| Kaiutin-asetus2
+Spkr Setting3| Kaiutin-asetus3
+Spkr Setting4| Kaiutin-asetus4
+Hold Failed| Pito epäonnistui
+Can not save record without number| 
+Feature Name| Ominaisuuden nimi
+Source| Lähde
+License File| Lisenssitiedosto
+SW Version Restrictions| Ohjelmistoversion rajoitukset
+Unlimited| Rajoittamaton
+Expiration| Vanhentuminen
+Upgrade| Päivitys
+License Server| Lisenssipalvelin
+License Info| Lisenssitiedot
+License PBX| Lisenssi PBX
+Voice Recording| Äänitallenne
+BLF List Subscription Period| BLF Luet Tilausaika
+Conf Failed| Neuvottelu epäonnistui
+Push| Push
+Forward Filtering| Siirron suodatus
+OUT| ULOS
+Opt Status| Toimintotila
+Filter| Suodatin
+Filtering| Suodatus
+Executives| Johto
+IN| SISÄÄN
+Divert| Siirto
+Divert to Number| Siirto numeroon
+ Enter Unlock Password| Syötä Avaus-salasana
+ Enter Administrator Password| Syöta admin salasana
+Today| Tänään
+Yesterday| Eilen
+Two Days Ago| Kaksi päivää sitten
+Three Days Ago| Kolme päivää sitten
+Four Days Ago| Neljä päivää sitten
+Five Days Ago| Viisi päivää sitten
+Six Days Ago| Kuusi päivää sitten
+Last Week| Viime viikolla
+Two Weeks Ago| Kaksi viikkoa sitten
+Three Weeks Ago| Kolme viikkoa sitten
+Last Month| Viime kuussa
+Older| Vanhempi
+Monday| Maanantai
+Tuesday| Tiistai
+Wednesday| Keskiviikko
+Thursday| Torstai
+Friday| Perjantai
+Saturday| Lauantai
+Sunday| Sunnuntai
+Upload Sys Info| Lataa järj.tied
+Cfwd State| Soitonsiirtotila
+Cfwd Number| Soitonsiirto num
+Cfwd Mode| Soitonsiirtotila
+Set| Aseta
+#Confirm| #Hyväksy
+Call held| Puhelu pidossa
+Calls held| Puhelut pidossa
+Apply Changes?| Muuta?
+Dialpad| Soitto
+Edit| Muok
+Quit| Lopeta
+Directory Empty| Puh.luett. tyhjä
+Saved Memory key| Näpp. talletettu
+Speaker volume  | Kaiutinvoimakk. 
+Handset volume  | Luurivoimakk.  
+Headset volume  | Sankaluurivoim. 
+Ringer volume   | Soittovoimakkuus
+Enter Number:| Syötä numero:
+Full 10Mbps| Full 10 Mbps
+Full 100Mbps| Full 100 Mbps
+Full 1000Mbps| Full 1000 Mbps
+Half 10Mbps| Half 10 Mbps
+Half 100Mbps| Half 100 Mbps
+Half 1000Mbps| Half 1000 Mbps
+Delete All| Poista kaikki
+Erase Local Configuration?| Poista paik. asetus
+Audio| Audio
+Application| Sovellus
+NAT| NAT
+DSCP| DSCP
+User| Käyttäjää
+802.1x| 802.1x
+Enter Date (m/d/y):| Syötä pvm (k/p/v)
+Brightness Timer| Valoisuus - aika
+Brightness Level| Valoisuus - taso
+Level 1| Taso 1
+Level 2| Taso 2
+Level 3| Taso 3
+Level 4| Taso 4
+Level 5| Taso 5
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Linja: %d
+Line %d: %s| Linja %d: %s
+Invalid %s (%d to %d)| Väärä %s (%d to %d)
+Sys Info| Järj.tied
+keypad| näppäimet
+Login| Kirj.
+Seized| Otettu käyttöön
+Active| Aktiiv.
+Held| Pidossa
+Ringing| Soittaa
+Park Failed| Siirto odotustilaan epäonnistui
+Canada| Kanada
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Näytä yhteystiedot painamalla yhteystietopainiketta.
+No info available. Please press a contact button.| Tietoja ei ole käytettävissä. Paina yhteystietopainiketta.
+Set Date and Time| Aseta päivämäärä ja aika
+Ethernet Ports| Ethernet-portit
+Call Server| Puhelupalvelin
+Use Network Time| Käytä verkon aikaa
+Speed Dial Key %d| Pikavalintanäppäin %d
+%d/%d records| %d/%d tietuetta
+%d days stored| %d päivää tallennettu
+1 day stored| 1 päivä tallennettu
+Upload System Info Files?| Ladataanko järjestelmätiedostot?
+Entries Saved| Tietueet tallennettu
+Storage| Tallennustila
+IP and gateway are equal| IP-osoite ja yhdyskäytävä ovat samoja
+IP gateway subnet mismatch| IP-yhdyskäytävän aliverkko ei täsmää
+Bridge active| Silta on aktiivinen
+Please enter a number| Anna numero
+Deleted| Poistettu
+No Matches Found| Ei osumia
+Name| Nimi
+Contact already exists| Yhteystiedot olemassa
+Left Softkey %d| Vasen toimintonäppäin %d
+Bottom Softkey %d| Alanäppäintä %d
+New Call| Uusi puhelu
+All Accounts| Kaikki tilit
+Exp. Mod. %d Key %d| Exp. Mod. %d näppäin %d
+Add Num| Lisää no.
+Diverted to: | Siirretty numeroon: 
+No lines are configured| Linjoja ei ole määritetty
+"Dot ""."""| Piste "."
+Mode %d| Tila %d
+Top Softkey %d| Ylätoimintonäppäin %d
+Home Screen Mode| 
+Screen Saver Timer| Näytönsäästäjän ajastin
+Home Screen| Aloitusnäyttö
+Cannot add new number. Limit reached.| Uutta numeroa ei voi lisätä. Enimmäismäärä on saavutettu.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Anna nimi
+Top Softkeys| Toimintonäppäimet ylhäällä
+Left Softkeys| Toimintonäppäimet vasemmalla
+Bottom Softkeys| Toimintonäppäimet alhaalla
+Brightness| Valoisuus
+Speed Dial 8| Pikaval. 8
+A filename-related error occurred. Rename the specified file and try again.| Tiedostonimessä on virhe. Anna jokin muu nimi ja yritä uudelleen.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| HTTP-virhe. Yritä uudelleen (tai jos virhe toistuu, käynnistä puhelin uudelleen).
+A system-related error occurred. Please restart the phone and try again.| Järjestelmässä on virhe. Sulje ja käynnistä puhelin ja yritä uudelleen.
+Xsi Enterprise Directory| Xsi-yrityshakemisto
+Xsi Personal Contacts| Omat Xsi-yhteystiedot
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Yrityksen faksi
+By First Name| Etunimen mukaan
+By Last Name| Sukunimen mukaan
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Uutta tietuetta ei voi lisätä. Enimmäismäärä on saavutettu.
+City| Kaupunki
+Corporate| Yritys
+Country| Maa
+Custom Ringtones| Omat soittoäänet
+Delete %s from %s?| Poistetaanko %s kohteesta %s?
+Delete all entries in %s?| Poistetaanko kaikki tietueet kohteesta %s?
+Directory import failed| Hakemiston tuonti epäonnistui
+Directory loading| Ladataan hakemistoa
+Directory not available at this time| Hakemisto ei ole käytettävissä
+Display Name Order| Nimen näyttöjärjestys
+Name Order| Nimen järjestys
+Edit Details| Muokkaa tietoja
+Email| Sähköposti
+Email 1| Sähköposti 1
+Email 2| Sähköposti 2
+Email 3| Sähköposti 3
+Enabled also in call| Käytössä myös puhelun aikana
+Enterprise Directory| Yrityshakemisto
+Exchange Contacts| Exchange-yhteystiedot
+Explicit| Suora
+External Sources| Ulkoiset lähteet
+Failed to retrieve contact details| Yhteystietoa ei voitu hakea
+First Last| Etunimi Sukunimi
+First name| Etunimi
+Home 1| Koti 1
+Home 2| Koti 2
+Home Address| Kotiosoite
+Implicit| Epäsuora
+Invalid Subscription Time| Virheellinen tilausaika
+Job Title| Tehtävänimike
+LDAP| LDAP
+Last%c First| Sukunimi%c Etunimi
+Last First| Sukunimi Etunimi
+Last Name| Sukunimi
+Local| Paikallinen
+Microsoft Exchange| Microsoft Exchange
+Mobile| Matkapuhelin
+New Contact| Uusi yhteyshenkilö
+Numbers| Numerot
+Organization| Organisaatio
+Other| Muu
+Personal| Henkilökohtainen
+Personal Contacts| Omat yhteyshenkilöt
+Province/State| Provinssi/osavaltio
+Request Failed| Pyyntö epäonnistui
+Sorting Preferences| Lajitteluasetukset
+Sorting| Lajittelu
+Street Address| Katuosoite
+Test| Testi
+Test Connection| Testaa yhteys
+The phone does not have enough space to store this file.| Puhelimen tila ei riitä tiedoston tallentamiseen.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Tiedosto on liian suuri. Tiedoston enimmäiskoko on 1 Mt.
+UA-Profile-Event Subscription| UA-Profile-Event -tilaus
+UA-Profile-Event Subscription Period| UA-Profile-Event -aika
+Undefined| Määrittämätön
+Work 1| Työ 1
+Work 2| Työ 2
+Work Address| Yrityksen osoite
+Zip/Postal Code| Postinumero
+Credentials| Käyttöoikeudet
+Enable/Disable| Ota käyttöön / Poista käytöstä
+Labels| Tunnisteet
+Ringtone files must be in WAV format| Soittoäänien täytyy olla WAV-tiedostomuodossa
+Copy| Kopioi
+Add New| Lisää uusi
+ALU SCA| ALU SCA
+Accessory Info| Lisälaitetiedot
+Add| Lis
+Alerting| Hälyttää
+Delete selected item or delete all items?| Poistetaanko valittu kohde vai kaikki kohteet?
+DialingIn| Saapuva puhelu
+DialingOut| Lähtevä puhelu
+Disconnecting| Katkaistaan
+Enter First Name| Anna etunimi
+Enter Last Name| Anna sukunimi
+Enter Number| Syötä numero
+Enter Password>| Anna salasana>
+Enter Username>| Anna käyttäjänimi>
+Enterprise Dir.| Yrityshak.
+Exp. Mod. 1 Version| Exp. Mod. Versio 1
+Exp. Mod. 2 Version| Exp. Mod. Versio 2
+Exp. Mod. 3 Version| Exp. Mod. Versio 3
+Get user.cfg| Saada user.cfg
+Get user_local.cfg| Saada user_local.cfg
+Keyboard Version| Näppäimistöversio
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| Pidossa
+Pending| Odottaa
+Phone Info| Puhelimen tiedot
+Please Login| Kirjaudu
+Please select a file to upload| Valitse ladattava tiedosto
+Saved| Tallennettu
+Unmute| Poista vaimennus
+Line 11| Rivi 11
+Line 12| Rivi 12
+Line 13| Rivi 13
+Line 14| Rivi 14
+Line 15| Rivi 15
+Line 16| Rivi 16
+Line 17| Rivi 17
+Line 18| Rivi 18
+Line 19| Rivi 19
+Line 20| Rivi 20
+Line 21| Rivi 21
+Line 22| Rivi 22
+Line 23| Rivi 23
+Line 24| Rivi 24
+Line 25| Rivi 25
+Client Method| Työasema-tapa
+#Edit| #Muok
+#Copy| #Kopioi
+Action forbidden| Toiminto on kielletty
+Action not supported| Toimintoa ei tueta
+ Additional Settings|  Lisäasetukset
+ Barge-In|  Rin.kyt.
+Congestion| Ruuhka
+Discreet| Huomaamaton
+Discreet Ringing| Huomaamaton soitto
+Executives list is empty| Johdon luettelo on tyhjä
+Extension not registered| Alanumeroa ei ole rekisteröity
+Internal error| Sisäinen virhe
+Invalid Password| Väärä salasana!
+Invalid forwarding number| Virheellinen soitonsiirtonumero.
+ Listen|  Kuuntele
+ Normal|  Norm.
+Phone not registered| Puhelinta ei ole rekisteröity
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Käytä väliintulon varoitusääntä Äänetön-toimintonäppäimellä.
+Prv| Yksityinen
+Pub| Julkinen
+Record not found| Tietuetta ei löydy
+SCAP-Bridged| SCAP-siltaus
+SCAP-Held| SCAP-pito
+ Select Barge-In Mode|  Valitse väliintulotila
+ UA-Profile-Event Subscription Period|  UA-Profile-Event -aika
+Unique ID| Uniikki ID
+ Whisper|  Kuiskaus
+Missed Calls| Vastaamattomat puh
+Silence| Hiljaa
+As-Feature-Event Subscription| As-Toiminto-Tapahtuma tilaus
+As-Feature-Event Subscription Period| As-Toiminto-Tapahtuma tilausaika
+Feature-Status-Exchange Subscription| Ominaisuuden tila - Exchange-tilaus
+Feature-Status-Exchange Subscription Period| Ominaisuuden tila - Exchange-tilausjakso
+Action superseded by a previous command| Edellinen komento estää toiminnon
+Attendant| Osallistuja
+BLF Privacy| BLF-yksityisyys
+BLF Privacy Key Mode| Yksityinen BLF-tila
+Feature not configured| Ominaisuutta ei ole määritetty
+Forward Type| Soitonsiirtotyyppi
+Live Keyboard| Live-näppäimistö
+Not assigned| Ei liitetty
+PIN| PIN-koodi
+Pin Required| PIN-koodi on pakollinen
+Privacy| Yksityisyys
+Privacy On| Yksityinen tila käytössä
+Restart | Uudelleenkäynn.
+Capture| Ota kuva
+Get capture file| Hae kuvatiedosto
+Mute All| Vaimenna kaikki
+No Participant| Ei osallistujia
+Private Call| Yksityinen puhelu
+Start| Aloita
+Stop| Lopeta
+TLS Preferred| TLS ensisijainen
+Timeout| 
+Unmute All| Poista kaikkien vaimennus
+Speeddial/Mwi| Pikaval/MWI
+Phone will restart automatically after finishing.| Puhelimen uudelleenkäynn.
+Idle| Lepotila
+CFWD Filtering| Siirron suodatus
+Volume| Voimakkuus
+DTMF| DTMF
+All Accounts| Kaikki
+Outgoing| Ulos
+Call History is Empty| Puheluhistoria on tyhjä
+No Outgoing Calls| Ei lähteviä puheluita
+No Missed Calls| Ei vastaamattomia puheluita
+No Received Calls| Ei vastaanotettuja puheluita
+Received| Vastaanotetut
+Missed| Vastaamattomat
+Screenshot| Näyttökuva
+Xsi Enterprise Common Directory| Yleinen Xsi-yrityshakemisto
+Enterprise Common Directory| Yleinen yrityshakemisto
+Enterprise Common Dir.| Yleinen yrityshak.
+Xsi Group Directory| Xsi-ryhmähakemisto
+Group Directory| Ryhmähakemisto
+Xsi Group Common Directory| Yleinen Xsi-ryhmähakemisto
+Group Common Directory| Yleinen ryhmähakemisto
+Call Settings| Puheluasetukset
+%s Call Settings| %s puheluasetukset
+Hide Number| Piilota numero
+Xsi Password Not Configured| Xsi Salasanaa ei ole määritetty
+Xsi User Not Configured| Xsi Käyttäjää ei ole määritetty
+Xsi Authentication Failure| Xsi Todennusvirhe
+Xsi File Not Found| Xsi Tiedostoa ei löydy
+Xsi Invalid URI| Xsi Virheellinen URI
+Xsi Invalid Download Configuration| Xsi Virheellinen latausmääritys
+Call History| Puheluhistoria
+Bluetooth| Bluetooth
+Scan| Haku
+Timeout [1..168 h]| Aikakatkaisu [1–168 h]
+Paired Devices| Pariliitetyt laitteet
+Available Devices| Käytettävissä olevat laitteet
+Swipe the toggle switch to the right to enable Bluetooth| Ota Bluetooth käyttöön pyyhkäisemällä valintakytkintä oikealle
+Pairing| Pariliitos
+Connecting| Yhdistää
+Device| Laite
+No paired devices| Ei pariliitettyjä laitteita
+Connection successful| Yhteys on muodostettu
+Connection failed| Yhteyttä ei voitu muodostaa
+Disconnection successful| Yhteys on katkaistu
+Disconnection failed| Yhteyttä ei voitu katkaista
+Pairing failed| Liittäm. Epäonnistui       
+Operation failed| Toiminto epäonnistui
+Connected| Yhdistetty
+Retry| Uudelleen
+Do you want to forget this device?| Haluatko unohtaa tämän laitteen?
+Close| Sulje
+Enabling Bluetooth...| Käynnistetään Bluetooth...
+Disabling Bluetooth...| Suljetaan Bluetooth...
+Connecting...| Yhdistää...
+Disconnecting...| Katkaistaan...
+Boot| Boot
+App| Sovellus
+USB disabled. Insufficient power for current configuration.| USB poistettu käytöstä. Teho ei riitä nykyiselle määritykselle.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Tiedosto ei vastaa puhelimen soittoäänien vaatimuksia. Lisätietoja soittoäänitiedostoista on käyttöoppaassa.
+%d/%d| %d/%d
+%d days| %d päivää
+1 day| 1 päivä
+System Messages| Järjestelmäviestit
+Authorization Canceled| Todennus peruutettiin
+Crash Logs| Virhelokit
+Warning - All entries in %s will also be deleted| Varoitus - kaikki tietueet poistetaan myös kohteesta %s
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Soittoääni
+Identity| Identit.
+Extension| Alanumero
+Address| Osoite
+Server Error| Palvelin-vika
+Use Global Ring Tone| 
+Standard Ring Tone| Vakiosoittoääni
+Hide Number| Piilota numero
+Remote Office| Etätoimisto
+Remote Office| Etätoimisto
+Phone Number/SIP-URI| Puhelinnumero/SIP-URI
+Simultaneous Ring Personal| Oma samanaikainen soitto
+Simultaneous Ring| Samanaikainen soitto
+Do Not Ring if on a Call| Ei soittoa puhelun aikana
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Puhelinnro/SIP-URI
+Alt Num/SIP-URI| Vaiht. nro/SIP-URI
+Ring for all Incoming Calls| Soitto kaikissa saapuvissa puheluissa
+Invalid Number or SIP-URI| Virheellinen numero tai SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Portaalin numero
+Alert Locations for Click-To-Dial| Hälytyssijainnit – puhelu napsauttamalla
+Alert Locations for Group Paging| Hälytyssijainnit – ryhmähaku
+Phone Number| Puhelinnumero
+Description| Kuvaus
+Alternate Number| 
+Call Control| Puhelunhallinta
+Diversion Inhibitor| Siirron esto
+Answer Confirmation| Vastauksen vahvistus
+Xsi Server Not Found| Xsi Palvelinta ei löydy
+Xsi Invalid Input| Xsi Virheellinen syöte
+Call Center| Puhelinkeskus
+Presence| Tavoitettavuus
+My Status| Oma tila
+Contacts| Yhteystiedot
+Favorite| Suosikki
+Available| Saatavilla
+Eager to Chat| Haluaa keskustella
+Busy| Varattu
+Away| Poissa
+Extended Away| Poissa pidempään
+Offline| Offline
+Unknown| Tuntematon
+Enter custom presence text here...| Kirjoita oma tilasi tähän...
+Status| Tila
+Custom| Henk.k
+Favorites| Suosikit
+All Contacts| Kaikki yhteystiedot
+No contact in folder| Ei yhteystietoja kansiossa
+No phone number| Ei puhelinnumeroa
+No contact| Ei yhteystietoja
+Contact list currently not available| Yhteystietoluettelo ei ole käytettävissä
+Contact| Yhteystieto
+Contact| Yhteystieto
+Connection to server failed| Yhteys palvelimeen katkesi
+Configuration error| Määritysvirhe
+Authentication error| Todennusvirhe
+Connection to server lost| Yhteys palvelimeen on katkennut
+Mobile| Matkapuhelin
+Connect| Yhdistä
+%s disconnected| %s poiskytketty
+%s connected| %s kytketty
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Uusi ohjelmisto. Älä irroita puhelinta!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Kopioi kaikki
+Loading...| 
+Password Changed| Salasana vaihdettu
+Restore Default| 
+Restore Default| 
+Enter Again| Uudestaan
+Erase| Poista
+Set All| 
+VLAN Settings| VLAN asetukset
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Lisätiedot
+Phonebook| 
+Update| 
+Copyright| Tekijänoikeus
+Pause| Tauko
+Incorrect password| Väärä salasana
+Please input duration between 1 to 1440 minutes| 
+Level 0| Taso 0
+Static Network Settings| 
+Enter| Syötä
+Reset Configuration?| Palauta asetukset?
+TCP DUMP| 
+minutes| minuuttia
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| VLAN ID
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Tiedot
+First Name| 
+Home| Koti
+People| 
+Contacts - Add New| 
+Work| Työ
+Entry copied to| Kopioitu
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Luettelo täynnä
+Directory full| Puh.luet. täynnä
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Yhdistä
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Käynnissä oleva puhelu
+Scan| Haku
+Stop| Lopeta
+Close| Sulje
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Unohda
+Unknown Caller| 
+Answer| Vastaa
+Decline| 
+Push Call| Push-puhelu
+End Call| 
+Caller| 
+Disconnect| Katkaise
+Capturing ...| 
+Speaker| Kaiutin
+Headset| Sankaluuri
+Ringer| Soittaa ..
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Puhelimen tiedot
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| Ensisij. DNS
+Secondary DNS| Toissij. DNS
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Salasana
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Muuta
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Ei linkki
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Henk.koht.
+Miscellaneous| Diverse
+Programmable Key| Programmerbar tangent
+Speed Call| Snabbuppringning
+Other Features| Andra funktioner
+Account Code Verified| Kontokoden har verifierats
+Acct Verified| Kont. verifierat
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Älä häiritse
+Phone Lock| Puhelinlukko
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Nimeä uudelleen
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Lisää...
+Restart| Uudelleenkäynn.
+Key is Programmed| Tunnus on ohjelmoitu
+Advanced XML| Laajennettu XML
+Too many answers - Refine your search| Liian monta vastausta. Tarkenna hakua.
+%s Search| % Haku
+Searching| Hakee
+Server not configured| Palvelinta ei ole määritetty
+SimRing| Sam.aik. soitto
+Phone No/SIP-URI Not Configured| Puhelinnumeroa/SIP-URI-tunnusta ei ole määritetty
+ Xsi Server Update Failed|  Xsi Palvelimen päivitys epäonnistui
+Call Settings| Puheluasetukset
+Missing Config| Määritys puuttuu
+Deflect| Vapauta
+AnswerIcom| Vastaa sisäpuheluun
+In a call| Puhelu käynnissä
+Chats| Keskustelut
+Chat| Keskustelu
+Send| Lähetä
+Delete all chat sessions?| Poistetaanko kaikki keskusteluistunnot?
+Delete chat session with %s?| Poistetaanko keskustelu henkilön %s kanssa?
+No active chat session| Ei aktiivista keskusteluistuntoa
+Push Notifications| Push-ilmoitukset
+Sound| Ääni
+Bluetooth| Bluetooth
+Chat| Keskustelu
+%s is typing...| %s kirjoittaa...
+Last message received %s at %s| Edellinen viesti vastaanotettu %s kello %s
+Last message received while offline| Edellinen viesti vastaanotettu offline-tilassa
+now| nyt
+%ld secs ago| %ld sekuntia sitten
+1 min ago| 1 minuutti sitten
+%ld mins ago| %ld minuuttia sitten
+1 hour ago| 1 tunti sitten
+%ld hours ago| %ld tuntia sitten
+yesterday| eilen
+%ld days ago| %ld päivää sitten
+while offline| offline-tilassa
+Can't talk right now. I'll call you later.| En voi puhua juuri nyt. Soitan sinulle myöhemmin.
+On another call| Puhuu toista puhelua
+I'll call you back| Soitan takaisin
+Call me back in 10 minutes| Soita minulle 10 minuutin kuluttua
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Henk.k...
+Message to %s| Viesti lähettäjältä %s
+Cancel - No message sent| Peruuta - viestiä ei lähetetä
+Chat Messages| Keskusteluviestit
+Reject Call Message Configuration| Hylkää puhelu viestillä -määritys
+Message| Viesti
+Server Failure| Palvelinvirhe
+Use ^v to view| Käytä ^v Näytä
+Answer| Vastaa
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Varoitus
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Syötä Nimi
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Pyyntö aikakatkaistiin
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Portin kautta
+Page Expired. Please reload the page.| Sivu on vanhentunut. Lataa sivu uudelleen.
+Application busy. Please try again later.| Sovellus on varattu. Yritä myöhemmin uudelleen.
+User ID required| Käyttäjätunnus on pakollinen
+Directory file must be in WAV format| Kansiotiedoston täytyy olla WAV-muodossa
+Local Directory Upload| Lataus paikalliseen kansioon
+Upload failed - Too many records detected in csv file| Lataus epäonnistui. CSV-tiedostossa on liian monta tietuetta
+Upload failed - No record detected in csv file| Lataus epäonnistui. CSV-tiedostossa ei ole tietueita
+Upload performed - %d records created| Lataus onnistui - %d tietuetta luotu
+minutes| minuuttia
+User ID| Käyttäjätunnus
+Any PBX| Mikä tahansa puhelinvaihde
+Screen Mode| Näyttötila
+Show Picture| Näytä kuva
+Request timed out| Pyyntö aikakatkaistiin
+No Mobile phone connected| Matkapuhelinta ei ole yhdistetty
+Only one Handset can be paired to the phone| Puhelimeen voidaan liittää vain yksi luuri
+Only one Speaker can be paired to the phone| Puhelimeen voidaan liittää vain yksi kaiutin
+Maximum number of paired devices reached| Pariliitettyjen laitteiden enimmäismäärä on saavutettu
+Reload| Lataa uudelleen
+Mobile Contacts| Puhelimen yhteystiedot
+Mobile| Matkapuhelin
+Press "Turn on" to enable Bluetooth| Ota Bluetooth käyttöön valitsemalla Käynnistä
+Turn on| Käynnistä
+Turn off| Sammuta
+Mobile : %s| Matkapuhelin: %s
+Pair| Liitä
+Connect| Yhdistä
+Disconnect| Katkaise
+Forget| Unohda
+Rename| Nimeä uudelleen
+Rename Device| Nimeä laite uudelleen
+Disabling Bluetooth will disconnect your Cordless Handset| Bluetooth-yhteyden sulkeminen katkaisee yhteyden langattomaan luuriin
+Warning| Varoitus
+Do you want to continue?| Haluatko jatkaa?
+Bluetooth pairing request| Bluetooth-pariliitospyyntö
+Pair with %s| Liitä laitteeseen %s
+Pairing code - %06ld| Pariliitoskoodi - %06ld
+External| Ulkoinen
+Lock Settings| Lukitusasetukset
+Proximity auto-lock| Läheisyysanturin autolukitus
+Delay before auto-lock| Viive ennen autom. lukitusta
+Proximity auto-unlock| Läheisyysanturin autom avaus
+Delay before auto-unlock| Viive ennen autom. avausta
+Proximity auto-lock| Läheisyysanturin autolukitus
+Proximity auto-unlock| Läheisyysanturin autom avaus
+Delay before auto-lock (minutes)| Viive ennen autom. lukitusta (min)
+Delay before auto-unlock (minutes)| Viive ennen autom. avausta (min)
+M695: New Firmware. Do not unplug phone!| M695: Uusi laiteohjelmisto. Älä irrota puhelinta!
+Login/Logout| Kirjaudu sisään/ulos
+Logout user %s| Kirjaa ulos käyttäjä %s
+Login successful| Sisäänkirjautuminen onnistui
+Logout successful| Uloskirjautuminen onnistui
+Login failed| Sisäänkirjautuminen epäonnistui
+Logout failed| Uloskirjautuminen epäonnistui
+Hot desk user can not pair handset please login as a local user| Hot Desk -käyttäjä ei voi liittää luuria. Kirjaudu sisään paikallisena käyttäjänä.
+Hot desk user can not pair speaker please login as a local user| Hot Desk -käyttäjä ei voi liittää kaiutinta. Kirjaudu sisään paikallisena käyttäjänä.
+Hot desk user can not unpair handset please login as a local user| Hot Desk -käyttäjä ei voi poistaa liitettyä luuria. Kirjaudu sisään paikallisena käyttäjänä.
+Hot desk user can not unpair speaker please login as a local user| Hot Desk -käyttäjä ei voi poistaa liitettyä kaiutinta. Kirjaudu sisään paikallisena käyttäjänä.
+Push Call| Push-puhelu
+Cordless Handset| Langaton luuri
+Low Battery| Varaus on vähissä
+Critical Battery| Varauksen kriittinen taso
+Ongoing Call| Käynnissä oleva puhelu
+Incoming Call| Saapuva puhelu
+Incoming Call from %s| Saapuva puhelu soittajalta %s
+Incoming Call from %s (%s)| Saapuva puhelu soittajalta %s (%s)
+Voicemail access of Mobile Phone not supported| Vastaajan käyttöä matkapuhelimella ei tueta
+Device not supported| Laitetta ei tueta
+Phone not compatible| Puhelin ei ole yhteensopiva
+Dialing out through Mobile Line not supported| Lähteviä puheluita matkapuhelinlinjalla ei tueta
+Page Expired. Please reload the page.| Sivu on vanhentunut. Lataa sivu uudelleen.
+Application busy. Please try again later.| Sovellus on varattu. Yritä myöhemmin uudelleen.
+Invalid prefix length (0 to 128)| Virheellinen etuliitteen pituus (0–128)
+User ID required| Käyttäjätunnus on pakollinen
+IPv6 Settings| IPv6-asetukset
+Basic Network Settings (IPv6)| Verkon perusasetukset (IPv6)
+Basic Network Settings (IPv4)| Verkon perusasetukset (IPv4)
+Ethernet Port Settings| Ethernet-portin asetukset
+User ID| Käyttäjätunnus
+Colon ":"| Kaksoispiste ":"
+Login/Logout| Kirjaudu sisään/ulos
+Logout user %s| Kirjaa ulos käyttäjä %s
+Login successful| Sisäänkirjautuminen onnistui
+Logout successful| Uloskirjautuminen onnistui
+Login failed| Sisäänkirjautuminen epäonnistui
+Logout failed| Uloskirjautuminen epäonnistui
+IPv6| IPv6
+Enable IPv6| Ota IPv6 käyttöön
+Mode DHCPv6| DHCPv6-tila
+DHCPv6| DHCPv6
+Auto-configuration| Automaattinen määritys
+Prefix Length| Etuliitteen pituus
+IPv6 Address| IPv6-osoite
+Local Directory Upload| Lataus paikalliseen kansioon
+Upload failed - Too many records detected in csv file| Lataus epäonnistui. CSV-tiedostossa on liian monta tietuetta
+Upload failed - No record detected in csv file| Lataus epäonnistui. CSV-tiedostossa ei ole tietueita
+Upload performed - %d records created| Lataus onnistui - %d tietuetta luotu
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Virhe: Versiota ei voi päivittää tai palauttaa, koska laiteohjelmistoversio ei ole yhteensopiva
+Directory file must be in CSV format| Hakemistotiedoston täytyy olla CSV-muodossa
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Virhe: Versiota ei voi päivittää tai palauttaa, koska laiteohjelmistoversio ei ole yhteensopiva
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Port Map on keskeneräinen
+DSP| DSP
+SIP| SIP
+Checking DECT| Tarkistetaan DECT
+Updating DECT Firmware| Päivitetään DECT-laiteohjelmistoa
+Tone| Ääni
+Interface| Rajapinta
+Web| Verkko
+7 +294| 7 +294
+Updating configuration| Päivitetään asetuksia
+Waiting assignment| Odotetaan tehtävää
+Checking for new firmware| Etsitään uutta laiteohjelmistoa
+Firmware Check| Laiteohjelmisto-tarkistus
+Firmware Check| Laiteohjelmisto-tarkistus
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Uusi laiteohjelmisto: ÄLÄ IRROTA PUHELINTA
+New Firmware: Restarting...| Uusi laiteohjelmisto: Käynnistetään uudelleen...
+Downloading configuration| Ladataan asetuksia
+9 +397| 9 +397
+erase all calls| Poista kaikki puhelut
+DELETE again to erase this item| Paina DELETE poistaaksesi tämän yksikön
+DELETE to erase item  or # to erase Number| Paina DELETE poistaaksesi yksikön tai # poistaaksesi numeron
+DELETE again to erase all calls| Paina DELETE uudelleen poistaaksesi kaikki puhelut
+DELETE again to erase all items| Paina DELETE uudelleen poistaaksesi kaikki yksiköt
+Delete All| Poista kaikki
+DELETE again to erase all calls| Paina DELETE uudelleen poistaaksesi kaikki puhelut
+DELETE again to erase all items| Paina DELETE uudelleen poistaaksesi kaikki yksiköt
+Delete All| Poista kaikki
+Factory Defaults| Tehdasasetukset
+ Missed Call|  Vastaamaton puhelu
+ Missed Calls|  Vastaamattomat puhelut
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Paina
+Push| Paina
+Leave| Poistu
+Conf| Asetukset
+SIP Settings| SIP-asetukset
+8 +743| 8 +743
+Cannot Save| Tallennus epäonnistui
+1 item| 1 yksikkö
+ items|  Yksiköt
+item| Yksikkö
+items| Yksiköt
+item| Yksikkö
+items| Yksiköt
+No User| Ei käyttäjää
+Missing User ID| Puutteellinen käyttäjätunnus
+DHCP failed| DHCP epäonnistui
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS ensisijainen
+Cfg Svr Failure| Cfg Svr virhe
+Bad Certificate| Viallinen sertifikaatti
+Bad Cert/TLS Err| Viallinen sert./TLS virhe
+Certificates| Sertifikaatit
+Cert Validation| Sert. vahvistaminen
+All defaults| Kaikki oletukset
+6 +1070| 6 +1070
+Debug Level| Debug-taso
+Support Information| Tukitiedot
+Get local.cfg| Hae local.cfg
+Get Log Files| Hae lokitiedot
+Get server.cfg| Hae server.cfg
+Get user_local.cfg| Hae user_local.cfg
+Get user.cfg| Hae user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Virheellinen subnet mask
+Invalid primary DNS address| Virheellinen ensisijainen DNS-osoite
+Invalid secondary DNS address| Virheellinen toissijainen DNS-osoite
+Invalid prefix length (0 to 128)| Virheellinen etuliitteen pituus (0–128)
+User ID required| Käyttäjätunnus on pakollinen
+IP cannot be equal to gateway address| IP ei voi olla sama kuin yhdyskäytävän osoite
+IP and gateway have to be on same subnet| IP ja yhdyskäytävä on oltava samassa aliverkossa
+IP and gateway are equal| IP-osoite ja yhdyskäytävä ovat samoja
+IP gateway subnet mismatch| IP-yhdyskäytävän aliverkko ei täsmää
+IPv6 Settings| IPv6-asetukset
+Basic Network Settings| Verkon perusasetukset
+Basic Network Settings (IPv6)| Verkon perusasetukset (IPv6)
+Basic Network Settings (IPv4)| Verkon perusasetukset (IPv4)
+Advanced Network Settings| Verkon lisäasetukset
+DHCP| DHCP
+NAT Port| NAT-portti
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Tiedosto on liian suuri. Tiedoston enimmäiskoko on 1 Mt.
+The phone does not have enough space to store this file.| Puhelimen tila ei riitä tiedoston tallentamiseen.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Tiedosto ei vastaa puhelimen soittoäänien vaatimuksia. Lisätietoja soittoäänitiedostoista on käyttöoppaassa.
+Directory file must be in WAV format| Kansiotiedoston täytyy olla WAV-muodossa
+Directory file must be in CSV format| Kansiotiedoston täytyy olla CSV-muodossa
+Local Directory Upload| Lataus paikalliseen kansioon
+Upload failed - Too many records detected in csv file| Lataus epäonnistui. CSV-tiedostossa on liian monta tietuetta
+Upload failed - No record detected in csv file| Lataus epäonnistui. CSV-tiedostossa ei ole tietueita
+6 +1370| 6 +1370
+IP&MAC Addresses| IP ja MAC -osoitteet
+LAN Port| LAN-portti
+PC Port| PC-portti
+Port Mirroring| Porttien monitorointi
+Set Audio| Aseta äänet
+Config. Server| Säädä. Palvelin
+IP Address:| IP-osoite:
+7 +1463| 7 +1463
+App| Sovellus
+Watchdog| Aikavalv.
+Speeddial/Conf| Pikavalinta/neuv.
+Speeddial/MWI| Pikavalinta/MWI
+Speeddial/MWI| Pikavalinta/MWI
+Call is on Hold| Puhelu odottaa
+No subscription| Ei liittymää
+802.1x Failed| 802.1x epäonnistui
+6 +1473| 6 +1473
+Failed to config Line Manager| Line Managerin asetus epäonnistui
+Line in use| Linja käytössä
+Get Crash Log| Hae vikaloki
+Logging Issue| Kirjautumisvirhe
+Time Unavailable| Aika ei saatavilla
+Packetization Interval| Pakettien väli
+Basic| Perus
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Mukautettu
+IN| SISÄÄN
+OUT| ULOS
+Filter| Suodatin
+Filtering| Suodatus
+Opt Status| Toimintotila
+Executives| Johto
+Forward Filtering| Siirron suodatus
+Divert| Siirto
+Divert to Number| Siirto numeroon
+IN| SISÄÄN
+OUT| ULOS
+Filter| Suodatin
+Filtering| Suodatus
+Opt Status| Toimintotila
+Executives| Johto
+Forward Filtering| Siirron suodatus
+Divert| Siirto
+Divert to Number| Siirto numeroon
+Press a contact button to view contact info.| Näytä yhteystiedot painamalla yhteystietopainiketta.
+No info available. Please press a contact button.| Tietoja ei ole käytettävissä. Paina yhteystietopainiketta.
+ Enter Administrator Password|  Aseta pääkäyttäjän salasana
+6 +1749| 6 +1749
+Level 4| Taso 4
+Level 5| Taso 5
+Dot "."| Piste ”.”
+Colon ":"| Kaksoispiste ”:”
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Linja: %d
+Line %d: %s| Linja %d: %s
+6 +1780| 6 +1780
+Please enter a number| Anna numero
+Please enter a name| Anna nimi
+Login| Sisäänkirjautuminen
+Log Issue| Lokihäiriö
+Log Out| Kirjaudu ulos
+Avail| Saatav.
+Unavail| Ei saatav.
+14 +1852| 14 +1852
+Show Picture| Näytä kuva
+Mode %d| Tila %d
+Screen Saver Timer| Näytönsäästäjän ajastin
+Enabled also in call| Käytössä myös puhelun aikana
+Enabled also in call| Käytössä myös puhelun aikana
+Invalid Subscription Time| Virheellinen tilausaika
+Speed Dial 8| Pikavalinta 8
+Request Failed| Pyyntö epäonnistui
+Request timed out| Pyyntö aikakatkaistiin
+Too many answers - Refine your search| Liian monta vastausta. Tarkenna hakua.
+New Contact| Uusi yhteyshenkilö
+Edit Details| Muokkaa tietoja
+Edit Details| Muokkaa tietoja
+Failed to retrieve contact details| Yhteystietoa ei voitu hakea
+No Mobile phone connected| Matkapuhelinta ei ole yhdistetty
+Only one Handset can be paired to the phone| Puhelimeen voidaan liittää vain yksi luuri
+7 +2039| 7 +2039
+Volume| Voimakkuus
+DTMF| DTMF
+Screenshot| Näyttökuva
+All| Kaikki
+All| Kaikki
+Missed| Vastaamattomat
+Outgoing| Lähtevät
+Received| Vastaanotetut
+7 +2053| 7 +2053
+Paired Devices| Pariliitetyt laitteet
+Available Devices| Käytettävissä olevat laitteet
+Swipe the toggle switch to the right to enable Bluetooth| Ota Bluetooth käyttöön pyyhkäisemällä valintakytkintä oikealle
+Press "Turn on" to enable Bluetooth| Ota Bluetooth käyttöön valitsemalla Käynnistä
+Press "Turn on" to enable Bluetooth| Ota Bluetooth käyttöön valitsemalla Käynnistä
+Turn on| Käynnistä
+Turn off| Sammuta
+Mobile : %s| Matkapuhelin: %s
+9 +2067| 9 +2067
+Device| Laite
+Rename Device| Nimeä laite uudelleen
+No paired devices| Ei pariliitettyjä laitteita
+Connection successful| Yhteys on muodostettu
+Connection failed| Yhteyttä ei voitu muodostaa
+Disconnection successful| Yhteys on katkaistu
+Connection successful| Yhteys on muodostettu
+Connection failed| Yhteyttä ei voitu muodostaa
+Disconnection successful| Yhteys on katkaistu
+Disconnection failed| Yhteyttä ei voitu katkaista
+Pairing failed| Liittäminen epäonnistui
+Operation failed| Toiminto epäonnistui
+7 +2153| 7 +2153
+%ld days ago| %ld päivää sitten
+while offline| offline-tilassa
+Can't talk right now. I'll call you later.| En voi puhua juuri nyt. Soitan sinulle myöhemmin.
+On another call| Puhuu toista puhelua
+On another call| Puhuu toista puhelua
+I'll call you back| Soitan takaisin
+Call me back in 10 minutes| Soita minulle 10 minuutin kuluttua
+Custom...| Mukautettu...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Hot Desk -käyttäjä ei voi liittää kaiutinta. Kirjaudu sisään paikallisena käyttäjänä.
+Hot desk user can not unpair handset please login as a local user| Hot Desk -käyttäjä ei voi poistaa liitettyä luuria. Kirjaudu sisään paikallisena käyttäjänä.
+Hot desk user can not unpair speaker please login as a local user| Hot Desk -käyttäjä ei voi poistaa liitettyä kaiutinta. Kirjaudu sisään paikallisena käyttäjänä.
+Push Call| Push-puhelu
+Cordless Handset| Langaton luuri
+Push Call| Push-puhelu
+Cordless Handset| Langaton luuri
+Low Battery| Varaus on vähissä
+Critical Battery| Varauksen kriittinen taso
+Ongoing Call| Käynnissä oleva puhelu
+5 +2188| 5 +2188
+Device not supported| Laitetta ei tueta
+Phone not compatible| Puhelin ei ole yhteensopiva
+Dialing out through Mobile Line not supported| Lähteviä puheluita matkapuhelinlinjalla ei tueta
+IPv6| IPv6
+Enable IPv6| Ota IPv6 käyttöön
+Mode DHCPv6| DHCPv6-tila
+DHCPv6| DHCPv6
+Auto-configuration| Automaattinen määritys
+Prefix Length| Etuliitteen pituus
+IPv6 Address| IPv6-osoite
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Virhe: Päivitys/palautus estetty, sillä laiteohjelmistoversio ei ole yhteensopiva
+Audio Diagnostics| Äänimääritykset
+Diagnostics| Määritykset
+Timeout (1-5 Minutes)| Aikakatkaisu(1-5 minuuttia)
+Disconnect| Katkaise
+Capturing ...| Tallennetaan ...
+Complete ...| Valmis ...
+Collecting Logs ...| Kerätään lokitietoja ...
+Collect Logs| Kerää lokitiedot
+Please input a duration between 1 and 5 minutes| Aseta kestoksi 1-5 minuuttia
+Erase| Pyyhi
+Cloud Service| Pilvipalvelu
+Enable Cloud Service| Ota pilvipalvelu käyttöön
+Cloud SIP| Pilvi SIP
+Cloud Directory| Pilviluettelo
+Active Config Server| Nykyisten asetusten palvelin
+Cloud Config Server 1| Pilviasetusten palvelin 1
+Cloud Config Server 2| Pilviasetusten palvelin 2
+Cloud Staging Server| Pilvitestauspalvelin
+Cloud Domain| Pilvi-verkkotunnus
+Replay| Toista
+Backward| Kelaus
+Forward| Välitä
+Send To| Lähetä
+Logout| Kirjaudu ulos
+To Email| Sähköpostiosoitteeseen
+Delete Failure| Virhe poistossa
+Play Failure| Virhe toistossa
+Play Failure due to a system error. See your system administrator.| Virhe toistossa johtuen järjestelmävirheestä. Ota yhteyttä järjestelmän ylläpitäjään.
+Save Failure| Virhe tallennuksessa
+Add Contact| Lisää kontakti
+Voicemail and Recordings| Ääniviestit ja tallennukset
+Voicemail User Login| Kirjautuminen ääniviesteihin
+Send to| Lähetä
+Cannot dial a private number| Yksityiseen numeroon soittaminen ei ole mahdollista
+Cannot copy a private number| Yksityisen numeron kopiointi ei ole mahdollista
+Number not available| Numero ei saatavilla
+Loading...| Ladataan...
+Login| Sisäänkirjautuminen
+Contacts| Yhteystiedot
+Private| Yksityinen
+To| Henkilölle
+Send| Lähetä
+Voicemail has been sent.| Ääniviesti on lähetetty.
+Error in sending Voicemail. Please send it again.| Virhe ääniviestin lähetyksessä. Lähetä uudelleen.
+Voicemail has been sent to email.| Ääniviesti on lähetetty sähköpostiin.
+Error in sending to Email.| Virhe sähköpostiin lähettämisessä.
+New| Uusi
+Recorded| Tallennettu
+Receipt Confirmation| Vastaanottovahvistus
+Passcode| Tunnuskoodi
+Mailbox Number| Postilaatikon numero
+Remember passcode| Muista tunnuskoodi
+Passcode is incorrect. Enter a valid passcode.| Virheellinen tunnuskoodi. Syötä oikea tunnuskoodi.
+Invalid mailbox number.| Virheellinen postilaatikon numero.
+Error - Mailbox in use| Virhe - postilaatikko on käytössä
+Error - maximum sessions exceeded| Virhe - sessioiden maksimimäärä ylitetty
+Error - no session exists| Virhe - sessiota ei ole olemassa
+Error - bad extension| Virhe - viallinen laajennus
+Mailbox locked for security reasons. See your system administrator.| Postilaatikko lukittu turvallisuussyistä. Ota yhteyttä järjestelmän ylläpitäjään.
+DECT Headset| DECT-kuulokkeet
+DECT Headset Version| DECT-kuulokeversio
+DECT Headset Battery| DECT-kuulokkeiden akku
+DECT Headset Rf Power| DECT-kuulokkeiden Rf-teho
+DECT Headset Rf Power| DECT-kuulokkeiden Rf-teho
+Very Low| Hyvin vähissä
+Downloading font| Ladataan fonttia
+No calls to unpark| Ei odottavia puheluita
+For …| Henkilölle ...
+To VM| VM:lle
+Number of Packets Sent| Lähetettyjen pakettien määrä
+Number of Packets Received| Vastaanotetut pakettien määrä
+RTT min/avg/max| RTT min./ka./maks.
+traceroute to| Jäljitin
+hops max| maks. siirrot
+byte max| maks. tavut
+Voicemail box is full| Ääniviestikansio on täynnä
+ALL| KAIKKI
+REMOTE| ETÄ
+Local| Paikallinen
+Not allowed on this call| Ei sallittu tässä puhelussa
+ Whisper| Kuiskaus
+ Consult| Konsultoi
+ Coach| Valmenna
+ Barge| Keskeytys
+ Monitor| Valvo
+ For| Kenelle
+ External Speaker| Ulkoinen kaiutin
+ UnPark| Poista pidosta
+ Call Parked| Puhelu pidossa
+ UnPark Failed| Pidon poisto epäonnistui
+ Rev:| Tark:
+ You must restart the phone before the new settings will take effect.| Käynnistä puhelin ennen kuin uudet asetukset tulevat voimaan.
+ None| Ei mitään
+ Use LLDP-MED| Käytä LLDP-MED
+ LLDP neighbor| LLDP-naapuri
+ Cache LLDP-MED| Välimuisti LLDP-MED
+ Conf In Progress| Konf käynnissä
+  Enter Voicemail Password| Syötä vastaajan salasana
+ Call Server| 
+ Do Not Ring if on a Call| Ei soittoa puhelun aikana
+ P| P
+ To Vm| Vm:lle
+ Pickup not permitted| Vastaamista ei sallittu
+ Pickup/unpark not permitted| Vastaus/pidon poisto ei sallittu
+ Unpark not permitted| Pidon poisto ei sallittu
+ Silent Monitor not permitted on this call| Silent Monitor ei sallittu tälle puhelulle
+ Silent Coach not permitted on this call| Silent Coach ei sallittu tähän puheluun
+ Barge In not permitted on this call| Barge ei sallittu tähän puheluun
+ Park not permitted| Pito ei sallittu
+ Park/Transfer is still in progress| Pito/Siirto vielä meneillään
+ No calls to unpark| Ei odottavia puheluita
+ No calls to park| Ei puheluita pitoon
+ No calls to pickup| Ei vastattavia puheluita
+ No calls to take action| Ei puheluita joille toimenpiteitä
+ My Status| Oma tila
+ Favorite| Suosikki
+ Voicemail playback failed| Vastaajan toisto epäonnistui
+ Voicemail skip failed| Vastaajan ohitus epäonnistui
+ Voicemail bad address| Vastaajan väärä osoite
+ Voicemail box is full for| Vastaaja on täynnä
+ Not supported| Ei tuettu
+ Service unavalilable at this time| Palvelu ei käytössä
+ Hold not permitted on this call| Pitoa ei sallittu tälle puhelulle
+ Action not permitted| Toimintoa ei sallittu
+ Not Permitted on this call| Ei sallittu tässä puhelussa
+ Request denied or \r\nunacceptable at this time| Pyyntö kielletty tai \r\nei voi hyväksyä tällä kertaa
+ Phone number is invalid or not properly formatted| Puhelinnumero on väärä tai sitä ei ole oikein muotoiltu
+ Move Message Failure| Viestin siirto epäonnistui
+ Contacts| Yhteystiedot
+ Cloud Connect| Cloud Connect
+ Service Type| Palvelutyyppi
+ MiCloud Connect| MiCloud Connect
+ MiVoice Border Gateway| MiVoice Border Gateway
+ User DID| Käyttäjä DID
+ Domain| Domain
+ Call Back| Call Back -puhelu
+ Play| Toista
+ Exit| Poistu
+ Skip Back| Ohita taakse
+ Skip Forward| Ohita eteen
+ Inbox| Saapuneet
+ MiCloud| MiCloud
+ Fetching Details| Haetaan tietoja
+ Additional Phone| Lisäpuhelin
+ Agent state| Agentin tila
+ Availability| Saatavuus
+ Standard| Vakio
+ In a meeting| Kokouksessa
+ Out of office| Ei paikalla
+ Extended Absence| Pidempi poissaolo
+ Do not disturb| Älä häiritse
+ On the Phone| Puhelimessa
+ Assign| Osoita
+ Assign user| Osoita käyttäjä
+ Assign user failed| Käyttäjän osoitus epäonnistui
+ Assign user to phone in progress. Please wait...| Käyttäjän osoitus puheluun meneillään. Odota...
+ Extension or password invalid| Alanumero tai salasana väärin
+ Unassign| Poista osoitus
+ Unassign user| Poista käyttäjän osoitus
+ Unassign user failed| Käyttäjän osoituksen poisto epäonnistui
+ Unassign user?| Poista käyttäjän osoitus?
+ Unassigning user...| Poistetaan käyttäjän osoitus...
+ Voicemail password| Vastaajan salasana
+ Ping| Ping
+ Host Name or IP Address| Host-nimi tai IP-osoite
+ Please enter a valid HostName/IP Address| Syötä oikea Host-nimi/IP-osoite
+ Pinging %s...| Pingataan %s...
+ Tracerouting...| Tracerouting...
+ Tracerouting Complete| Tracerouting valmis
+ Traceroute| Traceroute
+ Page Up| Sivu ylös
+ Page Down| Sivu alas
+ Traceroute Command| Traceroute-komento
+ Always| Aina
+ Never| Ei
+ Always destination| Aina kohde
+ No answer destination| Ei vastauskohdetta
+ Busy destination| Varattu kohde
+ Simulring| Simulring
+ VPN| VPN
+ Use VPN| Käytä VPN
+ VPN gateway| VPN-yhdyskäytävä
+ VPN gateway port| VPN-yhdyskäytävän portti
+ Tunnel IP| Tunnelin IP
+ VPN protocol| VPN-protokolla
+ VPN debug mode| VPN debug -tila
+ System| Järjestelmä
+ Log upload| Lokin siirto
+ Timeout (1-1440 Minutes)| Aikakatkaisu (1-1440 minuuttia)
+ Please input a duration between 1 and 1440 minutes| Syötä kesto 1- 1440 minuutin välillä
+ User Settings| Käyttäjäasetukset
+ Diagnostic server| Diagnostiikkapalvelin
+ Diag Server| Diag.palvelin
+ Wrap up| Wrap up
+ UnWrap| UnWrap
+  Open| Avaa
+ Confirm| Vahvista
+ New voicemail password| Uusi vastaajan salasana
+ Password entries do not match| Salasanat eivät täsmää
+ Password change succeeded| Salasanan vaihto onnistui
+ New password same as old password| Uusi salasana on sama kuin vanha
+  Reply|  Vastaa
+  ReplyAll|  Vastaa kaikille
+  Compose|  Laadi
+  Call VM|  Soita VM
+ Cannot choose your own extension| Et voi valita omaa liitettä
+ Save Changes?| Tallennetaanko muutokset?
+ Validating number...| Validoidaan numeroa...
+ Invalid %s| Väärä %s
+ Upgrade Required| Päivitys vaaditaan
+ Invalid DID or Password| Väärä DID tai salasana
+ Register| Rekisteröidy
+ Voice Service| Äänipalvelu
+ Start Over| Aloita uudelleen
+ Empty domain name| Tyhjennä domain-nimi
+ Registering| Rekisteröidytään
+ DID or password no update| DID tai salasana ei päivitetty
+ Invalid domain name| Väärä domain-nimi
+  Registration cancelled|  Rekisteröinti peruutettu
+ Pager| Hakulaite
+ Phone not registered| Puhelinta ei ole rekisteröity
+ Enterprise| Yritys
+  Parameter Type| Parametrityyppi
+ Remote| Etä
+  Filter Page| Suodatinsivu
+  Parameter Filter| Parametrisuodatin
+  Get Parameters| Hae parametrit
+ Assigned| Annettu
+ Assigning| Annetaan
+ Invalid extension| Väärä pääte
+ Extension or password no update| Alanumero tai salasana ei päivitetty
+ Assignment cancelled| Osoitus peruttu
+ Extension already assigned| Alanumero jo annettu
+  Select a call to park| Valitse pitoon siirrettävä puhelu
+  Select a call to unpark| Valitse pidosta poistettava puhelu
+  Unpark| Poista pidosta
+ Duration| Kesto
+ Subject| Aihe
+ Uploading Fail| Siirto epäonnistui
+ Diagnostic server is empty| Diagnostiikkapalvelin on tyhjä
+ Logs uploaded successfully| Lokien siirto onnistui
+ Urgent| Kiireinen
+ Return Receipt| Palauta viesti
+ Include Original| Liitä alkuperäinen
+ Re: Voice Message| Re: Ääniviesti
+ Fw: Voice Message| Fw: Ääniviesti
+ Phone not assigned| Puhelinta ei osoitettu
+ Whisper Page| Kuiskaussivu
+ Intercom| Sisäpuhelu
+ Silent Monitor| Silent Monitor
+ Barge In| Keskeytä
+ Silent Coach| Silent Coach
+ To Inbox| Saapuneisiin
+ Save Message?| Tallennetaanko viesti?
+ By First| Ensimmäisen
+ By Last| Viimeseisen
+ Dial Voicemail| Soita vastaajaan
+ Dial VM| Soita VM
+  Invalid Phone Number| Väärä puhelinnumero
+ Transfer not permitted on this call| Siirto ei sallittu tässä puhelussa
+ Conference not permitted on this call| Neuvottelu ei sallittu tässä puhelussa
+ Remote log upload in progress| Etälokin siirto meneillään
+ Remote capture upload in progress| Etätallennuksen siirto meneillään
+ Standard| Vakio
+ Ring 2| Soitto 2
+ Ring 3| Soitto 3
+ Ring 4| Soitto 4
+ Play Int| Toista sis
+ Play Ext| Toista ulk
+ Press "Upload" to upload a debug log| Paina "Upload" siirtääksesi debug-lokin
+ Select a call to merge| Paina liitettävä puhelu
+ Add Caller:| Lisää soittaja:
+ Assign user?| Osoita käyttäjä?
+ Participants| Osallistujat
+ Conferenced| Neuvottelussa
+ calls| puhelut
+ held calls| puhelut pidossa
+ Debug on| Debug päällä
+ Debug off| Debug pois
+ Unknown Error| Tuntematon virhe
+ Connection Error| Yhteysvirhe
+ Application Error| Sovellusvirhe
+ Number of Packets Sent:| Läh. pakettien lkm:
+ Number of Packets Received:| Vastaanotettujen pakettien lkm:
+ RTT min/avg/max| RTT min./ka./maks.
+ traceroute to| Jäljitin
+ hops max| maks. Siirrot
+ byte packets| tavupaketit
+ Help| Ohje
+ Call Mitel Support ?| Soitetaanko Mitel-tukeen?
+ Mitel Support| Mitel-tuki
+ Remote| 
+ OnHold| 
+Initializing Components| Komponenttien alustaminen
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

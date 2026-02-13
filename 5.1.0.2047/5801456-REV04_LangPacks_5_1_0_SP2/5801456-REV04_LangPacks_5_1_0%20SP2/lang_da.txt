@@ -1,0 +1,3608 @@
+Dansk
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Ingen håndsæt er nu forbundet.
+Cordless Handset Feature Key Configuration| Trådløst håndsæt Feature Tast-konfiguration.
+None| Ingen
+Attempting to pair...| Forsøger at forbinde
+Pairing successful| Forbundet OK
+Pairing failed       | Forbindelse fejlede       
+Try again| Prøv igen
+Remove Handset:| Fjern håndset
+Attempting to remove| Forsøger at fjerne
+Wait...| Vent...
+Removal successful| Fjernet OK
+Cordless| Trådløst
+Cordless Handsets| Trådløst håndsæt
+None Registered| Ingen registrering
+Sync| Synk.
+Private Line| Privat linje
+Sending Directory| Sender telefonbog
+to Handsets| til håndsæt
+System Unavailable| syst. ej tilgængelig
+Handset Pairing| Forbind håndsæt
+Handset Keys| Tast til håndsæt
+Feature Key programming complete.| Programmering af facilitetstast fuldført
+Two Call Support| Two Call Support
+Intercom| Intercom
+Sending Directory to Handsets| 
+No Public Number Found| 
+480i prompts| 
+Time Format| Tidsformat
+    NOT MATCH !!!|     FORKERT!
+Erase local config?| Slet lokal konfig.
+Alternate Server| Alternativ TFTP
+Contrast Level| Kontraststyrke.
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService DSCP| TypeService DSCP
+TypeService RTCP| TypeService RTCP
+Dn| Nede
+Rt| Højre
+Lf| Venstre
+Del| Slet
+System Info Upload| Upload System Info
+Up| Oppe
+Copyright| Copyright
+Reset| Reset
+Phone will restart automatically after finishing.| Telefonen genstarter automatisk
+Please login| Venligst login
+Incorrect password|  Forkert adgangskode
+Reset Configuration?| Reset konfiguration
+Cfg. Svr.| Kfg. Srv.
+Enable| Aktiver
+List| Liste
+Move Up| Flyt op
+Move Down| Flyt ned
+Firmware Loaded| Firmware loadet
+802.1x Authenticating| 802.1x Authenticating
+LLDP| LLDP
+DHCP: Waiting for IP|  DHCP: Venter på IP
+Bluetooth Upgrade .. Please wait| Bluetooth Upgrade .. Vent venligst
+Contacting Redirector| Contacting Redirector
+Redirecting Step 1| Redirecting Step 1
+Redirecting Step 2| Redirecting Step 2
+Redirecting Step 3| Redirecting Step 3
+Redirecting Step 4| Redirecting Step 4
+Redirecting Step 5| Redirecting Step 5
+Redirecting Step 6| Redirecting Step 6
+Auto Discovery...| Autoopsætning
+Starting in Generic SIP Mode| Starter i Generic SIP Mode
+Starting in AastraLink Mode| Starter i AastraLink Mode
+Updating config| Opdater Konfig.
+Waiting assignment| Afventer tildeling
+Checking for Firmware  Do not unplug phone!| Søger efter ny firmware.
+New Firmware. Do not unplug phone!| Ny firmware. Træk ikke stikket ud!
+New Firmware. Restarting...| Ny firmware. Genstarter...
+Downloading configuration| Downloader konfiguration
+Downloading Language Packs| Downloader Sprogfil
+Network| Netværk
+UPnP device not found| UPnP ikke fundet
+Port Map In Progress| Port Maping i gang
+Port Map Incomplete| Port Maping fuldført.
+DSP| DSP
+SIP| SIP
+Tone| Tone
+Interface|  Interface
+Web|  Web
+Done|  Afslut
+CopyToAll| KopiTilAlt
+Cannot use firmware.| kan ikke bruge SW
+No available lines| ingen ledige linjer
+Current Password:| Nuværende adgangskode:
+New Password:| Nyt adgangskode:
+Re-enter Password:| Gentag adgangskode.  
+  Password Changed|   Adgangskode ændret
+Change| Ændre
+Use DHCP?| Brug DHCP?
+Advanced| Advanced
+DNS| DNS
+Ringer | Ringetone 
+ ERROR: invalid port| Fejl: invalid port
+SIP Register| SIP Registrering
+Register?| Register?
+Authentication Name| Authentication Name
+Nortel NAT| Nortel NAT
+Reset phone to| Reset telefon til
+factory defaults?| fabriksindstilling?
+Setting phone back to| Genopretter telefon i
+Factory Defaults| fabriksindstilling
+  Please enter the   |         Indtast  
+    administrator    |    Administrator     
+      password.      |      Adgangskode. 
+Password: | Adgangskode: 
+Quit| Afslut
+More| Mere
+Timeserver Address:| Tids-Server:
+Network Time Disabled| Netværks tid afbrudt
+Dialing| Indtast
+Incoming| Indkommende
+Calling| Opringning
+Pause| Pause
+Pickup| Besvar
+Previous| Forrige
+Enter Time:| indtast tid:
+Message Waiting| Meddelelse venter
+Live Dialpad| Live Dialpad
+Live Dialpad is| Live Dialpad er
+Options List| Option Liste
+    Access denied    | Adgang ikke tilladt
+Directory is full| Telefonbog er fuld
+30min summertime| 30Min sommertid
+1h    summertime| 1T    sommertid
+No Link| Nede
+Next| Næste
+Retry| Prøv igen.
+Negotiation| Forhandler.
+Live Dialpad disabled| Live Dialpad afbrudt
+Link State| LinkStatus
+Headset Mic Volume| Volumen på hovedsæt
+Gateway IP Address:| Gateway IP Adresse
+Enter Date (y-m-d):| Indtast dato (Å-M-D)
+Enter| OK
+Enable| Aktiver
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Default| Default
+Add New| Tilføj ny
+DeleteList| Slet liste
+Delete entire| Slet indtastet
+Directory?| Telefonbog?
+Enter Number:| Indtast nummer:
+Network disconnected| Netværk afbrudt
+Network connected| Netværk tilsluttet
+Entry Saved| Indtastning gemt
+Entry Removed| Slettet
+Private| Privat
+Public| Offentlig
+Delete entry?| Slet indtastning?
+Delete?| Slet?
+Delete number| Slet nummer
+or delete all| eller slet alle
+entries?| indtastninger?
+Name is full| Navn er fuldt
+Empty| Tom
+Redial List| Genkaldsliste
+Details| Detaljer
+Copy| Kopi
+Select| Vælg
+Voicemail| Voice-Mail
+DeleteItem| Slet
+Delete All| Slet alt
+Entry copied to| Indtastning er kopieret til
+Entry Exists| Indtastning findes
+All items erased| Alle indtastninger slettet
+Sort| Sorter
+Resume| Genkald
+EditNum| Ændre-nr.
+DeleteList again to| Tryk SLET LISTE igen for
+Delete again to| Tryk SLET igen for
+erase this item| at slette denne
+erase all calls| at slette alle kald
+ new caller|  Nyt kald
+ new callers|  Nye kald
+Press 1st letter| Tast 1st bogstav
+Handset | Håndsæt 
+ Missed Call|  Ubesvaret kald
+ Missed Calls|  Ubesvarede kald
+Call Forward Mode| Viderestill. tilstand
+CFWD All| Viderestil alle
+CFWD Busy| Viderestil ved Opt.
+CFWD NoAnswer| Viderestil ej-svar.
+Call| Opkald
+Select TFTP| Vælg TFTP
+Use %c for new| Use %c for ny
+Use %c to view| Use %c for at se
+Download Protocol| Download protokol
+OFF| Fra
+ON| Til
+Add Number| Ret nummer
+Arrange| Arrangere
+%cmore| %cMere
+Office| Kontor
+Home| Privat
+Cell| Mobil
+Pager| Personsøger
+VLAN Settings| VLAN indstillinger
+Softkeys and XML| Taster og XML
+Softkeys Configuration| Konfiguration af taster
+Bottom Keys| Nederste taster
+Top Keys| Øverste Taster
+Page1| Side 1
+Page2| Side 2
+Page3| Side 3
+Page4| Side 4
+Page5| Side 5
+Idle| Ledig
+Outgoing| Udgående
+Empty| Ikke i brug
+Enter server name/IP:| Indtast server navn/IP
+Enter HTTPS port:| Indtast HTTPS port:
+Erase| Slet
+Proxy IP/Port| Proxy IP/Port
+Registrar IP/Port| Registrar IP/Port
+Erasing local config| Slet lokal konfig
+Proxy Port:| Proxy Port:
+Registrar Port:| Registrar Port:
+Proxy Server:| Proxy Server:
+Registrar Server:| Registrar Server:
+Contrast Level:| Kontraststyrke:
+Erase Local Config.| Slet lokal konfig.
+Administrator Menu| Administrator Menu
+Backlight On Time| Tid for baggrunds lys
+Redirect HTTP->HTTPS?| Redirect HTTP->HTTPS?
+Block XML HTTP POSTs?| Block XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Client Method
+To unlock the phone| For at låse telefonen op
+No more softkeys| Ikke flere Softkeys
+Ignore| Ignorer
+Answer| Besvar
+Configuration Server| Konfig. Server
+Primary Path| Brug primær
+Alternate Path| Brug alternativ
+Logging in| Logger ind
+Login Failed| Login fejlede
+Enable?| Aktiver?
+Check Expires| Check Expires
+Check Hostnames| Check Hostnames
+Conf. Unavailable| Konf. Ikke tilgængelig
+Ringing...| Ringer....
+Error Messages| Fejl meddelelse
+No Error Messages| Ingen meddelelser
+Download Options| Download option
+Abc| ABC
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| mere
+A # &| A # &
+  Invalid password   | Forkert adgangskode
+
+Upload Sys Info| Upload System Info
+Config is updated. Restarting...| Konfigurationen er opdateret. Genstarter...
+CFWD Filtering| CFWD-filtrering
+Checking for Firmware| Søger efter ny firmware
+for new| 
+9133i prompts| 
+Password Changed| Adgangskode ændret
+Leave| Forlade
+Time Format| Tidsformat
+Erase local cfg?| Slet Konfiguration?
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService DSCP| TypeService DSCP
+TypeService RTCP| TypeService RTCP
+Alternate Server| Alternativ TFTP
+Contrast Level| Kontraststyrke.
+Options List| Option Liste
+DELETE to erase item  or # to erase Number| SLET for at slette element eller # for at slette nummer
+Upload Sys Info| Upload System Info
+Directory Empty. Use Save to add| Telefonbog er tom. Brug gem for at tilføje
+Directory Empty Use Save to add| Telefonbog er tom Brug gem for at tilføje
+  NOT MATCH !!!|   FORKERT!
+DELETE again to erase this item| Tryk SLET igen for slette denne
+System Info Upload| Upload System Info
+Phone will restart after| Telefonen genstarter efter
+Copyright| Copyright
+Reset| Reset
+Use DHCP?| Brug DHCP?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Half 1000Mbps
+Cfwd Destination| Cfwd-destination
+Please login| Venligst login
+Incorrect password| Forkert adgangskode
+Reset Configuration?| Reset konfiguration
+Cfg. Svr.| Kfg. Srv.
+Net disconnected| Netv. afbrudt
+Live Dialpad| Live Dialpad
+Firmware Loaded| Firmware Loaded
+802.1x Authenticating| 802.1x Authenticating
+LLDP| LLDP
+Initializing network| Initialiser netværk
+Bluetooth Upgrade| Bluetooth Upgrade
+Contacting Redirector| Contacting Redirector
+Redirecting Step 1| Redirecting Step 1
+Redirecting Step 2| Redirecting Step 2
+Redirecting Step 3| Redirecting Step 3
+Redirecting Step 4| Redirecting Step 4
+Redirecting Step 5| Redirecting Step 5
+Redirecting Step 6| Redirecting Step 6
+Auto Discovery| Automatisk konf.
+Starting in Generic SIP Mode| Starter i Generic SIP Mode
+Starting in Aastra Link Mode| Starter i AastraLink Mode
+Updating configuration| Opdater konfiguration
+Waiting assignment| Afventer tildeling
+Checking for new firmware| Søger efter ny firmware.
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Ny firmware. Træk ikke stikket ud!
+New Firmware: Restarting...| Ny firmware. Genstarter...
+Downloading configuration| Downloader konfiguration
+Downloading Language Packs| Downloader Sprogfil
+Network| Netværk
+UPnP Gateway Not Found| UPnP Gateway ikke fundet
+UPnP Port Map In Progress| UPnP Port Map In Progress
+UPnP Port Map Incomplete| UPnP Port Map Incomplete
+DSP| DSP
+SIP| SIP
+Tone| Tone
+Registering with the voice network...| Registering with the voice network...
+Web| Web
+Done| Afslut
+Cannot use| Kan ikke bruge
+this firmware.| denne firmware
+All lines in use| Alle Linjer i brug
+Current Password| Rigtigt adgangskode
+New Password| Nyt adgangskode
+Enter Again| Indtast igen 
+Ringer volume   | Ringestyrke   
+DELETE again to| SLET igen for at
+erase all calls| Slet alle kald
+Caller is erased| Kald er slettet
+Network Time| Netværks tid
+Change| Ændre
+Options| Optioner
+Access denied| Adgang ikke tilladt
+Directory full| Telefonbog er fuld
+Link Active| Link er aktivt
+No Link| Intet link
+Live Dialpad is\nnot available.| Live Dialpad er\ikke tilgængelig.
+Live Dialpad is\nON| Live Dialpad er\nON
+Live Dialpad is\nOFF| Live Dialpad er\nOFF
+-  confirmed   -|  -  Bekræft   -
+Contrast | Kontrast 
+Set| Sæt
+DHCP\nON| DHCP er ON
+DHCP\nOFF| DHCP er OFF
+Enable?\nYes| Register er ON
+Enable?\nNo| Register er OFF
+Check Expires| Check Expires
+Check Expires?\nYes| Check Expires?\nYes
+Check Expires?\nNo| Check Expires?\nNo
+Check Hostnames| Check Hostnames
+Check Hostnames?\nYes| Check Hostnames?\nYes
+Check Hostnames?\nNo| Check Hostnames?\nNo
+Cancel| Fortryd
+SIP Register\nON| Register er ON
+SIP Register\nOFF| Register er OFF
+Nortel NAT\nEnabled| Nortel NAT\naktiveret
+Nortel NAT\nDisabled| Nortel NAT\nSlået fra
+Next| Næste
+Done| Ok
+Retry| Gentag
+Exit| Afslut
+Pickup| Besvar
+Call held| Kald på vent
+Calls held| Ventende kald
+Country Code: | Landekode 
+*List Countries| *List lande
+Enter| OK
+Admin Password| Admin adgangskode
+yyyy-mm-dd | ÅÅÅÅ-mm-DD 
+Restart phone?| Genstart?
+#Confirm| #Bekræft
+RestoreDefaults?| Gendan Default?
+Call Agent 1| Kald Agent 1
+Call Agent 2| Kald Agent 2
+Call Agent 3| Kald Agent 3
+Invalid Code    | Ugyldig kode    
+E: Invalid port!| E: Ugyldig port
+Application:| Applikation:
+Boot ROM:| Boot ROM:
+Negotiation:| Forhandling:
+30m summertime| Sommertid 30 m
+1h summertime| Sommertid 1 t
+Invalid password| Forkert adgangskode
+  disconnected|   Afbrudt
+   connected|    Tilsluttet
+    Network|     Netværk
+erase all items| slet alle indtastninger
+Enter Number>| Indtast nummer
+Setting phone to| Tilslut telefonen
+Use Save to end| Tryk gem for at afslutte
+to enter name>| indtast navn>
+Saved: Directory| Gemt: Telefonbog
+Retrying config | Forsøger konfig igen
+download...     | download...     
+empty| Tom
+No Match| Ingen fundet
+Save to?| Gem på?
+Saved Memory key| Gemte mem-taster
+Removed Key| Fjern tast
+Key saved | Gemte mem-taster
+Key removed| Fjern tast
+Press 1st letter| Tast første bogstav
+Speaker volume  | Styrke på højttaler
+Handset volume  | Styrke på håndsæt
+Headset volume  | Styrke på hovedsæt
+Factory Defaults| Fabriksindstilling.
+ Missed Call|  Ubesvaret Kald
+ Missed Calls|  Ubesvarede kald
+Cfwd State| Vidr. Status
+Cfwd Number| Viderestillingsnr.
+Cfwd Mode| Viderestilling
+CFWD All| Viderestil alle
+CFWD Busy| Viderestil v/opt.
+CFWD NoAnswer| Viderestil v/ej-svar
+Select TFTP\nPrimary| Brug\nPrimær TFTP
+Select TFTP\nAlternate| Brug\nAlternativ TFTP
+DownloadProtocol| DownloadProtokol
+VLAN Settings| VLAN opsætning
+Server Name/IP?| Navn/IP på server?
+HTTPS Port?| HTTPS Port?
+Client Method\nSSL 3.0| Client-Methode\nSSL 3.0
+Client Method\nTLS 1.0| Client-Methode\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nRedirect
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nDo not redirect
+Redirect| Redirect
+Do not redirect| Do not redirect
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nDo not block
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBlock
+Do not block| Do not block
+Block| Block
+Erasing config| Slet konfiguration
+Pri TFTP Path| Pri TFTP Path
+Alt TFTP Path| Alt TFTP Path
+Backlight Mode| Baggrunds lys
+Backlight Time| Tid
+Answer| Besvar
+Ignore| Ignorer
+Cfwd| Vidr
+Copy to All?| Copy to All?
+Apply Changes?| Tilføj ændringer
+Logging in| Logger ind
+Login Failed| Login fejlede
+Conf Unavailable| Konf. Ikke tilgængelig
+Error Messages| Fejl meddelelse
+No Error Messages| Ingen meddelelsr
+Delete All| Slet alt
+Download Options| Download option
+Config updated. Restarting...| Konfiguration opdateret Genstarter...
+DELETE again to erase all calls| SLET igen for at slette alle opkald
+Firmware Check| Søger firmware
+Fwd Filtering| Fwd-filtrering
+CFWD Filtering| CFWD-filtrering
+DELETE again to erase all items| SLET igen for at slet alle indtastninger
+Upload Sys Info| Upload System Info
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Indtast Administrator adgangskode
+Error Msg| Fejl meddelelse
+Unlock the phone?| Telefonen er låst
+ Enter Unlock Password| Indtast oplåsnings adgangskode
+softkey| softkey
+Edit Number| Rediger nummer
+Lock the phone| Telefonen er ikke låst
+keypad| Tastatur
+Unlock| Lås op
+ Cust Feat| Custom Egenskaber
+Phone is locked| Telefonen er låst
+Unlock the phone| Telefonen er låst
+GoodBye| Farvel
+Pass Thru Port| Pass Thru Port
+First| First
+Last| Last
+Name| Name
+Add| Add
+Edit| Edit
+Space| Space
+Bksp| Slet
+caps| caps
+CAPS| CAPS
+Reject| Afvis
+Silence| Mute
+Hold| Hold
+Transfer| "R"
+>| >
+Lines| Linjer
+Settings| Settings
+Device Name| Enheds navn
+Bluetooth Devices| BT Devices
+Bluetooth Status:| Bluetooth Status:
+Search| Søg
+Searching...| Søger...
+device(s) found.| enhed(s) fundet
+Press on a device to start pairing.| Tryk på enhed for a starte
+Enter PIN| Tast PIN
+Add Device| Tilføj Enhed
+Active| Aktiv
+Are you sure?| Er du sikker?
+ALL| ALL
+Phone No:| Telefon nr:
+Copy to all modes| Kopi til alle
+BUSY| OPTAGET
+NO ANSWER| EJ SVAR
+CFWD NO ANS:| VID.ST EJ SVAR:
+CFWD BUSY:| VID.ST OPTAGET:
+CFWD ALL:| VID.ST ALLE:
+Audio| Audio
+Calibrate Screen| Kalibrer skærm
+Recalibrate Touchscreen?| Rekalibrere Touchscreen?
+Softkeys| Softkeys
+Headset Mic Volume| Headset mikrofon volumen
+Headset Device| Headset enhed
+Bluetooth| Bluetooth
+Wired| Kablet
+Restart | Genstart
+No Calls| Ingen kald
+Brightness Timer| Tid for baggrunds lys
+Brightness Level| Lysstyrke niveau
+Add to Directory| Tilføj til tlf.bog
+Waiting for Touch Screen activity to subside ...| Venter på Touch Screen
+Touch the UPPER-LEFT corner of the screen| Tryk i ØVERSTE-VENSTRE hjørne
+Touch the UPPER-RIGHT corner of the screen| Tryk i ØVERSTE-HØJRE hjørne
+Touch the LOWER-RIGHT corner of the screen| Tryk i NEDERSTE-VENSTRE hjørne
+Touch the LOWER-LEFT corner of the screen| Tryk i NEDERSTE-HØJRE hjørne
+Received unreliable data. You will be asked to touch the same point again| Modtog ulæslig data. Du vil blive bedt om at røre ved det samme punkt igen
+Processing ...| Processing ...
+Validating calibration data ... please wait| Godkender kalibreringsdata ... vent venligst
+Sanity Check OK. Save changes?| Sanity Check OK. Gem ændringer?
+Sanity Check Failed| Sanity Check Fejlede
+Retry| Forsøg igen
+Quit| Exit
+Please Enter| Tryk Enter
+Submit| Submit
+User ID:| bruger ID:
+Password:| Adgangskode:
+Transferring| Omstiller
+No. Rings| Ingen ring
+Line| Linjer
+Unable to Pair| Unable to Pair
+Please Wait...| Vent venligst...
+Add new device...| Tilføj ny enhed..
+Detected:| Detected:
+Connecting:| Tilslutter:
+Disonnecting:| Afbryder:
+Connected:| Tilsluttet:
+ALL| Alle
+BUSY| OPTAGET
+NO ANSWER| EJ SVAR
+CFWD ALL:| VID.ST ALLE:
+CFWD BUSY:| VID.ST OPTAGET:
+CFWD NO ANSWER:| VID.ST EJ SVAR:
+Copy to all modes| Kopi til alle
+OFF| Fra
+Off| Fra
+Phone Number:| Telefon nr:
+Level 1| Level 1
+Level 2| Level 2
+Level 3| Level 3
+Level 4| Level 4
+Level 5| Level 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Indtast Administrator adgangskode
+Phone will restart automatically after finishing.| Telefonen genstarter automatisk
+Conference| Konference
+Conf| Konference
+Reset Configuration?| Reset konfiguration
+Hide| Skjul
+Live Dialpad| Live Dialpad
+Live Dial| Live Dial
+Lock| Lås
+Lock the phone?| Telefonen er ikke låst
+Directory| Telefonbog
+Phone Number:| Telefon nr:
+Common prompts| 
+None| Ingen
+Disable| Deaktiver
+Logout failed| Log af mislykkedes
+Logout successful| Du er nu logget af
+Login successful| Du er nu logget på
+Logout user %s| Bruger logget af %s
+Login/Logout| Log på/log af
+User ID| Bruger-id
+User ID required| Bruger-id påkrævet
+Application busy. Please try again later.| Program optaget. Prøv igen senere.
+Page Expired. Please reload the page.| Side udløbet. Genindlæs siden.
+Check Expires| Check Expires
+Check Hostnames| Check Hostnames
+Use DHCP?| Brug DHCP?
+Restart Phone?| Genstart?
+12 Hour| 12 Timer
+Speeddial| Nummersending
+Erase local cfg?| Slet Konfiguration?
+Spd Dial| Hurtigopkald
+Backup Outbound Proxy Server| Backup af udgående proxyserver
+Backup Outbound Proxy Port| Backup af udgående proxyport
+Firmware Info| Platform
+DHSG| DHSG
+DHSG is ON| DHSG er ON
+DHSG is OFF| DHSG er OFF
+Backlight On Time| Tid for baggrunds lys
+Use Alt TFTP| Brug alt TFTP
+Pri TFTP Path| Pri TFTP Path
+Alt TFTP Path| Alt TFTP Path
+RestoreDefaults?| Gendan Default?
+HTTP Init Failed| HTTP-opstart mislykkedes
+Get aastra.lic| Hent aastra.lic
+Get mac.lic| Hent mac.lic
+Firmware not licensed for use on this phone| Firmware ikke licenseret til brug på telefonen
+Redial List is empty| Genkaldsliste er tom
+Callers List is empty| Opkaldsliste er tom
+Callers List| Opkaldsliste
+Redial List| Genkaldsliste
+Directory| Telefonbog
+License Information| Licens Information
+XML Application URI:| XML applikation URI:
+Missing User ID| Manglende Bruger ID
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Brug
+Active Features| Aktive funktioner
+WWW MMM DD| UUU MMM DD
+DD-MMM-YY| DD-MMM-YY
+YYYY-MM-DD| YYYY-MM-DD
+DD/MM/YYYY| DD/MM/YYYY
+DD/MM/YY| DD/MM/YY
+DD-MM-YY| DD-MM-YY
+MM/DD/YY| MM/DD/YY
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM YYYY
+WWW DD MMM| UUU DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.YYYY
+24 Hour| 24 Timer
+XML Application Title:| XML applikationstitel:
+License Status| Licens Status
+FTP| FTP
+to view| at se
+Contact Name already exists| Kontakt findes allerede
+Leave| Forlade
+Contact Mismatch| Kontaktpersonuoverensstemmelse
+ Call Terminated|  Opkald afsluttet
+IP and gateway have to be on same subnet| IP og gateway skal være på samme undernet
+IP cannot be equal to gateway address| IP kan ikke være en gatewayadresse
+Call Waiting Tone Period| Opkaldsventetonens varighed
+OK| OK
+Directory empty| Telefonbog er tom
+Files Sent| Filer sendt
+Upload System Info| Upload System Info
+Upload| Upload
+Call Transferred| Opkaldet er omstillet
+Firmware Information| Platform
+Contact Name already exists| Kontaktperson findes allerede
+Replace| Erstat
+No Services| Ikke aktiv
+Merge| Kombiner
+Enter Name:| Indtast Navn
+Call Hold Reminder| Call hold reminder
+Others| Others
+Call Hold Reminder During Active Calls| Call Hold Reminder During Active Calls
+Out of service| Ikke i service
+Reason: | Grund:
+Add blank record?| Tilføj tom?
+Audio Setting| Lyd indstilling
+Delete Item| Slet indtastning
+Services| Services
+Server| Server
+Service Disabled| Service Afbrudt
+Port| Port
+Path| Sti
+Username| Brugernavn
+No. Rings| No. Rings
+Use xx to view| brug xx for at se
+User Password| Bruger adgangskode
+Time and Date| Tid og Dato
+Language| Sprog
+Screen Language| Skærm sprog
+Tones| Ringetone
+Tone Set| Vælg tone
+Ring Tone| Ringetone
+State| Tilstand
+State:| Tilstand:
+User-Busy| Brugeren er Opt.
+Unconditional| Ubetinget
+Time of day| Tid
+Deflection| Omdiriger
+Follow Me| Follow Me
+Away| Ikke tilstede
+Busy| Optaget
+Restart| Genstart
+All On| All On
+All Off| All Off
+AllAccts| AllAccts
+Conference| Konference
+Flash| Blink
+Dial| Ring op
+Directory| Telefonbog
+Callers| Opkalder
+Icom| Intercom
+Icom| Intercom
+Dir| Telefonbog
+Xfer| "R"
+Conf| Konf.
+SIP Settings| SIP opsætning
+Proxy Port| Proxy Port
+Registrar Port| Regist. Port
+User Name| Telefon nr.
+Screen Name| Display Navn
+Proxy Server| Proxy server
+Registrar Server| Regist. server
+Auth. Name| Auth. Navn
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Navn i display
+RTP Port Base| RTP Port Base
+Static NAT| Static NAT
+NAT Settings| NAT parametre
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP Port
+NAT RTP Port| NAT RTP Port
+NAT HTTPS Port| NAT HTTPS Port
+Phone Status| Telefonstatus
+Auto Discovery| Auto konfiguration.
+Trying...| Forsøger... 
+Remote| Remote
+Reset| Reset
+Choose Server| Vælg server
+Select| Vælg
+Select| Vælg
+Ring Tone:| Ringetone:
+Silent| Tavs
+Network Settings| Netværks param.
+Clear| Ryd
+Speaker | Højttaler 
+Headset | Hovedsæt 
+Speaker/Headset| Højttaler/Hovedsæt
+Headset/Speaker| Hovedsæt/Højttaler
+Audio Mode| Audio mode
+Low| Lav
+Medium| Medium
+High| Høj
+OFF| Fra
+Off| Fra
+ON| Til
+DHCP Settings| DHCP Settings
+DHCP User Class| DHCP User Class
+Hostname| Hostname
+IP Address| IP adresse
+Subnet Mask| Subnet Mask
+Subnet Mask:| Subnet Mask:
+Gateway| Gateway
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+TFTP Settings| TFTP Settings
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC Port VLAN ID
+LAN Port VLAN| LAN Port VLAN
+PC Port VLAN| PC Port VLAN
+Priority| Prioritet
+VLAN Enabled\nYes| VLAN aktiver\nJa
+VLAN Enabled\nNo| VLAN aktiver\nNej
+PC Port Priority| PC Port Prioritet
+LAN Port VLAN ID| LAN Port VLAN ID
+UPnP| UPnP
+Use UPnP| Brug UPnP
+Select Gateway| Vælg gateway
+Portmap Started| Portmap Started
+Portmap Error| Portmap Error
+LLDP| LLDP
+LLDP packet interval| LLDP packet interval
+LLDP Settings| LLDP Settings
+Use LLDP ELIN| Brug LLDP ELIN
+TypeService DSCP| TypeService DSCP
+Type of Service DSCP| Type of Service DSCP
+VLAN Priority| VLAN Prioritet
+Other Priority| Andre
+SessionBorderCtl| SessionBorderCtl
+Session Border Ctrl| Session Border Ctrl
+Select SBC| Vælg SBC
+SBC Settings| SBC Parametre
+Kagoor| Kagoor
+Update Interval (sec)| Opdateringsinterval (s)
+Backspace| Slet
+
+No| Nej
+Yes| Ja
+DHCP Download Options| Download option
+DHCP Download Option| Download option
+Firmware Version| Firmware Version
+Restart Phone| Genstart telefon
+Show| Vis
+is OFF| er OFF
+Password| Adgangskode
+Restarting...| Genstarter...
+Speed| Hastighed
+Manual| Manuelt
+Auto| Auto
+Auto| Auto
+Half| Halv
+Full| Fuld
+Duplex| Dupleks
+ ERROR: |  Fejl: 
+Invalid IP addr.| Ugyldig IP addr.
+Invalid mask| Ugyldig maske
+Range is 1-4094| Kun 1-4094
+Range is 1-4095| Kun 1-4095
+Range is 1-4095| Kun 1-4095
+Range is 0-63| Kun 0-63
+Range is 0-7| Kun 0-7
+DND| Fi
+DND On| Forstyr ikke aktiv
+Time Server| NTP server
+Set Time| Indtast tid
+Set Date| Indtast dato
+Date Format| Datoformat
+Time Zone| Tidszone
+Daylight Savings| Sommertid
+Invalid Time| Ugyldig tid
+Invalid Date| Ugyldig dato
+Invalid IP| Invalid IP
+ Invalid Number|  Invalid Nummer
+On| On
+On| On
+On| On
+OFF| Fra
+Automatic| Automatisk
+Conf Hold| Konf.pause
+No Service| Ikke aktiv
+Mute| Tavs
+Connected| Forbundet
+Drop| Afbryd
+Park| Sæt på vent
+PickUp| Besvar
+Redial| DCP
+DCP| DCP List
+DCP List| Ignorer
+Cancel| Fortryd
+Done| OK
+Callers List| Opkaldsliste
+No changes made| Ingen ændring foretaget
+Key is Locked| Tasten er låst
+Cannot Save| Kan ikke gemme
+1 item| 1 item
+ items|  items
+No User| Ingen bruger
+DHCP failed| DHCP fejlede
+Unknown Name| Ukendt navn
+Unknown Number| Ukendt nummer
+Unknown Line| Ukendt Linje
+Item is erased| Indtastning slettet
+Unknown| Ukendt
+NextSpace| Mellemrum
+Dot "."| Prik "."
+Transfer Failed| Omstilling fejlede
+Call Forward| Viderestilling
+Call Fwd| Videres.
+All| Alle
+All| Alle
+Any| Alle
+NoAns| Vidr
+BusyNoAns| Optaget/Ej-svar
+Number:| Nummer:
+Mode:| Type:
+No. Rings:| Antal ring:
+Line: | Linje: 
+Contrast Level| Kontraststyrke.
+ Message|  Besked
+ Messages|  Beskeder
+Loading Page...| Loader side...
+Abort Loading...| Afbryd Load..
+Connect Timeout| Connect Timeout
+Data Timeout| Data Timeout
+File Not Found| Filen blev ikke fundet
+Page Load Error| Fejl på page load
+Cannot display| Kan ikke vises
+Skip| Undlad
+Call Failed| Kald fejlede
+Primary Server| Primær TFTP
+Primary Server| Primær TFTP
+Alternate Server| Alternativ TFTP
+Primary| Primær
+Alternate| Alternativ
+Bad encrypted cfg| Dårligt encrypted cfg
+Use TFTP| Brug TFTP
+Use FTP| Brug FTP
+Use HTTP| Brug HTTP
+Use HTTPS| Brug HTTPS
+FTP Settings| FTP Opsætning
+FTP Server| FTP Server
+FTP Path| FTP Sti
+FTP Username| FTP brugernavn
+FTP Password| FTP adgangskode
+HTTP Settings| HTTP Opsætning
+HTTP Server| HTTP server
+HTTP Path| HTTP sti
+HTTP Port| HTTP Port
+HTTPS Settings| HTTPs Opsætning
+Download Server| Download server
+Download Path| Download path
+Download Port| Download sti
+HTTPS Server| HTTPS server
+HTTPS Path| HTTPS path
+HTTPS Port| HTTPS Sit
+HTTPS Client| HTTPS klient
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Fejl Certifikat
+Certificates| Certifikater
+Cert Validation| Certif. godkendt
+All defaults| Alt til grundkonf.
+Config default| konfiguration til Grundkonf.
+AM| AM
+PM| PM
+Factory Default| Fabriksindstilling
+Factory Default?| Fabriksindstilling?
+Erase Local Cfg.| Slet Konfiguration
+New IP Obtained| Ny IP tildelt
+New NAT IP| Ny NAT IP
+Server IP Change| Server-IP-ændring
+AastraLink Menu| AastraLink Menu
+Server Options| Server Options
+AastraLink Info| AastraLink Info
+Server Remote IP| Server Remote IP
+Server Local IP| Server Local IP
+Preferences| Præference
+Network Status| Netværksstatus
+MAC Address:| MAC adresse:
+MAC Address| MAC adresse
+BT MAC Address:| BT MAC-adresse:
+Invalid Key| Ugyldig tast
+Speed Dial Edit:| Speed Dial Edit:
+Press SD button| Tryk SD knap
+From: | Fra:
+To: | Til:
+Via: | Via:
+Diverted: | Viderestillet
+Log Off| Log af
+Customer Support| Kundesupport
+Status| Status
+Operation| Bruger indstillinger
+Basic Settings| Indstillinger
+Advanced Settings| Adv. Parameter
+System Information| Systeminformation
+Down| Nede
+Up| Oppe
+n/a| Ikke muligt
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1Gbps
+Attribute| Attribut
+Link State| Link tilstand
+Negotiation| Forhandling
+Hardware Information| Hardware information
+Firmware Information| Firmware information
+Firmware Release Code| Firmware release code
+Value| Værdi
+Platform| Platform
+Boot Version| Boot Version
+Date/Time| Dato/tid
+DND Key Mode| FI Taste tilstand
+Call Forward Key Mode| Viderestillings tast, tilstand
+Option 160| Option 160
+Option 159| Option 159
+Option 66| Option 66
+Option 43| Option 43
+Account| Konto
+Both| Alle
+Line| Linje
+Line 1| Linje 1
+Line 2| Linje 2
+Line 3| Linje 3
+Line 4| Linje 4
+Line 5| Linje 5
+Line 6| Linje 6
+Line 7| Linje 7
+Line 8| Linje 8
+Line 9| Linje 9
+Line 10| Linje 10
+Configuration Line %d| Konfiguration af Linje %d
+Basic SIP Authentication Settings| Basis SIP Authentication indstillinger
+Screen Name| Display Navn
+Screen Name 2| Display Navn 2
+Phone Number:| Telefon nr:
+Phone Number| Telefon nr
+Caller ID| Caller ID
+Authentication Name| Authentication Name
+Password| Adgangskode
+BLA Number| BLA Number
+Line Mode| Linje type
+Generic| Generic
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Basis SIP netværksindstillinger
+Outbound Proxy Server| Outbound Proxy Server
+Outbound Proxy Port| Outbound Proxy Port
+Registration Period| Registration Period (Msec)
+RTP Settings| RTP indstillinger
+Autodial Settings| Hotline opsætning
+Autodial Number| Hotline Nummer
+Autodial Timeout| Hotline Timeout
+Use Global Settings| Generel Bruger opsætning
+DTMF Method| DTMF metode
+SIP INFO| SIP INFO
+BOTH| Alle
+Save Settings| Gem Opsætning
+Global SIP| Generel SIP
+Global SIP Settings| Generel SIP Opsætning
+RTP Encryption| RTP Kryptering
+SRTP Disabled| SRTP er Afbrudt
+SRTP Preferred| SRTP Fortrukket
+SRTP Only| Kun SRTP
+Advanced SIP Settings| Avanceret SIP indstillinger
+Explicit MWI Subscription| Explicit MWI Subscription
+Explicit MWI Subscription Period| Explicit MWI Subscription Period
+MWI for BLA account| MWI for BLA konto
+Enabled| Aktiveret
+Send MAC Address in REGISTER Message| Send MAC-adresse i REGISTER besked
+Send Line Number in REGISTER Message| Send Linjenummer i REGISTER besked
+Session Timer| SessionTimer
+T1 Timer| Timer T1
+T2 Timer| Timer T2
+Transaction Timer| Transaktionstid
+Transport Protocol| Transportprotokol
+UDP and TCP| UDP og TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| TLS persistent
+Registration Failed Retry Timer| Registrering fejlede forsøg igen  Timer
+Registration Timeout Retry Timer| Registrering Timeout forsøg igen Timer
+Registration Renewal Timer| Registrering Renewal Timer
+BLF Subscription Period| BLF Subscription Period
+ACD Subscription Period| ACD Subscription Period
+BLA Subscription Period| BLA Subscription Period
+Blacklist Duration| Blacklist varighed
+ Park Pickup Config|  Park Pickup Config
+RTP Port| RTP Port
+Basic Codecs| Basis Codecs
+Force RFC2833 Out-of-Band DTMF| Force RFC2833 Out-of-Band DTMF
+Codec Preference List| Customized Codec Preference List
+Silence Suppression| Silence Suppression
+Provisioning complete.| Opgave udført.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Du skal genstarte telefonen før ændringer træder i kraft 
+ERROR: Maximum number of connections reached.| Fejl: Maximalt antal af forbindelser er nået
+Logout Complete| Logud Fuldført
+Your session has ended.  Please close the browser.| Du er nu logget af.  Luk venligst din browser.
+Session Expired| Session afsluttet
+Please close the browser or use the link below to log in again.| Luk venligst din browser eller brug linket her under for at logge ind igen
+Log In| Log ind
+Log Out| Log ud
+Log Out| Log ud
+Avail| Dispon.
+Avail| Dispon.
+Unavail| Ik.Disp
+Unavail| Ik.Disp
+Reset User Password| Nulstil Brugeradgangskode
+Please enter the current and new passwords| Indtast det nuværende og nye adgangskode
+Current Password| Nuværende password
+New Password| Nyt adgangskode
+Password Confirm| Godkend adgangskode
+Please Enter| Indtast venligst
+Submit| Godkend
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Autorisering...
+Authorization Failed| Autorisering Fejlede
+Auth Failed| Autori. Fejlede
+Current password is incorrect.| Nuværende adgangskode er forkert
+Please try again.| Prøv venligst igen
+The new password fields do not match.| De to nyindtastede adgangskode er ikke ens 
+The new password can not be saved.| Det nye adgangskode kan ikke gemmes
+The user password has been changed.| Brugeradgangskode er nu ændret
+Task and Stack Info| Task og Stack Info
+Back| Tilbage
+Files Available for Download| Filer som kan downloades
+Custom| Bruger definer
+Save As...| Gem som
+Directory List| Telefonbogsliste
+Current Settings| Nuværende indstillinger
+Restore To Factory Defaults| Gendan fabriksopsætning
+Restore| Gendan
+Remove Local Configuration Settings| Fjern lokal opsætning
+Remove| Fjern
+Restarting the hardware...| Genstarter telefon..
+Please return to the main page after your phone restarts.| Returner venligst til  Hovedsiden Efter din telefon er genstartet.
+User not authorized to make changes.| Brugerne har ikke rettighed til at fortage ændringer 
+Local configuration file has been deleted.| Lokal opsætnings fil er slettet
+Please restart the phone for the settings to take effect.| Genstart venligst telefonen før at ændringerne træder i kraft
+Phone has been set to factory Defaults.| Telefonen har gendannet fabriksindstillinger
+Action URI| Aktion URI
+Action URI Configuration| Aktion URI Configuration
+Event| Hændelse
+StartUp| StartOp:
+Successful Registration| Succesfuld registrering:
+Registration Event| Registrering hændelse
+Incoming Call| Indkommende kald
+Outgoing Call| Udgående kald
+Offhook| Løft af:
+Onhook| Læg på:
+Disconnected| Afbrudt
+Poll| Indtræk
+Interval| Interval
+Settings saved.| Konfiguration gemt
+Settings could not be saved.| Konfigurationen kunne ikke gemmes
+Firmware Update| Firmware opdatering
+TLS Support| TLS Support
+Manual Firmware Update| Manuel Firmware opdatering
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.|  Indtast serverens IP Adresse og navnet på nedenstående firmware for at starte opdatering af firmware
+Configuration Server| Konfig. Server
+Configuration Server Settings| Konfigurationsserver opsætning 
+Server IP| Server IP
+File Name| Filnavn
+Configure File Names| Konfigurations fil navn
+Root and Intermediate Certificates Filename| Root and Intermediate Certificates Filename
+Local Certificate Filename| Filnavn på lokal certifikat
+Private Key Filename| Privat nøgle
+Trusted Certificates Filename| Trusted Certificates Filename
+Download Firmware| Download firmware
+Firmware upgrade in progress.  Please wait.| Firmware opdatering er i gang.  Vent venligst
+Please enter a valid filename and TFTP server IP address.| Indtast venligst et filnavn og TFTP server IP-adresse
+Invalid TFTP server IP address| Forkert IP-adresse på TFTP server
+Invalid download settings.| Forkert download opsætning
+Unable to upgrade firmware.| Kunne ikke opdater firmware
+The phone is restarting...| Telefonen genstarter..
+Firmware upgrade successful.| Succesfuld opdatering af firmware 
+This firmware already exists on the phone.| Denne firmware findes allerede på telefonen
+No upgrade is needed.| Opdatering er ikke nødvendig
+Troubleshooting| Fejlfinding
+Module| Modul
+Log Settings| Log opsætning
+Log IP| LOG IP-adresse
+Log Port| Log Port
+Debug Level| Fejl niveau
+Support Information| Support-information
+Get local.cfg| Hent lokal.cfg
+Get server.cfg| Hent server.cfg
+Show Task and Stack Status| Vis task og stack status
+Settings| Opsætning
+Download Protocol| Download Protokol
+Auto-Resync| Auto-Resync
+Days| Dage
+Maximum Delay| Forsinkelse-- maksimum
+Mode| Type
+Configuration Files| Konfigurationsfiler
+Time (24-hour)| Tid (24-timer)
+XML Push Server List(Approved IP Addresses)| XML Push Server List(Approved IP Addresses)
+Phone-side Call Forward Settings| Telefon viderestillingsopsætning
+Global Settings| Generel Opsætning
+No Answer| Ej-svar
+Number| Nummer
+Number of Rings| Antal ring
+Local Line| Lokallinie
+Forward Number| Viderestillingsnr.
+Global| Generel
+Enable| Aktiver
+Network| Netværk
+Must provision a valid default gateway IP if DHCP is enabled| Skal finde en gyldig standardgateway-IP, hvis DHCP er aktiveret
+Invalid IP Address| Ugyldig IP Adresse
+Invalid IP address| Ugyldig IP Adresse
+Invalid IP addr.| Ugyldig IP Adr
+Invalid gateway address| Ugyldig gateway adresse
+Invalid subnet mask| Ugyldig Subnet Mask
+Invalid primary DNS address| Ugyldig Primær DNS Adresse
+Invalid secondary DNS address| Ugyldig secondary DNS Adresse
+Basic Network Settings| Grundopsætning af netværk
+Advanced Network Settings| Avanceret netværksopsætning 
+DHCP| DHCP
+NAT Port| NAT Port
+Nortel NAT Traversal Enabled| Nortel NAT Traversal aktivt
+Nortel NAT Timer (seconds)| Nortel NAT Timer (Sekunder)
+NTP Time Servers| NTP tidsserver
+Time Server 1| Tids Server 1
+Time Server 2| Tids Server 2
+Time Server 3| Tids Server 3
+SIP| SIP
+VLAN Enable| VLAN aktiveret
+Non-IP Packet| Non-IP pakke
+SIP Priority| SIP prioritet
+RTP Priority| RTP prioritet
+RTCP Priority| RTCP prioritet
+Preferences| Præferencer
+General| Generel
+Idle Display Name 1| Ledigt display Navn 1
+Idle Display Name 2| Ledigt display Navn 2
+Local Dial Plan| Lokal Nummerplan
+Send Dial Plan Terminator| Send Dial Plan Terminator
+Digit Timeout (seconds)| Digit Timeout (sekunder)
+Park Call:| Parker kald:
+Pick Up Parked Call:| Hent parkeret kald
+Suppress DTMF Playback| Undertryk DTMF playback
+Display DTMF Digits| Vis DTMF indtastning
+Call Waiting| Banke på
+Call Waiting| Banke på
+Play Call Waiting Tone| Afspil vente tone
+Stuttered Dial Tone| Stuttered Dial Tone
+Incoming Call Interrupts Dialing| Indtastning afbrudes ved indkommende kald
+Switch UI Focus To Ringing Line| Switch UI Focus To Ringing Line
+Outgoing Intercom Settings| Udgående samtale opsætning
+Type| Type
+Phone-Side| På telefon
+Server-Side| På server
+Prefix Code| Prefix
+Incoming Intercom Settings| Indkommende samtale opsætning
+Microphone Mute| Afbryd mikrofon
+Play Warning Tone| Afspil advarselstone
+Allow Barge In| Indbryd tilladt
+Auto-Answer| Besvar automatisk
+Key Mapping| Tast opsætning
+Map Redial Key To| Tildel genkalds tast til
+Map Conf Key To| Tildel Konf. tast til
+Ring Tones| Ringetone
+Brazil| Brasilien
+France| Frankreich
+Germany| Deutschland
+Italy| Italien
+Italy2| Italien2
+Mexico| Mexiko
+Russia| Rusland
+UK| UK
+US| US
+Global Ring Tone| Generel Ringetone
+Tone 1| Ringetone 1
+Tone 2| Ringetone 2
+Tone 3| Ringetone 3
+Tone 4| Ringetone 4
+Tone 5| Ringetone 5
+Tone 6| Ringetone 6
+Tone 7| Ringetone 7
+Tone 8| Ringetone 8
+Tone 9| Ringetone 9
+Tone 10| Ringetone 10
+Tone 11| Ringetone 11
+Tone 12| Ringetone 12
+Tone 13| Ringetone 13
+Tone 14| Ringetone 14
+Tone 15| Ringetone 15
+Priority Alerting Settings| Prioriteret Ringe Opsætning
+Enable Priority Alerting| Aktiver Prioriteret ringning
+Group| Gruppe
+External| Ekstern
+Internal| Intern
+Emergency| Nødkald
+Auto call distribution| Automatisk kalddistribuering
+Auto Call Distribution Settings| Automatisk kalddistribuering opsætning
+ACD| ACD
+Community 1|  Community 1
+Community 2|  Community 2
+Community 3|  Community 3
+Community 4|  Community 4
+Normal ringing| Normal ringning
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Directed Call Pickup Settings
+Directed Call Pickup| Directed Call Pickup
+Directed Call Pickup by Prefix| Directed Call Pickup by Prefix
+Play a Ring Splash| Afspil ringe sekvens
+Auto Available| Automatisk ledig
+Auto Available Timer| Automatisk ledig tid
+Time and Date Setting| Tid og Dato opsætning
+Time Format| Tidsformat
+Date Format| Datoformat
+Programmable Keys| Programmerbare taster
+Programmable Keys Configuration| Programmerbar opsætning af taster
+Hard Key| Hard Key
+Key| Taster
+BLF List URI:| BLF List URI:
+Speeddial/Xfer| Nummersending/"R"
+Do Not Disturb| Forstyr ikke
+BLF| BLF
+BLF/Xfer| BLF/"R"
+BLF/List| BLF/Liste
+XML| XML
+WebApps| WebAppl
+Flash| Flash
+Last Call Return| Sidste kald retur
+Sprecode| Sprecode
+Transfer| Omstilling
+Conference| Konference
+Save| Udfør
+Delete| Slet
+Data has been transmitted to the phone successfully.| Succesfuld forsendelse af data til telefon
+Data cannot be posted to the phone.| Data kan ikke sendes til telefonen 
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Sørg for at datastørrelsen ikke er mere end 512 bytes og at telefonen er sat op til at modtage fra din Host.
+Expansion Modules| Udvidelsesmodul
+Expansion Module 1| Udvidelsesmodul 1
+Expansion Module 2| Udvidelsesmodul 2
+Expansion Module 3| Udvidelsesmodul 3
+Page 1| Side 1
+Page 2| Side 2
+Page 3| Side 3
+List 1| Liste 1
+List 2| Liste 2
+List 3| Liste 3
+List 4| Liste 4
+List 5| Liste 5
+List 6| Liste 6
+Incompatible with phone model| Ikke kompatible med denne telefon
+Backup Proxy Server| Backup Proxy Server
+Backup Proxy Port| Backup Proxy Port
+Backup Registrar Server| Backup Registrar Server
+Backup Registrar Port| Backup Registrar Port
+Phone is locked| Telefonen er låst
+Phone Lock| Telefon Spærring
+Lock the phone?| Telefonen er ikke låst
+Phone is unlocked| Telefonen er nu låst op
+Password:| Adgangskode:
+Emergency Dial Plan| Nødopkaldsplan
+Account Configuration| Nødkalds nummer
+Lock| Lås
+Unlock| Lås op
+Unlock the phone?| Telefonen er låst
+Lock or unlock the phone| Lås eller lås op
+HTTPS Client Method| HTTPS Client Method
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS Server - Redirect HTTP to HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS Server - Block XML HTTP POSTs
+Validate Certificates| Valider certifikater
+Check Certificate Expiration| Check udløbs tid for certifikater
+Check Certificate Hostnames| Check Certifikat Hostname
+Language Settings| Sprog opsætning
+Webpage Language| Browser sprog
+Input Language| Alfabet
+Input Language| Alfabet
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| Maj
+Jun| Jun
+Jul| Jul
+Aug| Aug
+Sep| Sep
+Oct| Okt
+Nov| Nov
+Dec| Dec
+Sun| Søn
+Mon| Man
+Tue| Tir
+Wed| Ons
+Thu| Tor
+Fri| Fre
+Sat| Lør
+New Password Invalid.| Det nye adgangskode er ugyldigt
+New password must be 10 characters or less.| Det nye adgangskode kan højest være på 10 karakterer
+New password must be numeric.| Det nye adgangskode kan kun være cifre
+New password and confirm password do not match.| De to nye adgangskoder er ikke ens!
+Error| Fejl
+Are you sure you want to restart the phone?| Er du sikker på du vil genstarte telefonen nu?
+This will restore the phone to default settings and cannot be undone.| Dette vil gendanne grundopsætning og det kan ikke fortrydes
+This will remove the local configuration settings and cannot be undone.| Dette vil slette din lokale opsætning og kan ikke fortrydes
+Continue| forsæt
+Error: Intercom Settings| Fejl: Samtale opsætning
+Please enter a prefix code for server-side intercom.| Indtast et præfiks for Serverens intercom
+Value must be between| værdien skal være mellem
+and| og
+Invalid Setting:| Forkert opsætning:
+Please select at least one state for softkey| vælg mindst en type softkey
+DSCP value| DSCP værdi
+is mapped to multiple priorities.| er kædet sammen med flere prioriteter
+Please enter Admin name and password| Indtast Admin. navn og adgangskode
+Please enter User name and password| Indtast Brugernavn og adgangskode
+Centralized Conference| Centraliseret konference
+Conference Server URI| Konference Server URI
+UPnP device not found| UPnP devise blev ikke fundet
+Ethernet| Ethernet
+Ethernet Link| Ethernet Link
+Ethernet & VLAN| Ethernet & VLAN
+Link| Link
+10M| 10M
+100M| 100M
+Unavailable| Ikke tilgængelig
+Available| Tilgængelig
+Server Info| Server Info
+Unique ID:| Unik ID:
+UPnP Mapping Lines| UPnP Sammenmærket linjer
+Port Failed| Port Fejlede
+Trying...| Prøver...
+Seize Failed| Seize Failed
+Missed Call Summary Subscription| Summarisk subskription af ubesvaret kald
+Missed Call Summary Subscription Period| periode for summarisk subskription af ubesvaret kald 
+AS-Feature-Event Subscription| AS-Feature-Event Subscription
+AS-Feature-Event Subscription Period| AS-Feature-Event Subscription Period
+Goodbye Key Cancels Incoming Call| Rør på tast, afbryder inkommende kald
+Address Incomplete| Adresse ikke komplet
+Admin Menu| Admin Menu
+IP&MAC Addresses| IP&MAC Adresse
+LAN Port| LAN Port
+PC Port| PC Port
+Set Audio| Set lyd
+Config. Server| Konfig. Server
+IP Address:| IP Adresse:
+Error Messages| Fejl meddelelse
+No Error Messages| Ingen fejl meddelelser
+ Errors| Fejl
+ Error| Fejl
+Disabled| Deaktiveret
+LAN Port Link| LAN Port Link
+PC Port Link| PC Port Link
+RTP| RTP
+RTCP| RTCP
+Phone| Telefon
+Headset Mic Vol| Headset Mic Vol
+TypeService SIP| TypeService SIP
+TypeService RTP| TypeService RTP
+TypeService RTCP| TypeService RTCP
+Authentic. Name| Authentic. Name
+XML Beep Support| XML Beep Support
+Status Scroll Delay (seconds)| Status Scroll Delay (sekunder)
+Backlight| Baggrundslys
+Backlight| Baggrundslys
+Display| Display
+Speed Dial Edit| Rediger hurtigopkald
+second| Sekund
+seconds| Sekunder
+Label| Mærkat
+Message Waiting Indicator Line| Besked venter indikator linje
+Keypad Speed Dial| Nummer sendings taster
+Digit| Cifre
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| XML SIP Notify
+Custom Feature| Bruger feature
+User ID:| Bruger ID:
+Local SIP UDP/TCP Port| Lokal SIP UDP/TCP Port
+Local SIP TLS Port| Lokal SIP TLS Port
+802.1x Support| 802.1x Support
+EAP Type| EAP Type
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identitet
+MD5 Password| MD5 adgangskode
+PC Port PassThru Enable/Disable| PC Port PassThru Aktiver/afbryd
+EAP-TLS Settings| EAP-TLS Opsætning
+EAP-MD5 Settings| EAP-MD5 Opsætning
+Enable PassThru Port| Aktiver PassThru Port
+PC Port Enabled\nYes| CP Port Aktiver\nJa
+PC Port Disabled\nNo| CP Port Afbryd\nNej
+802.1x Settings| 802.1x Opsætning
+802.1x Mode| 802.1x status
+EAP-MD5 Settings| EAP-MD5 Opsætning
+EAP-TLS Settings| EAP-TLS Opsætning
+STUN Server| STUN Server
+STUN Port| STUN Port
+TURN Server| TURN Server
+TURN Port| TURN Port
+TURN User ID| TURN User ID
+TURN Password| TURN adgangskode
+Paging| Paging
+Streaming| Streaming
+Group Paging RTP Settings| Group Paging RTP Settings
+Paging Listen Addresses| Paging Listen Addresses
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP Konto
+Backup Registrar Used?| Backupregistrator brugt?
+Unregistered| Uregistret
+Registered| Registret
+SIP Status| SIP Status
+Server Error| Server fejl
+Swap| Swap
+LLDP\nEnabled| LLDP\nAktiveret
+LLDP\nDisabled| LLDP\nAfbrudt
+LLDP Support| LLDP Support
+Preferred line| Fortrukne linje
+Preferred line Timeout (seconds)| Tid for Fortrukne linje (Sekunder)
+Invalid URI| Ugyldig URI
+WebApps| WebAppl
+Watchdog| Watchdog
+Speeddial/Conf| Nummer sending konf.
+Call is on Hold| Kald er på vent
+No subscription| Ingen abonnent
+MDot1xFailedStartup| 802.1x Start op fejlede
+802.1x Startup Failed| 802.1x Start op fejlede
+LLDP Startup Failed| LLDP Start op fejlede
+Failed to config Line Manager| Konf. af Line Manager fejlede 
+Line in use| Linje i brug
+Get Crash Log| Download Crash log
+Time Unavailable| Tid ikke tilgængelig
+Packetization Interval| Pakningsinterval
+Basic| Grundlæggende
+Note: Basic Codecs Include| Bemærk: Grundlæggende codecs omfatter
+Default| Standard
+Not Configured| Ikke konfigureret
+America| America
+Asia| Asia
+Atlantic| Atlantic
+Pacific| Pacific
+Australia| Australien
+Europe| Danmark
+Malaysia| Malaysia
+Invalid Setting| Forkert opsætning
+Must not be empty| Kan ikke være tom
+Must be a valid number| Skal være et eksisterende nr
+Must be a nonzero number| Skal være et nummer uden nul
+Not in range| Not in range
+Invalid Hostname| Invalid Hostname
+802.1x Failed| 802.1x mislykkedes
+Admin Password:| Admin adgangskode:
+Voicemail| Voice-Mail
+Voicemail| Voice-Mail
+HTTPS Failed| HTTPS mislykkedes
+LLDP Failed| LLDP mislykkedes
+TR69 connect Err| TR69-forbindelsesfejl
+Downloading Language Packs| Downloader Sprogfil
+Please Wait...| Vent venligst...
+to edit| at redigere
+Cfg Svr Failure| Konfigurationsserverfejl
+Lines| Linjer
+LDAP Directory| 
+Ldap Directory| 
+Item| Item
+item| item
+Certificate Revoked| Certifikat tilbagekaldt
+Certificate Unknown| Certifikat ukendt
+Delete entire| 
+LDAP Search Filter| 
+Ldap Search Filter| 
+LDAP Server| 
+Ldap Server| 
+Certificate Expired| Certifikat udløbet
+Unsupported Certificate| Certifikat ikke understøttet
+No Certificate| Intet certifikat
+Options List| Funktionsliste
+Directory?| 
+Work| Arbejde
+No available lines| Ingen tilgængelige linjer
+Search| Søgning
+Ldap Base DN| 
+items| items
+Spddial| Hurtigopkald
+Ldap Number Attributes| 
+Ldap Max Hits| 
+Ldap Settings| 
+Ldap Name Attributes| 
+Timezone zoneAmerica| 
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepé
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlanterhavet
+CA-Central| CA-Central
+CA-Eastern| CA-Østlige stater
+CA-Mountain| CA-Bjergstater
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Stillehavet
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Østlige stater
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havana
+DM-Dominica| DM-Dominicanske Republik
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Cayman
+LC-St Lucia| LC-St Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleutian
+US-Central| US-Centrale stater
+US-Eastern| US-Østlige stater
+US-Hawaii| US-Hawaii
+US-Mountain| US-Bjergstater
+US-Pacific| US-Stillehavet
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Beijing
+CY-Nicosia| CY-Nicosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tokyo
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamchatka
+RU-Krasnoyarsk| RU-Krasnoyarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Yakutsk
+RU-Yekaterinburg| RU-Yekaterinburg
+SA-Saudi Arabia| SA-Saudi Arabien
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Kanariske Øer
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Færøerne
+GS-South Georgia| GS-South Georgia
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azorerne
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmanien
+Timezone zoneEurope| 
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirana
+AT-Vienna| AT-Wien
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Bruxelles
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zürich
+CZ-Prague| CZ-Prag
+DE-Berlin| DE-Berlin
+DK-Copenhagen| DK-København
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-Paris
+GB-Belfast| GB-Belfast
+GB-London| GB-London
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Athen
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rom
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxembourg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Warszawa
+PT-Lisbon| PT-Lissabon
+RO-Bucharest| RO-Bukarest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moskva
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Stockholm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatikanstaten
+YU-Belgrade| YU-Beograd
+Timezone zonePacific| 
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Live Dialpad
+1h    summertime| 1T    sommertid
+Link Down| Link Down 
+Slovakia| Slovakiet
+Cfg. Svr.| Kfg. Srv.
+Custom| Brugerdefineret
+HPQ Enable| HPQ aktiveret
+Checking For Firmware| Søger efter ny firmware
+Firmware Check| Søger firmware
+Speeddial/MWI| Nummersending/MWI
+Handset| Håndsæt
+WBand RX Filters| 
+HS Setting1| Håndsæt indst.1
+HS Setting2| Håndsæt indst.2
+HS Setting3| Håndsæt indst.3
+HS Setting4| Håndsæt indst.4
+Spkr Setting1| Højttaler indst1
+Spkr Setting2| Højttaler indst2
+Spkr Setting3| Højttaler indst3
+Spkr Setting4| Højttaler indst4
+Hold Failed| Hold fejlede
+Can not save record without number| 
+Feature Name| Funktionsnavn
+Source| Kilde
+License File| Licensfil
+SW Version Restrictions| Begrænsninger for softwareversion
+Unlimited| Ubegrænset
+Expiration| Udløbsdato
+Upgrade| Opgradering
+License Server| Licensserver
+License Info| Licens Information
+License PBX| Licens PBX
+Voice Recording| Stemmeoptagelse
+BLF List Subscription Period| BLF Liste Subscription Period
+Conf Failed| Konf. Fejlede
+Push| Push
+Forward Filtering| Filtrering fremad
+OUT| UD
+Opt Status| Funktionsstatus
+Filter| Filter
+Filtering| Filtrering
+Executives| Ledere
+IN| IND
+Divert| Omstilling
+Divert to Number| Omstil til nummer
+ Enter Unlock Password| Indtast oplåsnings adgangskoden
+ Enter Administrator Password| Indtast Administrator adgangskode
+Today| I dag
+Yesterday| I går
+Two Days Ago| 2 dage siden
+Three Days Ago| 3 dage siden
+Four Days Ago| 4 dage siden
+Five Days Ago| 5 dage siden
+Six Days Ago| 6 dage siden
+Last Week| Sidste uge
+Two Weeks Ago| For to uger siden
+Three Weeks Ago| For tre uger siden
+Last Month| Sidste måned
+Older| Ældre
+Monday| Mandag
+Tuesday| Tirsdag
+Wednesday| Onsdag
+Thursday| Torsdag
+Friday| Fredag
+Saturday| Lørdag
+Sunday| Søndag
+Upload Sys Info| Upload System Info
+Cfwd State| Vidr. Status
+Cfwd Number| Viderestillingsnr.
+Cfwd Mode| Viderestilling
+Set| Sæt
+#Confirm| #Bekræft
+Call held| Kald på vent
+Calls held| Ventende kald
+Apply Changes?| Tilføj ændringer
+Dialpad| Dialpad
+Edit| Edit
+Quit| Exit
+Directory Empty| Telefonbog er tom
+Saved Memory key| Gemte mem-taster
+Speaker volume  | Styrke på højttaler
+Handset volume  | Styrke på håndsæt
+Headset volume  | Styrke på hovedsæt
+Ringer volume   | Ringestyrke   
+Enter Number:| Indtast nummer:
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Slet alt
+Erase Local Configuration?| Slet lokal konfig.
+Audio| Audio
+Application| Applikation
+NAT| NAT
+DSCP| DSCP
+User| Bruger
+802.1x| 802.1x
+Enter Date (m/d/y):| Indtast dato (M/D/Å)
+Brightness Timer| Tid for baggrunds lys
+Brightness Level| Lysstyrke niveau
+Level 1| Level 1
+Level 2| Level 2
+Level 3| Level 3
+Level 4| Level 4
+Level 5| Level 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Linje: %d
+Line %d: %s| Linje %d: %s
+Invalid %s (%d to %d)| Invalid %s (%d to %d)
+Sys Info| Sys Info
+keypad| Tastatur
+Login| Log ind
+Seized| Blokeret
+Active| Aktiv
+Held| På vent
+Ringing| Ringe
+Park Failed| Opkald på hold mislykkedes
+Canada| Canada
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Tryk på en kontaktperson for at vise kontaktoplysninger.
+No info available. Please press a contact button.| Ingen tilgængelige oplysninger. Tryk på en tast til en kontaktperson.
+Set Date and Time| Indstil dato og tid
+Ethernet Ports| Ethernet Porte
+Call Server| 
+Use Network Time| Brug netværkstid
+Speed Dial Key %d| Hurtigopkaldstast %d
+%d/%d records| %d/%d poster
+%d days stored| %d dage gemt
+1 day stored| 1 dag gemt
+Upload System Info Files?| Upload systemoplysningsfiler?
+Entries Saved| Poster gemt
+Storage| Kapacitet
+IP and gateway are equal| IP og gateway er ens
+IP gateway subnet mismatch| IP-gatewayundernet ikke overensstemmende
+Bridge active| Bro aktiv
+Please enter a number| Indtast et nummer
+Deleted| Slettet
+No Matches Found| Ingen forekomster fundet
+Name| Name
+Contact already exists| Kontakt findes allerede
+Left Softkey %d| Venstre funktionstast %d
+Bottom Softkey %d| Nederste tast %d
+New Call| Nyt kald
+All Accounts| Alle konti
+Exp. Mod. %d Key %d| Udløbet Ændret %d tast %d
+Add Num| Ret nummer
+Diverted to: | Omstillet til: 
+No lines are configured| Ingen linjer er konfigureret
+"Dot ""."""| Prik "."
+Mode %d| Status %d 
+Top Softkey %d| Øverste funktionstast %d
+Home Screen Mode| Startside indstillinger
+Screen Saver Timer| Tid for pauseskærm
+Home Screen| Startskærmbillede
+Cannot add new number. Limit reached.| Kan ikke tilføje nyt nummer. Grænsen er nået.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Indtast et navn
+Top Softkeys| Øverste funktionstaster
+Left Softkeys| Venstre funktionstaster
+Bottom Softkeys| Nederste funktionstaster
+Brightness| Baggrunds lys
+Speed Dial 8| Nummersending 8
+A filename-related error occurred. Rename the specified file and try again.| Der opstod en filnavnrelateret fejl. Omdøb den angivne fil, og prøv igen.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Der opstod en HTTP-relateret fejl. Prøv igen (eller genstart telefonen, hvis du allerede har modtaget denne fejl før).
+A system-related error occurred. Please restart the phone and try again.| Der opstod en systemrelateret fejl. Genstart telefonen, og prøv igen.
+Xsi Enterprise Directory| Xsi-virksomhedsbibliotek
+Xsi Personal Contacts| Personlige Xsi-kontaktpersoner
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Firma, fax
+By First Name| Som fornavn
+By Last Name| Som efternavn
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Kan ikke tilføje ny post. Grænsen er nået.
+City| By
+Corporate| Vedrørende virksomheden
+Country| Land
+Custom Ringtones| Brugerdefinerede ringetoner
+Delete %s from %s?| Slet %s fra %s?
+Delete all entries in %s?| Slet alle poster i %s?
+Directory import failed| Import af bibliotek mislykkedes
+Directory loading| Bibliotek indlæses
+Directory not available at this time| Bibliotek ikke tilgængeligt i øjeblikket
+Display Name Order| Vis navne rækkefølge
+Name Order| Vis navne rækkefølge
+Edit Details| Rediger oplysninger
+Email| E-mail
+Email 1| E-mail 1
+Email 2| E-mail 2
+Email 3| E-mail 3
+Enabled also in call| Også aktiveret under opkald
+Enterprise Directory| Virksomhedsbibliotek
+Exchange Contacts| Kontaktpersoner fra Exchange
+Explicit| Eksplicit
+External Sources| Eksterne kilder
+Failed to retrieve contact details| Kunne ikke hente kontaktoplysninger
+First Last| Fornavn efternavn
+First name| Fornavn
+Home 1| Hjem 1
+Home 2| Hjem 2
+Home Address| Hjemmeadresse
+Implicit| Implicit
+Invalid Subscription Time| Ugyldig abonnementsperiode
+Job Title| Jobtitel
+LDAP| LDAP
+Last%c First| Sidste %c først
+Last First| Efternavn fornavn
+Last Name| Efternavn
+Local| Lokal
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobil
+New Contact| Ny kontaktperson
+Numbers| Numre
+Organization| Organisation
+Other| Andet
+Personal| Personlig
+Personal Contacts| Personlige kontaktpersoner
+Province/State| Provins/stat
+Request Failed| Anmodning mislykkedes
+Sorting Preferences| Sorteringspræferencer
+Sorting| Sortering
+Street Address| Vejnavn
+Test| Test
+Test Connection| Test forbindelse
+The phone does not have enough space to store this file.| Telefonen har ikke tilstrækkelig plads til at gemme filen.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Den angivne fil er for stor. Hver fil må ikke overstige 1 MB.
+UA-Profile-Event Subscription| UA-Profile-Event Subscription
+UA-Profile-Event Subscription Period| UA-Profile-Event Subscription Period
+Undefined| Udefineret
+Work 1| Arbejde 1
+Work 2| Arbejde 2
+Work Address| Arbejdsadresse
+Zip/Postal Code| Postnummer
+Credentials| Legitimationsoplysninger
+Enable/Disable| Aktiver/deaktiver
+Labels| Etiketter
+Ringtone files must be in WAV format| Ringetonefiler skal være i WAV-format
+Copy| Kopi
+Add New| Tilføj ny
+ALU SCA| ALU SCA
+Accessory Info| Tilbehør info
+Add| Add
+Alerting| Advarsel
+Delete selected item or delete all items?| Slet det valgte element, eller slet alle elementer?
+DialingIn| Internt opkald
+DialingOut| Eksternt opkald
+Disconnecting| Afbryder forbindelsen
+Enter First Name| Indtast fornavn
+Enter Last Name| Indtast efternavn
+Enter Number| Indtast nummer
+Enter Password>| Indtast adgangskode>
+Enter Username>| Indtast brugernavn>
+Enterprise Dir.| Virksomhedsbibl.
+Exp. Mod. 1 Version| Udløbet Ændret 1. version
+Exp. Mod. 2 Version| Udløbet Ændret 2. version
+Exp. Mod. 3 Version| Udløbet Ændret 3. version
+Get user.cfg| Hent user.cfg
+Get user_local.cfg| Hent user_lokal.cfg
+Keyboard Version| Tastaturversion
+F| V
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| Parkeret
+Pending| Venter
+Phone Info| Telefon info
+Please Login| Venligst login
+Please select a file to upload| Vælg den fil, du vil uploade
+Saved| Gemt
+Unmute| Slå lyden til
+Line 11| Linje 11
+Line 12| Linje 12
+Line 13| Linje 13
+Line 14| Linje 14
+Line 15| Linje 15
+Line 16| Linje 16
+Line 17| Linje 17
+Line 18| Linje 18
+Line 19| Linje 19
+Line 20| Linje 20
+Line 21| Linje 21
+Line 22| Linje 22
+Line 23| Linje 23
+Line 24| Linje 24
+Line 25| Linje 25
+Client Method| Client Method
+#Edit| #Edit
+#Copy| #Kopi
+Action forbidden| Handling ikke tilladt
+Action not supported| Handling understøttes ikke
+ Additional Settings|  Yderligere indstillinger
+ Barge-In|  Indbryd
+Congestion| Trængsel
+Discreet| Diskret
+Discreet Ringing| Diskret ringetone
+Executives list is empty| Liste over ledere er tom
+Extension not registered| Lokalnummer ikke registreret
+Internal error| Intern fejl
+Invalid Password| Forkert password
+Invalid forwarding number| Ugyldigt viderestillingsnummer
+ Listen|  Lyt
+ Normal|  Normal
+Phone not registered| Telefon ikke registreret
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Når der trykkes på funktionstasten for lydløs, slås advarselstonen for afbrydelse til/fra.
+Prv| Privat
+Pub| Offentligt
+Record not found| Post ikke fundet
+SCAP-Bridged| SCAP-bro
+SCAP-Held| SCAP-hold
+ Select Barge-In Mode|  Vælg afbryd-funktion
+ UA-Profile-Event Subscription Period|  UA-Profile-Event Subscription Period
+Unique ID| Unik ID
+ Whisper|  Hvisk
+Missed Calls| Ubesvarede kald
+Silence| Mute
+As-Feature-Event Subscription| As-Feature-Event Subscription
+As-Feature-Event Subscription Period| As-Feature-Event Subscription Period
+Feature-Status-Exchange Subscription| Feature-Status-Exchange-abonnement
+Feature-Status-Exchange Subscription Period| Feature-Status-Exchange-abonnementsperiode
+Action superseded by a previous command| Handling afløst af en tidligere kommando
+Attendant| Operatør
+BLF Privacy| BLF-beskyttelse af personlige oplysninger
+BLF Privacy Key Mode| BLF-tastetilstand for beskyttelse af personlige oplysninger
+Feature not configured| Funktion ikke konfigureret
+Forward Type| Viderestillingstype
+Live Keyboard| Aktivt tastatur
+Not assigned| Ikke tildelt
+PIN| PIN-kode
+Pin Required| PIN-kode nødvendig
+Privacy| Beskyttelse af personlige oplysninger
+Privacy On| Beskyttelse af personlige oplysninger Til
+Restart | Genstart
+Capture| Hentning
+Get capture file| Hent optagelsesfil
+Mute All| Slå lyden fra for alle
+No Participant| Ingen deltagere
+Private Call| Privat opkald
+Start| Start
+Stop| Stop
+TLS Preferred| TLS foretrukket
+Timeout| 
+Unmute All| Slå lyden til for alle
+Speeddial/Mwi| Nummersending/MWI
+Phone will restart automatically after finishing.| Telefonen genstarter automatisk
+Idle| Ledig
+CFWD Filtering| CFWD-filtrering
+Volume| Volumen
+DTMF| DTMF
+All Accounts| All
+Outgoing| Udgående
+Call History is Empty| Opkaldshistorik er tom
+No Outgoing Calls| Ingen udgående opkald
+No Missed Calls| Ingen ubesvarede opkald
+No Received Calls| Ingen modtagne opkald
+Received| Modtaget
+Missed| Ubesvaret
+Screenshot| Screenshot
+Xsi Enterprise Common Directory| Fælles Xsi-virksomhedsbibliotek
+Enterprise Common Directory| Fælles virksomhedsbibliotek
+Enterprise Common Dir.| Fælles virksomhedsbibl.
+Xsi Group Directory| Xsi-gruppebibliotek
+Group Directory| Gruppebibliotek
+Xsi Group Common Directory| Fælles Xsi-gruppebibiliotek
+Group Common Directory| Fælles gruppebibliotek
+Call Settings| Opkaldsindstillinger
+%s Call Settings| %s opkaldsindstillinger
+Hide Number| Skjul nummer
+Xsi Password Not Configured| Xsi-adgangskode ikke konfigureret
+Xsi User Not Configured| Xsi-bruger ikke konfigureret
+Xsi Authentication Failure| Xsi-godkendelsesfejl
+Xsi File Not Found| Xsi-fil ikke fundet
+Xsi Invalid URI| Ugyldig Xsi-URI
+Xsi Invalid Download Configuration| Ugyldig Xsi-downloadkonfiguration
+Call History| Opkaldshistorik
+Bluetooth| Bluetooth
+Scan| Søg
+Timeout [1..168 h]| Timeout [1..168 t]
+Paired Devices| Parrede enheder
+Available Devices| Tilgængelige enheder
+Swipe the toggle switch to the right to enable Bluetooth| Stryg skiftekontakten til højre for at aktivere Bluetooth
+Pairing| Parring
+Connecting| Tilslutter
+Device| Enhed
+No paired devices| Ingen parrede enheder
+Connection successful| Forbindelse oprettet
+Connection failed| Forbindelse mislykkedes
+Disconnection successful| Forbindelse afbrudt
+Disconnection failed| Afbrydelse af forbindelse mislykkedes
+Pairing failed| Forbindelse fejlede       
+Operation failed| Handling mislykkedes
+Connected| Tilsluttet
+Retry| Prøv igen.
+Do you want to forget this device?| Vil du glemme denne enhed?
+Close| Luk
+Enabling Bluetooth...| Aktiverer Bluetooth...
+Disabling Bluetooth...| Deaktiverer Bluetooth...
+Connecting...| Tilslutter...
+Disconnecting...| Afbryder forbindelsen...
+Boot| Boot
+App| Applikation
+USB disabled. Insufficient power for current configuration.| USB deaktiveret. Ikke strøm nok til aktuel konfiguration.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Den angivne fil overholder ikke telefonens krav til ringetoner. Se krav til ringetoner i brugervejledningen.
+%d/%d| %d/%d
+%d days| %d dage
+1 day| 1 dag
+System Messages| Systemmeddelelser
+Authorization Canceled| Tilladelse annulleret
+Crash Logs| Nedbrudslogfiler
+Warning - All entries in %s will also be deleted| Advarsel - Alle poster i %s bliver også slettet
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Ringetone
+Identity| Identitet
+Extension| Lokalnummer
+Address| Adresse
+Server Error| Server fejl
+Use Global Ring Tone| 
+Standard Ring Tone| Standardringetone
+Hide Number| Skjul nummer
+Remote Office| Fjernkontor
+Remote Office| Fjernkontor
+Phone Number/SIP-URI| Telefonnummer/SIP-URI
+Simultaneous Ring Personal| Samtidig ringetone, personlig
+Simultaneous Ring| Samtidig ringetone
+Do Not Ring if on a Call| Ring ikke under igangværende opkald
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Telefonnummer/SIP-URI
+Alt Num/SIP-URI| Alt Num/SIP-URI
+Ring for all Incoming Calls| Ring under alle indgående opkald
+Invalid Number or SIP-URI| Ugyldigt nummer eller SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Portalnummer
+Alert Locations for Click-To-Dial| Beskedplaceringer for klik-for-opringning
+Alert Locations for Group Paging| Beskedplaceringer for gruppesøgning
+Phone Number| Telefonnummer
+Description| Beskrivelse
+Alternate Number| 
+Call Control| Opkaldsstyring
+Diversion Inhibitor| Omstillingsbegrænser
+Answer Confirmation| Svarbekræftelse
+Xsi Server Not Found| Xsi-server ikke fundet
+Xsi Invalid Input| Ugyldigt Xsi-input
+Call Center| Callcenter
+Presence| Tilstedeværelse
+My Status| Min status
+Contacts| Kontaktpersoner
+Favorite| Foretrukken
+Available| Tilgængelig
+Eager to Chat| Ivrig efter at chatte
+Busy| Optaget
+Away| Ikke tilstede
+Extended Away| Væk i længere tid
+Offline| Offline
+Unknown| Ukendt
+Enter custom presence text here...| Angiv brugerdefineret tilstedeværelsestekst her...
+Status| Status
+Custom| Bruger definer
+Favorites| Foretrukne
+All Contacts| Alle kontaktpersoner
+No contact in folder| Ingen kontaktperson i mappe
+No phone number| Intet telefonnummer
+No contact| Ingen kontaktperson
+Contact list currently not available| Liste over kontaktpersoner ikke tilgængelig i øjeblikket
+Contact| Kontaktperson
+Contact| Kontaktperson
+Connection to server failed| Kunne ikke oprette forbindelse til server
+Configuration error| Konfigurationsfejl
+Authentication error| Godkendelsesfejl
+Connection to server lost| Forbindelse til server afbrudt
+Mobile| Mobil
+Connect| Opret forbindelse
+%s disconnected| %s Afbrudt
+%s connected| %s Tilsluttet
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Ny firmware. Træk ikke stikket ud!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Copy to All?
+Loading...| 
+Password Changed| Adgangskode ændret
+Restore Default| 
+Restore Default| 
+Enter Again| Indtast igen 
+Erase| Slet
+Set All| 
+VLAN Settings| VLAN opsætning
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Advanced
+Phonebook| 
+Update| 
+Copyright| Copyright
+Pause| Pause
+Incorrect password| Forkert adgangskode
+Please input duration between 1 to 1440 minutes| 
+Level 0| Level 0
+Static Network Settings| 
+Enter| OK
+Reset Configuration?| Reset konfiguration
+TCP DUMP| 
+minutes| minutter
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| VLAN ID
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Detaljer
+First Name| 
+Home| Privat
+People| 
+Contacts - Add New| 
+Work| Arbejde
+Entry copied to| Indtastning er kopieret til
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Telefonbog er fuld
+Directory full| Telefonbog er fuld
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Opret forbindelse
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Igangværende opkald
+Scan| Søg
+Stop| Stop
+Close| Luk
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Glem
+Unknown Caller| 
+Answer| Besvar
+Decline| 
+Push Call| Push-opkald
+End Call| 
+Caller| 
+Disconnect| Afbryd
+Capturing ...| 
+Speaker| Højttaler
+Headset| Hovedsæt
+Ringer| Ringetone
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Telefon info
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Adgangskode
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Ændre
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Nede
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Privat
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Forstyr ikke
+Phone Lock| Telefon Spærring
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Omdøb
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Mere...
+Restart| Genstart
+Key is Programmed| Tasten er programmeret
+Advanced XML| Advanced XML
+Too many answers - Refine your search| For mange svar - Udvid din søgning
+%s Search| % Søg
+Searching| Søger
+Server not configured| Server ikke konfigureret
+SimRing| SimRing
+Phone No/SIP-URI Not Configured| Telefonnr./SIP-URI ikke konfigureret
+ Xsi Server Update Failed|  Xsi-serveropdatering mislykkedes
+Call Settings| Opkaldsindstillinger
+Missing Config| Manglende konfiguration
+Deflect| Afvis
+AnswerIcom| AnswerIcom
+In a call| I et opkald
+Chats| Chats
+Chat| Chat
+Send| Send
+Delete all chat sessions?| Slet alle chatsessioner?
+Delete chat session with %s?| Slet chatsession med %s?
+No active chat session| Ingen aktiv chatsession
+Push Notifications| Push-meddelelser
+Sound| Lyd
+Bluetooth| Bluetooth
+Chat| Chat
+%s is typing...| %s skriver...
+Last message received %s at %s| Seneste meddelelse modtaget %s på %s
+Last message received while offline| Seneste meddelelse modtaget, mens jeg var offline
+now| nu
+%ld secs ago| %ld sek. siden
+1 min ago| 1 min. siden
+%ld mins ago| %ld min. siden
+1 hour ago| 1 time siden
+%ld hours ago| %ld timer siden
+yesterday| i går
+%ld days ago| %ld dage siden
+while offline| mens jeg var offline
+Can't talk right now. I'll call you later.| Kan ikke snakke lige nu. Jeg ringer senere.
+On another call| Er i gang med et andet opkald
+I'll call you back| Jeg vender tilbage
+Call me back in 10 minutes| Ring til mig om 10 minutter
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Bruger definer...
+Message to %s| Meddelelse til %s
+Cancel - No message sent| Annuller - Ingen meddelelse sendt
+Chat Messages| Chatmeddelelser
+Reject Call Message Configuration| Konfiguration af meddelelse for afviste opkald
+Message| Besked
+Server Failure| Serverfejl
+Use ^v to view| Use ^v for at se
+Answer| Besvar
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Advarsel
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Indtast Navn
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Timeout for anmodning
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Pass Thru Port
+Page Expired. Please reload the page.| Side udløbet. Genindlæs siden.
+Application busy. Please try again later.| Program optaget. Prøv igen senere.
+User ID required| Bruger-id påkrævet
+Directory file must be in WAV format| Biblioteksfilen skal være i WAV-format
+Local Directory Upload| Lokal upload til bibliotek
+Upload failed - Too many records detected in csv file| Upload mislykkedes - for mange poster registreret i .csv-fil
+Upload failed - No record detected in csv file| Upload mislykkedes - ingen poster registreret i .csv-fil
+Upload performed - %d records created| Upload gennemført - %d poster oprettet
+minutes| minutter
+User ID| Bruger-id
+Any PBX| Alle PBX
+Screen Mode| Skærmtilstand
+Show Picture| Vis billede
+Request timed out| Timeout for anmodning
+No Mobile phone connected| Ingen mobiltelefon tilsluttet
+Only one Handset can be paired to the phone| Kun ét håndsæt kan parres med telefonen
+Only one Speaker can be paired to the phone| Kun én højttaler kan parres med telefonen
+Maximum number of paired devices reached| Maksimalt antal parrede enheder nået
+Reload| Genindlæs
+Mobile Contacts| Kontakter på mobiltlf.
+Mobile| Mobil
+Press "Turn on" to enable Bluetooth| Tryk på "Tænd" for at aktivere Bluetooth
+Turn on| Tænd
+Turn off| Sluk
+Mobile : %s| Mobil: %s
+Pair| Forbindelse
+Connect| Opret forbindelse
+Disconnect| Afbryd
+Forget| Glem
+Rename| Omdøb
+Rename Device| Omdøb enhed
+Disabling Bluetooth will disconnect your Cordless Handset| Hvis du deaktiverer Bluetooth, deaktiveres det trådløse håndsæt også
+Warning| Advarsel
+Do you want to continue?| Vil du fortsætte?
+Bluetooth pairing request| Anmodning om Bluetooth-parring
+Pair with %s| Par med %s
+Pairing code - %06ld| Parringskode - %06ld
+External| Ekstern
+Lock Settings| Indstillinger for lås
+Proximity auto-lock| Auto låsning ved nærhed
+Delay before auto-lock| Forsinkelse før auto låsning
+Proximity auto-unlock| Auto oplåsning ved nærhed
+Delay before auto-unlock| Forsinkelse før auto oplås.
+Proximity auto-lock| Auto låsning ved nærhed
+Proximity auto-unlock| Auto oplåsning ved nærhed
+Delay before auto-lock (minutes)| Forsinkelse før auto låsning (minutter)
+Delay before auto-unlock (minutes)| Forsinkelse før auto oplås. (minutter)
+M695: New Firmware. Do not unplug phone!| M695: Ny firmware. Tag ikke telefonen ud af stikket!
+Login/Logout| Log på/log af
+Logout user %s| Bruger logget af %s
+Login successful| Du er nu logget på
+Logout successful| Du er nu logget af
+Login failed| Log på mislykkedes
+Logout failed| Log af mislykkedes
+Hot desk user can not pair handset please login as a local user| Systembruger kan ikke parre håndsæt, log på som lokal bruger
+Hot desk user can not pair speaker please login as a local user| Systembruger kan ikke parre højttaler, log på som lokal bruger
+Hot desk user can not unpair handset please login as a local user| Systembruger kan ikke ophæve parring af håndsæt, log på som lokal bruger
+Hot desk user can not unpair speaker please login as a local user| Systembruger kan ikke ophæve parring af højttaler, log på som lokal bruger
+Push Call| Push-opkald
+Cordless Handset| Trådløst håndsæt
+Low Battery| Lavt batteriniveau
+Critical Battery| Kritisk batteriniveau
+Ongoing Call| Igangværende opkald
+Incoming Call| Indgående opkald
+Incoming Call from %s| Indgående opkald fra %s
+Incoming Call from %s (%s)| Indgående opkald fra %s (%s)
+Voicemail access of Mobile Phone not supported| Adgang til telefonsvarer på mobiltelefon understøttes ikke
+Device not supported| Enhed ikke understøttet
+Phone not compatible| Telefon ikke kompatibel
+Dialing out through Mobile Line not supported| Opringning via mobiltelefonlinje understøttes ikke
+Page Expired. Please reload the page.| Side udløbet. Genindlæs siden.
+Application busy. Please try again later.| Program optaget. Prøv igen senere.
+Invalid prefix length (0 to 128)| Ugyldig præfikslængde (0 til 128)
+User ID required| Bruger-id påkrævet
+IPv6 Settings| Indstillinger for IPv6
+Basic Network Settings (IPv6)| Grundlæggende netværksindstillinger (IPv6)
+Basic Network Settings (IPv4)| Grundlæggende netværksindstillinger (IPv4)
+Ethernet Port Settings| Indstillinger for Ethernet-port
+User ID| Bruger-id
+Colon ":"| Kolon ":"
+Login/Logout| Log på/log af
+Logout user %s| Log bruger %s af
+Login successful| Du er nu logget på
+Logout successful| Du er nu logget af
+Login failed| Det lykkedes ikke at logge på
+Logout failed| Det lykkedes ikke at logge af
+IPv6| IPv6
+Enable IPv6| Aktivér IPv6
+Mode DHCPv6| Tilstand DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatisk konfiguration
+Prefix Length| Præfikslængde
+IPv6 Address| IPv6-adresse
+Local Directory Upload| Lokal upload til bibliotek
+Upload failed - Too many records detected in csv file| Upload mislykkedes - for mange poster registreret i .csv-fil
+Upload failed - No record detected in csv file| Upload mislykkedes - ingen poster registreret i .csv-fil
+Upload performed - %d records created| Upload gennemført - %d poster oprettet
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fejl: Opgradering/nedgradering afvist for inkompatibel firmwareversion
+Directory file must be in CSV format| Biblioteksfilen skal være i CSV-format
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fejl: Opgradering/nedgradering afvist for inkompatibel firmwareversion
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Port Map Ufuldstændigt
+DSP| DSP
+SIP| SIP
+Checking DECT| Kontrol af DECT
+Updating DECT Firmware| Opdatering af DECT Firmware
+Tone| Tone
+Interface| Grænseflade
+Web| Web
+7 +294| 7 +294
+Updating configuration| Opdatering af konfiguration
+Waiting assignment| Venter tildeling
+Checking for new firmware| Kontrol af ny firmware
+Firmware Check| Kontrol af firmware
+Firmware Check| Kontrol af firmware
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Ny firmware: VENLIGST UNDTAG IKKE TELEFONEN
+New Firmware: Restarting...| Ny firmware: Genstarter...
+Downloading configuration| Downloadning af konfiguration
+9 +397| 9 +397
+erase all calls| slet alle opkald
+DELETE again to erase this item| SLET igen for at slette dette element
+DELETE to erase item  or # to erase Number| SLET for at slette element eller # for at slette nummer
+DELETE again to erase all calls| SLET igen for at slette alle opkald
+DELETE again to erase all items| SLET igen for at slette alle elementer
+Delete All| Slet alt
+DELETE again to erase all calls| SLET igen for at slette alle opkald
+DELETE again to erase all items| SLET igen for at slette alle elementer
+Delete All| Slet alt
+Factory Defaults| Fabriksindstillinger
+ Missed Call|  Ubesvaret opkald
+ Missed Calls|  Ubesvarede opkald
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Overførsel
+Push| Skub
+Push| Skub
+Leave| Efterlad
+Conf| Konf
+SIP Settings| SIP opsætning
+8 +743| 8 +743
+Cannot Save| Kan ikke gemme
+1 item| 1 item
+ items|  poster
+item| item
+items| poster
+item| item
+items| poster
+No User| Ingen bruger
+Missing User ID| Manglende bruger-id
+DHCP failed| DHCP mislykkedes
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS foretrukket
+Cfg Svr Failure| Konfigurationsserverfejl
+Bad Certificate| Dårligt certifikat
+Bad Cert/TLS Err| Dårligt certifikat/TLS Fejl
+Certificates| Certifikater
+Cert Validation| Certifikat validering
+All defaults| Alle standardindstillinger
+6 +1070| 6 +1070
+Debug Level| Fejlfinding
+Support Information| Support information
+Get local.cfg| Hent local.cfg
+Get Log Files| Hent logfiler
+Get server.cfg| Hent server.cfg
+Get user_local.cfg| Hent user_lokal.cfg
+Get user.cfg| Hent user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Ugyldig subnet mask
+Invalid primary DNS address| Ugyldig primær DNS-adresse
+Invalid secondary DNS address| Ugyldig sekundær DNS-adresse
+Invalid prefix length (0 to 128)| Ugyldig præfikslængde (0 til 128)
+User ID required| Bruger-id påkrævet
+IP cannot be equal to gateway address| IP kan ikke være en gatewayadresse
+IP and gateway have to be on same subnet| IP og gateway skal være på samme undernet
+IP and gateway are equal| IP og gateway er ens
+IP gateway subnet mismatch| IP-gatewayundernet ikke overensstemmende
+IPv6 Settings| Indstillinger for IPv6
+Basic Network Settings| Grundlæggende netværksindstillinger
+Basic Network Settings (IPv6)| Grundlæggende netværksindstillinger (IPv6)
+Basic Network Settings (IPv4)| Grundlæggende netværksindstillinger (IPv4)
+Advanced Network Settings| Avancerede netværksindstillinger
+DHCP| DHCP
+NAT Port| NAT Port
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Den angivne fil er for stor. Hver fil må ikke overstige 1 MB.
+The phone does not have enough space to store this file.| Telefonen har ikke tilstrækkelig plads til at gemme filen.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Den angivne fil overholder ikke telefonens krav til ringetoner. Se krav til ringetoner i brugervejledningen.
+Directory file must be in WAV format| Biblioteksfilen skal være i WAV-format
+Directory file must be in CSV format| Katalogfilen skal være i CSV-format
+Local Directory Upload| Lokal upload til bibliotek
+Upload failed - Too many records detected in csv file| Upload mislykkedes - for mange poster registreret i .csv-fil
+Upload failed - No record detected in csv file| Upload mislykkedes - ingen poster registreret i .csv-fil
+6 +1370| 6 +1370
+IP&MAC Addresses| IP- og MAC-adresser
+LAN Port| LAN Port
+PC Port| PC Port
+Port Mirroring| Port Mirroring
+Set Audio| Indstil lyd
+Config. Server| Konfig. Server
+IP Address:| IP-adresse:
+7 +1463| 7 +1463
+App| App
+Watchdog| Watchdog
+Speeddial/Conf| Hurtigopkald/Konfig.
+Speeddial/MWI| Hurtigopkald/MWI
+Speeddial/MWI| Hurtigopkald/MWI
+Call is on Hold| Opkald er på Hold
+No subscription| Intet abonnement
+802.1x Failed| 802.1x mislykkedes
+6 +1473| 6 +1473
+Failed to config Line Manager| Kunne ikke konfigurere Line Manager
+Line in use| Linje i brug
+Get Crash Log| Hent Crash Log
+Logging Issue| Logging problem
+Time Unavailable| Tid ikke tilgængelig
+Packetization Interval| Pakningsinterval
+Basic| Grundlæggende
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmanien
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Brugerdefineret
+IN| IND
+OUT| UD
+Filter| Filter
+Filtering| Filtrering
+Opt Status| Funktionsstatus
+Executives| Ledere
+Forward Filtering| Filtrering fremad
+Divert| Omstilling
+Divert to Number| Omstil til nummer
+IN| IND
+OUT| UD
+Filter| Filter
+Filtering| Filtrering
+Opt Status| Funktionsstatus
+Executives| Ledere
+Forward Filtering| Filtrering fremad
+Divert| Omstilling
+Divert to Number| Omstil til nummer
+Press a contact button to view contact info.| Tryk på en kontaktperson for at vise kontaktoplysninger.
+No info available. Please press a contact button.| Ingen tilgængelige oplysninger. Tryk på en tast til en kontaktperson.
+ Enter Administrator Password|  Indtast administratoradgangskode
+6 +1749| 6 +1749
+Level 4| Niveau 4
+Level 5| Niveau 5
+Dot "."| Dot "."
+Colon ":"| Colon ":"
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Linje: %d
+Line %d: %s| Linje %d: %s
+6 +1780| 6 +1780
+Please enter a number| Indtast et nummer
+Please enter a name| Indtast et navn
+Login| Login
+Log Issue| Log problem
+Log Out| Log ud
+Avail| Tilgængelig
+Unavail| Ikke tilgængelig
+14 +1852| 14 +1852
+Show Picture| Vis billede
+Mode %d| Tilstand %d
+Screen Saver Timer| Screen Saver Timer
+Enabled also in call| Også aktiveret under opkald
+Enabled also in call| Også aktiveret under opkald
+Invalid Subscription Time| Ugyldig abonnementsperiode
+Speed Dial 8| Hurtigopkald 8
+Request Failed| Anmodning mislykkedes
+Request timed out| Timeout for anmodning
+Too many answers - Refine your search| For mange svar - Udvid din søgning
+New Contact| Ny kontaktperson
+Edit Details| Rediger oplysninger
+Edit Details| Rediger oplysninger
+Failed to retrieve contact details| Kunne ikke hente kontaktoplysninger
+No Mobile phone connected| Ingen mobiltelefon tilsluttet
+Only one Handset can be paired to the phone| Kun ét håndsæt kan parres med telefonen
+7 +2039| 7 +2039
+Volume| Lydstyrke
+DTMF| DTMF
+Screenshot| Screenshot
+All| Alle
+All| Alle
+Missed| Ubesvaret
+Outgoing| Udgående
+Received| Modtaget
+7 +2053| 7 +2053
+Paired Devices| Parrede enheder
+Available Devices| Tilgængelige enheder
+Swipe the toggle switch to the right to enable Bluetooth| Stryg skiftekontakten til højre for at aktivere Bluetooth
+Press "Turn on" to enable Bluetooth| Tryk på "Tænd" for at aktivere Bluetooth
+Press "Turn on" to enable Bluetooth| Tryk på "Tænd" for at aktivere Bluetooth
+Turn on| Tænd
+Turn off| Sluk
+Mobile : %s| Mobil: %s
+9 +2067| 9 +2067
+Device| Enhed
+Rename Device| Omdøb enhed
+No paired devices| Ingen parrede enheder
+Connection successful| Forbindelse oprettet
+Connection failed| Forbindelse mislykkedes
+Disconnection successful| Forbindelse afbrudt
+Connection successful| Forbindelse oprettet
+Connection failed| Forbindelse mislykkedes
+Disconnection successful| Forbindelse afbrudt
+Disconnection failed| Afbrydelse af forbindelse mislykkedes
+Pairing failed| Parring mislykkedes
+Operation failed| Handling mislykkedes
+7 +2153| 7 +2153
+%ld days ago| %ld dage siden
+while offline| mens jeg var offline
+Can't talk right now. I'll call you later.| Kan ikke snakke lige nu. Jeg ringer senere.
+On another call| Er i gang med et andet opkald
+On another call| Er i gang med et andet opkald
+I'll call you back| Jeg vender tilbage
+Call me back in 10 minutes| Ring til mig om 10 minutter
+Custom...| Brugerdefinerede...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Systembruger kan ikke parre højttaler, log på som lokal bruger
+Hot desk user can not unpair handset please login as a local user| Systembruger kan ikke ophæve parring af håndsæt, log på som lokal bruger
+Hot desk user can not unpair speaker please login as a local user| Systembruger kan ikke ophæve parring af højttaler, log på som lokal bruger
+Push Call| Push-opkald
+Cordless Handset| Trådløst håndsæt
+Push Call| Push-opkald
+Cordless Handset| Trådløst håndsæt
+Low Battery| Lavt batteriniveau
+Critical Battery| Kritisk batteriniveau
+Ongoing Call| Igangværende opkald
+5 +2188| 5 +2188
+Device not supported| Enhed ikke understøttet
+Phone not compatible| Telefon ikke kompatibel
+Dialing out through Mobile Line not supported| Opringning via mobiltelefonlinje understøttes ikke
+IPv6| IPv6
+Enable IPv6| Aktivér IPv6
+Mode DHCPv6| Tilstand DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Auto-konfiguration
+Prefix Length| Præfikslængde
+IPv6 Address| IPv6-adresse
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fejl: Opgradering/Nedgradering afvist for inkompatibel firmwareversion
+Audio Diagnostics| Audio Diagnostics
+Diagnostics| Diagnostics
+Timeout (1-5 Minutes)| Timeout (1-5 minutter)
+Disconnect| Afbryd
+Capturing ...| Optagelse ...
+Complete ...| Komplet ...
+Collecting Logs ...| Indsamling af logfiler ...
+Collect Logs| Indsamle logfiler
+Please input a duration between 1 and 5 minutes| Indtast en varighed på mellem 1 og 5 minutter
+Erase| Slette
+Cloud Service| Cloud Service
+Enable Cloud Service| Aktivér Cloud Service
+Cloud SIP| Cloud SIP
+Cloud Directory| Cloud bibliotek
+Active Config Server| Aktiv Server Konfig.
+Cloud Config Server 1| Aktiv Server Konfig. 1
+Cloud Config Server 2| Aktiv Server Konfig. 2
+Cloud Staging Server| Cloud Staging Server
+Cloud Domain| Cloud Domain
+Replay| Replay
+Backward| Tilbage
+Forward| Vi.send
+Send To| Send til
+Logout| Log af
+To Email| Til email
+Delete Failure| Slette fejl
+Play Failure| Afspil fejl
+Play Failure due to a system error. See your system administrator.| Afspil fejl som følge af en systemfejl. Se systemadministratoren.
+Save Failure| Gem fejl
+Add Contact| Tilføj kontakt
+Voicemail and Recordings| Voicemail og optagelser
+Voicemail User Login| Voicemail Bruger Login
+Send to| Send til
+Cannot dial a private number| Kan ikke ringe til et privat nummer
+Cannot copy a private number| Kan ikke kopiere et privat nummer
+Number not available| Nummer ikke tilgængeligt
+Loading...| Indlæser...
+Login| Login
+Contacts| Kontaktpersoner
+Private| Privat
+To| Til
+Send| Send
+Voicemail has been sent.| Voicemail er blevet sendt.
+Error in sending Voicemail. Please send it again.| Fejl ved afsendelse af Voicemail. Venligst send det igen.
+Voicemail has been sent to email.| Voicemail er blevet sendt til email.
+Error in sending to Email.| Fejl ved afsendelse til Email.
+New| Ny
+Recorded| Optaget
+Receipt Confirmation| Bekræftelse af kvittering
+Passcode| Adgangskode
+Mailbox Number| Mailbox nummer
+Remember passcode| Husk adgangskode
+Passcode is incorrect. Enter a valid passcode.| Adgangskoden er forkert. Indtast en gyldig adgangskode.
+Invalid mailbox number.| Ugyldigt mailbox nummer.
+Error - Mailbox in use| Fejl - Mailbox i brug
+Error - maximum sessions exceeded| Fejl - maksimale sessioner overskredet
+Error - no session exists| Fejl - der findes ingen session
+Error - bad extension| Fejl - dårlig udvidelse
+Mailbox locked for security reasons. See your system administrator.| Mailbox låses af sikkerhedsmæssige årsager. Se systemadministratoren.
+DECT Headset| DECT Headset
+DECT Headset Version| DECT Headset version
+DECT Headset Battery| DECT Headset batteri
+DECT Headset Rf Power| DECT Headset Rf Strøm
+DECT Headset Rf Power| DECT Headset Rf Strøm
+Very Low| Meget lav
+Downloading font| Download af skrifttype
+No calls to unpark| Ingen opkald til indrive
+For …| For …
+To VM| Til VM
+Number of Packets Sent| Antal sendte pakker
+Number of Packets Received| Antal pakker modtaget
+RTT min/avg/max| RTT min./gns./max.
+traceroute to| spor rute til
+hops max| hops max.
+byte max| byte max.
+Voicemail box is full| Telefonsvarer box er fuld
+ALL| ALLE
+REMOTE| FJERN
+Local| Lokal
+Not allowed on this call| Ikke tilladt på dette opkald
+ Whisper|  Hviske
+ Consult|  Se
+ Coach|  Træner
+ Barge|  Skub
+ Monitor|  Overvåg
+ For|  Til
+ External Speaker|  Ekstern højttaler
+ UnPark|  UnPark
+ Call Parked|  Parket opkald
+ UnPark Failed|  UnPark mislykkedes
+ Rev:|  Rev:
+ You must restart the phone before the new settings will take effect.|  Du skal genstarte telefonen, før de nye indstillinger træder i kraft.
+ None|  Ingen
+ Use LLDP-MED|  Brug LLDP-MED
+ LLDP neighbor|  LLDP nabo
+ Cache LLDP-MED|  Cache LLDP-MED
+ Conf In Progress|  Konf i fremskridt
+  Enter Voicemail Password|   Indtast Voicemail adgangskode
+ Call Server|  Opkaldsserver
+ Do Not Ring if on a Call|  Ring ikke under igangværende opkald
+ P|  P
+ To Vm|  Til Vm
+ Pickup not permitted|  Besvar er ikke tilladt
+ Pickup/unpark not permitted|  Besvar/unpark er ikke tilladt
+ Unpark not permitted|  Indrive ikke tilladt
+ Silent Monitor not permitted on this call|  Lydløs Skærm er ikke tilladt i dette opkald
+ Silent Coach not permitted on this call|  Lydløs Træner er ikke tilladt på dette opkald
+ Barge In not permitted on this call|  Skub ind er ikke tilladt på dette opkald
+ Park not permitted|  Drive ikke tilladt
+ Park/Transfer is still in progress|  Drive/Overførsel er stadig i gang
+ No calls to unpark|  Ingen opkald til indrive
+ No calls to park|  Ingen opkald til drive
+ No calls to pickup|  Ingen opkald til besvare
+ No calls to take action|  Ingen opkald til handling
+ My Status|  Min status
+ Favorite|  Foretrukken
+ Voicemail playback failed|  Voicemail afspilning mislykkedes
+ Voicemail skip failed|  Voicemail spring mislykkedes
+ Voicemail bad address|  Voicemail forkert adresse
+ Voicemail box is full for|  Voicemail box er fuld
+ Not supported|  Ikke understøttet
+ Service unavalilable at this time|  Service er utilgængelig på dette tidspunkt
+ Hold not permitted on this call|  Hold er ikke tilladt på dette opkald
+ Action not permitted|  Handling er ikke tilladt
+ Not Permitted on this call|  Ikke tilladt på dette opkald
+ Request denied or \r\nunacceptable at this time|  Forespørgsel nægtet eller \r\n uacceptabel på nuværende tidspunkt
+ Phone number is invalid or not properly formatted|  Telefonnummeret er ugyldigt eller ikke korrekt formateret
+ Move Message Failure|  Flyt meddelelsesfejl
+ Contacts|  Kontaktpersoner
+ Cloud Connect|  Cloud Connect
+ Service Type|  Servicetype
+ MiCloud Connect|  MiCloud Connect
+ MiVoice Border Gateway|  MiVoice Border Gateway
+ User DID|  Bruger DID
+ Domain|  Domæne
+ Call Back|  Ring tilbage
+ Play|  Afspil
+ Exit|  Afslut
+ Skip Back|  Spring tilbage
+ Skip Forward|  Spring fremad
+ Inbox|  Indbakke
+ MiCloud|  MiCloud
+ Fetching Details|  Henter detaljer
+ Additional Phone|  Yderligere telefon
+ Agent state|  Agent tilstand
+ Availability|  Tilgængelighed
+ Standard|  Standard
+ In a meeting|  Er i møde
+ Out of office|  Ikke på kontoret
+ Extended Absence|  Udvidet fravær
+ Do not disturb|  Vil ikke forstyrres
+ On the Phone|  I telefonen
+ Assign|  Tildel
+ Assign user|  Tildel bruger
+ Assign user failed|  Tildeling bruger mislykkedes
+ Assign user to phone in progress. Please wait...|  Tildeling bruger til telefon i gang. Vent venligst...
+ Extension or password invalid|  Udvidelse eller adgangskode ugyldig
+ Unassign|  Afgiv
+ Unassign user|  Afgiv brugeren
+ Unassign user failed|  Afgivelse af bruger mislykkedes
+ Unassign user?|  Afgiv bruger?
+ Unassigning user...|  Afgivvelse af bruger...
+ Voicemail password|  Voicemail adgangskode
+ Ping|  Ping
+ Host Name or IP Address|  Værtsnavn eller IP-adresse
+ Please enter a valid HostName/IP Address|  Indtast venligst en gyldig HostName/IP-adresse
+ Pinging %s...|  Pinging% s...
+ Tracerouting...|  Tracerouting...
+ Tracerouting Complete|  Tracerouting komplet
+ Traceroute|  Traceroute
+ Page Up|  Side op
+ Page Down|  Side ned
+ Traceroute Command|  Traceroute kommando
+ Always|  Altid
+ Never|  Aldrig
+ Always destination|  Altid destination
+ No answer destination|  Intet svar destination
+ Busy destination|  Travl destination
+ Simulring|  Simulring
+ VPN|  VPN
+ Use VPN|  Brug VPN
+ VPN gateway|  VPN gateway
+ VPN gateway port|  VPN gateway port
+ Tunnel IP|  Tunnel IP
+ VPN protocol|  VPN-protokol
+ VPN debug mode|  VPN fejlretningstilstand
+ System|  system
+ Log upload|  Log upload
+ Timeout (1-1440 Minutes)|  Timeout (1-1440 minutter)
+ Please input a duration between 1 and 1440 minutes|  Indtast en varighed på mellem 1 og 1440 minutter
+ User Settings|  Brugerindstillinger
+ Diagnostic server|  Diagnostisk server
+ Diag Server|  Diag Server
+ Wrap up|  Wrap op
+ UnWrap|  Unwrap
+  Open|   Åbn
+ Confirm|  Bekræft
+ New voicemail password|  Ny voicemail adgangskode
+ Password entries do not match|  Adgangskode indtastninger stemmer ikke overens
+ Password change succeeded|  Adgangskodeændring lykkedes
+ New password same as old password|  Nyt kodeord samme som gamle kodeord
+  Reply|   Svar
+  ReplyAll|   Svar alle
+  Compose|   Sammensæt
+  Call VM|   Opkald VM
+ Cannot choose your own extension|  Kan ikke vælge din egen udvidelse
+ Save Changes?|  Gem ændringer?
+ Validating number...|  Validerende nummer...
+ Invalid %s|  Ugyldig %s
+ Upgrade Required|  Opgradering påkrævet
+ Invalid DID or Password|  Ugyldigt DID eller adgangskode
+ Register|  Tilmeld
+ Voice Service|  Stemmetjenester
+ Start Over|  Start forfra
+ Empty domain name|  Tomt domænenavn
+ Registering|  Registrering
+ DID or password no update|  DID eller password ikke opdateret
+ Invalid domain name|  Ugyldigt domænenavn
+  Registration cancelled|   Registrering annulleret
+ Pager|  Pager
+ Phone not registered|  Telefon ikke registreret
+ Enterprise|  Enterprise
+  Parameter Type|   Parameter type
+ Remote|  Fjern
+  Filter Page|   Filter side
+  Parameter Filter|   Parameterfilter
+  Get Parameters|   Få parametre
+ Assigned|  Tildelt
+ Assigning|  Tildeling
+ Invalid extension|  Ugyldig udvidelse
+ Extension or password no update|  Udvidelse eller adgangskode ingen opdatering
+ Assignment cancelled|  Tildeling annulleret
+ Extension already assigned|  Udvidelse allerede tildelt
+  Select a call to park|   Vælg et opkald til drive
+  Select a call to unpark|   Vælg et opkald til indrive
+  Unpark|   Indrive
+ Duration|  Varighed
+ Subject|  Emne
+ Uploading Fail|  Uploading mislykkes
+ Diagnostic server is empty|  Diagnostiske server er tom
+ Logs uploaded successfully|  Logfiler uploadet succesfuldt
+ Urgent|  Haster
+ Return Receipt|  Retur kvittering
+ Include Original|  Inkluder originalen
+ Re: Voice Message|  Re: Ny voicemail
+ Fw: Voice Message|  Fw: Ny voicemail
+ Phone not assigned|  Telefon ikke tildelt
+ Whisper Page|  Hviske side
+ Intercom|  Intercom
+ Silent Monitor|  Lydløs skærm
+ Barge In|  Skub ind
+ Silent Coach|  Lydløs træner
+ To Inbox|  Til indbakke
+ Save Message?|  Gem besked?
+ By First|  Af første
+ By Last|  Af sidste
+ Dial Voicemail|  Ring voicemail
+ Dial VM|  Ring VM
+  Invalid Phone Number|   Ugyldigt telefonnummer
+ Transfer not permitted on this call|  Overførsel er ikke tilladt i dette opkald
+ Conference not permitted on this call|  Konference ikke tilladt på dette opkald
+ Remote log upload in progress|  Fjern log-upload i gang
+ Remote capture upload in progress|  Opdatering af fjernoptagelse i gang
+ Standard|  Standard
+ Ring 2|  Ring 2
+ Ring 3|  Ring 3
+ Ring 4|  Ring 4
+ Play Int|  Afspil Int
+ Play Ext|  Afspil Ext
+ Press "Upload" to upload a debug log|  Tryk på "Upload" for at uploade en fejlfindingslog
+ Select a call to merge|  Vælg et opkald for at fusionere
+ Add Caller:|  Tilføj opkaldsnummer:
+ Assign user?|  Tildele bruger?
+ Participants|  Deltagere
+ Conferenced|  Konference
+ calls|  opkald
+ held calls|  Holdt opkald
+ Debug on|  Fejlfinding til
+ Debug off|  Fejlfinding fra
+ Unknown Error|  Ukendt fejl
+ Connection Error|  Forbindelsesfejl
+ Application Error|  Program fejl
+ Number of Packets Sent:|  Antal sendte pakker:
+ Number of Packets Received:|  Antal pakker modtaget:
+ RTT min/avg/max|  RTT min./gns./max.
+ traceroute to|  spor rute til
+ hops max|  hops max.
+ byte packets|  byte pakker
+ Help|  Hjælp
+ Call Mitel Support ?|  Ring til Mitel Support?
+ Mitel Support|  Mitel Support
+ Remote| 
+ OnHold| 
+Initializing Components| Initialisering af komponenter
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

@@ -1,0 +1,3606 @@
+Slovenčina
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Teraz žiadne slúchadla spárované
+Cordless Handset Feature Key Configuration| Nast. tlačidla slúch.
+None| Žiadny
+Attempting to pair...| Pokus o párovanie...
+Pairing successful| Párovanie dokončené
+Pairing failed       | Párovanie zlyhalo
+Try again| Skúste znovu
+Remove Handset:| Odstrániť slúchadlo:
+Attempting to remove| Pokus o odstránenie
+Wait...| Čakajte...
+Removal successful| Odstránenie dokončené
+Cordless| Bezdrôtový
+Cordless Handsets| Bezdrôtové slúchadla
+None Registered| Žiadne registrované
+Sync| Synchr.
+Private Line| Súkromná linka
+Sending Directory| Posielanie adresára
+to Handsets| do sluchadiel
+System Unavailable| Systém je nedostupný
+Handset Pairing| Párovanie slúch.
+Handset Keys| Tlačidlá slúch.
+Feature Key programming complete.| dokončené
+Two Call Support| Podpora dvoch hovorov
+Intercom| Interkom
+Sending Directory to Handsets| Odoslanie adresára do slúchadla
+No Public Number Found| Nájdené neverejné číslo
+480i prompts| 
+Time Format| Formát času
+    NOT MATCH !!!| NIE JE ZHODA !!!
+Erase local config?| Zmazať konfig.?
+Alternate Server| Záložný server
+Contrast Level| Úroveň kontrastu
+TypeService SIP| Typ služby SIP
+TypeService RTP| Typ služby RTP
+TypeService DSCP| Typ služby DHCP
+TypeService RTCP| Typ služby RTCP
+Dn| Dole
+Rt| Vpravo
+Lf| Vľavo
+Del| Zmazať
+System Info Upload| Nahrať systémové info
+Up| Hore
+Copyright| Autorské práva
+Reset| Reset
+Phone will restart automatically after finishing.| Telefón bude reštartovaný po
+Please login| Prosím prihláste
+Incorrect password| Neplatné heslo
+Reset Configuration?| Reset konfigurácie ?
+Cfg. Svr.| Konf.Serv.
+Enable| Povoliť
+List| Zoznam
+Move Up| Hore
+Move Down| Dole
+Firmware Loaded| Firmvér bol nahraný
+802.1x Authenticating| Overovanie 802.1x
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Čakám na pridelenie IP
+Bluetooth Upgrade .. Please wait| Aktualizácia Bluetooth... Prosím čakajte
+Contacting Redirector| Spájanie s RCS
+Redirecting Step 1| Presmerovanie krok 1
+Redirecting Step 2| Presmerovanie krok 2
+Redirecting Step 3| Presmerovanie krok 3
+Redirecting Step 4| Presmerovanie krok 4
+Redirecting Step 5| Presmerovanie krok 5
+Redirecting Step 6| Presmerovanie krok 6
+Auto Discovery...| Automatické vyhľadávanie...
+Starting in Generic SIP Mode| Štart v režime Generic SIP
+Starting in AastraLink Mode| Štart v režime AastraLink
+Updating config| Aktualizácia nastavení
+Waiting assignment| Vyčkajte na pridelenie
+Checking for Firmware  Do not unplug phone!| Kontrola firmvéru. Neodpájajte prístroj!
+New Firmware. Do not unplug phone!| Nový firmvér. Neodpájajte prístroj!
+New Firmware. Restarting...| Nový firmvér. Reštartovanie prístroja...
+Downloading configuration| Preberanie konfigurácie
+Downloading Language Packs| Preberanie jazykových balíkov
+Network| Sieť
+UPnP device not found| UPnP zar. nenájdené
+Port Map In Progress| Map. portov v procese
+Port Map Incomplete| Map. portov neúplné
+DSP| DSP
+SIP| SIP
+Tone| Tón
+Interface| Rozhranie
+Web| Web
+Done| Hotovo
+CopyToAll| Nast.Všade
+Cannot use firmware.| Firmvér nepoužiteľný
+No available lines| Žiadné dostupné linky
+Current Password:| Aktuálne heslo:
+New Password:| Nové heslo:
+Re-enter Password:| Potvrdenie hesla:
+  Password Changed|   Heslo zmenené
+Change| Zmeniť
+Use DHCP?| Používať DHCP?
+Advanced| Pokročilé
+DNS| DNS
+Ringer | Zvonenie
+ ERROR: invalid port|  CHYBA: neplatný port
+SIP Register| Registrácia SIP
+Register?| Registrovať?
+Authentication Name| Overovacie meno
+Nortel NAT| Nortel NAT
+Reset phone to| Zresetovať telefón do
+factory defaults?| výrobného nastavenia?
+Setting phone back to| Obnovenie nastavení
+Factory Defaults| telefónu z výroby
+  Please enter the   |      Prosím zadajte
+    administrator    |     administrátorské
+      password.      |          heslo.
+Password: | Heslo:
+Quit| Ukončiť
+More| Ďalej
+Timeserver Address:| Adresa NTP servera:
+Network Time Disabled| NTP vypnuté
+Dialing| Vytočiť
+Incoming| Došlé
+Calling| Volanie
+Pause| Pauza
+Pickup| Zodvihnúť
+Previous| Predošlé
+Enter Time:| Zadajte čas:
+Message Waiting| Nová správa
+Live Dialpad| Aktív. Klávesnica
+Live Dialpad is| Aktívna klávesnica je
+Options List| Zoznam možností
+    Access denied    |    Prístup zamietnutý
+Directory is full| Adresár je plný
+30min summertime| Letný čas +30 min
+1h    summertime| Letný čas +1 h
+No Link| ChybaSpoj
+Next| Ďalej
+Retry| Opakovať
+Negotiation| Negociácia
+Live Dialpad disabled| Aktív.Klávesnica vyp.
+Link State| Stav spoj.
+Headset Mic Volume| Hlas. mikr. náhlavky
+Gateway IP Address:| IP adresa brány:
+Enter Date (y-m-d):| Zadajte datum (r-m-d)
+Enter| Zadať
+Enable| Povoliť
+Full 10Mbps| Plná 10Mbps
+Full 100Mbps| Plná 100Mbps
+Full 1000Mbps| Plná 1000Mbps
+Half 10Mbps| Polovičná 10Mbps
+Half 100Mbps| Polovičná 100Mbps
+Half 1000Mbps| Polovičná 1000Mbps
+Default| Predvolené
+Add New| PridaťNový
+DeleteList| Zmazať
+Delete entire| Zmazať celý
+Directory?| Adresár?
+Enter Number:| Zadajte číslo:
+Network disconnected| Sieť odpojená
+Network connected| Sieť pripojená
+Entry Saved| Údaj uložený
+Entry Removed| Údaj odstránený
+Private| Súkromné
+Public| Verejné
+Delete entry?| Zmazať údaj?
+Delete?| Zmazať?
+Delete number| Zmazať len číslo
+or delete all| alebo všetky
+entries?| údaje?
+Name is full| Meno je dlhé
+Empty| Prázdný
+Redial List| Zoznam opakov. voľby
+Details| Detaily
+Copy| Kopírovať
+Select| Vybrať
+Voicemail| Hlasová pošta
+DeleteItem| ZmažPolož.
+Delete All| Zmaž Všet.
+Entry copied to| Údaj skopírovať do
+Entry Exists| Údaj už existuje
+All items erased| Položky vymazané
+Sort| Triedenie
+Resume| Návrat
+EditNum| UpravČíslo
+DeleteList again to| Zmazať zoznam
+Delete again to| Stlačte Zmazať pre
+erase this item| výmaz tejto položky
+erase all calls| výmaz všetkých hovor.
+ new caller|  nový volajúci
+ new callers|  noví volajúci
+Press 1st letter| Zadajte 1. znak
+Handset | Slúchadlo 
+ Missed Call|  Zmeškaný hovor
+ Missed Calls|  Zmeškané hovory
+Call Forward Mode| Režim presmerovania
+CFWD All| Presm. všetko
+CFWD Busy| Presm. pri obsadení
+CFWD NoAnswer| Presm. ak neodpovedám
+Call| Volať
+Select TFTP| Výber TFTP
+Use %c for new| %c - nové
+Use %c to view| %c - prehliadanie
+Download Protocol| Protokol sťah.
+OFF| VYP
+ON| ZAP
+Add Number| PridaťČís.
+Arrange| Radenie
+%cmore| %c ďalších
+Office| Zamestnanie
+Home| Domov
+Cell| Mobil
+Pager| Pager
+VLAN Settings| Nastavenie VLAN
+Softkeys and XML| Soft tlačidlá a XML
+Softkeys Configuration| Nastavenie softvérových tlačidiel
+Bottom Keys| Dolné tlačidlá
+Top Keys| Vrchné tlačidlá
+Page1| Strana 1
+Page2| Strana 2
+Page3| Strana 3
+Page4| Strana 4
+Page5| Strana 5
+Idle| Nečinný
+Outgoing| Odchodzie
+Empty| Prázdný
+Enter server name/IP:| Meno/IP servera:
+Enter HTTPS port:| Zadejte HTTPS port:
+Erase| Zmazať
+Proxy IP/Port| Proxy IP/port
+Registrar IP/Port| Registr. IP/port
+Erasing local config| Mazanie nast. v telf.
+Proxy Port:| Proxy port:
+Registrar Port:| Port registrátora:
+Proxy Server:| Proxy server:
+Registrar Server:| Server registrátora:
+Contrast Level:| Úroveň kontrastu:
+Erase Local Config.| Zmazať nast. v telf.
+Administrator Menu| Administrátor. Menu
+Backlight On Time| Doba podsvietenia
+Redirect HTTP->HTTPS?| Presmer. HTTP->HTTPS?
+Block XML HTTP POSTs?| Blok. XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Metóda klienta
+To unlock the phone| Odomknutie telefónu
+No more softkeys| Žiadne soft. tlačidlá
+Ignore| Ignorovať
+Answer| Prijať
+Configuration Server| Konfiguračný server
+Primary Path| Základná cesta
+Alternate Path| Náhradná cesta
+Logging in| Prihlasovanie
+Login Failed| Prihlásenie zlyhalo
+Enable?| Povoliť?
+Check Expires| Kontrolovať platnosť
+Check Hostnames| Kontrolovať názvyHost
+Conf. Unavailable| Konfigurácia neexist.
+Ringing...| Vyzváňanie
+Error Messages| Chybové hlásenia
+No Error Messages| Bez chybových hlásení
+Download Options| Možnosti DHCP
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| dalej
+A # &| A # &
+  Invalid password   |   Neplatné heslo   
+Upload Sys Info| Nahrať systémové info
+Config is updated. Restarting...| Konfig. je aktualizovaná. Reštartovanie...
+CFWD Filtering| Filtrovanie presmerovania volania
+Checking for Firmware| Kontrola firmvéru
+for new| pre nové
+9133i prompts| 
+Password Changed| Heslo zmenené
+Leave| Ponechať
+Time Format| Formát času
+Erase local cfg?| Zmazať konf.Tel?
+TypeService SIP| Typ služby SIP
+TypeService RTP| Typ služby RTP
+TypeService DSCP| TypSlužby DHCP
+TypeService RTCP| TypSlužby RTCP
+Alternate Server| Náhradný server
+Contrast Level| Úroveň kontrastu
+Options List| Zoznam voľieb
+DELETE to erase item  or # to erase Number| ZMAZAŤ - výmaz položky, # - výmaz čísla
+Upload Sys Info| Nahrať systémové info
+Directory Empty. Use Save to add| Adresár prázdny. "Uložiť" na pridanie
+Directory Empty Use Save to add| Adresár prázdny "Uložiť" na pridanie
+  NOT MATCH !!!| NIE JE ZHODA !!!
+DELETE again to erase this item| "Vymazať" na výmaz položky
+System Info Upload| Nahrať systémové info
+Phone will restart after| Telefón se reštartuje po
+Copyright| Copyright
+Reset| Reset
+Use DHCP?| Pouziť DHCP?
+Full 10Mbps| Plná 10Mbps
+Full 100Mbps| Plná 100Mbps
+Half 10Mbps| Polovičná 10Mbps
+Half 100Mbps| Polovičná 100Mbps
+Full 1000Mbps| Plná 1000Mbps
+Half 1000Mbps| Polovičná 1000Mbps
+Cfwd Destination| Cieľ presmerovania volania
+Please login| Prihláste sa
+Incorrect password| Neplatné heslo
+Reset Configuration?| Vynulovať konfiguráciu?
+Cfg. Svr.| Konf serv.
+Net disconnected| Sieť odpojená
+Live Dialpad| Aktiv. Klávesnica
+Firmware Loaded| Firmvér bol nahraný
+802.1x Authenticating| Overovanie 802.1x
+LLDP| LLDP
+Initializing network| Inicializácia siete
+Bluetooth Upgrade| Aktualizácia Bluetooth
+Contacting Redirector| Spájanie s RCS
+Redirecting Step 1| Presmerovanie krok 1
+Redirecting Step 2| Presmerovanie krok 2
+Redirecting Step 3| Presmerovanie krok 3
+Redirecting Step 4| Presmerovanie krok 4
+Redirecting Step 5| Presmerovanie krok 5
+Redirecting Step 6| Presmerovanie krok 6
+Auto Discovery| Automatické vyhľadávanie
+Starting in Generic SIP Mode| Štart v režime Generic SIP
+Starting in Aastra Link Mode| Štart v režime AastraLink
+Updating configuration| Aktualizácia nastavení
+Waiting assignment| Vyčkajte na pridelenie
+Checking for new firmware| Kontrola firmvéru. Neodpájajte prístroj!
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Nový firmvér. Neodpájajte prístroj!
+New Firmware: Restarting...| Nový firmvér. Reštartovanie prístroja...
+Downloading configuration| Preberanie konfigurácie
+Downloading Language Packs| Preberanie jazykových balíkov
+Network| Sieť
+UPnP Gateway Not Found| UPnP zar. nenájdené
+UPnP Port Map In Progress| Prebieha mapovanie UPnP portov
+UPnP Port Map Incomplete| Mapovanie UPnP portov nie je dokončené
+DSP| DSP
+SIP| SIP
+Tone| Tón
+Registering with the voice network...| Registrácia hlasových služueb
+Web| Web
+Done| Hotovo
+Cannot use| Tento firmvér
+this firmware.| je nepoužiteľný
+All lines in use| Vš.Linky použité
+Current Password| Aktuálne heslo:
+New Password| Nové heslo:
+Enter Again| Zopakovať heslo:
+Ringer volume   | Hlasitosť zvon. 
+DELETE again to| Stlač.ZMAZAŤ pre
+erase all calls| výmaz vš.hovorov
+Caller is erased| Volajúci zmazaný
+Network Time| Čas zo siete
+Change| Zmena
+Options| Možnosti
+Access denied| Prístup odoprený
+Directory full| Adresár je plný
+Link Active| Spojenie aktívne
+No Link| Bez spojenia
+Live Dialpad is\nnot available.| Aktiv. kláv. je\nnie je dostup.
+Live Dialpad is\nON| Aktiv. kláv.\nZAP
+Live Dialpad is\nOFF| Aktiv. kláv.\nVYP
+-  confirmed   -| -  nastavené  -
+Contrast | Kontrastu 
+Set| Nast.
+DHCP\nON| DHCP\nZAP
+DHCP\nOFF| DHCP\nVYP
+Enable?\nYes| Povoliť?\nÁno
+Enable?\nNo| Povoliť?\nNie
+Check Expires| Platnosť
+Check Expires?\nYes| Kontr. platnosť?\nÁno
+Check Expires?\nNo| Kontr. platnosť?\nNie
+Check Hostnames| Kontr. názvyHost
+Check Hostnames?\nYes| Kontr. názvy?\nÁno
+Check Hostnames?\nNo| Kontr. názvy?\nNe
+Cancel| Zrušiť
+SIP Register\nON| Registrácia SIP\nZAP
+SIP Register\nOFF| Registrácia SIP\nVYP
+Nortel NAT\nEnabled| Nortel NAT\nPovolené
+Nortel NAT\nDisabled| Nortel NAT\nZakázané
+Next| Ďalší
+Done| Hotovo
+Retry| Znovu
+Exit| Návrat
+Pickup| Zodvihnúť
+Call held| Hovor pridržaný
+Calls held| Hovory pridržané
+Country Code: | Kód krajiny:
+*List Countries| *Zoznam krajín
+Enter| Zadať
+Admin Password| Admin. heslo
+yyyy-mm-dd | rrrr-mm-dd 
+Restart phone?| Reštartovať tel?
+#Confirm| #Potvrdiť
+RestoreDefaults?| Obnoviť pôvodné?
+Call Agent 1| Volací agent 1
+Call Agent 2| Volací agent  2
+Call Agent 3| Volací agent  3
+Invalid Code    | Neplatný kód    
+E: Invalid port!| Ch:Neplat. port!
+Application:| Aplikácia:
+Boot ROM:| Boot ROM:
+Negotiation:| Negociácia:
+30m summertime| Letný čas +30min
+1h summertime| Letný čas +1 h
+Invalid password| Neplatné heslo  
+  disconnected|   odpojená
+   connected|    pripojená
+    Network|     Sieť
+erase all items| zmazať všetky p.
+Enter Number>| Zadajte číslo>
+Setting phone to| Nastavenia tel.
+Use Save to end| Stlačte Uložiť
+to enter name>| na zadanie mena>
+Saved: Directory| Uložené: Adresár
+Retrying config | Skúšam načítať 
+download...     | konfiguráciu... 
+empty| prázdný
+No Match| Žiadna zhoda
+Save to?| Uložiť?
+Saved Memory key| Tlač. Nastavené
+Removed Key| Tlač. Vymazané
+Key saved | Tlač. Nastavené
+Key removed| Tlač. Vymazané
+Press 1st letter| Zadajte 1. znak
+Speaker volume  | Hlasitosť repr. 
+Handset volume  | Hlasitosť slúch.
+Headset volume  | Hlasitosť náhl. 
+Factory Defaults| od výroby
+ Missed Call|  Zmeš. hovor
+ Missed Calls|  Zmeš. hovory
+Cfwd State| Stav presmerov.
+Cfwd Number| Číslo pre presm.
+Cfwd Mode| Režim presmerov.
+CFWD All| Presm. všetko
+CFWD Busy| Presm. pri obsd.
+CFWD NoAnswer| Presm. ak neodp.
+Select TFTP\nPrimary| Zvoliť primárny\nTFTP
+Select TFTP\nAlternate| Zvoliť náhradny\nTFTP
+DownloadProtocol| Protok.Načítania
+VLAN Settings| Nastavenia VLAN
+Server Name/IP?| Server názov/IP?
+HTTPS Port?| HTTPS port?
+Client Method\nSSL 3.0| Metóda klienta\nSSL 3.0
+Client Method\nTLS 1.0| Metóda klienta\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nPresmerovať
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nNepresmerovať
+Redirect| Presmerovať
+Do not redirect| Nepresmerovať
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nNeblokovať
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBlokovať
+Do not block| Neblokovať
+Block| Blokovať
+Erasing config| Mazanie nast.Tel
+Pri TFTP Path| Cesta prim. TFTP
+Alt TFTP Path| Cesta náhr. TFTP
+Backlight Mode| Režim podsviet.
+Backlight Time| Doba podsviet.
+Answer| Zobrať
+Ignore| Ignoruj
+Cfwd| Presm
+Copy to All?| Kopírovať všade?
+Apply Changes?| Uložiť zmeny?
+Logging in| Prihlasovanie
+Login Failed| Prihlas. zlyhalo
+Conf Unavailable| Konfig nedostup.
+Error Messages| Chybové hlásenia
+No Error Messages| Bez chyb.hlásení
+Delete All| Vym.všetko
+Download Options| Voľby načítania
+Config updated. Restarting...| nast. aktualizované. Reštart...
+DELETE again to erase all calls| Vymaž - vymaže všetky hovory
+Firmware Check| Kontrola firmvéru
+Fwd Filtering| Filtrovanie presmerovania
+CFWD Filtering| Filtrovanie presmerovania volania
+DELETE again to erase all items| Stlač.ZMAZAŤ pre zmazať všetky p.
+Upload Sys Info| Nahrať systémové info
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Zadajte admin. heslo
+Error Msg| Chybové hlásenie
+Unlock the phone?| Odomknúť telefón?
+ Enter Unlock Password| Zadajte heslo na odomknutie
+softkey| softvérového
+Edit Number| Upraviť číslo
+Lock the phone| Uzamknutie tel.
+keypad| Klávesnica
+Unlock| Odomknutie
+ Cust Feat| Užív. sl.
+Phone is locked| Telefón zamknutý
+Unlock the phone| Odomknutie telefónu
+GoodBye| Dovidenia
+Pass Thru Port| Priechodný port
+First| Meno
+Last| Priez.
+Name| Meno
+Add| Pridať
+Edit| Upraviť
+Space| Space
+Bksp| Bksp
+caps| caps
+CAPS| CAPS
+Reject| Odmiet.
+Silence| Umlčať
+Hold| Podržať
+Transfer| Preložiť
+>| >
+Lines| Riadkov
+Settings| Nastavenia
+Device Name| Názov zariad.
+Bluetooth Devices| Zar. Bluetooth
+Bluetooth Status:| Stav BT:
+Search| Hľadať
+Searching...| Hľadanie..
+device(s) found.| zariad. nájdené
+Press on a device to start pairing.| Spustite párovanie na Vašom zariadení
+Enter PIN| Zadajte PIN
+Add Device| Pridať zariadenie
+Active| Aktivovať
+Are you sure?| Ste si istý?
+ALL| VŠETKO
+Phone No:| Tel. číslo:
+Copy to all modes| Kopírovať všade
+BUSY| OBSADENÉ
+NO ANSWER| NEODPOVEDÁ
+CFWD NO ANS:| PRES. NEODP:
+CFWD BUSY:| PRES. OBSAD:
+CFWD ALL:| PRES. VŠETK:
+Audio| Zvuk
+Calibrate Screen| Kalibrácia obrazovky
+Recalibrate Touchscreen?| Kalibrovať obrazovku?
+Softkeys| Soft tlač.
+Headset Mic Volume| Hlas. mikr. náhlavky
+Headset Device| Náhlavka
+Bluetooth| Bluetooth
+Wired| drôtová
+Restart | Reštart
+No Calls| Žiadne hovory
+Brightness Timer| Onesk. zníž.jasu
+Brightness Level| Úroveň jasu
+Add to Directory| Pridať do adresára
+Waiting for Touch Screen activity to subside ...| Čakanie na odozvu dotyk. displeja
+Touch the UPPER-LEFT corner of the screen| Dotknite sa displeja v ľavom hornom rohu
+Touch the UPPER-RIGHT corner of the screen| Dotknite sa displeja v pravom hornom rohu
+Touch the LOWER-RIGHT corner of the screen| Dotkněte se displeje v pravém dolním rohu
+Touch the LOWER-LEFT corner of the screen| Dotknite sa displeja v ľavom dolnom rohu
+Received unreliable data. You will be asked to touch the same point again| Dotyk nemohol byť správne vyhodnotený. Budete požiadaný o opakovanie dotyku v tom istom bode.
+Processing ...| Spracovávanie...
+Validating calibration data ... please wait| Overovanie získaných dát na kalibráciu
+Sanity Check OK. Save changes?| Kontrola funkčnosti OK. Uložiť zmeny?
+Sanity Check Failed| Kontrola funkčnosti zlyhala
+Retry| Opakovať
+Quit| Odísť
+Please Enter| Prosím zadajte
+Submit| Potvrdiť
+User ID:| ID užívateľa:
+Password:| Heslo:
+Transferring| Presúvanie
+No. Rings| Počet zazvonení
+Line| Linka
+Unable to Pair| Nie je možné spárovať
+Please Wait...| Čakajte ...
+Add new device...| Pridať novéZar...
+Detected:| Detekované:
+Connecting:| Pripájanie:
+Disonnecting:| Odpájanie:
+Connected:| Pripojené:
+ALL| VŠETKO
+BUSY| OBSADENÉ
+NO ANSWER| NEODPOVEDÁ
+CFWD ALL:| PRES. VŠETK:
+CFWD BUSY:| PRES. OBSAD:
+CFWD NO ANSWER:| PRES. NEODP:
+Copy to all modes| Kopírovať všade
+OFF| VYP
+Off| VYP
+Phone Number:| Tel. číslo:
+Level 1| Úroveň 1
+Level 2| Úroveň 2
+Level 3| Úroveň 3
+Level 4| Úroveň 4
+Level 5| Úroveň 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Zadajte admin. heslo
+Phone will restart automatically after finishing.| Po dokončení sa telefón autom. reštartuje
+Conference| Konferencia
+Conf| Konferencia
+Reset Configuration?| Vynulovať nastavenia?
+Hide| Skryť
+Live Dialpad| Aktív. Klávesnica
+Live Dial| Live Dial
+Lock| Zamknúť
+Lock the phone?| Zamknúť telefón?
+Directory| Adresár
+Phone Number:| Tel. číslo:
+Common prompts| 
+None| Žiadny
+Disable| Zakázať
+Logout failed| Odhlásenie neúspešné
+Logout successful| Odhlásenie úspešné
+Login successful| Prihlásenie úspešné
+Logout user %s| Odhlásiť používateľa %s
+Login/Logout| Prihlásiť/odhlásiť
+User ID| ID používateľa
+User ID required| Vyžaduje sa ID používateľa
+Application busy. Please try again later.| Aplikácia je zaneprázdnená. Skúste to znova neskôr.
+Page Expired. Please reload the page.| Stránka vypršala. Znovu načítajte danú stránku.
+Check Expires| 
+Check Hostnames| 
+Use DHCP?| 
+Restart Phone?| Reštartovať tel?
+12 Hour| 12 hodín
+Speeddial| Rýchla voľba
+Erase local cfg?| Zmaz. lok. Nast?
+Spd Dial| Rých.Voľba
+Backup Outbound Proxy Server| Náhradný Outbound Proxy server
+Backup Outbound Proxy Port| Náhradný Outbound Proxy port
+Firmware Info| O firmvéri
+DHSG| DHSG
+DHSG is ON| DHSG je ZAP
+DHSG is OFF| DHSG je VYP
+Backlight On Time| Trvanie podsvietenia
+Use Alt TFTP| Použ. zál. TFTP
+Pri TFTP Path| Cesta prim. TFTP
+Alt TFTP Path| Cesta náhr. TFTP
+RestoreDefaults?| Obnoviť pôvodné?
+HTTP Init Failed| Chyba inic. HTTP
+Get aastra.lic| Získať aastra.lic
+Get mac.lic| Získať mac.lic
+Firmware not licensed for use on this phone| Firmvér nie je licencovaný pre tento telefón
+Redial List is empty| Zoznam opak. voľby je prázdny
+Callers List is empty| Zoznam hovorov je prázdny
+Callers List| Zoznam hovorov
+Redial List| Zoznam opakov. voľby
+Directory| Adresár
+License Information| O licencii
+XML Application URI:| XML aplikácie URI:
+Missing User ID| Chýbaj. ID užív.
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Použiť
+Active Features| Aktívne služby
+WWW MMM DD| TYD MMM DD
+DD-MMM-YY| DD-MMM-RR
+YYYY-MM-DD| RRRR-MM-DD      
+DD/MM/YYYY| DD/MM/RRRR
+DD/MM/YY| DD/MM/RR
+DD-MM-YY| DD-MM-RR
+MM/DD/YY| MM/DD/RR
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM RRRR
+WWW DD MMM| TYD DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.RRRR
+24 Hour| 24 hodín
+XML Application Title:| Názov XML aplikácie:
+License Status| Stav licencie
+FTP| FTP
+to view| na zobrazenie
+Contact Name already exists| Kontakt už existuje
+Leave| Ponechať
+Contact Mismatch| Kontakt nezodpovedá
+ Call Terminated| Hovor ukončený
+IP and gateway have to be on same subnet| Zadaná IP adresa musí byť v rovnakom subnete ako predvolená brána
+IP cannot be equal to gateway address| Zadaná IP adresa nesmie byť totožná s IP adresou predvolenej brány
+Call Waiting Tone Period| Kadencia poklepávania pri čakajúcom hovore na linke
+OK| OK
+Directory empty| Adr. je prázdny
+Files Sent| Súbory odoslané
+Upload System Info| Nahrať systémové info
+Upload| Nahrať
+Call Transferred| Hovor prepojený
+Firmware Information| Inform. o firmvéri
+Contact Name already exists| Kontakt už existuje
+Replace| Nahradiť
+No Services| Žiadne služby
+Merge| Zlúčiť
+Enter Name:| Zadajte meno:
+Call Hold Reminder| Pripomienka na podržaný hovor
+Others| Ďalšie
+Call Hold Reminder During Active Calls| Upozorňovanie na podržaný hovor počas hovorov
+Out of service| Mimo prevádzku
+Reason: | Príčina:
+Add blank record?| Pridať práz.zázn?
+Audio Setting| Nastavenie zvuku
+Delete Item| Zmazať položku
+Services| Služby
+Server| Server
+Service Disabled| Server vypnutý
+Port| Port
+Path| Cesta
+Username| Meno užívateľa
+No. Rings| Počet zazvonení
+Use xx to view| xx na listovanie
+User Password| Heslo užívateľa
+Time and Date| Dátum a Čas
+Language| Jazyk
+Screen Language| Jazyk menu tel.
+Tones| Tóny
+Tone Set| Sada tónov
+Ring Tone| Vyzváňaci tón
+State| Stav
+State:| Stav:
+User-Busy| Užívateľ obsad.
+Unconditional| Nepodmienené
+Time of day| Hodina
+Deflection| Odklon
+Follow Me| Následuj ma
+Away| Mimo
+Busy| Obsadené
+Restart| Reštart
+All On| Všetky ZAP
+All Off| Všetky VYP
+AllAccts| VšetkyÚčty
+Conference| Konferencia
+Flash| Flash
+Dial| Číselnk
+Directory| Adresár
+Callers| Volania
+Icom| Interkom
+Icom| Interkom
+Dir| Adresár
+Xfer| Prepojiť
+Conf| Konfer.
+SIP Settings| Nastavenia SIP
+Proxy Port| Proxy port
+Registrar Port| Registr. port
+User Name| Užívateľské meno
+Screen Name| Meno na displeji
+Proxy Server| Proxy server
+Registrar Server| Registr. server
+Auth. Name| Autent. meno
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Zobrazov. meno
+RTP Port Base| Počiat. RTP Port
+Static NAT| Statický NAT
+NAT Settings| Nastavenia NAT
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP Port
+NAT RTP Port| NAT RTP Port
+NAT HTTPS Port| NAT HTTPS Port
+Phone Status| Stav telefónu
+Auto Discovery| AutoVyhľadávanie
+Trying...| Skúšam...
+Remote| Vzdial.
+Reset| Reset
+Choose Server| Vyberte server
+Select| Vybrať
+Select| Vybrať
+Ring Tone:| Vyzváňaci tón:
+Silent| Stlmené
+Network Settings| Nastavenia siete
+Clear| Zmazať
+Speaker | Reproduktor 
+Headset | Náhlavná súpr. 
+Speaker/Headset| Reprod./náhl.
+Headset/Speaker| Náhl./reprod.
+Audio Mode| Audio zariadenie
+Low| Nízke
+Medium| Stredne
+High| Hlasite
+OFF| VYP
+Off| VYP
+ON| ZAP
+DHCP Settings| Nastavenia DHCP
+DHCP User Class| Trieda uží. DHCP
+Hostname| Názov hostiteľa
+IP Address| IP adresa
+Subnet Mask| Maska siete
+Subnet Mask:| Maska siete:
+Gateway| Predvolená brána
+Primary DNS| Primárny DNS
+Secondary DNS| Záložný DNS
+TFTP Settings| Nastavenia TFTP
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| VLAN ID PC portu
+LAN Port VLAN| VLAN LAN Portu
+PC Port VLAN| VLAN PC Portu
+Priority| Priorita
+VLAN Enabled\nYes| VLAN povol.\nÁno
+VLAN Enabled\nNo| VLAN povol.\nNie
+PC Port Priority| Priorita PCportu
+LAN Port VLAN ID| LAN port VLAN ID
+UPnP| UPnP
+Use UPnP| Použiť UPnP
+Select Gateway| Vybrať bránu
+Portmap Started| Map. portov zač.
+Portmap Error| Chyba map. port.
+LLDP| LLDP
+LLDP packet interval| Pak.interv.LLDP
+LLDP Settings| Nastavenia LLDP
+Use LLDP ELIN| Použiť LLDP ELIN
+TypeService DSCP| Typ služby DSCP
+Type of Service DSCP| Typ služby DSCP
+VLAN Priority| Priorita VLAN
+Other Priority| Iná priorita
+SessionBorderCtl| SBC
+Session Border Ctrl| SBC
+Select SBC| Vybrať SBC
+SBC Settings| Nastavenia SBC
+Kagoor| Kagoor
+Update Interval (sec)| Čas obnovy (s)
+Backspace| Opraviť
+No| Nie
+Yes| Áno
+DHCP Download Options| Možnosti DHCP
+DHCP Download Option| Možnosti DHCP
+Firmware Version| Verzia firmvéru
+Restart Phone| Reštartovať tel.
+Show| Ukáž
+is OFF| je VYP
+Password| Heslo
+Restarting...| Reštartovanie...
+Speed| Rýchlosť
+Manual| Ručne
+Auto| Auto
+Auto| Auto
+Half| Polov.
+Full| Plná
+Duplex| Duplexná
+ ERROR: |  CHYBA:
+Invalid IP addr.| Neplatná IP adr.
+Invalid mask| Neplatná maska
+Range is 1-4094| Rozsah je 1-4094
+Range is 1-4095| Rozsah je 1-4095
+Range is 1-4095| Rozsah je 1-4095
+Range is 0-63| Rozsah je 0-63
+Range is 0-7| Rozsah je 0-7
+DND| Nerušiť
+DND On| Nerušit je ZAP.
+Time Server| Server NTP
+Set Time| Nast. čas
+Set Date| Nast. dátum
+Date Format| Formát dátumu
+Time Zone| Časová zóna
+Daylight Savings| Letný čas
+Invalid Time| Neplatný čas
+Invalid Date| Neplatný dátum
+Invalid IP| Neplatná IP adr.
+ Invalid Number| Neplatné číslo
+On| ZAP
+On| ZAP
+On| ZAP
+OFF| VYP
+Automatic| Automaticky
+Conf Hold| Konfer. pridrž.
+No Service| Žiadna služba
+Mute| Vypnut. mikr.
+Connected| Pripojené
+Drop| Zhodiť
+Park| Zaparkovať
+PickUp| Zodvihnúť
+Redial| Opak. voľbu
+DCP| Priame zodvihn.
+DCP List| Zozn.priam. zod.
+Cancel| Zrušiť
+Done| Hotovo
+Callers List| Zoznam hovorov
+No changes made| Bez zmien
+Key is Locked| Tlačidlo zamk.
+Cannot Save| Nemožno uložiť
+1 item| 1 položka
+ items|  položky
+No User| Žiadný užívateľ
+DHCP failed| DHCP zlyhalo
+Unknown Name| Neznáme Meno
+Unknown Number| Neznáme Číslo
+Unknown Line| Neznáma Linka
+Item is erased| Položka vymazaná
+Unknown| Neznáme
+NextSpace| Medzera
+Dot "."| Bodka "."
+Transfer Failed| Prenos zlyhal
+Call Forward| Presmerovanie
+Call Fwd| PRESM.
+All| Všetko
+All| Všetko
+Any| Vybrané
+NoAns| Ak neodpovedá
+BusyNoAns| Obsad.Neodp.
+Number:| Číslo:
+Mode:| Režim
+No. Rings:| Poč. zazv.:
+Line: | Linka:
+Contrast Level| Úroveň kontrastu
+ Message|  Správa
+ Messages|  Správy
+Loading Page...| Načítavam údaje
+Abort Loading...| Ruším načítanie
+Connect Timeout| Čas vypršal
+Data Timeout| Čas vypršal
+File Not Found| Súbor nenájdený
+Page Load Error| Chyba načítania
+Cannot display| Nemožno zobraziť
+Skip| Preskočiť
+Call Failed| Volanie zlyhalo
+Primary Server| Základný server
+Primary Server| Základný server
+Alternate Server| Náhradný server
+Primary| Základný
+Alternate| Náhradný
+Bad encrypted cfg| Chyba v šifr.Cfg
+Use TFTP| Použiť TFTP
+Use FTP| Použiť FTP
+Use HTTP| Použiť HTTP
+Use HTTPS| Použiť HTTPS
+FTP Settings| Nastavenia FTP
+FTP Server| FTP server
+FTP Path| FTP cesta
+FTP Username| FTP užív. meno
+FTP Password| FTP heslo
+HTTP Settings| Nastavenia HTTP
+HTTP Server| HTTP server
+HTTP Path| HTTP cesta
+HTTP Port| HTTP port
+HTTPS Settings| Nastavenia HTTPS
+Download Server| Sever na preber.
+Download Path| Cesta na preber.
+Download Port| Port na preber.
+HTTPS Server| HTTPS server
+HTTPS Path| HTTPS cesta
+HTTPS Port| HTTPS port
+HTTPS Client| HTTPS klient
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Neplatný certif.
+Certificates| Certifikáty
+Cert Validation| Overenie certif.
+All defaults| Všet. predvolené
+Config default| Vých. nastavenia
+AM| dop
+PM| pop
+Factory Default| Nast. od výroby
+Factory Default?| Nast. od výroby?
+Erase Local Cfg.| Zmazať nast. tel
+New IP Obtained| Obdržaná nová IP
+New NAT IP| Nová IP NAT
+Server IP Change| Zmena IP servera
+AastraLink Menu| AastraLink menu
+Server Options| Možnosti servera
+AastraLink Info| AastraLink Info
+Server Remote IP| IP vzdial. serv.
+Server Local IP| IP mies. servera
+Preferences| Predvoľy
+Network Status| Stav siete
+MAC Address:| MAC adresa:
+MAC Address| MAC adresa
+BT MAC Address:| MAC adresa BT:
+Invalid Key| Neplatné tlačid.
+Speed Dial Edit:| Rýchla voľba:
+Press SD button| Stlačte tl. RV
+From: | Od:
+To: | Komu:
+Via: | Cez:
+Diverted: | Odklonené:
+Log Off| Odhlásiť
+Customer Support| Zákaznicka podpora
+Status| Stav
+Operation| Prevádzka
+Basic Settings| Základné nastavenia
+Advanced Settings| Pokročilé nastavenia
+System Information| Informácie o systéme
+Down| Neaktívne
+Up| Aktívne
+n/a| neznáme
+10Mbps| 10 Mbps
+100Mbps| 100 Mbps
+1000Mbps| 1000 Mbps
+Attribute| Parameter
+Link State| Stav linky
+Negotiation| Negociácia
+Hardware Information| Informácie o hardvéri
+Firmware Information| Inform. o firmvéri
+Firmware Release Code| Kód verzie firmvéru
+Value| Hodnota
+Platform| Platforma
+Boot Version| Boot verzia
+Date/Time| Dátum/Čas
+DND Key Mode| Režim tlač. Nerušiť
+Call Forward Key Mode| Režim tlač. Presmerovanie
+Option 160| Voľba 160
+Option 159| Voľba 159
+Option 66| Voľba 66
+Option 43| Voľba 43
+Account| Účet
+Both| Oboje
+Line| Linka
+Line 1| Linka 1
+Line 2| Linka 2
+Line 3| Linka 3
+Line 4| Linka 4
+Line 5| Linka 5
+Line 6| Linka 6
+Line 7| Linka 7
+Line 8| Linka 8
+Line 9| Linka 9
+Line 10| Linka 10
+Configuration Line %d| Konfigurácia linky %d
+Basic SIP Authentication Settings| Základne nastavenia overovania SIP
+Screen Name| Meno na displeji
+Screen Name 2| Meno na displeji 2
+Phone Number:| Telefónne číslo:
+Phone Number| Telefónne číslo
+Caller ID| ID volajúceho
+Authentication Name| Overovacie meno
+Password| Heslo
+BLA Number| Číslo BLA
+Line Mode| Režim linky
+Generic| Generic
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Základne nastavenia SIP
+Outbound Proxy Server| Outbound proxy server
+Outbound Proxy Port| Outbound proxy port
+Registration Period| Čas preregistrácie
+RTP Settings| Nastavenia RTP
+Autodial Settings| Nastavenia automatickej voľby
+Autodial Number| Číslo automatickej voľby
+Autodial Timeout| Trvanie automatickej voľby
+Use Global Settings| Použiť globálne nastavenia
+DTMF Method| Metóda DTMF
+SIP INFO| SIP info
+BOTH| BOTH
+Save Settings| Uložiť Nastavenia
+Global SIP| Globálne SIP
+Global SIP Settings| Globálne nastavenia SIP
+RTP Encryption| RTP šifrovanie
+SRTP Disabled| SRTP Zakázané
+SRTP Preferred| SRTP Preferované
+SRTP Only| Iba SRTP
+Advanced SIP Settings| Pokročilé nastavenia SIP
+Explicit MWI Subscription| Prihlásenie k MWI
+Explicit MWI Subscription Period| Perióda prihlásenia k MWI
+MWI for BLA account| MWI podľa BLA účtu
+Enabled| Povolené
+Send MAC Address in REGISTER Message| Posielať MAC adresu v správe REGISTER
+Send Line Number in REGISTER Message| Posielať číslo linky v správe REGISTER
+Session Timer| Časovač relácie
+T1 Timer| Časovač T1
+T2 Timer| Časovač T2
+Transaction Timer| Časovač tranzakcie
+Transport Protocol| Transportný protokol
+UDP and TCP| UDP a TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| TLS trvalo
+Registration Failed Retry Timer| Časovač opätovnej registrácie po chybe
+Registration Timeout Retry Timer| Časovač opätovnej registrácie po limite
+Registration Renewal Timer| Časovač obnovy registrácie
+BLF Subscription Period| Perióda prihlásenia k BLF
+ACD Subscription Period| Perióda prihlásenia k ACD
+BLA Subscription Period| Perióda prihlásenia k BLA
+Blacklist Duration| Platnosť čiernej listiny
+ Park Pickup Config| Nastavenie prevz. zapark. hovoru
+RTP Port| RTP port
+Basic Codecs| Základne kodeky
+Force RFC2833 Out-of-Band DTMF| Vynútiť RFC2833 Out-of-Band DTMF
+Codec Preference List| Zoznam kodekov
+Silence Suppression| Potlačenie ticha
+Provisioning complete.| Nastavovanie ukončené.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Aby sa zmeny prejavili je potrebné reštartovať telefón.
+ERROR: Maximum number of connections reached.| CHYBA: Bol dosiahnutý maximálny počet spojení.
+Logout Complete| Odhlásenie dokončené
+Your session has ended.  Please close the browser.| Vaša relácia bola ukončená. Prosím zatvorte prehliadač.
+Session Expired| Relácia skončila
+Please close the browser or use the link below to log in again.| Prosím zavrite prehliadač, alebo použite odkaz dole na nové prihlásenie.
+Log In| Prihl.
+Log Out| Odhl.
+Log Out| Odhl.
+Avail| Dostup.
+Avail| Dostup.
+Unavail| Nedost.
+Unavail| Nedost.
+Reset User Password| Vynulovanie hesla užívateľa
+Please enter the current and new passwords| Zadajte súčasné a nové heslo
+Current Password| Aktuálne heslo
+New Password| Nové heslo
+Password Confirm| Potvrdenie hesla
+Please Enter| Prosím zadajte
+Submit| Potvrd.
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Autorizácia...
+Authorization Failed| Autorizácia neúspešná
+Auth Failed| Chyba autorizác.
+Current password is incorrect.| Aktuálne heslo nesúhlasí.
+Please try again.| Prosim opakujte.
+The new password fields do not match.| Zadané heslo v poliach nesúhlasí.
+The new password can not be saved.| Nové heslo nie je možné uložit.
+The user password has been changed.| Užívateľské heslo úspešne zmenené.
+Task and Stack Info| Informácie o úlohach a pamäti
+Back| Späť
+Files Available for Download| Súbory dostupné na prevzatie
+Custom| Vlastné
+Save As...| Uložiť ako...
+Directory List| Adresár
+Current Settings| Aktuálne nastavenia
+Restore To Factory Defaults| Obnoviť výrobné nastavenia
+Restore| Obnoviť
+Remove Local Configuration Settings| Zmazať nastavenia telefónu
+Remove| Zmazať
+Restarting the hardware...| Reštartovanie telefónu
+Please return to the main page after your phone restarts.| Vráťte se na main page po reštarte Vášho telefónu.
+User not authorized to make changes.| Uživateľ nemá oprávnenie na zmeny.
+Local configuration file has been deleted.| Súbor lokálneho nastavenia telefónu bol vymazaný
+Please restart the phone for the settings to take effect.| Prosím, reštartujte telefón aby sa prejavili zmeny.
+Phone has been set to factory Defaults.| Telefóna bol nastavený na hodnoty od výroby.
+Action URI| Akcie URI
+Action URI Configuration| Nastavenie akcií URI
+Event| Udalosť
+StartUp| Štart
+Successful Registration| Úspešná registrácia
+Registration Event| Registrácia
+Incoming Call| Prích. hovor
+Outgoing Call| Odch. hovor
+Offhook| Vyvesiť
+Onhook| Zavesiť
+Disconnected| Odpojené
+Poll| Dotaz
+Interval| Interval
+Settings saved.| Nastavenia uložené.
+Settings could not be saved.| Nastavenia nie je možné uložiť.
+Firmware Update| Aktualizácia firmvéru
+TLS Support| Podpora TLS
+Manual Firmware Update| Manálna aktualiz. Firmvéru
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Zadajte IP adresu servera a názov firmvéru, ktorý má byť použitý na aktualizáciu.
+Configuration Server| Konfiguračný server
+Configuration Server Settings| Nastavenia konfiguračného servera
+Server IP| IP adresa servera
+File Name| Názov súboru
+Configure File Names| Konfig. mien súborov
+Root and Intermediate Certificates Filename| Názov súboru hlavného a dočasného certifikátu
+Local Certificate Filename| Názov súboru miestného certifikátu
+Private Key Filename| Názov súboru privátneho kľúča
+Trusted Certificates Filename| Názov súboru certifikátu pravosti
+Download Firmware| Aktualizovať firmvér
+Firmware upgrade in progress.  Please wait.| Aktualizácia firmvéru. Prosím čakajte.
+Please enter a valid filename and TFTP server IP address.| Prosím zadajte platný názov súboru a IP adresu TFTP servera.
+Invalid TFTP server IP address| Neplatná IP adresa TFTP servera
+Invalid download settings.| Nesprávné nastavenia na preberanie.
+Unable to upgrade firmware.| Frimvér nemožno aktualizovať.
+The phone is restarting...| Telefón sa reštartuje...
+Firmware upgrade successful.| Aktualizácia firmvéru prebehla úspešne.
+This firmware already exists on the phone.| Tento firmvér telefón už obsahuje.
+No upgrade is needed.| Zmena firmvéru nie je potrebná.
+Troubleshooting| Riešenie problémov
+Module| Modul
+Log Settings| Nastavenia výpisov
+Log IP| IP adresa pre výpisy
+Log Port| Port pro výpisy
+Debug Level| Debug level
+Support Information| Informácie o podpore
+Get local.cfg| Získať local.cfg
+Get server.cfg| Získať server.cfg
+Show Task and Stack Status| Zobraziť stav úloh a pamäte
+Settings| Nastavenia
+Download Protocol| Protokol preberania
+Auto-Resync| Autom. opakovaná synchronizace
+Days| Dni
+Maximum Delay| Maximálne oneskorenie
+Mode| Režim
+Configuration Files| Konfiguračné súbory
+Time (24-hour)| Čas (24 hodín)
+XML Push Server List(Approved IP Addresses)| Zoznam XML Push serverov (schválené IP adresy)
+Phone-side Call Forward Settings| Nastavenia presmerovaní hovorov telefónu
+Global Settings| Všeobecne nastavenia
+No Answer| Ak neodpovedá
+Number| Číslo
+Number of Rings| Počet zvonení
+Local Line| Miestna linka
+Forward Number| Cieľ presmerovania
+Global| Všeobecný
+Enable| Povoliť
+Network| Sieť
+Must provision a valid default gateway IP if DHCP is enabled| Musíte zadať platnú IP adresu predvolenej brány v prípade, že máte zvolené DHCP
+Invalid IP Address| Neplatná IP adresa
+Invalid IP address| Neplatná IP adresa
+Invalid IP addr.| Neplatná IP adr.
+Invalid gateway address| Neplatná adresa brány
+Invalid subnet mask| Neplatná maska siete
+Invalid primary DNS address| Neplatná adresa primárneho DNS servera
+Invalid secondary DNS address| Neplatná adresa záložného DNS servera
+Basic Network Settings| Základné nastavenia siete
+Advanced Network Settings| Pokročilé nastavenia siete
+DHCP| DHCP
+NAT Port| NAT port
+Nortel NAT Traversal Enabled| Nortel NAT Traversal
+Nortel NAT Timer (seconds)| Časovač Nortel NAT (s)
+NTP Time Servers| Servery času NTP
+Time Server 1| Server času 1
+Time Server 2| Server času 2
+Time Server 3| Server času 3
+SIP| SIP
+VLAN Enable| Povoliť VLAN
+Non-IP Packet| nie-IP paket
+SIP Priority| Priorita SIP
+RTP Priority| Priorita RTP
+RTCP Priority| Priorita RTCP
+Preferences| Predvoľy
+General| Všeobecné
+Idle Display Name 1| Zobrazované meno 1
+Idle Display Name 2| Zobrazované meno 2
+Local Dial Plan| Miestný číslovací plán
+Send Dial Plan Terminator| Posielať ukončenie číslovacieho plánu
+Digit Timeout (seconds)| Doba voľby (s)
+Park Call:| Parkovanie hovoru:
+Pick Up Parked Call:| Vyzdvihnúť zaparkovaný hovor:
+Suppress DTMF Playback| Potlačenie prehrávania DTMF
+Display DTMF Digits| Zobrazenie DTMF znakov
+Call Waiting| Čakanie na hovor
+Call Waiting| Čakanie na hovor
+Play Call Waiting Tone| Prehrávať tón v čakaní
+Stuttered Dial Tone| Prerušovaný oznamovací tón
+Incoming Call Interrupts Dialing| Príchodzí hovor preruší vytáčanie
+Switch UI Focus To Ringing Line| Prepnúť UI na zvoniacu linku
+Outgoing Intercom Settings| Nastavenia odchádzajúceho interkomu
+Type| Typ
+Phone-Side| Strana telefónu
+Server-Side| Strana servera
+Prefix Code| Prefix
+Incoming Intercom Settings| Nastavenia príchodzieho interkomu
+Microphone Mute| Vypnutie mikrofónu
+Play Warning Tone| Prehrávať tón upozornenia
+Allow Barge In| Povolť napojenie do hovoru
+Auto-Answer| Automatická odpoveď
+Key Mapping| Mapovanie tlačidiel
+Map Redial Key To| Namapovať tl. opak. voľby na
+Map Conf Key To| Namapovať tlač. konf. na
+Ring Tones| Vyzváňacie tóny
+Brazil| Brazília
+France| Francúzsko
+Germany| Nemecko
+Italy| Taliansko
+Italy2| Taliansko2
+Mexico| Mexiko
+Russia| Rusko
+UK| Veľká Británia
+US| USA
+Global Ring Tone| Všeobecný vyzváňací tón
+Tone 1| Tón 1
+Tone 2| Tón 2
+Tone 3| Tón 3
+Tone 4| Tón 4
+Tone 5| Tón 5
+Tone 6| Tón 6
+Tone 7| Tón 7
+Tone 8| Tón 8
+Tone 9| Tón 9
+Tone 10| Tón 10
+Tone 11| Tón 11
+Tone 12| Tón 12
+Tone 13| Tón 13
+Tone 14| Tón 14
+Tone 15| Tón 15
+Priority Alerting Settings| Nastavenia prioritného vyzváňania
+Enable Priority Alerting| Povoliť prioritné vyzváňanie
+Group| Skupina
+External| Externé
+Internal| Interné
+Emergency| Núdzové
+Auto call distribution| Automatická distribúcia hovorov
+Auto Call Distribution Settings| Nastavenia automatickej distribúcie hovorov
+ACD| ACD
+Community 1| Skupina 1
+Community 2| Skupina 2
+Community 3| Skupina 3
+Community 4| Skupina 4
+Normal ringing| Normálne vyzváňanie
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Nastavenia priameho vyzdvihnutia
+Directed Call Pickup| Priame vyzdvihnutie
+Directed Call Pickup by Prefix| Priame vyzdvihnutie podľa prefixu
+Play a Ring Splash| Prehrať Ring Splash
+Auto Available| Dostupné automaticky
+Auto Available Timer| Časovač automatickej dostupnosti
+Time and Date Setting| Nastavenia dátumu a času
+Time Format| Formát času
+Date Format| Formát dátumu
+Programmable Keys| Programovateľné tlačidlá
+Programmable Keys Configuration| Nastavenie programovateľných tlačidiel
+Hard Key| Hardvérové tlačidlo
+Key| Tlačidlo
+BLF List URI:| URI BLF zoznamu:
+Speeddial/Xfer| Rýchla voľba/Prepojenie
+Do Not Disturb| Nerušiť
+BLF| BLF
+BLF/Xfer| BLF/Prepojenie
+BLF/List| BLF/Zoznam
+XML| XML
+WebApps| Web aplik.
+Flash| Flash
+Last Call Return| Návrat k poslednému volaniu
+Sprecode| Sprecode
+Transfer| Prepojenie
+Conference| Konferencia
+Save| Uložiť
+Delete| Zmazať
+Data has been transmitted to the phone successfully.| Údaje boli úspešne odoslané do telefónu
+Data cannot be posted to the phone.| Údaje nie je možné do telefónu odoslať
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Prosím zabezpečte  veľkosť údajov maximálne 512 bytov a telefón nastavte na príjmanie od hostiteľa.
+Expansion Modules| Prídavné moduly
+Expansion Module 1| Prídavný modul 1
+Expansion Module 2| Prídavný modul 2
+Expansion Module 3| Prídavný modul 3
+Page 1| Strana 1
+Page 2| Strana 2
+Page 3| Strana 3
+List 1| Zoznam 1
+List 2| Zoznam 2
+List 3| Zoznam 3
+List 4| Zoznam 4
+List 5| Zoznam 5
+List 6| Zoznam 6
+Incompatible with phone model| Nekompatibilné s týmto typom telefónu
+Backup Proxy Server| Záložný proxy server
+Backup Proxy Port| Záložný proxy port
+Backup Registrar Server| Záložný registračný server
+Backup Registrar Port| Záložný registračný port
+Phone is locked| Telefón zamknutý
+Phone Lock| Zamknúť telefón
+Lock the phone?| Zamknúť telefón?
+Phone is unlocked| Telefón odomknutý
+Password:| Heslo:
+Emergency Dial Plan| Núdzový číslovací plán
+Account Configuration| Nastavenie účtu
+Lock| Zamknúť
+Unlock| Odomknúť
+Unlock the phone?| Odomknúť telefón?
+Lock or unlock the phone| Zamknutie alebo odomknutie telefónu
+HTTPS Client Method| Metóda klienta HTTPS
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS server - přesměrování HTTP na HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS server - blokovanie XML HTTP POST-ov
+Validate Certificates| Overiť certifikáty
+Check Certificate Expiration| Overiť dobu expirácie certifikátu
+Check Certificate Hostnames| Overiť meno hostiteľa certifikátu
+Language Settings| Jazykové nastavenia
+Webpage Language| Jazyk webového rozhrania
+Input Language| Jazyk klávesnice
+Input Language| Jazyk klávesnice
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| Máj
+Jun| Jún
+Jul| Júl
+Aug| Aug
+Sep| Sep
+Oct| Okt
+Nov| Nov
+Dec| Dec
+Sun| Ne
+Mon| Po
+Tue| Ut
+Wed| Str
+Thu| Štv
+Fri| Pia
+Sat| So
+New Password Invalid.| Nové heslo je neplatné.
+New password must be 10 characters or less.| Nové heslo môže mať maximálne 10 znakov.
+New password must be numeric.| Nové heslo môže obsahovať len číslice.
+New password and confirm password do not match.| Nové heslo a jeho potvrdenie nesúhlasia.
+Error| Chyba
+Are you sure you want to restart the phone?| Naozaj si prajete telefón reštartovať?
+This will restore the phone to default settings and cannot be undone.| Táto voľba vykoná továrenské nastavenia telefónu a je nevratná.
+This will remove the local configuration settings and cannot be undone.| Táto voľba vymaže nastavenia telefónu a je nevratná.
+Continue| Pokračovať
+Error: Intercom Settings| Chyba: Nastavenia interkomu
+Please enter a prefix code for server-side intercom.| Prosím zadajte prefix pre intercom na strane servera.
+Value must be between| Hodnota musí byť medzi
+and| a
+Invalid Setting:| Neplatné nastavenie:
+Please select at least one state for softkey| Zvoľte aspoň jeden stav pre soft tlačidlo
+DSCP value| Hodnota DSCP
+is mapped to multiple priorities.| je mapovaná na viacero priorít.
+Please enter Admin name and password| Prosím zadajte administrátorské meno a heslo
+Please enter User name and password| Prosím zadajte užívateľké meno a heslo
+Centralized Conference| Centralizovaná konferencia
+Conference Server URI| URI konferenčného servera
+UPnP device not found| Zariadenie UPnP nenájdené
+Ethernet| Ethernet
+Ethernet Link| Ethernet Link
+Ethernet & VLAN| Ethernet a VLAN
+Link| Link
+10M| 10M
+100M| 100M
+Unavailable| Nedostupný
+Available| Dostupný
+Server Info| Server info
+Unique ID:| Unikátne ID:
+UPnP Mapping Lines| Mapovanie liniek UPnP
+Port Failed| Chybný port
+Trying...| Skúšam...
+Seize Failed| Uchop. zlyh.
+Missed Call Summary Subscription| Prihlásenie k výpisu zmeškaných hovorov
+Missed Call Summary Subscription Period| Perióda prihlásenia k výpisu zmeškaných hovorov
+AS-Feature-Event Subscription| Prihlásenie k AS-Feature-Event
+AS-Feature-Event Subscription Period| Perióda prihlasovania k AS-Feature-Event
+Goodbye Key Cancels Incoming Call| Tlačidlo s červeným slúchadlom odmieta prichádzajúce hovory
+Address Incomplete| Adresa je neúplná
+Admin Menu| Admin menu
+IP&MAC Addresses| IP a MAC adresy
+LAN Port| LAN port
+PC Port| PC port
+Set Audio| Nastavenie audio
+Config. Server| Konfig. server
+IP Address:| IP adresa:
+Error Messages| Chybové hlásenia
+No Error Messages| Bez chybových hlásení
+ Errors| Chyby
+ Error| Chyba
+Disabled| Zakázané
+LAN Port Link| Nast. LAN portu
+PC Port Link| Nast. PC portu
+RTP| RTP
+RTCP| RTCP
+Phone| Telefón
+Headset Mic Vol| Hlasitosť náhl.
+TypeService SIP| Typ služby SIP
+TypeService RTP| Typ služby RTP
+TypeService RTCP| Typ služby RTCP
+Authentic. Name| Overovacie meno
+XML Beep Support| Podpora XML Beep
+Status Scroll Delay (seconds)| Oneskorenie rolovania (s)
+Backlight| Podsvietenie
+Backlight| Podsvietenie
+Display| Displej
+Speed Dial Edit| Rýchla voľba
+second| sekunda
+seconds| sekúnd
+Label| Popis
+Message Waiting Indicator Line| Linka indikácie čakajúcich správ
+Keypad Speed Dial| Tlačdlá rýchlej voľby
+Digit| Číslica
+Whitelist Proxy| Proxy bielej listiny
+XML SIP Notify| XML SIP upozornenie
+Custom Feature| Užív. vlastnosť
+User ID:| ID užív.:
+Local SIP UDP/TCP Port| Lokálny port SIP UDP/TCP
+Local SIP TLS Port| Lokálny port SIP TLS
+802.1x Support| Podpora 802.1x
+EAP Type| Typ EAP
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identita
+MD5 Password| Heslo MD5
+PC Port PassThru Enable/Disable| Priechodný PC port Povoliť/Zakázať
+EAP-TLS Settings| Nastav. EAP-TLS
+EAP-MD5 Settings| Nastav. EAP-MD5
+Enable PassThru Port| Povoliť priech. port
+PC Port Enabled\nYes| PCport pov.\nÁno
+PC Port Disabled\nNo| PCport zak.n\nNie
+802.1x Settings| Nastav. 802.1x
+802.1x Mode| Režim 802.1x
+EAP-MD5 Settings| Nastav. EAP-MD5
+EAP-TLS Settings| Nastav. EAP-TLS
+STUN Server| STUN server
+STUN Port| STUN port
+TURN Server| TURN server
+TURN Port| TURN port
+TURN User ID| TURN User ID
+TURN Password| Heslo TURN
+Paging| Paging
+Streaming| Streaming
+Group Paging RTP Settings| Nastavenia RTP skupiny pagingu
+Paging Listen Addresses| Sledovacia adresy pagingu
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP účet
+Backup Registrar Used?| Použiť záložny registračný server?
+Unregistered| Nezaregistrované
+Registered| Zaregistrované
+SIP Status| Stav SIP
+Server Error| Chyba servera
+Swap| Výmena
+LLDP\nEnabled| LLDP\nPovolené
+LLDP\nDisabled| LLDP\nZakázané
+LLDP Support| Podpora LLDP
+Preferred line| Preferovaná linka
+Preferred line Timeout (seconds)| Časový limit preferovanej linky (s)
+Invalid URI| Chybné URI
+WebApps| Web aplik.
+Watchdog| Strážca
+Speeddial/Conf| Rýchl.voľba/Konf
+Call is on Hold| Hovor pridržaný
+No subscription| Bez prihlásenia
+MDot1xFailedStartup| Zlyhalo spustenie 802.1x
+802.1x Startup Failed| Zlyhalo spustenie 802.1x
+LLDP Startup Failed| Zlyhalo spustenie LLDP
+Failed to config Line Manager| Chyba pri konfigurácii Line Managera
+Line in use| Linka sa používa
+Get Crash Log| Získať Crash Log
+Time Unavailable| Čas nedostupný
+Packetization Interval| Paketizačný interval
+Basic| Základné
+Note: Basic Codecs Include| Pozn: Obsahuje základné kodeky
+Default| Predvolené
+Not Configured| Nenastav.
+America| Amerika
+Asia| Ázia
+Atlantic| Atlantik
+Pacific| Pacifik
+Australia| Austrália
+Europe| Európa
+Malaysia| Malajzia
+Invalid Setting| Chybné nastavenie
+Must not be empty| Nesmie byť prázdne
+Must be a valid number| Musí byť číslo
+Must be a nonzero number| Musí byť nenulové číslo
+Not in range| Mimo rozsah
+Invalid Hostname| Neplatné menoHost
+802.1x Failed| Zlyhanie 802.1x
+Admin Password:| Admin. Heslo:
+Voicemail| Hlasová pošta
+Voicemail| Hlasová pošta
+HTTPS Failed| Zlyhanie HTTPS
+LLDP Failed| Zlyhanie LLDP
+TR69 connect Err| Chyba spoj. TR69
+Downloading Language Packs| Načítanie jazykových balíkov
+Please Wait...| Prosím čakajte..
+to edit| upraviť
+Cfg Svr Failure| Zlyhanie cfg svr
+Lines| Linky
+LDAP Directory| Adresár LDAP
+Ldap Directory| Adresár Ldap
+Item| Položka
+item| položka
+Certificate Revoked| Odňatý certifikát
+Certificate Unknown| Certifikát neznámy
+Delete entire| Vymazať celé
+LDAP Search Filter| 
+Ldap Search Filter| 
+LDAP Server| LDAP server
+Ldap Server| Ldap server
+Certificate Expired| Expirovaný certifikát
+Unsupported Certificate| Nepodporoaný certifikát
+No Certificate| Žiaden certifikát
+Options List| Zoznam voľieb
+Directory?| Adresár?
+Work| Práca
+No available lines| Žiadna linka dostupná
+Search| Vyhľadať
+Ldap Base DN| LDAP Base DN
+items| položky
+Spddial| R.voľba
+Ldap Number Attributes| 
+Ldap Max Hits| 
+Ldap Settings| Nastavenia Ldap
+Ldap Name Attributes| Atrib. Meno Ldap
+Timezone zoneAmerica| 
+AG-Antigua| AG – Antigua
+AI-Anguilla| AI – Anguilla
+AN-Curacao| AN – Curaçao
+AR-Buenos Aires| AR – Buenos Aires
+AR-San Luis| AR – San Luis
+AW-Aruba| AW – Aruba
+BB-Barbados| BB – Barbados
+BO-La Paz| BO – La Paz
+BR-Araguaina| BR – Araguaína
+BR-Belem| BR – Belém
+BR-Boa Vista| BR – Boa Vista
+BR-Cuiaba| BR – Cuiabá
+BR-Eirunepe| BR – Eirunepé
+BR-Fortaleza| BR – Fortaleza
+BR-Maceio| BR – Maceió
+BR-Manaus| BR – Manaus
+BR-Noronha| BR – Fernando de Noronha
+BR-Porto Velho| BR – Porto Velho
+BR-Recife| BR – Recife
+BR-Rio Branco| BR – Rio Branco
+BR-Sao Paulo| BR – São Paulo
+BS-Nassau| BS – Nassau
+BZ-Belize| BZ – Belize
+CA-Atlantic| CA – Atlantická oblasť
+CA-Central| CA – Centrálna oblasť
+CA-Eastern| CA – Východná oblasť
+CA-Mountain| CA – Horská oblasť
+CA-Newfoundland| CA – Newfoundland
+CA-Pacific| CA – Pacifická oblasť
+CA-Saskatchewan| CA – Saskatchewan
+CA-Yukon| CA – Yukon
+CL-Easter| CL – Východná oblasť
+CL-Santiago| CL – Santiago
+CO-Bogota| CO – Bogota
+CR-Costa Rica| CR – Kostarika
+CU-Havana| CU – Havana
+DM-Dominica| DM – Dominika
+DO-Santo Domingo| DO – Santo Domingo
+GD-Grenada| GD – Grenada
+GF-Cayenne| GF – Cayenne
+GP-Guadeloupe| GP – Guadeloupe
+GT-Guatemala| GT – Guatemala
+GY-Guyana| GY – Guyana
+HN-Tegucigalpa| HN – Tegucigalpa
+HT-Port-au-Prince| HT – Port-au-Prince
+JM-Jamaica| JM – Jamajka
+KY-Cayman| KY – Kajmanie ostrovy
+LC-St Lucia| LC – Svätá Lucia
+MQ-Martinique| MQ – Martinik
+MS-Montserrat| MS – Montserrat
+MX-Cancun| MX – Cancún
+MX-Chihuahua| MX – Chihuahua
+MX-Hermosillo| MX – Hermosillo
+MX-Mazatlan| MX – Mazatlan
+MX-Merida| MX – Merida
+MX-Mexico City| MX – Mexiko
+MX-Monterrey| MX – Monterrey
+MX-Tijuana| MX – Tijuana
+NI-Managua| NI – Managua
+PA-Panama| PA – Panama
+PE-Lima| PE – Lima
+PR-Puerto Rico| PR – Portoriko
+PY-Asuncion| PY – Asunción
+SR-Paramaribo| SR – Paramaribo
+SV-El Salvador| SV – Salvádor
+TT-Port of Spain| TT – Port of Spain
+US-Alaska| US – Aljaška
+US-Aleutian| US – Aleuty
+US-Central| US – Centrálna oblasť
+US-Eastern| US – Východná oblasť
+US-Hawaii| US – Havaj
+US-Mountain| US – Horská oblasť
+US-Pacific| US – Pacifická oblasť
+UY-Montevideo| UY – Montevideo
+VE-Caracas| VE – Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE – Dubaj
+AZ-Baku| AZ – Baku
+CN-Beijing| CN – Peking
+CY-Nicosia| CY – Nikózia
+GE-Tbilisi| GE – Tbilisi
+HK-Hong Kong| HK – Hongkong
+JP-Tokyo| JP – Tokio
+MU-Mauritius| MU – Maurícius
+OM-Muscat| OM – Maskat
+RU-Anadyr| RU – Anadyr
+RU-Irkutsk| RU – Irkutsk
+RU-Kamchatka| RU – Kamčatka
+RU-Krasnoyarsk| RU – Krasnojarsk
+RU-Magadan| RU – Magadan
+RU-Novosibirsk| RU – Novosibirsk
+RU-Omsk| RU – Omsk
+RU-Sakhalin| RU – Sachalin
+RU-Vladivostok| RU – Vladivostok
+RU-Yakutsk| RU – Jakutsk
+RU-Yekaterinburg| RU – Jekaterinburg
+SA-Saudi Arabia| SA – Saudská Arábia
+SG-Singapore| SG – Singapur
+TW-Taipei| TW – Tchaj-pej
+Timezone zoneAtlantic| 
+BM-Bermuda| BM – Bermudy
+ES-Canary| ES – Kanárske ostrovy
+FK-Stanley| FK – Stanley
+FO-Faeroe| FO – Faerské ostrovy
+GS-South Georgia| GS – Južná Georgia
+IS-Reykjavik| IS – Reykjavík
+PT-Azores| PT – Azory
+PT-Madeira| PT – Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU – Adelaide
+AU-Brisbane| AU – Brisbane
+AU-Broken Hill| AU – Broken Hill
+AU-Darwin| AU – Darwin
+AU-Lindeman| AU – Lindeman
+AU-Lord Howe| AU – Lord Howe Island
+AU-Melbourne| AU – Melbourne
+AU-Perth| AU – Perth
+AU-Sydney| AU – Sydney
+AU-Tasmania| AU – Tasmánia
+Timezone zoneEurope| 
+AD-Andorra| AD – Andorra
+AL-Tirane| AL – Tirana
+AT-Vienna| AT – Viedeň
+BA-Sarajevo| BA – Sarajevo
+BE-Brussels| BE – Brusel
+BG-Sofia| BG – Sofia
+BY-Minsk| BY – Minsk
+CH-Zurich| CH – Zürich
+CZ-Prague| CZ – Praha
+DE-Berlin| DE – Berlín
+DK-Copenhagen| DK – Kodaň
+EE-Tallinn| EE – Tallinn
+ES-Madrid| ES – Madrid
+FI-Helsinki| FI – Helsinki
+FR-Paris| FR – Paríž
+GB-Belfast| GB – Belfast
+GB-London| GB – Londýn
+GI-Gibraltar| GI – Gibraltár
+GR-Athens| GR – Atény
+HR-Zagreb| HR – Záhreb
+HU-Budapest| HU – Budapešť
+IE-Dublin| IE – Dublin
+IT-Rome| IT – Rím
+LI-Vaduz| LI – Vaduz
+LT-Vilnius| LT – Vilnius
+LU-Luxembourg| LU – Luxemburg
+LV-Riga| LV – Riga
+MC-Monaco| MC – Monako
+MD-Chisinau| MD – Kišiňov
+MK-Skopje| MK – Skopje
+MT-Malta| MT – Malta
+NL-Amsterdam| NL – Amsterdam
+NO-Oslo| NO – Oslo
+PL-Warsaw| PL – Varšava
+PT-Lisbon| PT – Lisabon
+RO-Bucharest| RO – Bukurešť
+RU-Kaliningrad| RU – Kaliningrad
+RU-Moscow| RU – Moskva
+RU-Samara| RU – Samara
+SE-Stockholm| SE – Štokholm
+SI-Ljubljana| SI – Ľubľana
+SK-Bratislava| SK – Bratislava
+SM-San Marino| SM – San Maríno
+TR-Istanbul| TR – Istanbul
+UA-Kiev| UA – Kyjev
+VA-Vatican| VA – Vatikán
+YU-Belgrade| YU – Belehrad
+Timezone zonePacific| 
+AS-Pago Pago| AS – Pago Pago
+CK-Rarotonga| CK – Rarotonga
+FJ-Fiji| FJ – Fidži
+GU-Guam| GU – Guam
+NR-Nauru| NR – Nauru
+NU-Niue| NU – Niue
+NZ-Auckland| NZ – Auckland
+NZ-Chatham| NZ – Chatham
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Aktív. Klávesnica
+1h    summertime| Letný čas +1 h
+Link Down| Linka vypnutá
+Slovakia| Slovensko
+Cfg. Svr.| Konf.Serv.
+Custom| Vlastné
+HPQ Enable| Povoliť HPQ
+Checking For Firmware| Kontrola firmvéru
+Firmware Check| Kontrola firmvéru
+Speeddial/MWI| Rýchla voľba/MWI
+Handset| Slúchadlo
+WBand RX Filters| 
+HS Setting1| Nastav. Slúch1
+HS Setting2| Nastav. Slúch2
+HS Setting3| Nastav. Slúch3
+HS Setting4| Nastav. Slúch4
+Spkr Setting1| Nastav. Reprod1
+Spkr Setting2| Nastav. Reprod2
+Spkr Setting3| Nastav. Reprod3
+Spkr Setting4| Nastav. Reprod4
+Hold Failed| Podržať zlyhalo
+Can not save record without number| 
+Feature Name| Názov funkcie
+Source| Zdroj
+License File| Licenčný súbor
+SW Version Restrictions| Obmedzenia softvérovej verzie
+Unlimited| Neobmedzené
+Expiration| Doba exspirácie
+Upgrade| Aktualizovať
+License Server| Licenčný server
+License Info| O licencii
+License PBX| PBX licencii
+Voice Recording| Glasovnim posnetkom
+BLF List Subscription Period| Perióda prihlásenia k BLF Zoznam
+Conf Failed| Konf. zlyhalo
+Push| Push
+Forward Filtering| Filtrovanie presmerovania
+OUT| ODCHÁDZAJÚCE
+Opt Status| Opt stav
+Filter| Filter
+Filtering| Filtrovanie
+Executives| Vedúci pracovníci
+IN| PRICHÁDZAJÚCE
+Divert| Odkloniť
+Divert to Number| Odkloniť na číslo
+ Enter Unlock Password| Zadajte heslo na odomknutie
+ Enter Administrator Password| Zadajte admin. heslo
+Today| Dnes
+Yesterday| Včera
+Two Days Ago| Pred dvomi dňami
+Three Days Ago| Pred tromi dňami
+Four Days Ago| Pred štyrmi dňami
+Five Days Ago| Pred piatimi dňami
+Six Days Ago| Pred šiestimi dňami
+Last Week| Minulý týždeň
+Two Weeks Ago| Pred dvomi týždňami
+Three Weeks Ago| Pred tromi týždňami
+Last Month| Minulý mesiac
+Older| Staršie
+Monday| Pondelok
+Tuesday| Utorok
+Wednesday| Streda
+Thursday| Štvrtok
+Friday| Piatok
+Saturday| Sobota
+Sunday| Nedeľa
+Upload Sys Info| Nahrať systémové info
+Cfwd State| Stav presmerov.
+Cfwd Number| Číslo pre presm.
+Cfwd Mode| Režim presmerov.
+Set| Nast.
+#Confirm| #Potvrdiť
+Call held| Hovor pridržaný
+Calls held| Hovory pridržané
+Apply Changes?| Uložiť zmeny?
+Dialpad| Klávesnica
+Edit| Upraviť
+Quit| Odísť
+Directory Empty| Adr. je prázdny
+Saved Memory key| Tlač. Nastavené
+Speaker volume  | Hlasitosť repr. 
+Handset volume  | Hlasitosť slúch.
+Headset volume  | Hlasitosť náhl. 
+Ringer volume   | Hlasitosť zvon. 
+Enter Number:| Zadajte číslo:
+Full 10Mbps| Plná 10Mbps
+Full 100Mbps| Plná 100Mbps
+Full 1000Mbps| Plná 1000Mbps
+Half 10Mbps| Polovičná 10Mbps
+Half 100Mbps| Polovičná 100Mbps
+Half 1000Mbps| Polovičná 1000Mbps
+Delete All| Vym.všetko
+Erase Local Configuration?| Zmazať konfig.?
+Audio| Zvuk
+Application| Aplikácia
+NAT| NAT
+DSCP| DSCP
+User| Užívateľ
+802.1x| 802.1x
+Enter Date (m/d/y):| Zadajte datum (m/d/r)
+Brightness Timer| Onesk. zníž.jasu
+Brightness Level| Úroveň jasu
+Level 1| Úroveň 1
+Level 2| Úroveň 2
+Level 3| Úroveň 3
+Level 4| Úroveň 4
+Level 5| Úroveň 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Linka: %d
+Line %d: %s| Linka %d: %s
+Invalid %s (%d to %d)| Neplatná %s (%d to %d)
+Sys Info| Sys info
+keypad| Klávesnica
+Login| Prihl.
+Seized| Zadržané
+Active| Aktivovať
+Held| Pridržaný
+Ringing| Vyzváňanie
+Park Failed| Parkovanie zlyhalo
+Canada| Canada
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Stlačením tlačidla kontaktu zobrazíte informácie o kontakte.
+No info available. Please press a contact button.| K dispozícii nie sú žiadne informácie. Stlačte tlačidlo kontaktu.
+Set Date and Time| Nastaviť dátum a čas
+Ethernet Ports| Ethernetové porty
+Call Server| Volací server
+Use Network Time| Použiť čas siete
+Speed Dial Key %d| Tlačidlo rýchleho vytáčania %d
+%d/%d records| %d/%d záznamy
+%d days stored| %d dní uložené
+1 day stored| 1 deň uložené
+Upload System Info Files?| Nahrať súbory so systémovými informáciami?
+Entries Saved| Záznamy uložené
+Storage| Pamäť
+IP and gateway are equal| IP adresa a brána sú rovnaké
+IP gateway subnet mismatch| IP adresa, brána a podsieť sa nezhodujú
+Bridge active| Premostenie aktívne
+Please enter a number| Zadajte číslo
+Deleted| Odstránené
+No Matches Found| Nenašli sa žiadne zhody
+Name| Meno
+Contact already exists| Kontakt už existuje
+Left Softkey %d| Ľavé softvérové tlačidlo %d
+Bottom Softkey %d| Dolné tlačidlo %d
+New Call| Nový hovor
+All Accounts| Všetky kontá
+Exp. Mod. %d Key %d| Exp. rež. %d tlačidlo %d
+Add Num| PridaťČís.
+Diverted to: | Odklonené na: 
+No lines are configured| Nenakonfigurovali ste žiadne linky
+"Dot ""."""| Bodka "."
+Mode %d| Režim %d
+Top Softkey %d| Horné softvérové tlačidlo %d
+Home Screen Mode| 
+Screen Saver Timer| Časovač šetriča obrazovky
+Home Screen| Domovská obrazovka
+Cannot add new number. Limit reached.| Nemožno pridať nové číslo. Dosiahli ste limit.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Zadajte meno
+Top Softkeys| Horné softvérové tlačidlá
+Left Softkeys| Ľavé softvérové tlačidlá
+Bottom Softkeys| Dolné softvérové tlačidlá
+Brightness| Jas
+Speed Dial 8| Rýchla voľba 8
+A filename-related error occurred. Rename the specified file and try again.| Došlo k chybe súvisiacej s názvom súboru. Premenujte daný súbor a skúste to znova.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Došlo k chybe súvisiacej s HTTP. Skúste to znova (alebo reštartujte telefón, ak sa vám táto chýba zobrazila už predtým).
+A system-related error occurred. Please restart the phone and try again.| Došlo k chybe súvisiacej so systémom. Reštartujte telefón a skúste to znova.
+Xsi Enterprise Directory| Podnikový adresár Xsi
+Xsi Personal Contacts| Osobné kontakty Xsi
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Fax spoločnosti
+By First Name| Podľa mena
+By Last Name| Podľa priezviska
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Nemožno pridať nový záznam. Dosiahli ste limit.
+City| Mesto
+Corporate| Podnikový
+Country| Krajina
+Custom Ringtones| Vlastné vyzváňacie tóny
+Delete %s from %s?| Odstrániť %s z %s?
+Delete all entries in %s?| Odstrániť všetky záznamy v %s?
+Directory import failed| Import adresára zlyhal
+Directory loading| Načítava sa adresár
+Directory not available at this time| Adresár nie je momentálne dostupný
+Display Name Order| Zobraziť poradie mien
+Name Order| Poradie mien
+Edit Details| Upraviť podrobnosti
+Email| E-mail
+Email 1| E-mail 1
+Email 2| E-mail 2
+Email 3| E-mail 3
+Enabled also in call| Aktívne aj počas hovoru
+Enterprise Directory| Podnikový adresár
+Exchange Contacts| Vymeniť kontakty
+Explicit| Explicitné
+External Sources| Externé zdroje
+Failed to retrieve contact details| Kontakty sa nepodarilo opätovne získať
+First Last| Prvé – posledné
+First name| Meno
+Home 1| Domov 1
+Home 2| Domov 2
+Home Address| Adresa domov
+Implicit| Implicitné
+Invalid Subscription Time| Neplatný čas odberu
+Job Title| Názov pracovného miesta
+LDAP| LDAP
+Last%c First| Posledné% – prvé
+Last First| Posledné – prvé
+Last Name| Priezvisko
+Local| Miestny
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobil
+New Contact| Nový kontakt
+Numbers| Čísla
+Organization| Spoločnosť
+Other| Iné
+Personal| Osobný
+Personal Contacts| Osobné kontakty
+Province/State| Provincia/štát
+Request Failed| Žiadosť zlyhala
+Sorting Preferences| Preferencie triedenia
+Sorting| Triedenie
+Street Address| Ulica
+Test| Test
+Test Connection| Otestovať pripojenie
+The phone does not have enough space to store this file.| V telefóne nie je dostatok miesta na uloženie tohto súboru.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Daný súbor je príliš veľký. Žiadny súbor nesmie byť väčší ako 1 MB.
+UA-Profile-Event Subscription| Prihlásenie k UA-Profile-Event
+UA-Profile-Event Subscription Period| Perióda prihlásenia k UA-Profile-Event
+Undefined| Nedefinované
+Work 1| Práca 1
+Work 2| Práca 2
+Work Address| Adresa do práce
+Zip/Postal Code| PSČ
+Credentials| Prihlasovacie údaje
+Enable/Disable| Aktivovať/deaktivovať
+Labels| Označenia
+Ringtone files must be in WAV format| Súbory s vyzváňacími tónmi musia mať formát WAV
+Copy| Kopírovať
+Add New| PridaťNový
+ALU SCA| ALU SCA
+Accessory Info| Informácie o príslušenstve
+Add| Pridať
+Alerting| Upozornenie
+Delete selected item or delete all items?| Odstrániť zvolenú položku alebo odstrániť všetky položky?
+DialingIn| Prichádzajúce hovory
+DialingOut| Odchádzajúce hovory
+Disconnecting| Odpájanie
+Enter First Name| Zadajte meno
+Enter Last Name| Zadajte priezvisko
+Enter Number| Zadajte číslo
+Enter Password>| Zadajte heslo>
+Enter Username>| Zadajte meno používateľa>
+Enterprise Dir.| Podnikový adr.
+Exp. Mod. 1 Version| Exp. rež. 1. verzia
+Exp. Mod. 2 Version| Exp. rež. 2. verzia
+Exp. Mod. 3 Version| Exp. rež. 3. verzia
+Get user.cfg| Získať user.cfg
+Get user_local.cfg| Získať user_local.cfg
+Keyboard Version| Verzia klávesnice
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| Podržaný
+Pending| Čaká
+Phone Info| Informácie o telefóne
+Please Login| Prihláste sa
+Please select a file to upload| Vyberte súbor, ktorý sa má nahrať
+Saved| Uložené
+Unmute| Zrušiť stlmenie
+Line 11| Linka 11
+Line 12| Linka 12
+Line 13| Linka 13
+Line 14| Linka 14
+Line 15| Linka 15
+Line 16| Linka 16
+Line 17| Linka 17
+Line 18| Linka 18
+Line 19| Linka 19
+Line 20| Linka 20
+Line 21| Linka 21
+Line 22| Linka 22
+Line 23| Linka 23
+Line 24| Linka 24
+Line 25| Linka 25
+Client Method| Metóda klienta
+#Edit| #Upraviť
+#Copy| #Kopírovať
+Action forbidden| Úkon zakázaný
+Action not supported| Úkon nepodporovaný
+ Additional Settings|  Ďalšie nastavenia
+ Barge-In|  Napojenie do hovoru
+Congestion| Preťaženie
+Discreet| Diskrétne
+Discreet Ringing| Diskrétne zvonenie
+Executives list is empty| Zoznam vedúcich pracovníkov je prázdny
+Extension not registered| Rozšírenie nezaregistrované
+Internal error| Interná chyba
+Invalid Password| Neplatné heslo  
+Invalid forwarding number| Neplatné presmerované číslo
+ Listen|  Počúvať
+ Normal|  Normálne
+Phone not registered| Telefón nezaregistrovaný
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Stlačením softvérového tlačidla Ticho vypnete/zapnete výstražný tón vyrušovania.
+Prv| Súkromné
+Pub| Verejné
+Record not found| Záznam nebol nájdený
+SCAP-Bridged| SCAP-premostené
+SCAP-Held| SCAP-podržané
+ Select Barge-In Mode|  Vybrať režim Skočiť do reči
+ UA-Profile-Event Subscription Period|  Perióda prihlásenia k UA-Profile-Event
+Unique ID| Unikátne ID
+ Whisper|  Šepkať
+Missed Calls| Zmeškané hovory
+Silence| Umlčať
+As-Feature-Event Subscription| Prihlásenie k As-Feature-Event
+As-Feature-Event Subscription Period| Perióda prihlasovania k As-Feature-Event
+Feature-Status-Exchange Subscription| Odber Funkcia-stav-výmena
+Feature-Status-Exchange Subscription Period| Obdobie pre odber Funkcia-stav-výmena
+Action superseded by a previous command| Úkon nahradený predchádzajúcim príkazom
+Attendant| Operátor
+BLF Privacy| Súkromie BLF
+BLF Privacy Key Mode| Režim prístupového kľúča BLF
+Feature not configured| Funkcia nebola nakonfigurovaná
+Forward Type| Typ presmerovania
+Live Keyboard| Živá klávesnica
+Not assigned| Nepriradené
+PIN| PIN
+Pin Required| Vyžaduje sa PIN
+Privacy| Súkromie
+Privacy On| Súkromie zapnuté
+Restart | Reštart
+Capture| Zachytiť
+Get capture file| Získať súbor s informáciami na obrazovke
+Mute All| Stlmiť všetko
+No Participant| Žiaden účastník
+Private Call| Súkromný hovor
+Start| Spustiť
+Stop| Zastaviť
+TLS Preferred| Preferovaný protokol TLS
+Timeout| 
+Unmute All| Zrušiť stlmenie pre všetko
+Speeddial/Mwi| Rýchla voľba/MWI
+Phone will restart automatically after finishing.| Po dokončení sa telefón autom. reštartuje
+Idle| Nečinný
+CFWD Filtering| Filtrovanie presmerovania volania
+Volume| Hlasitosť
+DTMF| DTMF
+All Accounts| Všetko
+Outgoing| Odchodzie
+Call History is Empty| História hovorov je prázdna
+No Outgoing Calls| Žiadne odchádzajúce hovory
+No Missed Calls| Žiadne zmeškané hovory
+No Received Calls| Žiadne prijaté hovory
+Received| Prijaté
+Missed| Zmeškané
+Screenshot| Snímka obrazovky
+Xsi Enterprise Common Directory| Spoločný podnikový adresár Xsi
+Enterprise Common Directory| Spoločný podnikový adresár
+Enterprise Common Dir.| Spoločný podnikový adr.
+Xsi Group Directory| Skupinový adresár Xsi
+Group Directory| Skupinový adresár
+Xsi Group Common Directory| Spoločný skupinový adresár Xsi
+Group Common Directory| Spoločný skupinový adresár
+Call Settings| Nastavenia hovoru
+%s Call Settings| %s nastavenia hovoru
+Hide Number| Skryť číslo
+Xsi Password Not Configured| Heslo Xsi nebolo nakonfigurované
+Xsi User Not Configured| Používateľ Xsi nebol nakonfigurovaný
+Xsi Authentication Failure| Autentifikácia Xsi neúspešná
+Xsi File Not Found| Súbor Xsi nebol nájdený
+Xsi Invalid URI| Neplatné URI Xsi
+Xsi Invalid Download Configuration| Neplatná konfigurácia stiahnutia Xsi
+Call History| História hovorov
+Bluetooth| Bluetooth
+Scan| Hľadať
+Timeout [1..168 h]| Časový limit [1..168 h]
+Paired Devices| Spárované zariadenia
+Available Devices| Dostupné zariadenia
+Swipe the toggle switch to the right to enable Bluetooth| Potiahnutím prepínacieho tlačidla doprava aktivujete Bluetooth
+Pairing| Prebieha párovanie
+Connecting| Pripájanie
+Device| Zariadenie
+No paired devices| Žiadne spárované zariadenia
+Connection successful| Pripojenie úspešné
+Connection failed| Pripojenie neúspešné
+Disconnection successful| Odpojenie úspešné
+Disconnection failed| Odpojenie neúspešné
+Pairing failed| Párovanie zlyhalo
+Operation failed| Operácia neúspešná
+Connected| Pripojené
+Retry| Opakovať
+Do you want to forget this device?| Chcete zabudnúť na toto zariadenie?
+Close| Zavrieť
+Enabling Bluetooth...| Prebieha aktivácia Bluetooth...
+Disabling Bluetooth...| Prebieha deaktivácia Bluetooth...
+Connecting...| Pripájanie...
+Disconnecting...| Prebieha odpájanie...
+Boot| Boot
+App| Aplikácia
+USB disabled. Insufficient power for current configuration.| USB deaktivované. Nedostatok energie pre aktuálnu konfiguráciu.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Daný súbor nespĺňa špecifikácie pre vyzváňací tón vyžadované pre tento telefón. Požiadavky týkajúce sa súboru s vyzváňacím tónom nájdete v používateľskej príručke.
+%d/%d| %d/%d
+%d days| %d dní
+1 day| 1 deň
+System Messages| Systémové hlásenia
+Authorization Canceled| Autorizácia zrušená
+Crash Logs| Protokoly o zlyhaniach
+Warning - All entries in %s will also be deleted| Varovanie – Všetky záznamy v %s budú tiež odstránené
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Vyzváňaci tón
+Identity| Identita
+Extension| Rozšírenie
+Address| Adresa
+Server Error| Chyba servera
+Use Global Ring Tone| 
+Standard Ring Tone| Štandardný vyzváňací tón
+Hide Number| Skryť číslo
+Remote Office| Vzdialená kancelária
+Remote Office| Vzdialená kancelária
+Phone Number/SIP-URI| Telefónne číslo/SIP-URI
+Simultaneous Ring Personal| Simultánne zvonenie, osobné
+Simultaneous Ring| Simultánne zvonenie
+Do Not Ring if on a Call| Nevyzváňať počas hovoru
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Telefónne č./SIP-URI
+Alt Num/SIP-URI| ALT číslo/SIP-URI
+Ring for all Incoming Calls| Zvonenie pre všetky prichádzajúce hovory
+Invalid Number or SIP-URI| Neplatné číslo alebo SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Číslo portálu
+Alert Locations for Click-To-Dial| Umiestnenia upozornení pre možnosť Kliknutím vytočiť
+Alert Locations for Group Paging| Umiestnenia upozornení pre skupinový paging
+Phone Number| Telefónne číslo
+Description| Popis
+Alternate Number| 
+Call Control| Kontrola hovoru
+Diversion Inhibitor| Inhibítor odklonu
+Answer Confirmation| Potvrdenie odpovede
+Xsi Server Not Found| Server Xsi nebol nájdený
+Xsi Invalid Input| Neplatný vstup Xsi
+Call Center| Call centrum
+Presence| Prítomnosť
+My Status| Môj stav
+Contacts| Kontakty
+Favorite| Obľúbené
+Available| Dostupný
+Eager to Chat| Neviem sa dočkať chatu
+Busy| Obsadené
+Away| Mimo
+Extended Away| Som dlhodobo preč
+Offline| Offline
+Unknown| Neznáme
+Enter custom presence text here...| Vlastný text ohľadom prítomnosti zadajte sem...
+Status| Stav
+Custom| Vlastné
+Favorites| Obľúbené
+All Contacts| Všetky kontakty
+No contact in folder| Žiaden kontakt v priečinku
+No phone number| Žiadne telefónne číslo
+No contact| Žiaden kontakt
+Contact list currently not available| Zoznam kontaktov je momentálne nedostupný
+Contact| Kontakt
+Contact| Kontakt
+Connection to server failed| Pripojenie na server zlyhalo
+Configuration error| Chyba konfigurácie
+Authentication error| Chyba autentifikácie
+Connection to server lost| Strata pripojenia na server
+Mobile| Mobil
+Connect| Pripojiť
+%s disconnected| %s odpojená
+%s connected| %s pripojená
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Nový firmvér. Neodpájajte prístroj!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Kopírovať všade?
+Loading...| 
+Password Changed| Heslo zmenené
+Restore Default| 
+Restore Default| 
+Enter Again| Zopakovať heslo:
+Erase| Zmazať
+Set All| 
+VLAN Settings| Nastavenia VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Pokročilé
+Phonebook| 
+Update| 
+Copyright| Copyright
+Pause| Pauza
+Incorrect password| Neplatné heslo
+Please input duration between 1 to 1440 minutes| 
+Level 0| Úroveň 0
+Static Network Settings| 
+Enter| Zadať
+Reset Configuration?| Reset konfigurácie ?
+TCP DUMP| 
+minutes| minúty
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| VLAN ID
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Detaily
+First Name| 
+Home| Domov
+People| 
+Contacts - Add New| 
+Work| Práca
+Entry copied to| Údaj skopírovať do
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Adresár je plný
+Directory full| Adresár je plný
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Pripojiť
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Prebiehajúci hovor
+Scan| Hľadať
+Stop| Zastaviť
+Close| Zavrieť
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Zabudnúť
+Unknown Caller| 
+Answer| Prijať
+Decline| 
+Push Call| Push hovor
+End Call| 
+Caller| 
+Disconnect| Odpojiť
+Capturing ...| 
+Speaker| Reproduktor
+Headset| Náhlavná súpr.
+Ringer| Zvonenie
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Informácie o telefóne
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| Primárny DNS
+Secondary DNS| Záložný DNS
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Heslo
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Zmeniť
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| ChybaSpoj
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Súkromné
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Nerušiť
+Phone Lock| Zamknúť telefón
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Premenovať
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Ďalej...
+Restart| Reštart
+Key is Programmed| Tlačidlo je naprogramované
+Advanced XML| Rozšírený formát XML
+Too many answers - Refine your search| Príliš veľa odpovedí – upresnite vyhľadávanie
+%s Search| % Hľadať
+Searching| Hľadanie
+Server not configured| Server nebol nakonfigurovaný
+SimRing| SimZv
+Phone No/SIP-URI Not Configured| Telefónne číslo/SIP-URI nebola nakonfigurovaná
+ Xsi Server Update Failed|  Aktualizácia servera Xsi neúspešná
+Call Settings| Nastavenia hovoru
+Missing Config| Chýbajúca konfigurácia
+Deflect| Odbočiť
+AnswerIcom| AnswerIcom
+In a call| Mám hovor
+Chats| Chaty
+Chat| Chat
+Send| Odoslať
+Delete all chat sessions?| Odstrániť všetky chatovacie relácie?
+Delete chat session with %s?| Odstrániť chatovaciu reláciu s %s?
+No active chat session| Žiadna aktívna chatovacia relácia
+Push Notifications| Push notifikácie
+Sound| Zvuk
+Bluetooth| Bluetooth
+Chat| Chat
+%s is typing...| %s píše...
+Last message received %s at %s| Posledná správa prijatá %s o %s
+Last message received while offline| Posledná prijatá správa počas režimu Offline
+now| teraz
+%ld secs ago| Pred %ld s
+1 min ago| Pred 1 min
+%ld mins ago| Pred %ld min
+1 hour ago| Pred 1 h
+%ld hours ago| Pred %ld h
+yesterday| včera
+%ld days ago| Pred %ld dňami
+while offline| počas režimu Offline
+Can't talk right now. I'll call you later.| Teraz nemôžem hovoriť. Zavolám vám neskôr.
+On another call| Mám ďalší hovor
+I'll call you back| Zavolám vám späť.
+Call me back in 10 minutes| Zavolajte mi o 10 minút
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Vlastné...
+Message to %s| Správa pre %s
+Cancel - No message sent| Zrušiť – žiadna správa nebola odoslaná
+Chat Messages| Chatovacie správy
+Reject Call Message Configuration| Konfigurácia správy pri zamietnutom hovore
+Message| Správa
+Server Failure| Chyba servera
+Use ^v to view| ^v - prehliadanie
+Answer| Prijať
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Varovanie
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Zadajte meno
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Doba platnosti žiadosti uplynula
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Priechodný port
+Page Expired. Please reload the page.| Stránka vypršala. Znovu načítajte danú stránku.
+Application busy. Please try again later.| Aplikácia je zaneprázdnená. Skúste to znova neskôr.
+User ID required| Vyžaduje sa ID používateľa
+Directory file must be in WAV format| Súbor s adresárom musí mať formát WAV
+Local Directory Upload| Nahratie lokálneho adresára
+Upload failed - Too many records detected in csv file| Nahratie zlyhalo – príliš veľa záznamov v súbore vo formáte csv
+Upload failed - No record detected in csv file| Nahratie zlyhalo – vsúbore vo formáte csv sa nenašiel žiaden záznam
+Upload performed - %d records created| Nahratie dokončené – počet vytvorených záznamov: %d
+minutes| minúty
+User ID| ID používateľa
+Any PBX| Akákoľvek ústredňa PBX
+Screen Mode| Režim obrazovky
+Show Picture| Zobraziť obrázok
+Request timed out| Doba platnosti žiadosti uplynula
+No Mobile phone connected| Nie je pripojený žiaden mobilný telefón
+Only one Handset can be paired to the phone| S telefónom možno spárovať len jedno slúchadlo
+Only one Speaker can be paired to the phone| S telefónom možno spárovať len jeden reproduktor
+Maximum number of paired devices reached| Maximálny počet spárovaných zariadení bol dosiahnutý
+Reload| Opätovne načítať
+Mobile Contacts| Mobilné kontakty
+Mobile| Mobil
+Press "Turn on" to enable Bluetooth| Stlačením možnosti „Zapnúť“ aktivujete Bluetooth
+Turn on| Zapnúť
+Turn off| Vypnúť
+Mobile : %s| Mobil: %s
+Pair| Párovať
+Connect| Pripojiť
+Disconnect| Odpojiť
+Forget| Zabudnúť
+Rename| Premenovať
+Rename Device| Premenovať zariadenie
+Disabling Bluetooth will disconnect your Cordless Handset| Deaktiváciou Bluetooth dôjde k odpojeniu bezdrôtového slúchadla
+Warning| Varovanie
+Do you want to continue?| Chcete pokračovať?
+Bluetooth pairing request| Žiadosť o spárovanie prostredníctvom Bluetooth
+Pair with %s| Spárovať s %s
+Pairing code - %06ld| Kód párovania – %06ld
+External| Externé
+Lock Settings| Nastavenia zablokovania
+Proximity auto-lock| Autom. zablokov. blízkosti
+Delay before auto-lock| Omeškanie pred aut. zablok.
+Proximity auto-unlock| Autom. zablokov. blízkosti
+Delay before auto-unlock| Omeškanie pred aut. odblok.
+Proximity auto-lock| Autom. zablokov. blízkosti
+Proximity auto-unlock| Autom. zablokov. blízkosti
+Delay before auto-lock (minutes)| Omeškanie pred aut. zablok. (minúty)
+Delay before auto-unlock (minutes)| Omeškanie pred aut. odblok. (minúty)
+M695: New Firmware. Do not unplug phone!| M695: Nový firmvér. Neodpájajte telefón!
+Login/Logout| Prihlásiť/odhlásiť
+Logout user %s| Odhlásiť používateľa %s
+Login successful| Prihlásenie úspešné
+Logout successful| Odhlásenie úspešné
+Login failed| Prihlásenie neúspešné
+Logout failed| Odhlásenie neúspešné
+Hot desk user can not pair handset please login as a local user| Hot desk používateľ nemôže spárovať slúchadlo, prihláste sa ako lokálny používateľ
+Hot desk user can not pair speaker please login as a local user| Hot desk používateľ nemôže spárovať reproduktor, prihláste sa ako lokálny používateľ
+Hot desk user can not unpair handset please login as a local user| Hot desk používateľ nemôže zrušiť spárovanie slúchadla, prihláste sa ako lokálny používateľ
+Hot desk user can not unpair speaker please login as a local user| Hot desk používateľ nemôže zrušiť spárovanie reproduktora, prihláste sa ako lokálny používateľ
+Push Call| Push hovor
+Cordless Handset| Bezdrôtové slúchadlo
+Low Battery| Slabá batéria
+Critical Battery| Kritický stav batérie
+Ongoing Call| Prebiehajúci hovor
+Incoming Call| Prichádzajúci hovor
+Incoming Call from %s| Prichádzajúci hovor od %s
+Incoming Call from %s (%s)| Prichádzajúci hovor od %s (%s)
+Voicemail access of Mobile Phone not supported| Prístup k hlasovej pošte mobilného telefónu nie je podporovaný
+Device not supported| Zariadenie nie je podporované
+Phone not compatible| Telefón nie je kompatibilný
+Dialing out through Mobile Line not supported| Odchádzajúci hovor prostredníctvom mobilnej linky nie je podporovaný
+Page Expired. Please reload the page.| Stránka vypršala. Znovu načítajte stránku.
+Application busy. Please try again later.| Aplikácia je zaneprázdnená. Skúste to znova neskôr.
+Invalid prefix length (0 to 128)| Neplatná dĺžka prefixu (od 0 do 128)
+User ID required| Vyžaduje sa ID používateľa
+IPv6 Settings| Nastavenia IPv6
+Basic Network Settings (IPv6)| Základné nastavenia siete (IPv6)
+Basic Network Settings (IPv4)| Základné nastavenia siete (IPv4)
+Ethernet Port Settings| Nastavenia ethernetového portu
+User ID| ID používateľa
+Colon ":"| Dvojbodka „:“
+Login/Logout| Prihlásiť/odhlásiť
+Logout user %s| Odhlásiť používateľa %s
+Login successful| Prihlásenie úspešné
+Logout successful| Odhlásenie úspešné
+Login failed| Prihlásenie neúspešné
+Logout failed| Odhlásenie neúspešné
+IPv6| IPv6
+Enable IPv6| Aktivovať IPv6
+Mode DHCPv6| Režim DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatická konfigurácia
+Prefix Length| Dĺžka prefixu
+IPv6 Address| Adresa IPv6
+Local Directory Upload| Nahratie lokálneho adresára
+Upload failed - Too many records detected in csv file| Nahratie zlyhalo – príliš veľa záznamov v súbore vo formáte csv
+Upload failed - No record detected in csv file| Nahratie zlyhalo – vsúbore vo formáte csv sa nenašiel žiaden záznam
+Upload performed - %d records created| Nahratie dokončené – počet vytvorených záznamov: %d
+Error: Upgrade/Downgrade rejected for incompatible firmware version| CHYBA: Inovácia/prechod na st. ver. odmietnutý pre nekomp. ver. firmvéru
+Directory file must be in CSV format| Súbor s adresárom musí mať formát CSV
+Error: Upgrade/Downgrade rejected for incompatible firmware version| CHYBA: Inovácia/prechod na st. ver. odmietnutý pre nekomp. ver. firmvéru
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Neúplné mapovanie portov
+DSP| DSP
+SIP| SIP
+Checking DECT| Kontrola DECT
+Updating DECT Firmware| Aktualizácie firmvéru DECT
+Tone| Tón
+Interface| Rozhranie
+Web| Web
+7 +294| 7 +294
+Updating configuration| Aktualizácia konfigurácie
+Waiting assignment| Čakajúce priradenie
+Checking for new firmware| Kontrola existencie nového firmvéru
+Firmware Check| Kontrola firmvéru
+Firmware Check| Kontrola firmvéru
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Nový firmvér: NEODPÁJAJTE TELEFÓN
+New Firmware: Restarting...| Nový firmvér: Reštartovanie...
+Downloading configuration| Sťahovanie konfigurácie
+9 +397| 9 +397
+erase all calls| vymazať všetky hovory
+DELETE again to erase this item| Opäť ODSTRÁNIŤ na vymazanie tejto položky
+DELETE to erase item  or # to erase Number| ODSTRÁNIŤ na vymazanie položky alebo # na vymazanie čísla
+DELETE again to erase all calls| Opäť ODSTRÁNIŤ na vymazanie všetkých hovorov
+DELETE again to erase all items| Opäť ODSTRÁNIŤ na vymazanie všetkých položiek
+Delete All| Odstrániť všetky
+DELETE again to erase all calls| Opäť ODSTRÁNIŤ na vymazanie všetkých hovorov
+DELETE again to erase all items| Opäť ODSTRÁNIŤ na vymazanie všetkých položiek
+Delete All| Odstrániť všetky
+Factory Defaults| Predvolené výrobné nastavenia
+ Missed Call|  Zmeškaný hovor
+ Missed Calls|  Zmeškané hovory
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Stlačiť
+Push| Stlačiť
+Leave| Odísť
+Conf| Konf
+SIP Settings| Nastavenia SIP
+8 +743| 8 +743
+Cannot Save| Nemožno uložiť
+1 item| 1 položka
+ items|  položky
+item| položka
+items| položky
+item| položka
+items| položky
+No User| Žiadny používateľ
+Missing User ID| Chýbajúce ID používateľa
+DHCP failed| DHCP zlyhalo
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| Preferovaný protokol TLS
+Cfg Svr Failure| Zlyhanie Cfg Svr
+Bad Certificate| Zlý certifikát
+Bad Cert/TLS Err| Chyb. Zlý Cert/TLS
+Certificates| Certifikáty
+Cert Validation| Overenie cert.
+All defaults| Všetky predvolené nastavenia
+6 +1070| 6 +1070
+Debug Level| Úroveň ladenia
+Support Information| Informácie o podpore
+Get local.cfg| Získať local.cfg
+Get Log Files| Získať súbory denníkov
+Get server.cfg| Získať server.cfg
+Get user_local.cfg| Získať user_local.cfg
+Get user.cfg| Získať user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Neplatná maska podsiete
+Invalid primary DNS address| Neplatná adresa primárneho DNS
+Invalid secondary DNS address| Neplatná adresa sekundárneho DNS
+Invalid prefix length (0 to 128)| Neplatná dĺžka prefixu (od 0 do 128)
+User ID required| Vyžaduje sa ID používateľa
+IP cannot be equal to gateway address| IP nemôže byť rovnaké ako adresa brány
+IP and gateway have to be on same subnet| IP a brána nemôžu byť na rovnakej podsieti
+IP and gateway are equal| IP adresa a brána sú rovnaké
+IP gateway subnet mismatch| IP adresa, brána a podsieť sa nezhodujú
+IPv6 Settings| Nastavenia IPv6
+Basic Network Settings| Základné nastavenia siete
+Basic Network Settings (IPv6)| Základné nastavenia siete (IPv6)
+Basic Network Settings (IPv4)| Základné nastavenia siete (IPv4)
+Advanced Network Settings| Rozšírené nastavenia siete
+DHCP| DHCP
+NAT Port| Port NAT
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Daný súbor je príliš veľký. Žiadny súbor nesmie byť väčší ako 1 MB.
+The phone does not have enough space to store this file.| V telefóne nie je dostatok miesta na uloženie tohto súboru.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Daný súbor nespĺňa špecifikácie pre vyzváňací tón vyžadované pre tento telefón. Požiadavky týkajúce sa súboru s vyzváňacím tónom nájdete v používateľskej príručke.
+Directory file must be in WAV format| Súbor s adresárom musí mať formát WAV
+Directory file must be in CSV format| Súbor s adresárom musí mať formát CSV
+Local Directory Upload| Nahratie lokálneho adresára
+Upload failed - Too many records detected in csv file| Nahratie zlyhalo – príliš veľa záznamov v súbore vo formáte csv
+Upload failed - No record detected in csv file| Nahratie zlyhalo – v súbore vo formáte csv sa nenašiel žiaden záznam
+6 +1370| 6 +1370
+IP&MAC Addresses| Adresy IP a MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Port Mirroring| Zrkadlenie Portov
+Set Audio| Nastaviť zvuk
+Config. Server| Konfig. Server
+IP Address:| Adresa IP:
+7 +1463| 7 +1463
+App| Apl
+Watchdog| Strážca
+Speeddial/Conf| Rýchle vytáčanie/Konf
+Speeddial/MWI| Rýchle vytáčanie/MWI
+Speeddial/MWI| Rýchle vytáčanie/MWI
+Call is on Hold| Hovor je pozdržaný
+No subscription| Žiadne prihlásenie
+802.1x Failed| 802.1x zlyhalo
+6 +1473| 6 +1473
+Failed to config Line Manager| Nepodarilo sa nakonfigurovať správcu liniek
+Line in use| Linka sa používa
+Get Crash Log| Získať denník zlyhaní
+Logging Issue| Problém pri prihlásení
+Time Unavailable| Čas nedostupnosti
+Packetization Interval| Interval paketizácie
+Basic| Základné
+6 +1650| 6 +1650
+AU-Lord Howe| AU – Lord Howe Island
+AU-Melbourne| AU – Melbourne
+AU-Perth| AU – Perth
+AU-Eucla| AU – Eucla
+AU-Sydney| AU – Sydney
+AU-Tasmania| AU – Tasmánia
+AD-Andorra| AD – Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ – Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Vlastné
+IN| PRICHÁDZAJÚCE
+OUT| ODCHÁDZAJÚCE
+Filter| Filter
+Filtering| Filtrovanie
+Opt Status| Opt stav
+Executives| Vedúci pracovníci
+Forward Filtering| Filtrovanie presmerovania
+Divert| Odkloniť
+Divert to Number| Odkloniť na číslo
+IN| PRICHÁDZAJÚCE
+OUT| ODCHÁDZAJÚCE
+Filter| Filter
+Filtering| Filtrovanie
+Opt Status| Opt stav
+Executives| Vedúci pracovníci
+Forward Filtering| Filtrovanie presmerovania
+Divert| Odkloniť
+Divert to Number| Odkloniť na číslo
+Press a contact button to view contact info.| Stlačením tlačidla kontaktu zobrazíte informácie o kontakte.
+No info available. Please press a contact button.| K dispozícii nie sú žiadne informácie. Stlačte tlačidlo kontaktu.
+ Enter Administrator Password|  Zadajte heslo správcu
+6 +1749| 6 +1749
+Level 4| Úroveň 4
+Level 5| Úroveň 5
+Dot "."| Bodka „.“
+Colon ":"| Dvojbodka „:“
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Linka: %d
+Line %d: %s| Linka %d: %s
+6 +1780| 6 +1780
+Please enter a number| Zadajte číslo
+Please enter a name| Zadajte meno
+Login| Prihlásenie
+Log Issue| Problém denníka
+Log Out| Odhlásiť sa
+Avail| Dostupné
+Unavail| Nedostupné
+14 +1852| 14 +1852
+Show Picture| Zobraziť obrázok
+Mode %d| Režim %d
+Screen Saver Timer| Časovač šetriča obrazovky
+Enabled also in call| Aktívne aj počas hovoru
+Enabled also in call| Aktívne aj počas hovoru
+Invalid Subscription Time| Neplatný čas odberu
+Speed Dial 8| Rýchle vytáčanie 8
+Request Failed| Žiadosť zlyhala
+Request timed out| Doba platnosti žiadosti uplynula
+Too many answers - Refine your search| Príliš veľa odpovedí – upresnite vyhľadávanie
+New Contact| Nový kontakt
+Edit Details| Upraviť podrobnosti
+Edit Details| Upraviť podrobnosti
+Failed to retrieve contact details| Kontakty sa nepodarilo opätovne získať
+No Mobile phone connected| Nie je pripojený žiaden mobilný telefón
+Only one Handset can be paired to the phone| S telefónom možno spárovať len jedno slúchadlo
+7 +2039| 7 +2039
+Volume| Hlasitosť
+DTMF| DTMF
+Screenshot| Snímka obrazovky
+All| Všetky
+All| Všetky
+Missed| Zmeškané
+Outgoing| Odchádzajúce
+Received| Prijaté
+7 +2053| 7 +2053
+Paired Devices| Spárované zariadenia
+Available Devices| Dostupné zariadenia
+Swipe the toggle switch to the right to enable Bluetooth| Potiahnutím prepínacieho tlačidla doprava aktivujete Bluetooth
+Press "Turn on" to enable Bluetooth| Stlačením možnosti „Zapnúť“ aktivujete Bluetooth
+Press "Turn on" to enable Bluetooth| Stlačením možnosti „Zapnúť“ aktivujete Bluetooth
+Turn on| Zapnúť
+Turn off| Vypnúť
+Mobile : %s| Mobil: %s
+9 +2067| 9 +2067
+Device| Zariadenie
+Rename Device| Premenovať zariadenie
+No paired devices| Žiadne spárované zariadenia
+Connection successful| Pripojenie úspešné
+Connection failed| Pripojenie neúspešné
+Disconnection successful| Odpojenie úspešné
+Connection successful| Pripojenie úspešné
+Connection failed| Pripojenie neúspešné
+Disconnection successful| Odpojenie úspešné
+Disconnection failed| Odpojenie neúspešné
+Pairing failed| Párovanie zlyhalo
+Operation failed| Operácia neúspešná
+7 +2153| 7 +2153
+%ld days ago| Pred %ld dňami
+while offline| počas režimu Offline
+Can't talk right now. I'll call you later.| Teraz nemôžem hovoriť. Zavolám vám neskôr.
+On another call| Mám ďalší hovor
+On another call| Mám ďalší hovor
+I'll call you back| Zavolám vám späť.
+Call me back in 10 minutes| Zavolajte mi o 10 minút
+Custom...| Vlastné...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Hot desk používateľ nemôže spárovať reproduktor, prihláste sa ako lokálny používateľ
+Hot desk user can not unpair handset please login as a local user| Hot desk používateľ nemôže zrušiť spárovanie slúchadla, prihláste sa ako lokálny používateľ
+Hot desk user can not unpair speaker please login as a local user| Hot desk používateľ nemôže zrušiť spárovanie reproduktora, prihláste sa ako lokálny používateľ
+Push Call| Push hovor
+Cordless Handset| Bezdrôtové slúchadlo
+Push Call| Push hovor
+Cordless Handset| Bezdrôtové slúchadlo
+Low Battery| Slabá batéria
+Critical Battery| Kritický stav batérie
+Ongoing Call| Prebiehajúci hovor
+5 +2188| 5 +2188
+Device not supported| Zariadenie nie je podporované
+Phone not compatible| Telefón nie je kompatibilný
+Dialing out through Mobile Line not supported| Odchádzajúci hovor prostredníctvom mobilnej linky nie je podporovaný
+IPv6| IPv6
+Enable IPv6| Aktivovať IPv6
+Mode DHCPv6| Režim DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatická konfigurácia
+Prefix Length| Dĺžka prefixu
+IPv6 Address| Adresa IPv6
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Chyba: Inovácia/prechod na st. ver. odmietnutý pre nekomp. ver. firmvéru
+Audio Diagnostics| Zvuková diagnostika
+Diagnostics| Diagnostika
+Timeout (1-5 Minutes)| Časový limit (1 až 5 minút)
+Disconnect| Odpojiť
+Capturing ...| Zachytávanie...
+Complete ...| Dokončené...
+Collecting Logs ...| Zhromažďovanie denníkov...
+Collect Logs| Zhromaždiť denníky
+Please input a duration between 1 and 5 minutes| Zadajte trvanie od 1 do 5 minút
+Erase| Vymazať
+Cloud Service| Cloudová služba
+Enable Cloud Service| Aktivovať cloudovú službu
+Cloud SIP| Cloudové SIP
+Cloud Directory| Cloudový adresár
+Active Config Server| Aktívny konfig. server
+Cloud Config Server 1| Cloudový konfig. server 1
+Cloud Config Server 2| Cloudový konfig. server 2
+Cloud Staging Server| Cloudový pracovný server
+Cloud Domain| Cloudová doména
+Replay| Znova prehrať
+Backward| Dozadu
+Forward| Dopredu
+Send To| Poslať
+Logout| Odhlásiť
+To Email| Na e-mail
+Delete Failure| Zlyhanie odstránenia
+Play Failure| Zlyhanie prehrávania
+Play Failure due to a system error. See your system administrator.| Zlyhanie prehrávania kvôli systémovej chybe. Kontaktujte správcu systému.
+Save Failure| Zlyhanie ukladania
+Add Contact| Pridať kontakt
+Voicemail and Recordings| Hlasová schránka a záznamy
+Voicemail User Login| Prihlásenie používateľa hlasovej schránky
+Send to| Poslať
+Cannot dial a private number| Nemožno vytočiť súkromné číslo
+Cannot copy a private number| Nemožno kopírovať súkromné číslo
+Number not available| Číslo nie je dostupné
+Loading...| Načítavanie...
+Login| Prihlásenie
+Contacts| Kontakty
+Private| Súkromné
+To| Pre
+Send| Odoslať
+Voicemail has been sent.| Hlasová pošta bola odoslaná.
+Error in sending Voicemail. Please send it again.| Chyba pri odosielaní hlasovej pošty. Pošlite ju znova.
+Voicemail has been sent to email.| Hlasová pošta bola odoslaná na e-mail.
+Error in sending to Email.| Chyba pri odosielaní e-mailu.
+New| Nové
+Recorded| Zaznamenané
+Receipt Confirmation| Potvrdenie prijatia
+Passcode| Prístupový kód
+Mailbox Number| Číslo poštovej schránky
+Remember passcode| Zapamätať prístupový kód
+Passcode is incorrect. Enter a valid passcode.| Prístupový kód je nesprávny. Zadajte platný prístupový kód.
+Invalid mailbox number.| Neplatné číslo poštovej schránky.
+Error - Mailbox in use| Chyba – poštová schránka sa používa
+Error - maximum sessions exceeded| Chyba – prekročený maximálny počet relácií
+Error - no session exists| Chyba – neexistuje žiadna relácia
+Error - bad extension| Chyba – zlá klapka
+Mailbox locked for security reasons. See your system administrator.| Poštové schránka uzamknutá z bezpečnostných dôvodov. Kontaktujte správcu systému.
+DECT Headset| Náhlavná súprava DECT
+DECT Headset Version| Verzia náhlavnej súpravy DECT
+DECT Headset Battery| Batéria náhlavnej súpravy DECT
+DECT Headset Rf Power| Napájanie Rf náhlavnej súpravy DECT
+DECT Headset Rf Power| Napájanie Rf náhlavnej súpravy DECT
+Very Low| Veľmi nízke
+Downloading font| Sťahovanie písma
+No calls to unpark| Žiadne hovory na prebratie
+For …| Pre …
+To VM| Do HS
+Number of Packets Sent| Počet odoslaných balíkov
+Number of Packets Received| Počet prijatých balíkov
+RTT min/avg/max| RTT min/prie/max
+traceroute to| trasa sledovania do
+hops max| skokov max
+byte max| bytov max
+Voicemail box is full| Hlasová schránka je plná
+ALL| VŠETKY
+REMOTE| DIAĽKOVÉ
+Local| Miestny
+Not allowed on this call| Nepovolené pre tento hovor
+ Whisper| Šepkať
+ Consult|  Konzultovať
+ Coach|  Koučovať
+ Barge|  Zamiešať sa do rozhovoru
+ Monitor|  Monitorovať
+ For|  Pre
+ External Speaker|  Vonkajší používateľ
+ UnPark|  Prebratie
+ Call Parked|  Zaparkovaný hovor
+ UnPark Failed|  Prebratie neúspešné
+ Rev:|  Rev:
+ You must restart the phone before the new settings will take effect.|  Na to, aby sa nové nastavenia prejavili, musíte reštartovať telefón.
+ None|  Žiadny
+ Use LLDP-MED|  Použiť LLDP-MED
+ LLDP neighbor|  Susedný LLDP
+ Cache LLDP-MED|  Pamäť cache LLDP-MED
+ Conf In Progress|  Prebieha konferencia
+  Enter Voicemail Password|   Zadať heslo na hlasovú poštu
+ Call Server| 
+ Do Not Ring if on a Call|  Nevyzváňať počas hovoru
+ P|  P
+ To Vm|  Do Vm
+ Pickup not permitted|  Zdvihnutie nepovolené
+ Pickup/unpark not permitted|  Zdvihnutie/prebratie nepovolené
+ Unpark not permitted|  Prebratie nepovolené
+ Silent Monitor not permitted on this call|  Tiché monitorovanie nepovolené pre tento hovor
+ Silent Coach not permitted on this call|  Tichý koučing nepovolený pre tento hovor
+ Barge In not permitted on this call|  Zamiešanie sa do hovoru nepovolené pre tento hovor
+ Park not permitted|  Zaparkovanie nepovolené
+ Park/Transfer is still in progress|  Zaparkovanie/prepojenie stále prebieha
+ No calls to unpark|  Žiadne hovory na prebratie
+ No calls to park|  Žiadne hovory na zaparkovanie
+ No calls to pickup|  Žiadne hovory na prijatie
+ No calls to take action|  Žiadne hovory na prebratie činnosti
+ My Status|  Môj stav
+ Favorite|  Obľúbené
+ Voicemail playback failed|  Prehrávanie hlasovej pošty zlyhalo
+ Voicemail skip failed|  Preskočenie hlasovej pošty zlyhalo
+ Voicemail bad address|  Zlá adresa pre hlasovú poštu
+ Voicemail box is full for|  Hlasová schránka je plná pre
+ Not supported|  Nepodporovaný
+ Service unavalilable at this time|  Služba je momentálne nedostupná
+ Hold not permitted on this call|  Podržanie nepovolené pre tento hovor
+ Action not permitted|  Aktivita nepovolená
+ Not Permitted on this call|  Nepovolené pre tento hovor
+ Request denied or \r\nunacceptable at this time|  Žiadosť momentálne zamietnutá alebo \r\nneakceptovateľná
+ Phone number is invalid or not properly formatted|  Telefónne číslo je neplatné alebo nesprávne naformátované
+ Move Message Failure|  Presunúť zlyhanie odkazu
+ Contacts|  Kontakty
+ Cloud Connect|  Cloud Connect
+ Service Type|  Druh služby
+ MiCloud Connect|  MiCloud Connect
+ MiVoice Border Gateway|  MiVoice Border Gateway
+ User DID|  DID používateľa
+ Domain|  Doména
+ Call Back|  Zavolať naspäť
+ Play|  Prehrať
+ Exit|  Ukončiť
+ Skip Back|  Preskočiť nazad
+ Skip Forward|  Preskočiť vpred
+ Inbox|  Schránka
+ MiCloud|  MiCloud
+ Fetching Details|  Zbieranie detailov
+ Additional Phone|  Ďalší telefón
+ Agent state|  Stav agenta
+ Availability|  Dostupnosť
+ Standard|  Štandardný
+ In a meeting|  Na schôdzke
+ Out of office|  Mimo kancelárie
+ Extended Absence|  Predĺžená neprítomnosť
+ Do not disturb|  Nevyrušovať
+ On the Phone|  Na telefóne
+ Assign|  Priradiť
+ Assign user|  Priradiť používateľa
+ Assign user failed|  Priradenie používateľa zlyhalo
+ Assign user to phone in progress. Please wait...|  Priradiť používateľa v priebehu. Prosím čakajte...
+ Extension or password invalid|  Prípojka alebo heslo neplatné
+ Unassign|  Zrušiť priradenie
+ Unassign user|  Zrušiť priradenie používateľa
+ Unassign user failed|  Zrušenie priradenia používateľa zlyhalo
+ Unassign user?|  Zrušiť priradenie používateľa?
+ Unassigning user...|  Priradenie používateľa sa ruší...
+ Voicemail password|  Heslo pre hlasovú poštu
+ Ping|  Zvonenie
+ Host Name or IP Address|  Názov alebo IP adresa hostiteľa
+ Please enter a valid HostName/IP Address|  Zadajte platný názov hostiteľa/IP adresu
+ Pinging %s...|  Zvonenie %s...
+ Tracerouting...|  Tracerouting...
+ Tracerouting Complete|  Tracerouting ukončený
+ Traceroute|  Traceroutovať
+ Page Up|  O stranu vyššie
+ Page Down|  O stranu nižšie
+ Traceroute Command|  Príkaz traceroute
+ Always|  Vždy
+ Never|  Nikdy
+ Always destination|  Vždy do cieľa
+ No answer destination|  Cieľ bez odpovede
+ Busy destination|  Zaneprázdnený cieľ
+ Simulring|  Simulring
+ VPN|  VPN
+ Use VPN|  Použiť VPN
+ VPN gateway|  Brána VPN
+ VPN gateway port|  Port brány VPN
+ Tunnel IP|  Tunel IP
+ VPN protocol|  Protokol VPN
+ VPN debug mode|  Režim debugovania VPN
+ System|  Systém
+ Log upload|  Nahranie záznamníka
+ Timeout (1-1440 Minutes)|  Časový limit [1 – 1440 minút]
+ Please input a duration between 1 and 1440 minutes|  Zadajte trvanie medzi 1 a 1440 minútami
+ User Settings|  Nastavenia používateľa
+ Diagnostic server|  Diagnostický server
+ Diag Server|  Diag. server
+ Wrap up|  Zabaliť
+ UnWrap|  Rozbaliť
+  Open|   Otvoriť
+ Confirm|  Potvrdiť
+ New voicemail password|  Nové heslo pre hlasovú poštu
+ Password entries do not match|  Nebolo zadané rovnaké heslo
+ Password change succeeded|  Zmena hesla úspešná
+ New password same as old password|  Nové heslo rovnaké ako staré heslo
+  Reply|   Odpovedať
+  ReplyAll|   Odpovedať všetkým
+  Compose|   Zložiť
+  Call VM|   Zavolať VM
+ Cannot choose your own extension|  Nie je možné zvoliť si vašu vlastnú prípojku
+ Save Changes?|  Uložiť zmeny?
+ Validating number...|  Overovanie čísla...
+ Invalid %s|  Neplatné %s
+ Upgrade Required|  Potrebná aktualizácia
+ Invalid DID or Password|  Neplatné DID alebo heslo
+ Register|  Zaregistrovať sa
+ Voice Service|  Hlasová služba
+ Start Over|  Začať znova
+ Empty domain name|  Prázdny názov domény
+ Registering|  Registrácia
+ DID or password no update|  DID alebo heslo bez aktualizácie
+ Invalid domain name|  Neplatný názov domény
+  Registration cancelled|   Registrácia zrušená
+ Pager|  Pager
+ Phone not registered|  Telefón nezaregistrovaný
+ Enterprise|  Podnik
+  Parameter Type|   Typ parametra
+ Remote|  Vzdialený
+  Filter Page|   Filtrovať stranu
+  Parameter Filter|   Filter parametrov
+  Get Parameters|   Získať parametre
+ Assigned|  Priradený
+ Assigning|  Priraďovanie
+ Invalid extension|  Neplatná prípojka
+ Extension or password no update|  Prípojka alebo heslo bez aktualizácie
+ Assignment cancelled|  Priradenie zrušené
+ Extension already assigned|  Prípojka už bola priradená
+  Select a call to park|   Vybrať hovor na zaparkovanie
+  Select a call to unpark|   Vybrať hovor na prebratie
+  Unpark|   Prebrať
+ Duration|  Trvanie
+ Subject|  Predmet
+ Uploading Fail|  Zlyhanie nahrávania
+ Diagnostic server is empty|  Diagnostický server je prázdny
+ Logs uploaded successfully|  Záznamy sa nahrali úspešne
+ Urgent|  Urgentný
+ Return Receipt|  Vrátiť prijatie
+ Include Original|  Zahrnúť originál
+ Re: Voice Message|  Re: Hlasový odkaz
+ Fw: Voice Message|  Fw: Hlasový odkaz
+ Phone not assigned|  Telefón nepriradený
+ Whisper Page|  Stránka na šepkanie
+ Intercom|  Intercom
+ Silent Monitor|  Tichý monitor
+ Barge In|  Zamiešať sa do hovoru
+ Silent Coach|  Tichý kouč
+ To Inbox|  Do schránky
+ Save Message?|  Uložiť odkaz?
+ By First|  Podľa prvého
+ By Last|  Podľa posledného
+ Dial Voicemail|  Vytočiť hlasovú poštu
+ Dial VM|  Vytočiť VM
+  Invalid Phone Number|   Neplatné tel. číslo
+ Transfer not permitted on this call|  Prepojenie pre tento hovor nepovolené
+ Conference not permitted on this call|  Konferencia pre tento hovor nepovolená
+ Remote log upload in progress|  Prebieha nahrávanie diaľkového záznamu
+ Remote capture upload in progress|  Prebieha nahrávanie diaľkového zachytávania
+ Standard|  Štandardný
+ Ring 2|  Zvonenie 2
+ Ring 3|  Zvonenie 3
+ Ring 4|  Zvonenie 4
+ Play Int|  Prehrať int.
+ Play Ext|  Prehrať ext.
+ Press "Upload" to upload a debug log|  Stlačiť „Nahrať“ na nahranie záznamu chýb
+ Select a call to merge|  Vybrať hovor na zlúčenie
+ Add Caller:|  Pridať volajúceho:
+ Assign user?|  Priradiť používateľa?
+ Participants|  Účastníci
+ Conferenced|  Konferenčný
+ calls|  hovory
+ held calls|  Podržané hovory
+ Debug on|  Debugovanie zapnuté
+ Debug off|  Debugovanie vypnuté
+ Unknown Error|  Neznáma chyba
+ Connection Error|  Chyba pripojenia
+ Application Error|  Chyba aplikácie
+ Number of Packets Sent:|  Počet odoslaných balíkov:
+ Number of Packets Received:|  Počet prijatých balíkov:
+ RTT min/avg/max|  RTT min/prie/max
+ traceroute to|  trasa sledovania do
+ hops max|  skokov max
+ byte packets|  bytové balíky
+ Help|  Pomoc
+ Call Mitel Support ?|  Zavolať na oddelenie podpory Mitel?
+ Mitel Support|  Oddelenie podpory Mitel
+ Remote| 
+ OnHold| 
+Initializing Components|  Prebieha inicializácia komponentov
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

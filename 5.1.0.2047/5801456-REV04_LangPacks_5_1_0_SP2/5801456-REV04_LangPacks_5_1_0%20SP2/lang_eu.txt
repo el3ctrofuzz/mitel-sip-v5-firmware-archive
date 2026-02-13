@@ -1,0 +1,3606 @@
+Euskera
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Hari gabekorik ez dago erregis.
+Cordless Handset Feature Key Configuration| HaGaTelFuntzTeklaKonf
+None| Batere ez
+Attempting to pair...| Erregistro-ahalegina
+Pairing successful| Erregistro zuzena
+Pairing failed       | Erregistro okerra
+Try again| Saiatu berriro
+Remove Handset:| Ezabatu hari gabekoa
+Attempting to remove| Ezab. ahalegintzen
+Wait...| Itxaron...
+Removal successful| Ezabapen zuzena
+Cordless| Hari gab.
+Cordless Handsets| Hari gab. telefonoak
+None Registered| Batere ez erregistr.
+Sync| Sinkro.
+Private Line| Linea pribatua
+Sending Directory| Bidali agenda
+to Handsets| hari gabekoetara
+System Unavailable| Sistema ez erabilg.
+Handset Pairing| Hari gab. erreg.
+Handset Keys| Mikrotel. teklak
+Feature Key programming complete.| Fun. teklaren konfig. osatua
+Two Call Support| Bi dei egiteko euskarria
+Intercom| Interkom
+Sending Directory to Handsets| Agenda telefonora bidaltzen
+No Public Number Found| Ez da aurkitu zenbaki publikorik
+480i prompts| 
+Time Format| Orduaren formatua
+    NOT MATCH !!!| Ez datoz bat!
+Erase local config?| Ezabatu konfig.?
+Alternate Server| Big. mail. zerb.
+Contrast Level| Kontr. doikuntza
+TypeService SIP| SIP zerb.-mota
+TypeService RTP| RTP zerb.-mota
+TypeService DSCP| DSCP zerb.-mota
+TypeService RTCP| RTCP zerb.-mota
+Dn| Jaitsi
+Rt| Eskuina
+Lf| Ezkerra
+Del| Ezabatu
+System Info Upload| Sist. inf. karg.
+Up| Igo
+Copyright| Copyright
+Reset| Berrasieratu
+Phone will restart automatically after finishing.| Eragiketa amaitzen denean telefonoa automatikoki berrasieratuko da.
+Please login| Konek., mesedez
+Incorrect password| Pasahitza ez da zuzena
+Reset Configuration?| Konfigurazioa berrezarri?
+Cfg. Svr.| Zerbitza.
+Enable| Aktibatua
+List| Zerrenda
+Move Up| Igo
+Move Down| Jaitsi
+Firmware Loaded| Firmwarea transferitua
+802.1x Authenticating| 802.1x baimentzen
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: IP-ren zain
+Bluetooth Upgrade .. Please wait| Bluetooth eguneratzen. Itxaron, mesedez.
+Contacting Redirector| Bergidatzailea konektatzen
+Redirecting Step 1| 1. urratsa bergidatzen
+Redirecting Step 2| 2. urratsa bergidatzen
+Redirecting Step 3| 3. urratsa bergidatzen
+Redirecting Step 4| 4. urratsa bergidatzen
+Redirecting Step 5| 5. urratsa bergidatzen
+Redirecting Step 6| 6. urratsa bergidatzen
+Auto Discovery...| Auto aurkikuntza
+Starting in Generic SIP Mode| Hasi SIP estandar moduan
+Starting in AastraLink Mode| Hasi AastraLink moduan
+Updating config| Konfig. eguneratzea
+Waiting assignment| Esleipenaren zain
+Checking for Firmware  Do not unplug phone!| Firmwarea bilatzen. Ez deskonektatu!
+New Firmware. Do not unplug phone!| Firmware berria. Mesedez, ez deskonektatu!
+New Firmware. Restarting...| Firmware berria. Berrasieratu...
+Downloading configuration| Konfigurazioa behera kargatzen
+Downloading Language Packs| Hizkuntza-sorta behera kargatzen
+Network| Sarea
+UPnP device not found| UPnP gailu errorea
+Port Map In Progress| Atakak kartograf.
+Port Map Incomplete| Atakak kart. errorea
+DSP| DSP
+SIP| SIP
+Tone| Tonua
+Interface| Interfazea
+Web| Web-orria
+Done| Bukatu
+CopyToAll| Kop. dena
+Cannot use firmware.| Firmware errorea
+No available lines| Linearik ez libre
+Current Password:| Egungo pasahitza:
+New Password:| Pasahitz berria:
+Re-enter Password:| Sartu berriro:
+  Password Changed| Pasahitz aldatua
+Change| Aldatu
+Use DHCP?| DHCP erabili?
+Advanced| Aurrer.
+DNS| DNS
+Ringer | Txirrina
+ ERROR: invalid port| Errorea: ataka okerra
+SIP Register| SIP Erregistratu
+Register?| Erregistratu?
+Authentication Name| Izena autentifikatu
+Nortel NAT| Nortel NAT
+Reset phone to| Berrasieratu tel.
+factory defaults?| jatorriko balioetara?
+Setting phone back to| Berrasieratu tel.
+Factory Defaults| jatorriko balioetara?
+  Please enter the   | Idatzi
+    administrator    | pasahitza
+      password.      | administratzailearena
+Password: | Pasahitza:
+Quit| Irten
+More| Gehiago
+Timeserver Address:| Ordut. zerb. helbidea
+Network Time Disabled| Sareko ordua desakt.
+Dialing| Markatzen
+Incoming| Sartzen
+Calling| Deitzen
+Pause| Etenaldia
+Pickup| Hartu
+Previous| Aurrekoa
+Enter Time:| Sartu ordua:
+Message Waiting| Mezua itxaroten
+Live Dialpad| Teklatu aktiboa
+Live Dialpad is| Teklatu aktiboa
+Options List| Aukeren zerrenda
+    Access denied    | Sarbidea ukatua
+Directory is full| Agenda osoa
+30min summertime| Udan 30 min.
+1h    summertime| Udan 1 h
+No Link| Esteka ez
+Next| Hurrengoa
+Retry| Saia berr.
+Negotiation| Negoziazioa
+Live Dialpad disabled| Teklatu akt. Desakt.
+Link State| Est.Egoera
+Headset Mic Volume| Mikr./aurik. bol.
+Gateway IP Address:| Atebide IP helb.
+Enter Date (y-m-d):| Sartu data (e-h-u)
+Enter| Sartu
+Enable| Aktibatua
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Default| Fabrikakoa
+Add New| Berria
+DeleteList| EzabZerr.
+Delete entire| Ezabatu
+Directory?| agenda?
+Enter Number:| Sartu zenbakia
+Network disconnected| Sarea deskonektatuta
+Network connected| Sarea konektatuta
+Entry Saved| Sarrera gordeta
+Entry Removed| Sarrera ezabatuta
+Private| Pribatua
+Public| Publikoa
+Delete entry?| Ezabatu sarrera?
+Delete?| Ezabatu?
+Delete number| Ezabatu zenbakia
+or delete all| edo ezabatu denak
+entries?| sarrerak?
+Name is full| Izena beteta
+Empty| Hutsik
+Redial List| Markatzeko zerrenda
+Details| Xehetas.
+Copy| Kopiatu
+Select| Hautatatu
+Voicemail| Ahots-posta
+DeleteItem| Ezabatu
+Delete All| Ezab. dena
+Entry copied to| Sarrera kopiatuta
+Entry Exists| Sarrera badago
+All items erased| Sarrerak ezabatuak
+Sort| Sailkatu
+Resume| Berrekin
+EditNum| Edit. zk.
+DeleteList again to| Sakatu ezab. zerr.
+Delete again to| Sakatu ezabatu
+erase this item| ezabatu sarrera
+erase all calls| ezabatu sarrerak
+ new caller| dei berria
+ new callers| dei berriak
+Press 1st letter| Idatzi 1. letra
+Handset | Hari gabe
+ Missed Call| Dei galdua
+ Missed Calls| Dei galduak
+Call Forward Mode| Desbideratzeko modua
+CFWD All| Desbideratu denak
+CFWD Busy| Desbid. okup. badago
+CFWD NoAnswer| Desbid. erantzunik ez
+Call| Deia
+Select TFTP| Hautatu TFTP
+Use %c for new| Erab. %c berrir.
+Use %c to view| Ikust. erabili %c
+Download Protocol| Jaitsi protokoloa
+OFF| Desakt.
+ON| Aktibatu
+Add Number| Sartu zk.
+Arrange| Sailkatu
+%cmore| %c gehiago
+Office| Bulegoa
+Home| Etxea
+Cell| Mugikorra
+Pager| Lokalizatzailea
+VLAN Settings| VLAN parametroak
+Softkeys and XML| Tekla programagarriak eta XML
+Softkeys Configuration| Tekla programagarrien konfigurazioa
+Bottom Keys| Beheko teklak
+Top Keys| Goiko teklak
+Page1| 1. orrialdea
+Page2| 2. orrialdea
+Page3| 3. orrialdea
+Page4| 4. orrialdea
+Page5| 5. orrialdea
+Idle| Libre
+Outgoing| Irteten
+Empty| Hutsik
+Enter server name/IP:| Zerbitz. / IP izena
+Enter HTTPS port:| HTTPS ataka:
+Erase| Ezabatu
+Proxy IP/Port| IP/Proxy ataka
+Registrar IP/Port| Erreg. IP/Proxy
+Erasing local config| Ezab. konfig. lokala
+Proxy Port:| Proxyaren ataka:
+Registrar Port:| Erregistratu ataka:
+Proxy Server:| Proxy zerbitzaria:
+Registrar Server:| Erreg. zerbitzaria:
+Contrast Level:| Doitu kontrastea
+Erase Local Config.| Ezab. konfig. lokala
+Administrator Menu| Administr. menua
+Backlight On Time| Atz. arg. iraupena
+Redirect HTTP->HTTPS?| Berbid. HTTP->HTTPS?
+Block XML HTTP POSTs?| Blok. XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Bezero metodoa
+To unlock the phone| Tel. desblokeatzeko
+No more softkeys| ProgTekl. ez-erabilg.
+Ignore| BazterUtzi
+Answer| Erantzun
+Configuration Server| Konfigurazio-zerbitzua
+Primary Path| Ibilbide nagusia
+Alternate Path| Big. mailako ibilb.
+Logging in| Hasi saioa
+Login Failed| Errorea konexioan
+Enable?| Aktibatuta?
+Check Expires| Egiaztatu data
+Check Hostnames| Egiaz. ostalari-izena
+Conf. Unavailable| Konfig. ez-erabilg.
+Ringing...| Deitzen...
+Error Messages| Errore-mezuak
+No Error Messages| Errore-mezurik ez
+Download Options| Behera karg. aukerak
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| gehiago
+A # &| A # &
+  Invalid password   | Pasahitz okerra
+Upload Sys Info| Kargatu sistemako informazioa
+Config is updated. Restarting...| Konfigurazio eguneratua. Berrasieratu...
+CFWD Filtering| Desbideratze galbahetua
+Checking for Firmware| Firmwarea bilatzen
+for new| berrirako
+9133i prompts| 
+Password Changed| Pasahitza aldatuta
+Leave| Irten
+Time Format| Orduaren formatua
+Erase local cfg?| Konfig. ezabatu?
+TypeService SIP| SIP zerbitzua
+TypeService RTP| RTP zerbitzua
+TypeService DSCP| DSCP zerbitzua
+TypeService RTCP| RTCP zerbitzua
+Alternate Server| BigMailZerbitz.
+Contrast Level| Kontr. doikuntza
+Options List| Aukera-zerrenda
+DELETE to erase item  or # to erase Number| EZABATU ezabatu zerr, # ezabatu Zenb.
+Upload Sys Info| Kargatu sistemako informazioa
+Directory Empty. Use Save to add| Agenda hutsa. Sakatu gorde
+Directory Empty Use Save to add| Agenda hutsa. Sakatu gorde
+  NOT MATCH !!!| Ez datoz bat!
+DELETE again to erase this item| Sakatu ezabatu ezabatu sarrera
+System Info Upload| Kargatu sistemako informazioa
+Phone will restart after| Telefonoa berrasieratu egingo da 
+Copyright| Copyright
+Reset| Berrasieratu
+Use DHCP?| DHCP erabili?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Half 1000Mbps
+Cfwd Destination| Cfwd helburua
+Please login| Konek., mesedez
+Incorrect password| Pasahitza okerra da
+Reset Configuration?| Konfigurazioa berrezarri?
+Cfg. Svr.| Zerbitza.
+Net disconnected| Sarea deskonek.
+Live Dialpad| Teklatu aktiboa
+Firmware Loaded| Firmwarea transferitua
+802.1x Authenticating| 802.1x autentifikatzen
+LLDP| LLDP
+Initializing network| Sarea berrasieratzen
+Bluetooth Upgrade| Bluetooth eguneratzen
+Contacting Redirector| Bergidatzailea konektatzen
+Redirecting Step 1| 1. urratsa bergidatzen
+Redirecting Step 2| 2. urratsa bergidatzen
+Redirecting Step 3| 3. urratsa bergidatzen
+Redirecting Step 4| 4. urratsa bergidatzen
+Redirecting Step 5| 5. urratsa bergidatzen
+Redirecting Step 6| 6. urratsa bergidatzen
+Auto Discovery| Auto aurkikuntza
+Starting in Generic SIP Mode| Hasi SIP estandar moduan
+Starting in Aastra Link Mode| Hasi AaastraLink moduan
+Updating configuration| Konfig. eguneratzea
+Waiting assignment| Esleipenaren zain
+Checking for new firmware| Firmware berria bilatzen
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Firmware berria: ez deskonektatu tel.
+New Firmware: Restarting...| Firmware berria: berrasieratu...
+Downloading configuration| Fonfig. Behera kargatzen
+Downloading Language Packs| Hizkuntza-sorta behera kargatzen
+Network| Sarea
+UPnP Gateway Not Found| UPnP atebidea ez da aurkitu
+UPnP Port Map In Progress| UPnP ataka kartografiatzea martxan
+UPnP Port Map Incomplete| UPnP ataka kartografiatzea osatu gabe
+DSP| DSP
+SIP| SIP
+Tone| Tonua
+Registering with the voice network...| Ahots-sarearekin erregistratzen...
+Web| Web-orria
+Done| Bukatu
+Cannot use| Ezin da erabili
+this firmware.| erab. firmwarea
+All lines in use| Lineak okupatuta
+Current Password| Egungo pasahitza
+New Password| Pasahitz berria
+Enter Again| Baieztatu
+Ringer volume   | Txirrin. bolum.
+DELETE again to| Sakatu ezabatu
+erase all calls| ezabatu deiak
+Caller is erased| Sarrera ezabat.
+Network Time| Sareko ordua
+Change| Aldatu
+Options| Aukerak
+Access denied| Sarbidea ukatua
+Directory full| Agenda osoa
+Link Active| Esteka aktiboa
+No Link| Estekarik ez
+Live Dialpad is\nnot available.| TeklAkt./ez-erab
+Live Dialpad is\nON| Tekl. akt./bai
+Live Dialpad is\nOFF| Tekl. akt./ez
+-  confirmed   -| - baieztatua -
+Contrast | Kontrastea
+Set| Doitu
+DHCP\nON| DHCP\nGaitu
+DHCP\nOFF| DHCP\nDesgaitu
+Enable?\nYes| Aktibatu?\nBai
+Enable?\nNo| Aktibatu?\nEz
+Check Expires| Egiaztatu data
+Check Expires?\nYes| Egiaz data?\nBai
+Check Expires?\nNo| Egiaz. data?\nEz
+Check Hostnames| Egiaztatu izenak
+Check Hostnames?\nYes| Egiaz. iz.?\nBai
+Check Hostnames?\nNo| Egiaz. Iz.?\nEz
+Cancel| Ezezt.
+SIP Register\nON| SIP Erreg.\nAkti
+SIP Register\nOFF| SIP Erreg.\nDesa
+Nortel NAT\nEnabled| Nortel NAT\nAkti
+Nortel NAT\nDisabled| Nortel NAT\nDesa
+Next| Hurren.
+Done| Bukatu
+Retry| BerrSai
+Exit| Irten
+Pickup| Hartu
+Call held| Deia atxikita
+Calls held| Deiak atxikita
+Country Code: | Herr. Kodea
+*List Countries| *Herr. Zerrenda
+Enter| Sartu
+Admin Password| Admin. Pasahitza
+yyyy-mm-dd | ee-hh-uuuu
+Restart phone?| Tel. berras?
+#Confirm| #Baieztatu
+RestoreDefaults?| FabrDoikBerr?
+Call Agent 1| 1.DeiAgentea
+Call Agent 2| 2.DeiAgentea
+Call Agent 3| 3.Dei Agentea
+Invalid Code    | Kode okerra
+E: Invalid port!| E:Ataka okerra
+Application:| Aplikazioa:
+Boot ROM:| Hasierako ROM:
+Negotiation:| Negoziazioa:
+30m summertime| Udan 30 min.
+1h summertime| Udan 1 h
+Invalid password| Pasahitz okerra
+  disconnected| deskonektatuta
+   connected| konektatuta
+    Network| Sarea
+erase all items| Ezabatu sarrerak
+Enter Number>| Sartu zenbakia>
+Setting phone to| Birdoitu tel.
+Use Save to end| Sakatu gorde
+to enter name>| Izena idazteko
+Saved: Directory| Gordeta: Agenda
+Retrying config | Berrik. konfig.
+download...     | Behera kargatzen
+empty| hutsik
+No Match| Bateratasunik ez
+Save to?| Gorde non?
+Saved Memory key| Mem. gorde tekl.
+Removed Key| Tekla ezab.
+Key saved | Mem. gorde tekl.
+Key removed| Tekla ezab.
+Press 1st letter| Idatzi 1. letra
+Speaker volume  | Bozg. bol.
+Handset volume  | Mikrotel. bol.
+Headset volume  | Aurikul. bol.
+Factory Defaults| Fabr. balioak
+ Missed Call| Dei galdua
+ Missed Calls| Dei galduak
+Cfwd State| Desbid. egoera
+Cfwd Number| Desdid. Zenb.
+Cfwd Mode| Desbid. modua
+CFWD All| Desbid. denak
+CFWD Busy| Desb. ok. badago
+CFWD NoAnswer| Desb. Erantz. ez
+Select TFTP\nPrimary| HautTFTP\nPrim.
+Select TFTP\nAlternate| HautTFTP\nSek.
+DownloadProtocol| Behera kargProt.
+VLAN Settings| VLAN parametroak
+Server Name/IP?| Zerb. izena/IP
+HTTPS Port?| HTTPS ataka?
+Client Method\nSSL 3.0| BezMet.\nSSL 3.0
+Client Method\nTLS 1.0| BezMet.\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nBerg
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nEz berg
+Redirect| Bergidatu
+Do not redirect| Ez bergidatu
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nEz blo
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBlo
+Do not block| Ez blokeatu
+Block| Blokeatu
+Erasing config| Konfig. Ezabatu
+Pri TFTP Path| Ibilbide nagusia
+Alt TFTP Path| BigMaila ibilb.
+Backlight Mode| Argizt. modua 
+Backlight Time| Argizt. Iraupena
+Answer| Erantz.
+Ignore| BazUtzi
+Cfwd| DESV
+Copy to All?| Den. kopiatu?
+Apply Changes?| Aldak. aplik.?
+Logging in| Hasi saioa
+Login Failed| Konexio okerra
+Conf Unavailable| KonfEz-erabilga.
+Error Messages| Errore-mezuak
+No Error Messages| Errore-mez. ez
+Delete All| Ezab. dena
+Download Options| Behera kargAuk.
+Config updated. Restarting...| Konf. Eguner. Berras.
+DELETE again to erase all calls| EZABATU denak ezabatzeko
+Firmware Check| Egiaztatu Firmwarea
+Fwd Filtering| Desb. aut. galbahetua
+CFWD Filtering| Desb. galbahetua
+DELETE again to erase all items| EZABATU sarrerak ezabatzeko
+Upload Sys Info| Kargatu sistemako informazioa
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Idatzi admin-pasahitza
+Error Msg| Errore-mezua
+Unlock the phone?| Telefonoa desblokeatu?
+ Enter Unlock Password| Sartu desblok. Pasahitza
+softkey| Tekla
+Edit Number| Editatu zk.
+Lock the phone| Blokeatu tel.
+keypad| Teklatua
+Unlock| Desblokeatu
+ Cust Feat| FunPerts.
+Phone is locked| Tel. blokeatua
+Unlock the phone| Desblokeatu tel.
+GoodBye| Agur
+Pass Thru Port| Pass Thru ataka
+First| Izena
+Last| Abi.
+Name| Izen
+Add| Geh
+Edit| Edit
+Space| Espaz
+Bksp| Atzera
+caps| Maiuskula-blokea
+CAPS| MAIUSKULA BLOKEA
+Reject| Atzera bota
+Silence| Isiltasuna
+Hold| Itxaronaldia
+Transfer| Berbidali
+>| >
+Lines| Lineak
+Settings| Parametroak
+Device Name| Gailuaren izena
+Bluetooth Devices| Bluetooth gail.
+Bluetooth Status:| Bluetooth eg
+Search| Bilatu
+Searching...| Bilatzen...
+device(s) found.| aurk. gailuak
+Press on a device to start pairing.| Sakatu gailuan erregistratzeko
+Enter PIN| Sartu PIN
+Add Device| Gehitu gailua
+Active| Aktibo
+Are you sure?| Ziur zaude?
+ALL| Denak
+Phone No:| Tel. zk.
+Copy to all modes| Kopiatu denetara
+BUSY| Okupatua
+NO ANSWER| Erantzunik ez
+CFWD NO ANS:| Desb. erantzunik ez:
+CFWD BUSY:| Desb. okupatua:
+CFWD ALL:| Desb. guztiak:
+Audio| Audioa
+Calibrate Screen| Kalibratu pantaila
+Recalibrate Touchscreen?| Kalibratu pantaila ukigarria?
+Softkeys| Teklak
+Headset Mic Volume| Mikro/Aurikular bol.
+Headset Device| Aurikularrak
+Bluetooth| Blootooth
+Wired| Kableatua
+Restart | Berrasieratu
+No Calls| Deirik ez
+Brightness Timer| Distira-tenporizadorea
+Brightness Level| Distira-doikuntza
+Add to Directory| Gehitu direktoriora
+Waiting for Touch Screen activity to subside ...| Inaktibitatearen zain pantaila ukigarrian
+Touch the UPPER-LEFT corner of the screen| Ukitu pantailako goiko ezkerreko izkina 
+Touch the UPPER-RIGHT corner of the screen| Ukitu pantailako goiko eskuineko izkina
+Touch the LOWER-RIGHT corner of the screen| Ukitu pantailako beheko eskuineko izkina
+Touch the LOWER-LEFT corner of the screen| Ukitu pantailako beheko ezkerreko izkina
+Received unreliable data. You will be asked to touch the same point again| Datu fidagaitzak jaso dira. Berriro puntu bera ukitzeko eskatuko zaizu.
+Processing ...| Prozesatzen...
+Validating calibration data ... please wait| Baliozkotu kalibrazio-datuak... itxaron, mesedez
+Sanity Check OK. Save changes?| Egiaztapena amaituta. Datuak gorde?
+Sanity Check Failed| Erroreak egiaztapenean
+Retry| Berriro saiatu
+Quit| Irten
+Please Enter| Idatzi
+Submit| Bidali
+User ID:| Erabiltzailearen ID
+Password:| Pasahitza
+Transferring| Transferentzia
+No. Rings| Txirrin-kop.
+Line| Linea
+Unable to Pair| Ezin da erregistratu
+Please Wait...| Itxaron, mesedez
+Add new device...| Gehitu gailua
+Detected:| Detektatuta:
+Connecting:| Konektatu
+Disonnecting:| Deskonektatu
+Connected:| Konektatuta:
+ALL| Denak
+BUSY| Okupatuta
+NO ANSWER| Erantzunik ez
+CFWD ALL:| Desb. denak
+CFWD BUSY:| DesbOkup.
+CFWD NO ANSWER:| DesEran. ez:
+Copy to all modes| Kopiatu
+OFF| Desaktibatu
+Off| Desaktibatu
+Phone Number:| Tel. zk.:
+Level 1| 1. maila
+Level 2| 2. maila
+Level 3| 3. maila
+Level 4| 4. maila
+Level 5| 5. maila
+(Min: %d  Max: %d)| Min: %d  Max: %d
+ Enter Administrator Password| Idatzi admin. pasahitza
+Phone will restart automatically after finishing.| Eragiketa amaitutakoan telefonoa automatikoko berrasieratuko da.
+Conference| Konferentzia
+Conf| Konferentzia
+Reset Configuration?| Konfigurazioa berrezarri?
+Hide| Ezkutatu
+Live Dialpad| Teklatu aktiboa
+Live Dial| Tekl. akt.
+Lock| Blokeatu
+Lock the phone?| Tel. blokeatu?
+Directory| AgenZerr.
+Phone Number:| Tel. zk.:
+Common prompts| 
+None| Batere ez
+Disable| Desakt.
+Logout failed| Ezin izan da saioa amaitu
+Logout successful| Ongi amaitu da saioa
+Login successful| Ongi hasi da saioa
+Logout user %s| Amaitu %s erabiltzailearen saioa
+Login/Logout| Hasi/Amaitu saioa
+User ID| Erabiltzaile-IDa
+User ID required| Erabiltzaile-IDa behar da
+Application busy. Please try again later.| Aplikazioa okupatuta dago. Saiatu berriro geroago.
+Page Expired. Please reload the page.| Orria iraungi da. Kargatu berriro orria.
+Check Expires| Egiaztatu data
+Check Hostnames| Egiazt. ost.-izenak
+Use DHCP?| DHCP erabili?
+Restart Phone?| Tel. berras?
+12 Hour| 12 ordu
+Speeddial| Markazio lasterra
+Erase local cfg?| Konfig. ezabatu?
+Spd Dial| MarkLaste
+Backup Outbound Proxy Server| Irteerako proxy zerb. kopia
+Backup Outbound Proxy Port| Irteerako proxy ataka kopia
+Firmware Info| Firmware inf.
+DHSG| DHSG
+DHSG is ON| DHSG aktibatuta
+DHSG is OFF| DHSG desak.
+Backlight On Time| Atz. arg. iraupena
+Use Alt TFTP| Erabili Alt TFTP
+Pri TFTP Path| Ibilbide nagusia
+Alt TFTP Path| BigMailIbilb.
+RestoreDefaults?| FabrDoikBerr
+HTTP Init Failed| HTTP has. errorea
+Get aastra.lic| Lor Aastra li.
+Get mac.lic| Lortu Mac liz.
+Firmware not licensed for use on this phone| Firmwareak liz. ez telefono honetan erab.
+Redial List is empty| Birmarkazio zerr. hutsik
+Callers List is empty| Deien zerr. hutsik
+Callers List| Deien zerrenda
+Redial List| Birmarkazio zerr.
+Directory| Agen. zerr.
+License Information| Lizentziaren informazioa
+XML Application URI:| XML aplikazioa URI
+Missing User ID| Erabil. ID falta da
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Era
+Active Features| Funtzio aktiboak
+WWW MMM DD| SSS HHH EE
+DD-MMM-YY| EE-HHH-UUUU
+YYYY-MM-DD| UUUU-HH-EE
+DD/MM/YYYY| EE/HH/UUUU
+DD/MM/YY| EE/HH/UU
+DD-MM-YY| EE-HH-UU
+MM/DD/YY| EE/HH/UU
+MMM DD| HHH EE
+DD MMM YYYY| EE HHH UUUU
+WWW DD MMM| SSS EE HHH
+DD MMM| EE HHH
+DD.MM.YYYY| EE.HHH.UUUU
+24 Hour| 24 ordu
+XML Application Title:| XML aplikazioaren titulua
+License Status| Lizentziaren egoera
+FTP| FTP
+to view| ikusteko
+Contact Name already exists| Kontaktuko izena badago
+Leave| Irten
+Contact Mismatch| Kontaktua ez dator bat
+ Call Terminated| Deia amaituta
+IP and gateway have to be on same subnet| IP-k eta Atebideak azpisare berean egon behar dute
+IP cannot be equal to gateway address| IP-k ezin du izan Atebidearen helbide bera
+Call Waiting Tone Period| Dei-tonuaren tartea itxaroten
+OK| Bai
+Directory empty| Agenda hutsik
+Files Sent| Fitx. bidalita
+Upload System Info| Kargatu sist. informazioa
+Upload| Kargatu
+Call Transferred| Deia desbideratuta
+Firmware Information| Firmware informazioa
+Contact Name already exists| Kontaktuko izena badago
+Replace| Ordeztu
+No Services| Zerbitzurik gabe
+Merge| Konbinatu
+Enter Name:| Idatzi izena:
+Call Hold Reminder| Dei-abisua itxaroten
+Others| Beste batzuk
+Call Hold Reminder During Active Calls| Dei-abisua itxaroten dei aktiboetan
+Out of service| Zerbitzuz kanpo
+Reason: | Arrazoia: 
+Add blank record?| ErregHutsaGehi.?
+Audio Setting| Audio-konfigurazioa
+Delete Item| Ezabatu elementua
+Services| Zerbitzuak
+Server| Zerbitzaria
+Service Disabled| Zerbitzua desak.
+Port| Ataka
+Path| Ibilbidea
+Username| Erabiltzailea
+No. Rings| Txirrin-kop.
+Use xx to view| Ikust. erab. xx
+User Password| Erab. pasahitza
+Time and Date| Data eta ordua
+Language| Hizkuntza
+Screen Language| Pant. hizkuntza
+Tones| Tonuak
+Tone Set| Tonu-sorta
+Ring Tone| Deiaren tonua
+State| Egoera
+State:| Egoera:
+User-Busy| Erab. okup.
+Unconditional| DesbBaldintz ez
+Time of day| Ordua
+Deflection| Berbidaltzea
+Follow Me| Jarraitu niri
+Away| Ez dago
+Busy| Okupatua
+Restart| Berrasier.
+All On| Akt. denak
+All Off| Des. Denak
+AllAccts| Kontu guzt
+Conference| Konferentzia
+Flash| Flasha
+Dial| Markatu
+Directory| Agen. zerr.
+Callers| Deiak
+Icom| Interkom.
+Icom| Interkom.
+Dir| Agenda
+Xfer| Berbidali
+Conf| Konfer.
+SIP Settings| SIP konfig.
+Proxy Port| Proxyaren ataka
+Registrar Port| Erreg. ataka:
+User Name| Erabiltz. izena
+Screen Name| Pantaila izena
+Proxy Server| Proxy zerbitz.
+Registrar Server| Erregistr. zerb.
+Auth. Name| Izena autent.
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Erakutsi izena
+RTP Port Base| RTP oin. ataka
+Static NAT| NAT estatikoa
+NAT Settings| NAT konfig.
+NAT IP| IP NAT
+NAT SIP Port| SIP NAT ataka
+NAT RTP Port| RTP NAT ataka
+NAT HTTPS Port| HTTPS NAT ataka
+Phone Status| Tel. egoera
+Auto Discovery| Auto aurkikuntza
+Trying...| Saiatzen
+Remote| Urrun.
+Reset| Berra.
+Choose Server| Hautatu zerb.
+Select| Hauta.
+Select| Hauta.
+Ring Tone:| Txirrina:
+Silent| Isila
+Network Settings| Sarearen konfig.
+Clear| Ezabatu
+Speaker | Bozgorailua
+Headset | Aurikularrak 
+Speaker/Headset| Bozg./Aurik.
+Headset/Speaker| Aurik./Bozg.
+Audio Mode| Audio modua
+Low| Baxua
+Medium| Ertaina
+High| Altua
+OFF| Desakt.
+Off| Desakt.
+ON| Aktibatu
+DHCP Settings| DHCP parametroak
+DHCP User Class| DHCP erab.-mota
+Hostname| Ostalari-izena
+IP Address| IP helbidea
+Subnet Mask| Azpisare mask.
+Subnet Mask:| Azpisare mask:
+Gateway| Atebidea
+Primary DNS| DNS nagusia
+Secondary DNS| DNS sekundarioa
+TFTP Settings| TFTP parametroak
+VLAN| VLAN
+VLAN ID| ID VLAN
+PC Port VLAN ID| VLAN ID ataka PC
+LAN Port VLAN| VLAN LAN ataka
+PC Port VLAN| VLAN PC ataka
+Priority| Lehentasuna
+VLAN Enabled\nYes| VLAN akt.\nBai
+VLAN Enabled\nNo| VLAN akt.\nEz
+PC Port Priority| PC ataka lehent.
+LAN Port VLAN ID| VLAN ID atakaLAN
+UPnP| UPnP
+Use UPnP| Erabili UPnP
+Select Gateway| Hautatu atebidea
+Portmap Started| Hasi ataka kart.
+Portmap Error| ErrorAtaka kart.
+LLDP| LLDP
+LLDP packet interval| LLDP sorta tart
+LLDP Settings| LLDP parametroak
+Use LLDP ELIN| Erab. LLDP ELIN
+TypeService DSCP| DSCP zerb.-mota
+Type of Service DSCP| DSCP zerbitzu-mota
+VLAN Priority| VLAN lehentasuna
+Other Priority| BestLehent. bat
+SessionBorderCtl| SBC
+Session Border Ctrl| SBC
+Select SBC| Hautatu SBC
+SBC Settings| Konfiguratu SBC
+Kagoor| Kagoor
+Update Interval (sec)| Eg. tartea (seg)
+Backspace| Atzera
+No| Ez
+Yes| Bai
+DHCP Download Options| DHCP deskargatzeko aukerak
+DHCP Download Option| DHCP deskargatzeko aukerak
+Firmware Version| Firmware berts.
+Restart Phone| Berras. Tel.
+Show| Erakutsi
+is OFF| Desaktibatuta
+Password| Pasahi
+Restarting...| Berrasieratu
+Speed| Kadentzia
+Manual| Eskuli
+Auto| Auto
+Auto| Auto
+Half| Erdia
+Full| Osoa
+Duplex| Duplexa
+ ERROR: | Errorea:
+Invalid IP addr.| IP helb. okerra
+Invalid mask| Maskara okerra
+Range is 1-4094| 1-4094 soilik
+Range is 1-4095| 1-4095 soilik
+Range is 1-4095| 1-4095 soilik
+Range is 0-63| 0-63 soilik
+Range is 0-7| 0-7 soilik
+DND| NMR
+DND On| Ez erag. ENCEN
+Time Server| Ordutegi-zerb.
+Set Time| Ordua
+Set Date| Data
+Date Format| Data-formatua
+Time Zone| Ordu-eremua
+Daylight Savings| Udako ordutegia
+Invalid Time| Okerreko ordua
+Invalid Date| Okerreko data
+Invalid IP| IP okerra
+ Invalid Number| Zk. ez du balio
+On| Aktibatu
+On| Aktibatu
+On| Aktibatu
+OFF| Desaktibatu
+Automatic| Automatikoa
+Conf Hold| Konfer. atxikita
+No Service| Zerb. gabe
+Mute| Mikro isila
+Connected| Konekt.
+Drop| Ezabatu
+Park| Aparkatu
+PickUp| Hartu
+Redial| Birmarkatu
+DCP| DCP
+DCP List| DCP zerrenda
+Cancel| Baliogab.
+Done| Bukatu
+Callers List| Deien zerr.
+No changes made| Aldaketarik gabe
+Key is Locked| Tekla blok.
+Cannot Save| Gorde gabe
+1 item| 1 sarrera 
+ items| Sarrerak
+No User| Erabiltz. gabe
+DHCP failed| DHCP akatsa
+Unknown Name| Izen ezezaguna
+Unknown Number| Zk. ezezaguna
+Unknown Line| Linea ezezaguna
+Item is erased| Sarrera ezab.
+Unknown| Ezezaguna
+NextSpace| Zuriunea
+Dot "."| "." puntua
+Transfer Failed| Transf. errorea
+Call Forward| Deia desb.
+Call Fwd| DESB
+All| Denak
+All| Denak
+Any| Edozein
+NoAns| Erantzunik ez
+BusyNoAns| Okup./Eran. Ez
+Number:| Zk:
+Mode:| Mod.:
+No. Rings:| Txirrinak:
+Line: | Linea:
+Contrast Level| Kontr.-doikuntza
+ Message| Mezua
+ Messages| Mezuak
+Loading Page...| Or. kargatzen...
+Abort Loading...| Eten kargatzea
+Connect Timeout| Konex. itxaroten
+Data Timeout| Denbora agortuta
+File Not Found| Fitx. ez aurkitu
+Page Load Error| Karga-errorea
+Cannot display| Ezin da erakutsi
+Skip| BazterUtzi
+Call Failed| Dei galdua
+Primary Server| Zerb. nagusia
+Primary Server| Zerb. nagusia
+Alternate Server| Zerb. sekund.
+Primary| Nagusia 
+Alternate| Sekundarioa
+Bad encrypted cfg| KonfigEnkripErro
+Use TFTP| Erabili TFTP
+Use FTP| Erabili FTP
+Use HTTP| Erabili HTTP
+Use HTTPS| Erabili HTTPS
+FTP Settings| FTP parametroak
+FTP Server| FTP zerbitzaria
+FTP Path| FTP ibilbidea
+FTP Username| FTP erab. Izena
+FTP Password| FTP pasahitza
+HTTP Settings| HTTP parametroak
+HTTP Server| HTTP zerbitzaria
+HTTP Path| HTTP ibilbidea
+HTTP Port| HTTP ataka
+HTTPS Settings| HTTPS param.
+Download Server| Deskarga-zerb.
+Download Path| Deskarga-ibilb.
+Download Port| Deskarga-ataka
+HTTPS Server| HTTPS zerb.
+HTTPS Path| HTTPS ibilbidea
+HTTPS Port| HTTPS ataka
+HTTPS Client| HTTPS bezeroa
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Ziurt. faltsua
+Certificates| Ziurtagiriak
+Cert Validation| Onartu
+All defaults| Denak jat.-doik.
+Config default| Konf. lehenetsia
+AM| AM
+PM| PM
+Factory Default| Jat. doik.
+Factory Default?| Jat. doik.
+Erase Local Cfg.| Ezab. konfig.
+New IP Obtained| IP helb. berria
+New NAT IP| IP NAT berria
+Server IP Change| IP helb. aldat.
+AastraLink Menu| AastraLink menua
+Server Options| Zerbitz. aukerak
+AastraLink Info| AastraLink inf.
+Server Remote IP| IP urrun zerb.
+Server Local IP| IP zerb. lokala
+Preferences| Lehentasunak
+Network Status| Sarearen egoera
+MAC Address:| MAC tel. helb.
+MAC Address| MAC tel. helb.
+BT MAC Address:| MAC telHelb. BT
+Invalid Key| Tekla ez-baliag.
+Speed Dial Edit:| Edit. markLast.
+Press SD button| Sak. markLast.
+From: | Nork:
+To: | Nori:
+Via: | Bidea:
+Diverted: | Desbideratua
+Log Off| Irten
+Customer Support| Euskarri tek. zerb.
+Status| Egoera
+Operation| Funtz. modua
+Basic Settings| Oinarrizko konfigurazioa
+Advanced Settings| Konfigurazio aurreratua
+System Information| Sistemaren informazioak
+Down| Jaitsi
+Up| Igo
+n/a| n/a
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Atributua
+Link State| Estekaren egoera
+Negotiation| Negoziazioa
+Hardware Information| Hardwarearen informazioa
+Firmware Information| Firmwarearen informazioa
+Firmware Release Code| Firmware bertsioaren kodea
+Value| Balioa
+Platform| Plataforma
+Boot Version| Boot bertsioa
+Date/Time| Data/Ordua
+DND Key Mode| Ez eragozteko tekla
+Call Forward Key Mode| Desbideratzeko tekla
+Option 160| 160. aukera
+Option 159| 159. aukera
+Option 66| 66. aukera
+Option 43| 43. aukera
+Account| Kontua
+Both| Biak
+Line| Linea
+Line 1| 1. linea
+Line 2| 2. linea
+Line 3| 3. linea
+Line 4| 4. linea
+Line 5| 5. linea
+Line 6| 6. linea
+Line 7| 7. linea
+Line 8| 8. linea
+Line 9| 9. linea
+Line 10| 10. linea
+Configuration Line %d|  %d linearen konfigurazioa
+Basic SIP Authentication Settings| Oinarrizko SIP autentifikatzeko parametroak
+Screen Name| Pantaila izena
+Screen Name 2| 2. pantailaren izena
+Phone Number:| Tel. zk.:
+Phone Number| Tel. zk.:
+Caller ID| Deitzailearen ID
+Authentication Name| Autentifikazioaren izena
+Password| Pasahitza
+BLA Number| BLA zenbakia
+Line Mode| Linearen modua
+Generic| Generikoa
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA 
+Basic SIP Network Settings| Oinarrizko SIParen sareko parametroak
+Outbound Proxy Server| Outbound Proxy zerbitzaria
+Outbound Proxy Port| Outbound Proxy ataka
+Registration Period| Erregistro-aldia
+RTP Settings| RTP parametroak
+Autodial Settings| Automarkazioko parametroak
+Autodial Number| Automarkazioko zenbakia
+Autodial Timeout| Automarkazioko denbora-muga
+Use Global Settings| Erabili parametro globalak
+DTMF Method| DTMF metodoa
+SIP INFO| SIP informazioa
+BOTH| Biak
+Save Settings| Gorde aldaketak
+Global SIP| SIP orokorra
+Global SIP Settings| SIParen konfirgurazio orokorra
+RTP Encryption| RTP enkriptatua
+SRTP Disabled| SRTP desgaitua
+SRTP Preferred| SRTP lehenetsia
+SRTP Only| SRTP soilik
+Advanced SIP Settings| SIP aurreratuaren konfigurazioa
+Explicit MWI Subscription| MWI esplizituaren harpidetza
+Explicit MWI Subscription Period| MWI esplizituaren harpidetza-aldia
+MWI for BLA account| MWI BLA konturako
+Enabled| Aktibatua
+Send MAC Address in REGISTER Message| Bidali MAC helbidea REGISTER mezuan
+Send Line Number in REGISTER Message| Bidali linearen zenbakia REGISTER mezuan
+Session Timer| Saio-tenporizadorea
+T1 Timer| T1 tenporizadorea
+T2 Timer| T2 tenporizadorea
+Transaction Timer| Transakzio-tenporizadorea
+Transport Protocol| Garraio-protokoloa
+UDP and TCP| UDP eta TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| TLS iraunkorra
+Registration Failed Retry Timer| Erregistro-tenporizadorearen errorea
+Registration Timeout Retry Timer| Erregistro-tenporizadorearen denbora-muga
+Registration Renewal Timer| Berritu erregistro-tenporizadorea 
+BLF Subscription Period| BLF harpidetza-aldia
+ACD Subscription Period| ACD harpidetza-aldia
+BLA Subscription Period| BLA harpidetza-aldia
+Blacklist Duration| Blacklist iraupena
+ Park Pickup Config| Fonfig. aparkatu/berreskuratu
+RTP Port| RTP ataka
+Basic Codecs| Oinarrizko Codec-ak
+Force RFC2833 Out-of-Band DTMF| Behartu RFC2833 DTMF bandatik kanpo
+Codec Preference List| Codec lehenetsien zerrenda
+Silence Suppression| Isltasuna kentzea
+Provisioning complete.| Prestaketa osatua
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Telefonoa berrasieratu behar duzu konfigurazio berriak ondorioak izan ditzan
+ERROR: Maximum number of connections reached.| ERROREA: Lortu da konexio-kopuru maximoa.
+Logout Complete| Saio-amaiera osatua
+Your session has ended.  Please close the browser.| Zure saioa amaitu da. Mesedez, itxi nabigatzailea
+Session Expired| Saioa iraungita
+Please close the browser or use the link below to log in again.| Mesedez, itxi nabigatzailea edo erabili esteka saioa berriro abiarazteko.
+Log In| Log In
+Log Out| Log Out
+Log Out| Log Out
+Avail| Erabilg
+Avail| Erabilg
+Unavail| Ez-erab
+Unavail| Ez-erab
+Reset User Password| Berrezarri erabiltzailearen pasahitza
+Please enter the current and new passwords| Idatzi egungo pasahitza eta pasahitz berria
+Current Password| Egungo pasahitza
+New Password| Pasahitz berria
+Password Confirm| Berretsi pasahitza
+Please Enter| Idatzi
+Submit| Bidali
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Baimentzen...
+Authorization Failed| Baimen-errorea
+Auth Failed| Baim.-errorea
+Current password is incorrect.| Sartutako egungo pasahitza ez da zuzena
+Please try again.| Saiatu berriro.
+The new password fields do not match.| Pasahitz berriaren eremuak ez datoz bat.
+The new password can not be saved.| Pasahitz berria ezin da gorde.
+The user password has been changed.| Erabiltzailearen pasahitza aldatu egin da.
+Task and Stack Info| Zereginaren eta pilaren informazioa.
+Back| Irten
+Files Available for Download| Fitxategiak erabilgarri behera kargatzeko
+Custom| Pertsonalizatua
+Save As...| Gorde honela...
+Directory List| Agendaren zerrenda
+Current Settings| Egungo parametroak
+Restore To Factory Defaults| Berrezarri jatorriz lehenetsitako balioak
+Restore| Berrezarri
+Remove Local Configuration Settings| Kendu konfigurazio lokalaren parametroak
+Remove| Ezabatu
+Restarting the hardware...| Berrasieratu hardwarea...
+Please return to the main page after your phone restarts.| Mesedez, itzuli orrialde nagusia helbidera terminala berrasieratu ondoren.
+User not authorized to make changes.| Erabiltzaileak ez du baimenik aldaketak egiteko.
+Local configuration file has been deleted.| Konfigurazio lokaleko fitxategia ezabatu egin da.
+Please restart the phone for the settings to take effect.| Mesedez, berrasieratu telefonoa egindako aldaketek ondorioak izan ditzaten.
+Phone has been set to factory Defaults.| Jatorriz lehenetsitako balioei telefonoa ezarri zaie.
+Action URI| URI ekintza
+Action URI Configuration| URI ekintzaren konfigurazioa
+Event| Gertakaria
+StartUp| Hasi
+Successful Registration| Erregistro zuzena
+Registration Event| Erregistro-gertakaria
+Incoming Call| Sarrerako deia
+Outgoing Call| Irteerako deia
+Offhook| Hartu
+Onhook| Eskegi
+Disconnected| Deskonektatuta
+Poll| Zundaketa
+Interval| Tartea
+Settings saved.| Parametroak gorde egin dira.
+Settings could not be saved.| Parametroak ezin izan dira gorde.
+Firmware Update| Firmwarearen eguneratzea
+TLS Support| TLS euskarria
+Manual Firmware Update| Firmwarearen eskuzko eguneratzea
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Sartu IP helbidea eta fitxategiaren izena eguneratze-prozesua abiarazteko.
+Configuration Server| Konfigurazio-zerbitzua
+Configuration Server Settings| Konfigurazio-zerbitzuaren parametroak
+Server IP| Zerbitzariaren IP
+File Name| Fitxategiaren izena
+Configure File Names| Konfiguratu fitxategien izena
+Root and Intermediate Certificates Filename| Ziurtagiri sustraiaren eta tartekoaren fitxategien izena
+Local Certificate Filename| Ziurtagiri lokalaren fitxategiaren izena
+Private Key Filename| Gako pribatuaren fitxategiaren izena
+Trusted Certificates Filename| Konfiantzazko ziurtagirien fitxategiaren izena
+Download Firmware| Behera kargatu firmwarea
+Firmware upgrade in progress.  Please wait.| Martxan dagoen firmwarearen eguneratzea. Itxaron, mesedez...
+Please enter a valid filename and TFTP server IP address.| Idatzi TFTP zerbitzariaren IParen fitxategi eta helbide baliagarrien izena.
+Invalid TFTP server IP address| TFTP zerbitzariaren IP helbidea ez da baliagarria.
+Invalid download settings.| Behera kargatzeko parametroak ez dira baliagarriak.
+Unable to upgrade firmware.| Firmwarea ezin da eguneratu.
+The phone is restarting...| Telefonoa berrasieratzen ari da.
+Firmware upgrade successful.| Firmwarearen eguneratze zuzena.
+This firmware already exists on the phone.| Firmware hau telefonoan dago.
+No upgrade is needed.| Ez da beharrezkoa eguneratzea.
+Troubleshooting| Arazoen ebazpena
+Module| Modulua
+Log Settings| Historikoaren parametroak
+Log IP| Zerbitzariaren IP helbidea (erroreetarako)
+Log Port| Zerbitzariaren IP ataka (erroreetarako)
+Debug Level| Arazketa-maila
+Support Information| Euskarri teknikoari buruzko informazioa
+Get local.cfg| local.cfg fitxategia lortzea
+Get server.cfg| server.cfg fitxategia lortzea
+Show Task and Stack Status| Zereginen eta pilaren egoera erakustea
+Settings| Parametroak
+Download Protocol| Behera kargatzeko protokoloa
+Auto-Resync| Bersinkr. autom.
+Days| Egunak
+Maximum Delay| Itxaroteko gehieneko denbora
+Mode| Modua
+Configuration Files| Konfigurazio-fitxategiak
+Time (24-hour)| Ordutegia (24 ordu)
+XML Push Server List(Approved IP Addresses)| XML Push zerbitzarien zerrenda (onartutako IP helbideak)
+Phone-side Call Forward Settings| Deia desbideratzeko parametroak telefonoan
+Global Settings| Parametro orokorrak
+No Answer| Erantzunik ez
+Number| Zenbakia
+Number of Rings| Txirrin-kopurua
+Local Line| Linea lokala
+Forward Number| Desbideratze-zk.
+Global| Orokorra
+Enable| Aktibatua
+Network| Sarea
+Must provision a valid default gateway IP if DHCP is enabled| DHCP aktibatuta badago, atebide lehenetsi baliozkoaren IP bat ezarri behar du.
+Invalid IP Address| IP helbidea ez da baliozkoa
+Invalid IP address| IP helbidea ez da baliozkoa
+Invalid IP addr.| IP helbidea ez da baliozkoa
+Invalid gateway address| Atebidearen helbidea ez da baliozkoa
+Invalid subnet mask| Azpisarearen maskara ez da baliozkoa
+Invalid primary DNS address| DNS zerbitzari nagusiaren helbidea ez da baliozkoa
+Invalid secondary DNS address| DNS zerbitzari sekundarioaren helbidea ez da baliozkoa
+Basic Network Settings| Sareko oinarrizko parametroak
+Advanced Network Settings| Sareko parametro aurreratuak
+DHCP| DHCP
+NAT Port| NAT ataka
+Nortel NAT Traversal Enabled| Nortel NAT zeharkakoa aktibatua
+Nortel NAT Timer (seconds)| Nortel NAT tenporizadorea (segundotan)
+NTP Time Servers| NTP ordutegien zerbitzariak
+Time Server 1| NTP 1 zerbitz.
+Time Server 2| NTP 2 zerbitz.
+Time Server 3| NTP 3 zerbitz.
+SIP| SIP
+VLAN Enable| VLAN aktibatua
+Non-IP Packet| IP ez den sorta
+SIP Priority| SIP lehentasuna
+RTP Priority| RTP lehentasuna
+RTCP Priority| RTCP lehentasuna
+Preferences| Lehentasunak
+General| Orokorra
+Idle Display Name 1| 1. pantaila librearen izena
+Idle Display Name 2| 2. pantaila librearen izena
+Local Dial Plan| Markazio lokaleko plana
+Send Dial Plan Terminator| Bidali markazio-planaren amaitzailea 
+Digit Timeout (seconds)| Zifrak sartzeko epea (segundotan)
+Park Call:| Aparkatu deia:
+Pick Up Parked Call:| Berreskuratu aparkatutako deia:
+Suppress DTMF Playback| DTMF erreprodukzioaren ezabatzea
+Display DTMF Digits| Erakutsi DTMF digituak
+Call Waiting| Deia itxaroten
+Call Waiting| Deia itxaroten
+Play Call Waiting Tone| Entzun itxaroten dagoen deiaren tonua
+Stuttered Dial Tone| Markazio-tonu egokitua
+Incoming Call Interrupts Dialing| Sarrerako deiak markazioa eteten du
+Switch UI Focus To Ringing Line| IUren fokua jotzen ari den lineara aldatzen du
+Outgoing Intercom Settings| Irteerako Intercom-aren doikuntzak
+Type| Mota
+Phone-Side| Telefonoaren aldetik
+Server-Side| Zerbitzariaren aldetik
+Prefix Code| Aurrezenbakia
+Incoming Intercom Settings| Sarrerako Intercom-aren doikuntzak
+Microphone Mute| Mikrofonoa isilik
+Play Warning Tone| Entzun abisu-tonua
+Allow Barge In| Intrusiorako baimena
+Auto-Answer| Erantzun automatikoa
+Key Mapping| Teklen esleipena
+Map Redial Key To| Esleitu birmarkazio-tekla honako honi
+Map Conf Key To| Esleitu birmarkazio-tekla honako honi
+Ring Tones| Tonuak
+Brazil| Brasil
+France| Frantzia
+Germany| Alemania
+Italy| Italia
+Italy2| Italia2
+Mexico| Mexiko
+Russia| Errusia
+UK| Britainia Handia
+US| Estatu Batuak
+Global Ring Tone| Tonu orokorra
+Tone 1| 1. tonua
+Tone 2| 2. tonua
+Tone 3| 3. tonua
+Tone 4| 4. tonua
+Tone 5| 5. tonua
+Tone 6| 6. tonua
+Tone 7| 7. tonua
+Tone 8| 8. tonua
+Tone 9| 9. tonua
+Tone 10| 10. tonua
+Tone 11| 11. tonua
+Tone 12| 12. tonua
+Tone 13| 13. tonua
+Tone 14| 14. tonua
+Tone 15| 15. tonua
+Priority Alerting Settings| Abisu-lehentasuneko parametroak
+Enable Priority Alerting| Aktibatu abisu-lehentasuna
+Group| Taldea
+External| Kanpokoa
+Internal| Barnekoa
+Emergency| Larrialdikoa
+Auto call distribution| Deien banaketa automatikoa
+Auto Call Distribution Settings| Deiaren banaketa automatikorako parametroak
+ACD| ACD
+Community 1| 1. komunitatea
+Community 2| 2. komunitatea
+Community 3| 3. komunitatea
+Community 4| 4. komunitatea
+Normal ringing| Txirrin normala
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Deia zuzenean hartzeko doikuntzak
+Directed Call Pickup| Hartu deia zuzenean
+Directed Call Pickup by Prefix| Deia hartzeko aurrezenbakia
+Play a Ring Splash| Erreproduzitu ongietorriko doinua
+Auto Available| Auto erabilgarria
+Auto Available Timer| Auto erabilgarriaren tenporizazioa
+Time and Date Setting| Dataren eta orduaren konfigurazioa
+Time Format| Orduaren formatua
+Date Format| Dataren formatua
+Programmable Keys| Tekla programagarriak
+Programmable Keys Configuration| Tekla programagarrien konfigurazioa
+Hard Key| Hardkey (hardwarearen tekla)
+Key| Tekla
+BLF List URI:| URI zerrendaren BLF 
+Speeddial/Xfer| Markazio lasterra/Berbidali
+Do Not Disturb| Ez eragotzi
+BLF| BLF
+BLF/Xfer| BLF/Berbidali
+BLF/List| BLF/Zerrenda
+XML| XML
+WebApps| Web-orriaren aplikazioa
+Flash| Flash
+Last Call Return| Azken deiaren informazioa
+Sprecode| Sprecode
+Transfer| Transferentzia
+Conference| Konferentzia
+Save| Gorde
+Delete| Ezabatu
+Data has been transmitted to the phone successfully.| Datuak ondo transmititu dira telefonora.
+Data cannot be posted to the phone.| Datuak ezin izan dira balioztatu telefonoan
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Egiaztatu datuen tamaina ez dela 512 byte baino handiagoa eta telefonoa ostalaritik datuak jasotzeko konfiguratuta dagoela.
+Expansion Modules| Hedapen-modulua
+Expansion Module 1| 1. hedapen-modulua
+Expansion Module 2| 2. hedapen-modulua
+Expansion Module 3| 3. hedapen-modulua
+Page 1| 1. orrialdea
+Page 2| 2. orrialdea
+Page 3| 3. orrialdea
+List 1| 1. zerrenda
+List 2| 2. zerrenda
+List 3| 3. zerrenda
+List 4| 4. zerrenda
+List 5| 5. zerrenda
+List 6| 6. zerrenda
+Incompatible with phone model| Ez da bateragarria telefono-modeloarekin
+Backup Proxy Server| Proxy zerbitzariaren babes-kopia
+Backup Proxy Port| Proxy atakaren babes-kopia
+Backup Registrar Server| Erregistro-zerbitzariaren babes-kopia (erregistratu)
+Backup Registrar Port| Erregistro-atakaren babes-kopia
+Phone is locked| Tel. blokeatuta
+Phone Lock| Tel. blokeoa
+Lock the phone?| Tel. blokeatu?
+Phone is unlocked| Tel. desblokeatua
+Password:| Pasahitza:
+Emergency Dial Plan| Larrialdiko markazio-plana
+Account Configuration| Kontuaren konfigurazioa
+Lock| Blokeatu
+Unlock| Desblokeatu
+Unlock the phone?| Telefonoa desblokeatu?
+Lock or unlock the phone| Telefonoa blokeatu edo desblokeatu
+HTTPS Client Method| HTTPS bezeroaren met.
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS zerbitzaria - HTTP HTTPSra berbideratu
+HTTPS Server - Block XML HTTP POSTs| HTTPS zerbitzaria - Blokeatu XML HTTP POSTs
+Validate Certificates| Onartu ziurtagiriak
+Check Certificate Expiration| Egiaztatu ziurtagiriaren iraungitze-data
+Check Certificate Hostnames| Egiaztatu ziurtagiriko ostalari-izenak
+Language Settings| Hizkuntzaren konfigurazioa
+Webpage Language| Web-orriaren hizkuntza
+Input Language| Has. hizkuntza
+Input Language| Has. hizkuntza
+Jan| urt
+Feb| ots
+Mar| mar
+Apr| api
+May| mai
+Jun| eka
+Jul| uzt
+Aug| abu
+Sep| ira
+Oct| urr
+Nov| aza
+Dec| abe
+Sun| ig.
+Mon| al.
+Tue| ar.
+Wed| az.
+Thu| og.
+Fri| ol.
+Sat| lr.
+New Password Invalid.| Pasahitz berria ez da baliozkoa
+New password must be 10 characters or less.| Pasahitz berriak ezin ditu 10 karaktere baino gehiago izan
+New password must be numeric.| Pasahitz berriak zenbaki hutsezkoa izan behar du
+New password and confirm password do not match.| Pasahitz berria eta berrespena ez datoz bat.
+Error| Errorea
+Are you sure you want to restart the phone?| Ziur zaude telefonoa birdoitu nahi duzula?
+This will restore the phone to default settings and cannot be undone.| Eragiketa honek behin betiko berrezarriko du telefonoa lehenetsitako konfigurazioan.
+This will remove the local configuration settings and cannot be undone.| Eragiketa honek behin betiko ezabatuko ditu konfigurazio lokalaren parametroak.
+Continue| Jarraitu
+Error: Intercom Settings| Errorea: Intercom-en konfigurazioa
+Please enter a prefix code for server-side intercom.| Sartu aurrezenbaki-kode bat Intercom-en aldeko zerbitzarirako.
+Value must be between| Balioak honako hauen artean egon behar du
+and| eta
+Invalid Setting:| Balio baliogabea:
+Please select at least one state for softkey| Hautatu gutxienez egoera bat tekla programagarrirako
+DSCP value| DSCP balioa
+is mapped to multiple priorities.| hainbat lehentasuni esleituta dago.
+Please enter Admin name and password| Idatzi administratzailearen izena eta pasahitza
+Please enter User name and password| Idatzi erabiltzailearen izena eta pasahitza
+Centralized Conference| Konferentzia zentralizatua
+Conference Server URI| URI konferentzien zerbitzaria
+UPnP device not found| UPnP gailuaren errorea
+Ethernet| Ethernet
+Ethernet Link| Ethernet esteka
+Ethernet & VLAN| Ethernet & VLAN
+Link| Esteka
+10M| 10M
+100M| 100M
+Unavailable| Ez-erabilgarri
+Available| Erabilgarri
+Server Info| Zerbitz. inf.
+Unique ID:| ID bakarra:
+UPnP Mapping Lines| UPnP kartografia-lerroak
+Port Failed| Okerreko ataka
+Trying...| Ahalegintzen
+Seize Failed| Lin. huts.
+Missed Call Summary Subscription| Dei galduen eskaera
+Missed Call Summary Subscription Period| Dei galduak eskatzeko aldia
+AS-Feature-Event Subscription| Aplikazioen zerbitzariko gertakari-funtziorako harpidetza
+AS-Feature-Event Subscription Period| Aplikazioen zerbitzariko gertakari-funtziorako harpidetza-aldia
+Goodbye Key Cancels Incoming Call| Deskonexio-teklak sarrerako dei bat eten du
+Address Incomplete| Helbidea osatu gabe
+Admin Menu| Admin. menua
+IP&MAC Addresses| IP&MAC helbidea
+LAN Port| LAN ataka
+PC Port| PC ataka
+Set Audio| Ezarri audioa
+Config. Server| Konf. zerbitz.
+IP Address:| IP helbidea:
+Error Messages| Errore-mezuak
+No Error Messages| Ez dago errore-mezurik
+ Errors| Erroreak
+ Error| Errorea
+Disabled| Desgaitua
+LAN Port Link| LAN ataka esteka
+PC Port Link| PC ataka esteka
+RTP| RTP
+RTCP| RTCP
+Phone| Telefonoa
+Headset Mic Vol| Mikr./aur. bol.
+TypeService SIP| SIP zerb. mota
+TypeService RTP| RTP zerb. mota 
+TypeService RTCP| RTCP zerb. mota
+Authentic. Name| Autentifik.-iz.
+XML Beep Support| Seinaleztapen-tonuarekin jasandako XML
+Status Scroll Delay (seconds)| Desplazamendu-egoeraren atzerapena (segundoak)
+Backlight| Atzera argia
+Backlight| Atzera argia
+Display| Pantaila
+Speed Dial Edit| EditMarkLast.
+second| segundoa
+seconds| segundoak
+Label| Etiketa
+Message Waiting Indicator Line| Linean itxaroten dagoen mezuaren adierazlea
+Keypad Speed Dial| Markazio lasterreko teklak
+Digit| Markazioko digitua
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| SIP XML ohartarazpena
+Custom Feature| Zerb. espez.
+User ID:| Erab. ID
+Local SIP UDP/TCP Port| UDP/TCP atakaren SIP lokala
+Local SIP TLS Port| TLS atakaren SIP lokala
+802.1x Support| 802.1x euskarria
+EAP Type| EAP mota
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identitatea
+MD5 Password| MD5 pasahitza
+PC Port PassThru Enable/Disable| Aktibatu/Desaktibatu PC Pass Thru ataka 
+EAP-TLS Settings| EAP-TLS parametroak
+EAP-MD5 Settings| EAP-MD5 parametroak
+Enable PassThru Port| Aktibatu Pass Thru
+PC Port Enabled\nYes| Ataka ak. \nBai
+PC Port Disabled\nNo| Ataka des. \nEz
+802.1x Settings| 802.1x param.
+802.1x Mode| 802.1x modua
+EAP-MD5 Settings| EAP-MD5 param.
+EAP-TLS Settings| EAP-TLS param.
+STUN Server| STUN zerb.
+STUN Port| STUN ataka
+TURN Server| TURN zerb.
+TURN Port| TURN ataka
+TURN User ID| ID TURN erab.
+TURN Password| TURN pasah.
+Paging| Bilatu
+Streaming| Transmisioa
+Group Paging RTP Settings| RTP parametroak multzokako bilaketarako
+Paging Listen Addresses| Entzuteko helbideen bilaketa
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP kontua
+Backup Registrar Used?| Erabilitakoa erregistratzeko zerbitzaria?
+Unregistered| Erregistratu gabe
+Registered| Erregistratua
+SIP Status| SIP egoera
+Server Error| Zerb. errorea
+Swap| Trukea
+LLDP\nEnabled| LLDP\nAktibatua
+LLDP\nDisabled| LLDP\nDesakt.
+LLDP Support| LLDP euskarria
+Preferred line| Linea hobetsia
+Preferred line Timeout (seconds)| Linea hobetsiaren tenporizadorea (seg.)
+Invalid URI| URI baliogabea
+WebApps| Web aplik.
+Watchdog| Zaintzarako tenporizadorea
+Speeddial/Conf| Markazio lasterra/Konf.
+Call is on Hold| Deia itxaroten
+No subscription| Eskaerarik gabe
+MDot1xFailedStartup| Errorea 802.1x-ren hasieran
+802.1x Startup Failed| Errorea 802.1x-ren hasieran
+LLDP Startup Failed| Errorea LLDPren hasieran
+Failed to config Line Manager| Ezinezkoa linea-kudeatzailea konfiguratzea
+Line in use| Linea martxan
+Get Crash Log| Lortu hutsegiteak erregistratzeko fitxategia
+Time Unavailable| Ordua ez-erab.
+Packetization Interval| Sorten arteko tartea
+Basic| Oinarrizko codec-ak
+Note: Basic Codecs Include| Oharra: oinarrizko codec-ek dituzte
+Default| Jatorrizkoak
+Not Configured| Konf. gabe
+America| Amerika
+Asia| Asia
+Atlantic| Atlantikoa
+Pacific| Pazifikoa
+Australia| Australia
+Europe| Europa
+Malaysia| Malasia
+Invalid Setting| Balio baliogabea
+Must not be empty| Ezin du hutsik egon
+Must be a valid number| Zenbaki baliozkoa izan behar du
+Must be a nonzero number| 0 ez den zk. izan behar du
+Not in range| Mugaz kanpo
+Invalid Hostname| Ost.-zk. baliog.
+802.1x Failed| 802.1x hutsegitea
+Admin Password:| Admin. pasahitza
+Voicemail| Ahots-posta
+Voicemail| Ahots-posta
+HTTPS Failed| HTTPS hutsegitea
+LLDP Failed| LLDP hutsegitea
+TR69 connect Err| TR69 konex.-err.
+Downloading Language Packs| Hizkuntza-sorta behera kargatzen
+Please Wait...| Itxaron, mesedez
+to edit| editatu
+Cfg Svr Failure| cfg. zerb. err.
+Lines| Lineak
+LDAP Directory| LDAP direktorioa
+Ldap Directory| LDAP direktorioa
+Item| Sarrera
+item| sarrera
+Certificate Revoked| Ziurtag. atzera botata 
+Certificate Unknown| Ziurtag. ezezaguna 
+Delete entire| Ezabatu dena
+LDAP Search Filter| LDAP bil.-galb.
+Ldap Search Filter| LDAP bil.-galb.
+LDAP Server| LDAP zerbitzaria
+Ldap Server| LDAP zerbitzaria
+Certificate Expired| Ziurtagiria iraungita
+Unsupported Certificate| Ziurtag. atzera botata
+No Certificate| Ziurtagirik ez
+Options List| Aukera-zerrenda
+Directory?| Agenda?
+Work| Bulegoa
+No available lines| Linea erabilg. ez
+Search| Bilatu
+Ldap Base DN| DN LDAP basea
+items| sarrerak
+Spddial| MarkLas
+Ldap Number Attributes| LDAP zk. Atrib.
+Ldap Max Hits| LDAP arrak. max.
+Ldap Settings| LDAP parametroak
+Ldap Name Attributes| LDAP izen. atrib.
+Timezone zoneAmerica| Amerikako ordu-zona
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belice
+CA-Atlantic| CA-Atlántico
+CA-Central| CA-Erdikoa
+CA-Eastern| CA-Ekialdea
+CA-Mountain| CA-Mendiak
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Pazifikoa
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Pascua uhartea
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa rica
+CU-Havana| CU-Habana
+DM-Dominica| DM-Dominika
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadalupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaika
+KY-Cayman| KY-Kaiman
+LC-St Lucia| LC-Santa Lucia
+MQ-Martinique| MQ-Martinika
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexiko hiria
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port-of-Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleutian
+US-Central| US-Erdikoa
+US-Eastern| US-Ekialdekoa
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mendi Harritsuak
+US-Pacific| US-Pazifikoa
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| Asiako ordu-zona
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Pekin
+CY-Nicosia| CY-Nikosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tokio
+MU-Mauritius| MU-Maurizio
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamchatka
+RU-Krasnoyarsk| RU-Krasnoyarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Yakutsk
+RU-Yekaterinburg| RU-Yekaterinburgo
+SA-Saudi Arabia| SA-Saudi Arabia
+SG-Singapore| SG-Singapur
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| Atlantikoko ordu-zona
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Kanariak
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Feroe
+GS-South Georgia| GS-Hegoaleko Georgiak
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azoreak
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| Australiako ordu-zona
+AU-Adelaide| AU-Adelaida
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+Timezone zoneEurope| Europako ordu-zona
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirana
+AT-Vienna| AT-Viena
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Brusela
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zurich
+CZ-Prague| CZ-Praga
+DE-Berlin| DE-Berlín
+DK-Copenhagen| DK-Kopenhage
+EE-Tallinn| EE-Tallin
+ES-Madrid| ES-Madril
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-París
+GB-Belfast| GB-Belfast
+GB-London| GB-Londres
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Atenas
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublín
+IT-Rome| IT-Erroma
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxenburgo
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monako
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Ámsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Varsovia
+PT-Lisbon| PT-Lisboa
+RO-Bucharest| RO-Bucarest
+RU-Kaliningrad| RU-Kaliningrado
+RU-Moscow| RU-Mosku
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Estokolmo
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Estambul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatikano
+YU-Belgrade| YU-Belgrado
+Timezone zonePacific| Pazifikoko ordu-zona
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| Beste ordu-zona batzuk
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Teklatu aktiboa
+1h    summertime| Udako ordua 1 h
+Link Down| Esteka ez-aktiboa
+Slovakia| Eslovakia
+Cfg. Svr.| Zerbitz.
+Custom| Pertsonalizatua
+HPQ Enable| HPQ aktibatua
+Checking For Firmware| Firmwarea bilatzen
+Firmware Check| Firmwarearen egiaztapena
+Speeddial/MWI| Markazio lasterra/MWI
+Handset| Haririk gabea
+WBand RX Filters| RX Iragazkien banda
+HS Setting1| 1. haririk gabekoaren parametroak
+HS Setting2| 2. haririk gabekoaren parametroak
+HS Setting3| 3. haririk gabekoaren parametroak
+HS Setting4| 4. haririk gabekoaren parametroak
+Spkr Setting1| 1. bozgoragailuaren parametroak
+Spkr Setting2| 2. bozgoragailuaren parametroak
+Spkr Setting3| 3. bozgoragailuaren parametroak
+Spkr Setting4| 4. bozgoragailuaren parametroak
+Hold Failed| Itxaronaldian hutsegitea
+Can not save record without number| Sarrera ezin da gorde zenbakirik gabe
+Feature Name| Ezaugarriaren izena
+Source| Jatorria
+License File| Lizentziaren fitxategia
+SW Version Restrictions| SW bertsioaren murrizketak
+Unlimited| mugagabea
+Expiration| Igarotako denbora
+Upgrade| Eguneratu
+License Server| Lizentzia-zerbitzaria
+License Info| Lizentzia-informazioa
+License PBX| PBX lizentzia
+Voice Recording| Ahots-grabazioa
+BLF List Subscription Period| BLF harpidetza-aldia prest
+Conf Failed| Konferentziak huts eginda
+Push| Bidalketa
+Forward Filtering| Desbideratze-iragazkia 
+OUT| Kanpora
+Opt Status| Egoera-aukera
+Filter| Iragaztea
+Filtering| Iragazketa
+Executives| Buruzagia
+IN| Barruan
+Divert| Desbideratzea
+Divert to Number| Desbideratze-zk.
+ Enter Unlock Password| Sartu desblokeatzeko pasahitza
+ Enter Administrator Password| Idatzi administr.  pasahitza
+Today| Gaur
+Yesterday| Atzo
+Two Days Ago| Duela bi egun
+Three Days Ago| Duela hiru egun
+Four Days Ago| Duela lau egun
+Five Days Ago| Duela bost egun
+Six Days Ago| Duela bost egun
+Last Week| Joan zen astean
+Two Weeks Ago| Duela bi easte
+Three Weeks Ago| Duela hiru aste
+Last Month| Joan zen hilean
+Older| Zaharrago
+Monday| astelehena
+Tuesday| asteartea
+Wednesday| asteazkena
+Thursday| osteguna
+Friday| ostirala
+Saturday| larunbata
+Sunday| igandea
+Upload Sys Info| Kargatu sistemako informazioa
+Cfwd State| Desbid.egoera
+Cfwd Number| Desb. zk. honet.
+Cfwd Mode| Desb.-modua
+Set| Doik.
+#Confirm| #Berretsi
+Call held| Atxikitako deia
+Calls held| Atxikitako deiak
+Apply Changes?| Aldak. aplikatu?
+Dialpad| Teklatua
+Edit| Edit
+Quit| Irten
+Directory Empty| Agenda hutsik
+Saved Memory key| Mem. gord. tekla
+Speaker volume  | Bozgorag. bol.
+Handset volume  | Mikrotel. bol.
+Headset volume  | Aurik. bol.
+Ringer volume   | Txirrin. bol.
+Enter Number:| Sartu zenbakia:
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| Ezab. dena
+Erase Local Configuration?| Konfig. ezabatu?
+Audio| Audioa
+Application| Aplikazioa
+NAT| NAT
+DSCP| DSCP
+User| Erabiltzailea
+802.1x| 802.1x
+Enter Date (m/d/y):| Sartu data (h/u/e):
+Brightness Timer| Distira-tenporizadorea
+Brightness Level| Distira-doikuntza
+Level 1| 1. maila
+Level 2| 2. maila
+Level 3| 3. maila
+Level 4| 4. maila
+Level 5| 5. maila
+(Min: %d  Max: %d)| Min: %d  Max: %d
+Line: %d| Linea: %d
+Line %d: %s| Lin %d: %s
+Invalid %s (%d to %d)| Ok.%s (%d to %d)
+Sys Info| Sistemaren inform.
+keypad| Teklatua
+Login| Log In
+Seized| Linea hartuta
+Active| Aktibatuta
+Held| Atxikita
+Ringing| Deitzen
+Park Failed| Hutsegitea aparkatzen
+Canada| Kanada
+Press a contact button on the left to view contact information.| Sakatu kontaktuko botoia pertsona horri buruzko informazioa ikusteko.
+Press a contact button to view contact info.| Sakatu kontaktuko botoia pertsona horri buruzko inf. ikusteko.
+No info available. Please press a contact button.| Ez dago informaziorik. Mesedez, sakatu kontaktuko botoi bat.
+Set Date and Time| Cfg. data eta ordua
+Ethernet Ports| Ethernet atakak
+Call Server| Komunikazio zerb.
+Use Network Time| Erabili NTP
+Speed Dial Key %d| Mark.Las.Tekl. %d
+%d/%d records| %d/%d erregistroak
+%d days stored| %d egun biltegiratuta
+1 day stored| 1 egun biltegiratuta
+Upload System Info Files?| Sistemako informazioa kargatu?
+Entries Saved| Sarrerak gordeta
+Storage| Biltegiratzea
+IP and gateway are equal| IP helbideak ezin du izan atebidearen helbidearen berdina
+IP gateway subnet mismatch| IPk eta atebideak azpisare berean egon behar dute
+Bridge active| Ataka aktibatuta
+Please enter a number| Idatzi zenbaki bat
+Deleted| Ezabatuta
+No Matches Found| Ez da emaitzarik aurkitu
+Name| Izen
+Contact already exists| Kontaktua badago
+Left Softkey %d| Ezkerreko tekla %d
+Bottom Softkey %d| Beheko tekla %d
+New Call| Dei berria
+All Accounts| Kontu guztiak
+Exp. Mod. %d Key %d| Erak. Mod. %d tekla %d
+Add Num| Sartu zk.
+Diverted to: | Desbideratua hona:
+No lines are configured| Linearik ez konfiguratuta
+"Dot ""."""| "." puntua
+Mode %d| %d modua
+Top Softkey %d| Goiko tekla %d
+Home Screen Mode| Hasierako pantaila modua
+Screen Saver Timer| Pantaila-babeslearen tenp.
+Home Screen| Hasierako pantaila
+Cannot add new number. Limit reached.| Ezin da beste zenbakirik gehitu. Mugara iritsi da.
+Key is already programmed for functionality in a non-idle state| Tekla programatuta dago aktibatutako funtziorako
+Please enter a name| Mesedez, adierazi izen bat
+Top Softkeys| Goiko teklak
+Left Softkeys| Ezkerreko teklak
+Bottom Softkeys| Beheko teklak
+Brightness| Distira
+Speed Dial 8| Markazio lasterra 8
+A filename-related error occurred. Rename the specified file and try again.| Fitxategi-izenarekin lotutako errore bat gertatu da. Aldatu izena zehaztutako fitxategiari eta saiatu berriro.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| HTTPrekin lotutako errore bat gertatu da. Saiatu berriro (edo berrabiarazi telefonoa, dagoeneko errore hau jaso baduzu).
+A system-related error occurred. Please restart the phone and try again.| Sistemarekin lotutako errore bat gertatu da. Berrabiarazi telefonoa eta saiatu berriro.
+Xsi Enterprise Directory| Xsi enpresa-direktorioa
+Xsi Personal Contacts| Xsi kontaktu pertsonalak
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Enpresako faxa
+By First Name| Izenaren arabera
+By Last Name| Abizenaren arabera
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Ezin da gehitu erregistro berririk. Mugara iritsi zara.
+City| Hiria
+Corporate| Enpresakoa
+Country| Herrialdea
+Custom Ringtones| Dei-tonu pertsonalizatuak
+Delete %s from %s?| %s ataleko %s ezabatu?
+Delete all entries in %s?| %s ataleko sarrera guztiak ezabatu?
+Directory import failed| Ezin izan da direktorioa kargatu
+Directory loading| Direktorioa kargatzen ari da
+Directory not available at this time| Direktorioa ez dago erabilgarri une honetan
+Display Name Order| Bistaratzeko izenaren ordena
+Name Order| Izenaren ordena
+Edit Details| Editatu xehetasunak
+Email| Helbide elektronikoa
+Email 1| 1. helbide elektronikoa
+Email 2| 2. helbide elektronikoa
+Email 3| 3. helbide elektronikoa
+Enabled also in call| Deian ere gaituta
+Enterprise Directory| Enpresa-direktorioa
+Exchange Contacts| Exchange kontaktuak
+Explicit| Esplizitua
+External Sources| Kanpo-iturriak
+Failed to retrieve contact details| Ezin izan da berreskuratu harremanetan jartzeko xehetasunik
+First Last| Izena
+First name| Izena
+Home 1| 1. etxekoa
+Home 2| 2. etxekoa
+Home Address| Etxeko helbidea
+Implicit| Inplizitua
+Invalid Subscription Time| Harpidetzaren orduak ez du balio
+Job Title| Lanpostua
+LDAP| LDAP
+Last%c First| Abizena%c Izena
+Last First| Abizena Izena
+Last Name| Abizena
+Local| Tokikoa
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mugikorra
+New Contact| Kontaktu berria
+Numbers| Zenbakiak
+Organization| Erakundea
+Other| Beste bat
+Personal| Pertsonala
+Personal Contacts| Kontaktu pertsonalak
+Province/State| Probintzia/Estatua
+Request Failed| Ezin izan da eskaera egin
+Sorting Preferences| Ordenatzeko hobespenak
+Sorting| Ordenatzeko irizpidea
+Street Address| Helbidea
+Test| Proba
+Test Connection| Probako konexioa
+The phone does not have enough space to store this file.| Telefonoak ez du fitxategia gordetzeko adina toki.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Zehaztutako fitxategia luzeegia da. Fitxategi bakoitzak ezin du 1 MB baino gehiago izan.
+UA-Profile-Event Subscription| UA-Profile-Event harpidetza
+UA-Profile-Event Subscription Period| UA-Profile-Event harpidetza-aldia
+Undefined| Definitu gabea
+Work 1| 1. lana
+Work 2| 2. lana
+Work Address| Laneko helbidea
+Zip/Postal Code| Zip/Posta-kodea
+Credentials| Kredentzialak
+Enable/Disable| Gaitu/Desgaitu
+Labels| Etiketak
+Ringtone files must be in WAV format| Dei-tonuak WAV formatua izan behar du
+Copy| Kopiatu
+Add New| Gehitu berria
+ALU SCA| ALU SCA
+Accessory Info| Osagarriaren informazioa
+Add| Geh
+Alerting| Abisuak
+Delete selected item or delete all items?| Hautatutako elementua edo elementu guztiak ezabatu?
+DialingIn| Sarrerako markaketa
+DialingOut| Irteerako markaketa
+Disconnecting| Deskonektatzen
+Enter First Name| Idatzi izena
+Enter Last Name| Idatzi abizena
+Enter Number| Sartu zenbakia
+Enter Password>| Idatzi pasahitza>
+Enter Username>| Idatzi erabiltzaile-izena>
+Enterprise Dir.| Enpresa-dir.
+Exp. Mod. 1 Version|   
+Exp. Mod. 2 Version|   
+Exp. Mod. 3 Version|   
+Get user.cfg| Lor user.cfg
+Get user_local.cfg| Lor user_local.cfg
+Keyboard Version| Teklatuaren bertsioa
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| Zain
+Pending| Zain
+Phone Info| Telefonoaren informazioa
+Please Login| Konek., mesedez
+Please select a file to upload| Hautatu kargatzeko fitxategia
+Saved| Gordeta
+Unmute| Aktibatu soinua
+Line 11| 11. linea
+Line 12| 12. linea
+Line 13| 13. linea
+Line 14| 14. linea
+Line 15| 15. linea
+Line 16| 16. linea
+Line 17| 17. linea
+Line 18| 18. linea
+Line 19| 19. linea
+Line 20| 20. linea
+Line 21| 21. linea
+Line 22| 22. linea
+Line 23| 23. linea
+Line 24| 24. linea
+Line 25| 25. linea
+Client Method| Bezero metodoa
+#Edit| #Edit
+#Copy| #Kopiatu
+Action forbidden| Ekintza debekatua
+Action not supported| Ekintza ez da onartzen
+ Additional Settings|  Ezarpen osagarriak
+ Barge-In|  Intrusiorako
+Congestion| Pilaketa
+Discreet| Sotila
+Discreet Ringing| Tonu sotila
+Executives list is empty| Exekutiboen zerrenda hutsik dago
+Extension not registered| Luzapena erregistratu gabe dago
+Internal error| Barne-errorea
+Invalid Password| Pasahitz okerra
+Invalid forwarding number| Birbideratze-zenbakiak ez du balio
+ Listen|  Entzun
+ Normal|  Normala
+Phone not registered| Telefonoa erregistratu gabe dago
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Isilik funtzio-tekla sakatuta abisu-tonua tartean sartzea aktibatuko edo desaktibatuko du.
+Prv| Prib.
+Pub| Publ.
+Record not found| Ez da aurkitu erregistroa
+SCAP-Bridged| SCAP-Bridged
+SCAP-Held| SCAP-Held
+ Select Barge-In Mode|  Hautatu Barge-In modua
+ UA-Profile-Event Subscription Period|  UA-Profile-Event harpidetza-aldia
+Unique ID| ID bakarra
+ Whisper|  Xuxurlatu
+Missed Calls| Dei galduak
+Silence| Isiltasuna
+As-Feature-Event Subscription| Aplikazioen zerbitzariko gertakari-funtziorako harpidetza
+As-Feature-Event Subscription Period| Aplikazioen zerbitzariko gertakari-funtziorako harpidetza-aldia
+Feature-Status-Exchange Subscription| Eginbidea-Egoera-Exchange harpidetza
+Feature-Status-Exchange Subscription Period| Eginbidea-Egoera-Exchange harpidetzaren aldia
+Action superseded by a previous command| Aurreko agindu batek ordeztu du ekintza
+Attendant| Operadorea
+BLF Privacy| BLF pribatutasuna
+BLF Privacy Key Mode| BLF pribatutasun-teklaren modua
+Feature not configured| Eginbidea konfiguratu gabe dago
+Forward Type| Desbideratze mota
+Live Keyboard| Zuzeneko teklatua
+Not assigned| Esleitu gabe
+PIN| PINa
+Pin Required| PINa behar da
+Privacy| Pribatutasuna
+Privacy On| Pribatutasuna aktibatuta
+Restart | Berrasieratu
+Capture| Kaptura
+Get capture file| Lortu kaptura-fitxategia
+Mute All| Desaktibatu soinua
+No Participant| Ez dago parte-hartzailerik
+Private Call| Dei pribatua
+Start| Hasi
+Stop| Gelditu
+TLS Preferred| TLS hobetsia
+Timeout| 
+Unmute All| Aktibatu soinu guztiak
+Speeddial/Mwi| Markazio lasterra/MWI
+Phone will restart automatically after finishing.| Eragiketa amaitutakoan telefonoa automatikoko berrasieratuko da.
+Idle| Libre
+CFWD Filtering| Desbideratze galbahetua
+Volume| Bolumen
+DTMF| DTMF
+All Accounts| Denak
+Outgoing| Irteten
+Call History is Empty| Dei-historia hutsik dago
+No Outgoing Calls| Ez dago irteerako deirik
+No Missed Calls| Ez dago dei galdurik
+No Received Calls| Ez dago jasotako deirik
+Received| Jasotakoak
+Missed| Galdutakoak
+Screenshot| Pantaila-argazkia
+Xsi Enterprise Common Directory| Xsi enpresa-direktorio arrunta
+Enterprise Common Directory| Enpresa-direktorio arrunta
+Enterprise Common Dir.| Enpresa-dir. arrunta
+Xsi Group Directory| Xsi talde-direktorioa
+Group Directory| Talde-direktorioa
+Xsi Group Common Directory| Xsi talde-direktorio arrunta
+Group Common Directory| Talde-direktorio arrunta
+Call Settings| Dei-ezarpenak
+%s Call Settings| %s dei-ezarpenak
+Hide Number| Ezkutatu zenbakia
+Xsi Password Not Configured| Xsi pasahitza konfiguratu gabe
+Xsi User Not Configured| Xsi erabiltzailea konfiguratu gabe
+Xsi Authentication Failure| Xsi autentifikazioak huts egin du
+Xsi File Not Found| Xsi fitxategia ez da aurkitu
+Xsi Invalid URI| Xsi URIK ez du balio
+Xsi Invalid Download Configuration| Xsi deskarga-konfigurazioak ez du balio
+Call History| Dei-historia
+Bluetooth| Bluetooth
+Scan| Bilatu
+Timeout [1..168 h]| Denbora-muga [1..168 h]
+Paired Devices| Parekatutako gailuak
+Available Devices| Gailu erabilgarriak
+Swipe the toggle switch to the right to enable Bluetooth| Irristatu etengailua eskuinera Bluetootha gaitzeko
+Pairing| Parekatzen
+Connecting| Konektatu
+Device| Gailua
+No paired devices| Ez dago parekatutako gailurik
+Connection successful| Ongi konektatu da
+Connection failed| Ezin izan da konektatu
+Disconnection successful| Deskonektatu da
+Disconnection failed| Ezin izan da deskonektatu
+Pairing failed| Erregistro okerra
+Operation failed| Eragiketak huts egin du
+Connected| Konektatuta
+Retry| Saia berr.
+Do you want to forget this device?| Gailua ahaztu nahi duzu?
+Close| Itxi
+Enabling Bluetooth...| Bluetootha gaitzen...
+Disabling Bluetooth...| Bluetootha desgaitzen...
+Connecting...| Konektatu...
+Disconnecting...| Deskonektatzen...
+Boot| Hasierako
+App| Aplikazioa
+USB disabled. Insufficient power for current configuration.| USBa desgaitu da. Bateria gutxiegi duzu konfigurazio honetarako.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Zehaztutako fitxategiak ez ditu betetzen telefonoak eskatutako dei-tonuaren eskakizunak. Dei-tonuaren fitxategien eskakizunak zein diren jakiteko, begiratu Erabiltzailearen gida.
+%d/%d| %d/%d
+%d days| %d egun
+1 day| 1 egun
+System Messages| Sistemaren mezuak
+Authorization Canceled| Baimena bertan behera utzi da
+Crash Logs| Hutsegiteen erregistroak
+Warning - All entries in %s will also be deleted| Abisua: %s ataleko sarrera guztiak ezabatuko dira
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Deiaren tonua
+Identity| Identitatea
+Extension| Luzapena
+Address| Helbidea
+Server Error| Zerb. errorea
+Use Global Ring Tone| 
+Standard Ring Tone| Dei-tonu estandarra
+Hide Number| Ezkutatu zenbakia
+Remote Office| Urruneko bulegoa
+Remote Office| Urruneko bulegoa
+Phone Number/SIP-URI| Telefono-zenbakia/SIP-URI
+Simultaneous Ring Personal| Aldi bereko tonu pertsonala
+Simultaneous Ring| Aldi bereko tonua
+Do Not Ring if on a Call| Ez jo dei batean
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Telefono-zk./SIP-URI
+Alt Num/SIP-URI| Ord. zk./SIP-URI
+Ring for all Incoming Calls| Jo sarrerako dei guztietan
+Invalid Number or SIP-URI| Zenbakiak edo SIP-URIk ez du balio
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Atari-zenbakia
+Alert Locations for Click-To-Dial| Click-To-Dial kokapen-abisua
+Alert Locations for Group Paging| Group Paging kokapen-abisua
+Phone Number| Telefono-zenbakia
+Description| Azalpena
+Alternate Number| 
+Call Control| Dei-kontrola
+Diversion Inhibitor| Desbideratze-inhibitzailea
+Answer Confirmation| Erantzunaren berrespena
+Xsi Server Not Found| Xsi zerbitzaria ez da aurkitu
+Xsi Invalid Input| Xsi sarrerak ez du balio
+Call Center| Dei-zentroa
+Presence| Presentzia
+My Status| Nire egoera
+Contacts| Kontaktuak
+Favorite| Gogokoa
+Available| Erabilgarri
+Eager to Chat| Txateatzeko gogoz
+Busy| Okupatua
+Away| Ez dago
+Extended Away| Kanpoan
+Offline| Deskonektatuta
+Unknown| Ezezaguna
+Enter custom presence text here...| Idatzi presentzia-testu pertsonalizatua...
+Status| Egoera
+Custom| Pertsonalizatua
+Favorites| Gogokoak
+All Contacts| Kontaktu guztiak
+No contact in folder| Ez dago kontakturik karpetan
+No phone number| Ez dago telefono-zenbakirik
+No contact| Ez dago kontakturik
+Contact list currently not available| Une honetan ez dago erabilgarri kontaktu-zerrenda
+Contact| Kontaktua
+Contact| Kontaktua
+Connection to server failed| Ezin izan da konektatu zerbitzarira
+Configuration error| Konfigurazio-errorea
+Authentication error| Autentifikazio-errorea
+Connection to server lost| Eten egin da zerbitzarirako konexioa
+Mobile| Mugikorra
+Connect| Konektatu
+%s disconnected| %s deskonektatuta
+%s connected| %s konektatuta
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Firmware berria. Mesedez, ez deskonektatu!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Den. kopiatu?
+Loading...| 
+Password Changed| Pasahitza aldatuta
+Restore Default| 
+Restore Default| 
+Enter Again| Baieztatu
+Erase| Ezabatu
+Set All| 
+VLAN Settings| VLAN parametroak
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Aurrer.
+Phonebook| 
+Update| 
+Copyright| Copyright
+Pause| Etenaldia
+Incorrect password| Pasahitza okerra da
+Please input duration between 1 to 1440 minutes| 
+Level 0| 0. maila
+Static Network Settings| 
+Enter| Sartu
+Reset Configuration?| Konfigurazioa berrezarri?
+TCP DUMP| 
+minutes| minutuak
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| ID VLAN
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Xehetas.
+First Name| 
+Home| Etxea
+People| 
+Contacts - Add New| 
+Work| Bulegoa
+Entry copied to| Sarrera kopiatuta
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Agenda osoa
+Directory full| Agenda osoa
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Konektatu
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Abian den deia
+Scan| Bilatu
+Stop| Gelditu
+Close| Itxi
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Ahaztu
+Unknown Caller| 
+Answer| Erantzun
+Decline| 
+Push Call| Push deia
+End Call| 
+Caller| 
+Disconnect| Deskonektatu
+Capturing ...| 
+Speaker| Bozgorailua
+Headset| Aurikularrak
+Ringer| Txirrina
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Telefonoaren informazioa
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| DNS nagusia
+Secondary DNS| DNS sekundarioa
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Pasahi
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Aldatu
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Esteka ez
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Pribatua
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Ez eragotzi
+Phone Lock| Tel. blokeoa
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Aldatu izena
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Gehiago...
+Restart| Berrasieratu
+Key is Programmed| Tekla programatuta dago
+Advanced XML| XML aurreratua
+Too many answers - Refine your search| Erantzun gehiegi. Findu bilaketa
+%s Search| % Bilatu
+Searching| Bilatzen
+Server not configured| Zerbitzaria konfiguratu gabe dago
+SimRing| SIMaren tonua
+Phone No/SIP-URI Not Configured| Telefono-zk./SIP-URI konfiguratu gabe
+ Xsi Server Update Failed|  Xsi zerbitzari-eguneratzeak huts egin du
+Call Settings| Dei-ezarpenak
+Missing Config| Konfigurazioa falta da
+Deflect| Aldatu
+AnswerIcom| Erantzun interkom.
+In a call| Deian
+Chats| Txatak
+Chat| Txata
+Send| Bidali
+Delete all chat sessions?| Ezabatu txat-saio guztiak?
+Delete chat session with %s?| Ezabatu %s erabiltzailearekin duzun txat-saioa?
+No active chat session| Ez dago txat-saio aktiborik
+Push Notifications| Push jakinarazpenak
+Sound| Soinua
+Bluetooth| Bluetooth
+Chat| Txata
+%s is typing...| %s idazten ari da...
+Last message received %s at %s| Jasotako azken mezua: %s (%s)
+Last message received while offline| Deskonektatua zeundela jasotako azken mezua
+now| orain
+%ld secs ago| duela %ld s
+1 min ago| duela 1 min
+%ld mins ago| duela %ld min
+1 hour ago| duela 1 ordu
+%ld hours ago| duela %ld ordu
+yesterday| atzo
+%ld days ago| duela %ld egun
+while offline| deskonektatuta zeundela
+Can't talk right now. I'll call you later.| Ezin du hitz egin orain. Geroago deituko dizut.
+On another call| Beste dei batean nago
+I'll call you back| Gero deituko dizut
+Call me back in 10 minutes| Deitu 10 minutu barru
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Pertsonalizatua...
+Message to %s| Bidali mezua %s erabiltzaileari
+Cancel - No message sent| Utzi. Ez da mezurik bidali
+Chat Messages| Txat-mezuak
+Reject Call Message Configuration| Baztertu deiko mezuen konfigurazioa
+Message| Mezua
+Server Failure| Zerbitzariak huts egin du
+Use ^v to view| Ikust. erabili ^v
+Answer| Erantzun
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Abisua
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Idatzi izena
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Eskaeraren denbora-muga gainditu da
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Pass Thru ataka
+Page Expired. Please reload the page.| Orria iraungi da. Kargatu berriro orria.
+Application busy. Please try again later.| Aplikazioa okupatuta dago. Saiatu berriro geroago.
+User ID required| Erabiltzaile-IDa behar da
+Directory file must be in WAV format| Direktorioaren fitxategia WAV formatua izan behar da
+Local Directory Upload| Tokiko direktorioa kargatzea
+Upload failed - Too many records detected in csv file| Ezin izan da kargatu. Erregistro gehiegi detektatu dira csv fitxategian
+Upload failed - No record detected in csv file| Ezin izan da kargatu. Ez da detektatu erregistrorik csv fitxategian
+Upload performed - %d records created| Kargatu da. %d erregistro sortu dira
+minutes| minutuak
+User ID| Erabiltzaile-IDa
+Any PBX| Edozein PBX
+Screen Mode| Pantaila modua
+Show Picture| Erakutsi argazkia
+Request timed out| Eskaeraren denbora-muga gainditu da
+No Mobile phone connected| Ez dago telefono mugikorrik konektatuta
+Only one Handset can be paired to the phone| Eskuko gailu bakarra parekatu daiteke telefonoarekin
+Only one Speaker can be paired to the phone| Bozgorailu bakarra parekatu daiteke telefonoarekin
+Maximum number of paired devices reached| Pareka daitezkeen gehienezko gailu kopurura iritsi zara
+Reload| Kargatu berriro
+Mobile Contacts| Mugikorreko kontaktuak
+Mobile| Mugikorra
+Press "Turn on" to enable Bluetooth| Sakatu "Aktibatu" Bluetootha gaitzeko
+Turn on| Aktibatu
+Turn off| Desaktibatu
+Mobile : %s| Mugikorra: %s
+Pair| Erregistroa
+Connect| Konektatu
+Disconnect| Deskonektatu
+Forget| Ahaztu
+Rename| Aldatu izena
+Rename Device| Aldatu gailuaren izena
+Disabling Bluetooth will disconnect your Cordless Handset| Bluetootha desgaituz gero hari gabeko aurikularrak deskonektatuko dira
+Warning| Abisua
+Do you want to continue?| Jarraitu nahi duzu?
+Bluetooth pairing request| Bluetootha parekatzeko eskaera
+Pair with %s| %s gailuarekin parekatzen
+Pairing code - %06ld| Parekatze-kodea - %06ld
+External| Kanpokoa
+Lock Settings| Blokeo-ezarpenak
+Proximity auto-lock| Hurbileko blokeo automatikoa
+Delay before auto-lock| Atzer. aut. blok. aurretik
+Proximity auto-unlock|  Hurbileko desblokeo autom.
+Delay before auto-unlock| Atzer. aut. desbl. aurretik 
+Proximity auto-lock| Hurbileko blokeo automatikoa
+Proximity auto-unlock|  Hurbileko desblokeo autom.
+Delay before auto-lock (minutes)| Atzer. aut. blok. aurretik (minutuak)
+Delay before auto-unlock (minutes)| Atzer. aut. desbl. aurretik  (minutuak)
+M695: New Firmware. Do not unplug phone!| M695: firmware berria. Ez desentxufatu telefonoa!
+Login/Logout| Hasi/Amaitu saioa
+Logout user %s| Amaitu %s erabiltzailearen saioa
+Login successful| Ongi hasi da saioa
+Logout successful| Ongi amaitu da saioa
+Login failed| Ezin izan da saioa hasi
+Logout failed| Ezin izan da saioa amaitu
+Hot desk user can not pair handset please login as a local user| Laguntza-mahaiko erabiltzaileak ezin ditu parekatu aurikularrak. Hasi saioa tokiko erabiltzaile gisa
+Hot desk user can not pair speaker please login as a local user| Laguntza-mahaiko erabiltzaileak ezin du parekatu bozgorailua. Hasi saioa tokiko erabiltzaile gisa
+Hot desk user can not unpair handset please login as a local user| Laguntza-mahaiko erabiltzaileak ezin ditu desparekatu aurikularrak. Hasi saioa tokiko erabiltzaile gisa
+Hot desk user can not unpair speaker please login as a local user| Laguntza-mahaiko erabiltzaileak ezin du desparekatu bozgorailua. Hasi saioa tokiko erabiltzaile gisa
+Push Call| Push deia
+Cordless Handset| Hari gabeko aurikularrak
+Low Battery| Bateria gutxi
+Critical Battery| Oso bateria gutxi
+Ongoing Call| Abian den deia
+Incoming Call| Sarrerako deia
+Incoming Call from %s| %s erabiltzailearen sarrerako deia
+Incoming Call from %s (%s)| %s erabiltzailearen sarrerako deia (%s)
+Voicemail access of Mobile Phone not supported| Ez da onartzen telefono mugikor bidez erantzungailuan sartzea
+Device not supported| Gailua ez da onartzen
+Phone not compatible| Telefonoa ez da bateragarria
+Dialing out through Mobile Line not supported| Linea mugikor bidez markatzea ez da onartzen
+Page Expired. Please reload the page.| Orria iraungi da. Kargatu berriro orria.
+Application busy. Please try again later.| Aplikazioa okupatuta dago. Saiatu berriro geroago.
+Invalid prefix length (0 to 128)| Aurrezenbakiaren luzerak ez du balio (0 - 128)
+User ID required| Erabiltzaile-IDa behar da
+IPv6 Settings| IPv6 ezarpenak
+Basic Network Settings (IPv6)| Oinarrizko sare-ezarpenak (IPv6)
+Basic Network Settings (IPv4)| Oinarrizko sare-ezarpenak (IPv4)
+Ethernet Port Settings| Ethernet atakaren ezarpenak
+User ID| Erabiltzailearen Ida
+Colon ":"| Bi puntu ":"
+Login/Logout| Hasi/Amaitu saioa
+Logout user %s| Amaitu %s erabiltzailearen saioa
+Login successful| Ongi hasi da saioa
+Logout successful| Ongi amaitu da saioa
+Login failed| Ezin izan da saioa hasi
+Logout failed| Ezin izan da saioa amaitu
+IPv6| IPv6
+Enable IPv6| Gaitu IPv6
+Mode DHCPv6| DHCPv6 modua
+DHCPv6| DHCPv6
+Auto-configuration| Konfigurazio automatikoa
+Prefix Length| Aurrezenbakiaren luzera
+IPv6 Address| IPv6 helbidea
+Local Directory Upload| Tokiko direktorioa kargatzea
+Upload failed - Too many records detected in csv file| Ezin izan da kargatu. Erregistro gehiegi detektatu dira csv fitxategian
+Upload failed - No record detected in csv file| Ezin izan da kargatu. Ez da detektatu erregistrorik csv fitxategian
+Upload performed - %d records created| Kargatu da. %d erregistro sortu dira
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Errorea: Eguneratzea/Deseguneratzea ez da onartzen firmware-aren bertsioa bateraezina delako
+Directory file must be in CSV format| Direktorioaren fitxategia CSV formatuan egon behar da
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Errorea: Eguneratzea/Deseguneratzea ez da onartzen firmware-aren bertsioa bateraezina delako
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Ataza mapa ez-osoa
+DSP| DSP
+SIP| SIP
+Checking DECT| DECT aztertzen
+Updating DECT Firmware| DECT firmwarea eguneratzea
+Tone| Tonua
+Interface| Interfazea
+Web| Webgunea
+7 +294| 7 +294
+Updating configuration| Konfigurazioa eguneratzen
+Waiting assignment| Esleipenaren zain
+Checking for new firmware| Firmware berria bilatzea
+Firmware Check| Firmwarea bilatzea
+Firmware Check| Firmwarea bilatzea
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Firmware berria: EZ EZAZU DESENTXUFATU TELEFONOA
+New Firmware: Restarting...| Firmware berria: Berrabiarazten...
+Downloading configuration| Konfigurazioa deskargatzen
+9 +397| 9 +397
+erase all calls| ezabatu dei guztiak
+DELETE again to erase this item| EZABATU berriro elementua ezabatzeko
+DELETE to erase item  or # to erase Number| EZABATU elementua ezabatzeko edo # Zenbakia ezabatzeko
+DELETE again to erase all calls| EZABATU berriro dei guztiak ezabatzeko
+DELETE again to erase all items| EZABATU berriro elementu guztiak ezabatzeko
+Delete All| Ezabatu dena
+DELETE again to erase all calls| EZABATU berriro dei guztiak ezabatzeko
+DELETE again to erase all items| EZABATU berriro elementu guztiak ezabatzeko
+Delete All| Ezabatu dena
+Factory Defaults| Fabrikako konfigurazioa
+ Missed Call|  Dei galdua
+ Missed Calls|  Dei galduak
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Push
+Push| Push
+Leave| Utzi
+Conf| Konf
+SIP Settings| SIP Ezarpenak
+8 +743| 8 +743
+Cannot Save| Ezin da galdu
+1 item| 1 sarrera
+ items|  Elementuak
+item| Elementua
+items| Elementuak
+item| Elementua
+items| Elementuak
+No User| Ez dago erabiltzailerik
+Missing User ID| Erabiltzaile-ID falta da
+DHCP failed| DHCP akatsa
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS hobetsia
+Cfg Svr Failure| Cfg Svr akatsa
+Bad Certificate| Ziurtagiri okerra
+Bad Cert/TLS Err| Ziurt. oker/TLS okerr
+Certificates| Ziurtagiriak
+Cert Validation| Ziurt Balidazioa
+All defaults| Denak jat.-doik.
+6 +1070| 6 +1070
+Debug Level| Arazte maila
+Support Information| Laguntza informazioa
+Get local.cfg| Atzitu tokiko.cfg
+Get Log Files| Atzitu tokiko fitxategiak
+Get server.cfg| Atzitu zerbitzaria.cfg
+Get user_local.cfg| Atzitu user_local.cfg
+Get user.cfg| Atzitu erabiltzailea.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Azpisare-maskara baliogabea
+Invalid primary DNS address| DNS helbide primario baliogabea
+Invalid secondary DNS address| DNS helbide sekundario baliogabea
+Invalid prefix length (0 to 128)| Aurrezenbakiaren luzerak ez du balio (0 - 128)
+User ID required| Erabiltzaile-IDa behar da
+IP cannot be equal to gateway address| IP ezin da izan atebidearen helbidearen berdina izan
+IP and gateway have to be on same subnet| IP eta atebideak azpisare berean egon behar dute
+IP and gateway are equal| IP eta atebidea berdinak dira
+IP gateway subnet mismatch| IP atebidearen azpisarea ez datoz bat
+IPv6 Settings| IPv6 ezarpenak
+Basic Network Settings| Oinarrizko sare-ezarpenak
+Basic Network Settings (IPv6)| Oinarrizko sare-ezarpenak (IPv6)
+Basic Network Settings (IPv4)| Oinarrizko sare-ezarpenak (IPv4)
+Advanced Network Settings| Sareko parametro aurreratuak
+DHCP| DHCP
+NAT Port| NAT ataka
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Zehaztutako fitxategia luzeegia da. Fitxategi bakoitzak ezin du 1 MB baino gehiago izan.
+The phone does not have enough space to store this file.| Telefonoak ez du fitxategia gordetzeko adina toki.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Zehaztutako fitxategiak ez ditu betetzen telefonoak eskatutako dei-tonuaren eskakizunak. Dei-tonuaren fitxategien eskakizunak zein diren jakiteko, begiratu Erabiltzailearen gida.
+Directory file must be in WAV format| Direktorioaren fitxategia WAV formatua izan behar da
+Directory file must be in CSV format| Direktorioaren fitxategia CSV formatuan egon behar da
+Local Directory Upload| Tokiko direktorioa kargatzea
+Upload failed - Too many records detected in csv file| Ezin izan da kargatu. Erregistro gehiegi detektatu dira csv fitxategian
+Upload failed - No record detected in csv file| Ezin izan da kargatu. Ez da detektatu erregistrorik csv fitxategian
+6 +1370| 6 +1370
+IP&MAC Addresses| IP&MAC Helbideak
+LAN Port| LAN ataka
+PC Port| PC ataka
+Port Mirroring| Ataka ispilua
+Set Audio| Ezarri Audioa
+Config. Server| Konfig. Zerbitzaria
+IP Address:| IP Helbidea:
+7 +1463| 7 +1463
+App| Aplikazioa
+Watchdog| Zaintzarako tenporizadorea
+Speeddial/Conf| Markazio lasterra/Konf.
+Speeddial/MWI| Markazio lasterra/MWI
+Speeddial/MWI| Markazio lasterra/MWI
+Call is on Hold| Deia itxaroten
+No subscription| Eskaerarik gabe
+802.1x Failed| 802.1x hutsegitea
+6 +1473| 6 +1473
+Failed to config Line Manager| Ezin izan da konfiguratu Linea Kudeatzailea
+Line in use| Linea erabiltzen
+Get Crash Log| Atzitu hutsen erregistroa
+Logging Issue| Arazoa saioa hastean
+Time Unavailable| Denbora ez-erabilgarri
+Packetization Interval| Paketatze tartea
+Basic| Oinarrizkoa
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Pertsonalizatua
+IN| BARRUAN
+OUT| KANPOAN
+Filter| Iragazkia
+Filtering| Iragaztea
+Opt Status| Aukera egoera
+Executives| Betearazleak
+Forward Filtering| Aurrerantz iragaztea
+Divert| Desbideratzea
+Divert to Number| Zenbakira desbideratzea
+IN| BARRUAN
+OUT| KANPOAN
+Filter| Iragazkia
+Filtering| Iragaztea
+Opt Status| Aukera egoera
+Executives| Betearazleak
+Forward Filtering| Aurrerantz iragaztea
+Divert| Desbideratzea
+Divert to Number| Zenbakira desbideratzea
+Press a contact button to view contact info.| Sakatu kontaktuen botoi bat kontaktuaren informazioa ikusteko.
+No info available. Please press a contact button.| Ez dago informaziorik erabilgarri. Sakatu harremanetarako botoia.
+ Enter Administrator Password|  Sartu administratzailearen pasahitza
+6 +1749| 6 +1749
+Level 4| 4. maila
+Level 5| 5. maila
+Dot "."| Puntua "."
+Colon ":"| Bi puntu ":"
+(Min: %d  Max: %d)| (Min: %d Max: %d)
+Line: %d| Lerroa: %d
+Line %d: %s| Line %d: %s
+6 +1780| 6 +1780
+Please enter a number| Idatzi zenbaki bat
+Please enter a name| Idatzi izen bat
+Login| Hasi saioa
+Log Issue| Erregistro arazoa
+Log Out| Bukatu saioa
+Avail| Erabilgarri
+Unavail| Ez erabilgarri
+14 +1852| 14 +1852
+Show Picture| Erakutsi argazkia
+Mode %d| %D modua
+Screen Saver Timer| Pantaila-babesaren tenporizadorea
+Enabled also in call| Deian ere gaituta
+Enabled also in call| Deian ere gaituta
+Invalid Subscription Time| Harpidetzaren orduak ez du balio
+Speed Dial 8| 8 abiadura-markagailua
+Request Failed| Ezin izan da eskaera egin
+Request timed out| Eskaeraren denbora-muga gainditu da
+Too many answers - Refine your search| Erantzun gehiegi. Findu bilaketa
+New Contact| Kontaktu berria
+Edit Details| Editatu xehetasunak
+Edit Details| Editatu xehetasunak
+Failed to retrieve contact details| Ezin izan da berreskuratu harremanetan jartzeko xehetasunik
+No Mobile phone connected| Ez dago telefono mugikorrik konektatuta
+Only one Handset can be paired to the phone| Eskuko gailu bakarra parekatu daiteke telefonoarekin
+7 +2039| 7 +2039
+Volume| Bolumena
+DTMF| DTMF
+Screenshot| Pantaila-argazkia
+All| Denak
+All| Denak
+Missed| Galdutakoak
+Outgoing| Kanporakoa
+Received| Jasotakoak
+7 +2053| 7 +2053
+Paired Devices| Parekatutako gailuak
+Available Devices| Gailu erabilgarriak
+Swipe the toggle switch to the right to enable Bluetooth| Irristatu etengailua eskuinera Bluetootha gaitzeko
+Press "Turn on" to enable Bluetooth| Sakatu "Aktibatu" Bluetootha gaitzeko
+Press "Turn on" to enable Bluetooth| Sakatu "Aktibatu" Bluetootha gaitzeko
+Turn on| Aktibatu
+Turn off| Desaktibatu
+Mobile : %s| Mugikorra: %s
+9 +2067| 9 +2067
+Device| Gailua
+Rename Device| Aldatu gailuaren izena
+No paired devices| Ez dago parekatutako gailurik
+Connection successful| Ongi konektatu da
+Connection failed| Ezin izan da konektatu
+Disconnection successful| Deskonektatu da
+Connection successful| Ongi konektatu da
+Connection failed| Ezin izan da konektatu
+Disconnection successful| Deskonektatu da
+Disconnection failed| Ezin izan da deskonektatu
+Pairing failed| Konexioak huts egin du
+Operation failed| Eragiketak huts egin du
+7 +2153| 7 +2153
+%ld days ago| duela %ld egun
+while offline| deskonektatuta zeundela
+Can't talk right now. I'll call you later.| Ezin du hitz egin orain. Geroago deituko dizut.
+On another call| Beste dei batean nago
+On another call| Beste dei batean nago
+I'll call you back| Gero deituko dizut
+Call me back in 10 minutes| Deitu 10 minutu barru
+Custom...| Pertsonalizatu...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Laguntza-mahaiko erabiltzaileak ezin du parekatu bozgorailua. Hasi saioa tokiko erabiltzaile gisa
+Hot desk user can not unpair handset please login as a local user| Laguntza-mahaiko erabiltzaileak ezin ditu desparekatu aurikularrak. Hasi saioa tokiko erabiltzaile gisa
+Hot desk user can not unpair speaker please login as a local user| Laguntza-mahaiko erabiltzaileak ezin du desparekatu bozgorailua. Hasi saioa tokiko erabiltzaile gisa
+Push Call| Push deia
+Cordless Handset| Hari gabeko aurikularrak
+Push Call| Push deia
+Cordless Handset| Hari gabeko aurikularrak
+Low Battery| Bateria gutxi
+Critical Battery| Oso bateria gutxi
+Ongoing Call| Abian den deia
+5 +2188| 5 +2188
+Device not supported| Gailua ez da onartzen
+Phone not compatible| Telefonoa ez da bateragarria
+Dialing out through Mobile Line not supported| Linea mugikor bidez markatzea ez da onartzen
+IPv6| IPv6
+Enable IPv6| Gaitu IPv6
+Mode DHCPv6| DHCPv6 modua
+DHCPv6| DHCPv6
+Auto-configuration| Konfigurazio automatikoa
+Prefix Length| Aurrezenbakiaren luzera
+IPv6 Address| IPv6 helbidea
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Errorea: Eguneratzea/Deseguneratzea ez da onartzen firmware-aren bertsioa bateraezina delako
+Audio Diagnostics| Audio diagnosia
+Diagnostics| Diagnosia
+Timeout (1-5 Minutes)| Denbora-muga (1-5 minutu)
+Disconnect| Deskonektatu
+Capturing ...| Kapturatzen ...
+Complete ...| Osatzen ...
+Collecting Logs ...| Erregistroak biltzen ...
+Collect Logs| Bildu erregistroak
+Please input a duration between 1 and 5 minutes| Sartu 1 eta 5 minuturen arteko iraupena
+Erase| Ezabatu
+Cloud Service| Hodeiko zerbitzua
+Enable Cloud Service| Gaitu hodeiko zerbitzua
+Cloud SIP| Hodeiko SIP
+Cloud Directory| Hodeiko direktorioa
+Active Config Server| Konf. zerbitz. aktiboa
+Cloud Config Server 1| Hodeiko 1 zerbitzariaren konfig
+Cloud Config Server 2| Hodeiko 2 zerbitzariaren konfig
+Cloud Staging Server| Hodeiko fasesako zerbitzatia
+Cloud Domain| Hodeiko domeinua
+Replay| Erreproduzitu
+Backward| Atzerantz
+Forward| Aurrerantz
+Send To| Honi bidali
+Logout| Itxi saioa
+To Email| Posta elektronikora
+Delete Failure| Ezabatze akatsa
+Play Failure| Erreprodukzio akatsa
+Play Failure due to a system error. See your system administrator.| Erreprodukzio akatsa sistemaren errorearengatik. Ikus zure sistemaren pasahitza.
+Save Failure| Gorde akatsa
+Add Contact| Geh Kontaktua
+Voicemail and Recordings| Ahots-posta eta Grabazioak
+Voicemail User Login| Ahots-postaren erabiltzailearen saioa hasi
+Send to| Honi bidali
+Cannot dial a private number| Ezin da markatu zenbaki pribaturik
+Cannot copy a private number| Ezin da kopiatu zenbaki pribaturik
+Number not available| Zenbakia ez dago erabilgarri
+Loading...| Kargatzen...
+Login| Hasi saioa
+Contacts| Kontaktuak
+Private| Pribatua
+To| Honi
+Send| Bidali
+Voicemail has been sent.| Ahots-posta bidali da.
+Error in sending Voicemail. Please send it again.| Errorea ahots-posta bidaltzean. Berriro bidali.
+Voicemail has been sent to email.| Ahots-posta posta elektronikora bidali da.
+Error in sending to Email.| Errorea E-postara bidaltzean.
+New| Berria
+Recorded| Grabatuta
+Receipt Confirmation| Jasotzea egiaztatzea
+Passcode| Pasakodea
+Mailbox Number| Postontziaren zenbakia
+Remember passcode| Gogoratu pasakodea
+Passcode is incorrect. Enter a valid passcode.| Pasakodea gaizki dago. Sartu baliozko pasakodea.
+Invalid mailbox number.| Postontziaren zenbaki baliogabea.
+Error - Mailbox in use| Errorea - Postontzia erabiltzen ari da
+Error - maximum sessions exceeded| Errorea - gehienezko saio kopurua gainditu da
+Error - no session exists| Errorea - ez dago saiorik
+Error - bad extension| Errorea - luzapen okerra
+Mailbox locked for security reasons. See your system administrator.| Postontzia blokeatu da segurtasun arrazoiengatik. Ikus zure sistemaren pasahitza.
+DECT Headset| DECT kaskoak
+DECT Headset Version| DECT kaskoen bertsioa
+DECT Headset Battery| DECT kaskoen bateria
+DECT Headset Rf Power| DECT kaskoen IM pizgailua
+DECT Headset Rf Power| DECT kaskoen IM pizgailua
+Very Low| Oso baxua
+Downloading font| Deskarga-jatorria
+No calls to unpark| Ez dago deirik aktibatzeko
+For …| Honentzat ...
+To VM| VMri
+Number of Packets Sent| Bidalitako pakete-kopurua
+Number of Packets Received| Jasotako pakete-kopurua
+RTT min/avg/max| RTT min/bb/max
+traceroute to| honako ibilbide-aztarna
+hops max| salto max
+byte max| byte max
+Voicemail box is full| Ahots-postontzia beteta dago
+ALL| DENAK
+REMOTE| URRUTIKOA
+Local| Tokikoa
+Not allowed on this call| Ez dago baimenduta dei honentzat
+ Whisper|  Xuxurlatu
+ Consult| Kontsultatu
+ Coach| Entrenatzaile
+ Barge| Txalupa
+ Monitor| Monitore
+ For| -entzako
+ External Speaker| Kanpoko bozgorailua
+ UnPark| Ez aparkatus
+ Call Parked| Bazterturiko deialdia
+ UnPark Failed| UnParkek akatsa izan du
+ Rev:| Rev.:
+ You must restart the phone before the new settings will take effect.| Telefonoa berrabiatu behar duzu aldaketek eragina izateko
+ None| Inor
+ Use LLDP-MED| Erabili LLDP-MED
+ LLDP neighbor| LLDP auzokoa
+ Cache LLDP-MED| Cache LLDP-MED
+ Conf In Progress| Konf prozesuan
+  Enter Voicemail Password|  Sartu ahots-postaren pasahitza
+ Call Server| 
+ Do Not Ring if on a Call| Ez jo dei batean
+ P| P
+ To Vm| Vm-ri
+ Pickup not permitted| Hartzea ez dago baimendurik
+ Pickup/unpark not permitted| Hartu/Aktibatzea ez dago baimendurik
+ Unpark not permitted| Aktibatzea ez dago baimendurik
+ Silent Monitor not permitted on this call| Monitore isila ez dago baimendurik deialdi honetan
+ Silent Coach not permitted on this call| Entrenatzaile isila ez dago baimendurik deialdi honetan
+ Barge In not permitted on this call| Barge ez dago baimendurik deialdi honetan
+ Park not permitted| Aparkatzea ez dago baimendurik
+ Park/Transfer is still in progress| Aparkatu/Berbidali oraindik prozesuan dago
+ No calls to unpark| Ez dago deirik aktibatzeko
+ No calls to park| Aparkatzeko deirik ez
+ No calls to pickup| Hartzeko deirik ez
+ No calls to take action| Jarduteko deirik ez
+ My Status| Nire egoera
+ Favorite| Gogokoa
+ Voicemail playback failed| Ahots-postaren erreprodukzioak akatsa izan du
+ Voicemail skip failed| Ahots-posta bazterUtzi akatsa izan du
+ Voicemail bad address| Ahots-posta helbide okerra
+ Voicemail box is full for| Ahots-posta -rentzat beteta dago
+ Not supported| Ez da onartzen
+ Service unavalilable at this time| Zerbitzua ez dago erabilgarri momentu honetan
+ Hold not permitted on this call| Itxaronaldia ez dago baimendurik deialdi honetan
+ Action not permitted| Ekintza ez dago baimendurik
+ Not Permitted on this call| Deialdi honetan ez dago baimendurik
+ Request denied or \r\nunacceptable at this time| Eskaera ukaturik edo \r\nonartezina momentu honetan
+ Phone number is invalid or not properly formatted| Telefono-zenbakia ez da balioko edo ez dago ondo idatzirik
+ Move Message Failure| Mugitu Mezuaren Akatsa
+ Contacts| Kontaktuak
+ Cloud Connect| Hodeiarekin Konektatu
+ Service Type| Zerbitzu Mota
+ MiCloud Connect| MiCloud-ekin konektatu
+ MiVoice Border Gateway| MiVoice Muga Atebidea
+ User DID| Erabiltzailearen DID
+ Domain| Domeinua
+ Call Back| Berriz deitu
+ Play| Entzun
+ Exit| Irten
+ Skip Back| Atzerantz baztertu
+ Skip Forward| Aurrerantz baztertu
+ Inbox| Sarrera erretilua
+ MiCloud| MiCloud
+ Fetching Details| Ekarritakoaren xehetasuna
+ Additional Phone| Telefono gehigarria
+ Agent state| Agentearen egoera
+ Availability| Erabilgarritasuna
+ Standard| Estandar
+ In a meeting| Bilera batean
+ Out of office| Bulegotik kanpo
+ Extended Absence| Luzaturiko abstentzioa
+ Do not disturb| Ez eragotzi
+ On the Phone| Telefonoz hitz egiten
+ Assign| Egokitu
+ Assign user| Erabiltzailea egokitu
+ Assign user failed| Erabiltzailea egokitzean akatsa izan da
+ Assign user to phone in progress. Please wait...| Erabiltzailea telefonoari egokitzen Itxaron, mesedez...
+ Extension or password invalid| Luzapena edo pasahitz okerra
+ Unassign| Ez egokitu
+ Unassign user| Erabiltzailea ez egokitu
+ Unassign user failed| Erabiltzailea ez egokitzean akatsa izan da
+ Unassign user?| Erabiltzailea ez egokitu?
+ Unassigning user...| Erabiltzailea ez egokitu...
+ Voicemail password| Ahots-postaren pasahitza
+ Ping| Ping
+ Host Name or IP Address| Ostalariaren Izena edo IP helbidea
+ Please enter a valid HostName/IP Address| Mesedez sartu baliozko Ostalari izena/IP helbidea
+ Pinging %s...| Ping-tzen %s...
+ Tracerouting...| Bidea marrazten...
+ Tracerouting Complete| Bidea marrazten bukaturik
+ Traceroute| Bidea marraztu
+ Page Up| Orrian gora
+ Page Down| Orrian behera
+ Traceroute Command| Bidea marrazteko agindua
+ Always| Beti
+ Never| Inoiz
+ Always destination| Betiko helmuga
+ No answer destination| Erantzunik gabeko helmuga
+ Busy destination| Lanpeturiko helmuga
+ Simulring| Simulring-tzen
+ VPN| VPN
+ Use VPN| Erabiltzailearen VPN-a
+ VPN gateway| VPN atebidea
+ VPN gateway port| VPN atebide portua
+ Tunnel IP| IP Tunela
+ VPN protocol| VPN protokoloa
+ VPN debug mode| VPN arazketa modua
+ System| Sistema
+ Log upload| Tokia igo
+ Timeout (1-1440 Minutes)| Denbora-muga (1-1440 minutu)
+ Please input a duration between 1 and 1440 minutes| Mesedez sartu iraupen bat 1 eta 1440 minutu artean
+ User Settings| Erabiltzaileren ezaugarriak
+ Diagnostic server| Zerbitzariaren diagnostikoa
+ Diag Server| Diag Zerbitzailea
+ Wrap up| Bildu
+ UnWrap| Ireki
+  Open| Ireki
+ Confirm| Baieztatu
+ New voicemail password| Ahots-posta pasahitz berria
+ Password entries do not match| Pasahitzak ezberdinak dira
+ Password change succeeded| Pasahitza ondo aldatu da
+ New password same as old password| Aurreko pasahitz berbera
+  Reply| Erantzun
+  ReplyAll| Guztiei erantzun
+  Compose| Idatzi
+  Call VM| Deiaren VM
+ Cannot choose your own extension| Zure luzapen propioa ezin da aukeratu
+ Save Changes?| Aldaketak gorde?
+ Validating number...| Zenbakia balioztatzen...
+ Invalid %s| Baliogabeko %s
+ Upgrade Required| Hobekuntza beharrezkoa da
+ Invalid DID or Password| DID edo pasahitz okerra
+ Register| Erregistratu
+ Voice Service| Ahots zerbitzua
+ Start Over| Berrekin
+ Empty domain name| Domeinu izena hutsik
+ Registering| Erregistratzen
+ DID or password no update| DID edo pasahitza ez da berritu
+ Invalid domain name| Domeinu izen okerra
+  Registration cancelled| Erregistroa ezeztaturik
+ Pager| Lokalizatzailea
+ Phone not registered| Telefonoa erregistratu gabe dago
+ Enterprise| Enpresa
+  Parameter Type| Parametro mota
+ Remote| Urrun.
+  Filter Page| Orria filtratu
+  Parameter Filter| Parametroa filtratu
+  Get Parameters| Parametroak lortu
+ Assigned| Egokiturik
+ Assigning| Egokitzen
+ Invalid extension| Luzapen okerra
+ Extension or password no update| Luzapena edo pasahitza ez da berritu
+ Assignment cancelled| Egokitzea ezeztaturik
+ Extension already assigned| Luzapena dagoeneko egokiturik dago
+  Select a call to park| Aukeratu deia aparkatzeko
+  Select a call to unpark| Aukeratu deia ez aparkatzeko
+  Unpark| Ez aparkatu
+ Duration| Iraupena
+ Subject| Gaia
+ Uploading Fail| Igotzean akatsa
+ Diagnostic server is empty| Zerbitzariaren diagnostikoa hutsik dago
+ Logs uploaded successfully| Log-ak ondo igo dira
+ Urgent| Premiazkoa
+ Return Receipt| Faktura itzuli
+ Include Original| Jatorrizkoa sartu
+ Re: Voice Message| Re: Ahots-mezua
+ Fw: Voice Message| Fw: Ahots-mezua
+ Phone not assigned| Telefonoaez da egokitu
+ Whisper Page| Orrialdea xuxurlatu
+ Intercom| Interkom
+ Silent Monitor| Monitorea isildu
+ Barge In| Barge
+ Silent Coach| Entrenatzailea isildu
+ To Inbox| Sarrera ontzira
+ Save Message?| Mezua gorde?
+ By First| Lehenengotik
+ By Last| Azkenengotik
+ Dial Voicemail| Ahots-mezua markatu
+ Dial VM| VM markatu
+  Invalid Phone Number| Telefono zenbaki okerra
+ Transfer not permitted on this call| Birbidaltzea ez dago baimendurik deialdi honetan
+ Conference not permitted on this call| Konferentzia ez dago baimendurik deialdi honetan
+ Remote log upload in progress| Urruneko log-a igotzen
+ Remote capture upload in progress| Urruneko kaptura igotzen
+ Standard| Estandar
+ Ring 2| Txirrin 2
+ Ring 3| Txirrin 3
+ Ring 4| Txirrin 4
+ Play Int| Entzun Int
+ Play Ext| Entzun Ext
+ Press "Upload" to upload a debug log| Ukitu “igo” arazketa log bat igotzeko
+ Select a call to merge| Aukeratu dei bat konbinatzeko
+ Add Caller:| Deitzailea gehitu:
+ Assign user?| Erabiltzailea egokitu?
+ Participants| Parte-hartzaileak
+ Conferenced| Konferentziaturik
+ calls| Deiak
+ held calls| Deiak mantendu
+ Debug on| Arazketa pizturik
+ Debug off| Arazketa itzalita
+ Unknown Error| Errore ezezaguna
+ Connection Error| Konexio errorea
+ Application Error| Aplikazio errorea
+ Number of Packets Sent:| Bidalitako pakete kopurua:
+ Number of Packets Received:| Jasotako pakete kopurua:
+ RTT min/avg/max| RTT min/bb/max
+ traceroute to| honako ibilbide-aztarna
+ hops max| salto max
+ byte packets| Byte paketeak
+ Help| Laguntza
+ Call Mitel Support ?| Deitu Mitel euskarria?
+ Mitel Support| Mitel euskarria
+ Remote| 
+ OnHold| 
+Initializing Components|  Osagaiak abiarazten
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

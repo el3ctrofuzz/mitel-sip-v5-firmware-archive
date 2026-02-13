@@ -1,0 +1,3607 @@
+Korean
+AQUARIUS_3 prompts| 
+Net. General Info| 네트워크 일반정보
+Net. Persist. Data| 콜서버 정보
+Net. DHCP Info| DHCP 정보
+Net. QoS| QOS 상태
+Message Key Launch Voicemail App| 음성사서함 키(보이스메일 어플)
+AQUARIUS_4 prompts| 
+Network Persist. Data| 
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| 페어링된 핸드셋  없음.
+Cordless Handset Feature Key Configuration| 무선 핸드셋 기능 키 구성
+None| None
+Attempting to pair...| 페어링 시도
+Pairing successful| 페어링 성공
+Pairing failed       | 페어링 실패
+Try again| 재시도 요청
+Remove Handset:| 핸드셋 제거
+Attempting to remove| 제거 시도
+Wait...| 대기
+Removal successful| 제거 성공
+Cordless| 무선
+Cordless Handsets| 무선 핸드셋
+None Registered| 미등록
+Sync| Sync
+Private Line| 직통전화 회선
+Sending Directory| 발신 디렉토리
+to Handsets| 핸드셋 방향
+System Unavailable| 시스템 이용불가
+Handset Pairing| 핸드셋 페어링
+Handset Keys| 핸드셋 키
+Feature Key programming complete.| 기능 기 프로그램 완료
+Two Call Support| 
+Intercom| 인터콤
+Sending Directory to Handsets| 
+No Public Number Found| 
+480i prompts| 
+Time Format| 시간 형식
+    NOT MATCH !!!| Not Match
+Erase local config?| 로컬 구성 삭제?
+Alternate Server| 대체 서버
+Contrast Level| 명암 레벨
+TypeService SIP| SIP 타입 서비스
+TypeService RTP| RTP 타입 서비스
+TypeService DSCP| DSCP 타입 서비스
+TypeService RTCP| RTCP 타입 서비스
+Dn| 다운
+Rt| 라이트
+Lf| 레프트
+Del| 삭제
+System Info Upload| 시스템 정보 업로드
+Up| 업
+Copyright| 카피라이트
+Reset| 리셋
+Phone will restart automatically after finishing.| 종료 후 전화가 자동으로 재시작합니다
+Please login| 로그인 하시오
+Incorrect password| 잘못된 암호
+Reset Configuration?| 설정 리셋?
+Cfg. Svr.| Cfg. Svr.
+Enable| 활성화
+List| 리스트
+Move Up| 위로 이동
+Move Down| 아래로 이동
+Firmware Loaded| 펌웨어 로드
+802.1x Authenticating| 802.1x 인증
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: IP 받아오는 중..
+Bluetooth Upgrade .. Please wait| 블루투스 업그레이드…대기하시오
+Contacting Redirector| 리다이렉터 접속 중
+Redirecting Step 1| 리다이렉팅 단계 1
+Redirecting Step 2| 리다이렉팅 단계 2
+Redirecting Step 3| 리다이렉팅 단계 3
+Redirecting Step 4| 리다이렉팅 단계 4
+Redirecting Step 5| 리다이렉팅 단계 5
+Redirecting Step 6| 리다이렉팅 단계 6
+Auto Discovery...| 자동 검색 중..
+Starting in Generic SIP Mode| SIP 모드 시작
+Starting in AastraLink Mode| AastraLink 모드 시작
+Updating config| 구성 업데이트
+Waiting assignment| 할당 대기
+Checking for Firmware  Do not unplug phone!| 펌웨어 체크 중. 전화 코드를 뽑지 마시오!
+New Firmware. Do not unplug phone!| 새 펌웨어. 전화 코드를 뽑지 마시오!
+New Firmware. Restarting...| 새 펌웨어. 재시작...
+Downloading configuration| 구성 다운로딩
+Downloading Language Packs| 언어 팩 다운로딩
+Network| 네트워크
+UPnP device not found| UPnP 디바이스 미발견
+Port Map In Progress| 포트 맵 처리중
+Port Map Incomplete| 포트 맵 미완성
+DSP| DSP
+SIP| SIP
+Tone| 톤
+Interface| 인터페이스
+Web| Web
+Done| 완료
+CopyToAll| 모든 구성 정보 복사
+Cannot use firmware.| 펌웨어 이용 불가
+No available lines| 라인 사용 불가
+Current Password:| 현재 암호
+New Password:| 새 암호
+Re-enter Password:| 암호 재입력
+  Password Changed| 암호 변경 됨
+Change| 변경
+Use DHCP?| DHCP 사용?
+Advanced| 고급
+DNS| DNS
+Ringer | Ringer
+ ERROR: invalid port| 에러:무효포트
+SIP Register| SIP 인증
+Register?| 인증 ?
+Authentication Name| 인증 이름
+Nortel NAT| Nortel NAT
+Reset phone to| 
+factory defaults?| 공장 초기화?
+Setting phone back to| 
+Factory Defaults| 공장 초기화
+  Please enter the   | 입력하시오
+    administrator    | 관리자
+      password.      | 암호
+Password: | 암호:
+Quit| 중지
+More| 이상
+Timeserver Address:| 타임서버 주소
+Network Time Disabled| 네트워크 타임 비활성화
+Dialing| 다이얼링
+Incoming| 인입
+Calling| 콜
+Pause| 중단
+Pickup| 응답
+Previous| 이전
+Enter Time:| 시간 입력:
+Message Waiting| 음성 메시지 알림
+Live Dialpad| 라이브 다이얼패드
+Live Dialpad is| 라이브 다이얼패드가
+Options List| 옵션 리스트
+    Access denied    | 접속 불가
+Directory is full| 디렉토리가 full 상태
+30min summertime| 30분 서머타임
+1h    summertime| 1시간 서머타임
+No Link| NO 링크
+Next| 다음
+Retry| 재시도
+Negotiation| Negotiation
+Live Dialpad disabled| 라이브 다이얼패드 비활성화
+Link State| 링크 상태
+Headset Mic Volume| 헤드셋 마이크 볼륨
+Gateway IP Address:| 게이트웨이 IP 주소
+Enter Date (y-m-d):| 날짜 입력 (y-m-d)
+Enter| 입력
+Enable| 활성화
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Default| 디폴트
+Add New| 신규 추가
+DeleteList| 리스트 제거
+Delete entire| 전부 제거
+Directory?| 디렉토리?
+Enter Number:| 번호 입력
+Network disconnected| 네트워크 연결 끊김
+Network connected| 네트워크 연결
+Entry Saved| 엔트리 저장
+Entry Removed| 엔트리 제거
+Private| 프라이빗
+Public| 퍼블릭
+Delete entry?| 엔트리 제거?
+Delete?| 제거?
+Delete number| 번호 제거
+or delete all| 또는 전부 제거
+entries?| 엔트리?
+Name is full| 이름이 풀 상태
+Empty| 텅빈
+Redial List| 리다이얼 리스트
+Details| 세부사항
+Copy| 카피
+Select| 셀렉트
+Voicemail| 보이스메일
+DeleteItem| 아이템 제거
+Delete All| 모두 제거
+Entry copied to| 
+Entry Exists| 엔트리 존재
+All items erased| 모든 아이템 제거
+Sort| 분류
+Resume| 재시작
+EditNum| 번호 편집
+DeleteList again to| 다시 리스트 제거
+Delete again to| 다시 제거
+erase this item| 아이템 삭제
+erase all calls| 모든 전화 삭제
+ new caller| 새로운 발신자
+ new callers| 새로운 발신자(s)
+Press 1st letter| 첫번째 문자 누르시오
+Handset | 핸드셋
+ Missed Call| 부재 중 전화
+ Missed Calls| 부재 중 전화(s)
+Call Forward Mode| 착신전환 모드
+CFWD All| 착신전환 All
+CFWD Busy| 착신전환  Busy
+CFWD NoAnswer| 착신전환 NoAnswer
+Call| 전화발신
+Select TFTP| TFTP 선택
+Use %c for new| 
+Use %c to view| 
+Download Protocol| 프로토콜 다운로드
+OFF| 오프
+ON| 온
+Add Number| 번호 추가
+Arrange| 배정
+%cmore| 
+Office| 사무실
+Home| 집
+Cell| 핸드폰
+Pager| 호출기
+VLAN Settings| VLAN 셋팅
+Softkeys and XML| 소프트키와 XML
+Softkeys Configuration| 소프트키 구성
+Bottom Keys| 아래부분 키
+Top Keys| 윗부분 키
+Page1| 호출기 1
+Page2| 호출기  2
+Page3| 호출기 3
+Page4| 호출기 4
+Page5| 호출기 5
+Idle| idle 상태
+Outgoing| 발신
+Empty| 빈 상태
+Enter server name/IP:| 서버 이름/IP 입력:
+Enter HTTPS port:| HTTPS 포트 입력:
+Erase| 제거
+Proxy IP/Port| 프록시 IP/포트
+Registrar IP/Port| 등록 IP/포트
+Erasing local config| 로컬 구성 제거
+Proxy Port:| 프록시 포트:
+Registrar Port:| 등록 포트:
+Proxy Server:| 프록시 서버:
+Registrar Server:| 등록 서버:
+Contrast Level:| 명암 레벨:
+Erase Local Config.| 로컬 구성 제거
+Administrator Menu| 관리자 메뉴
+Backlight On Time| 백라이트 온 타임
+Redirect HTTP->HTTPS?| 리다이렉트 HTTP->HTTPS?
+Block XML HTTP POSTs?| Block XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| 클라이언트 방식
+To unlock the phone| 전화기 언락
+No more softkeys| 소프트키 없음
+Ignore| 무시
+Answer| 응답
+Configuration Server| 구성 서버
+Primary Path| 프라이머리 경로
+Alternate Path| 대체 경로
+Logging in| 로그 인
+Login Failed| 로그인 실패
+Enable?| 활성화?
+Check Expires| 만료 확인
+Check Hostnames| 호스트네임 확인
+Conf. Unavailable| 구성 불가능
+Ringing...| 링잉
+Error Messages| 에러 메시지
+No Error Messages| 에러 메시지 없음
+Download Options| 다운로드 옵션
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| 이상
+A # &| A # &
+  Invalid password   | 무효 암호
+Upload Sys Info| 업로드 Sys info
+Config is updated. Restarting...| 구성 업데이트. 재시작…
+CFWD Filtering| CFWD 필터링
+Checking for Firmware| 펌웨어 체크
+for new| For New
+9133i prompts| 
+Password Changed| 암호 변경 됨
+Leave| 종료
+Time Format| 타임 포맷
+Erase local cfg?| 로컬 Cfg 삭제 ?
+TypeService SIP| SIP 타입 서비스
+TypeService RTP| RTP 타입 서비스
+TypeService DSCP| DSCP 타입 서비스
+TypeService RTCP| RTCP 타입 서비스
+Alternate Server| 대체 서버
+Contrast Level| 명암 레벨
+Options List| 옵션 리스트
+DELETE to erase item  or # to erase Number| 아이템 제거 또는 번호 제거를 위해 삭제
+Upload Sys Info| 업
+Directory Empty. Use Save to add| 디렉토리 Empty. 추가위해 Save 사용
+Directory Empty Use Save to add| 디렉토리 Empty. 추가위해 Save 사용
+  NOT MATCH !!!| Not Match!!!
+DELETE again to erase this item| 아이템 제거위해 다시 삭제
+System Info Upload| 시스템 정보 업로드
+Phone will restart after| 이후 전화 재시작
+Copyright| Copyright
+Reset| 리셋
+Use DHCP?| DHCP 이용?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Half 1000Mbps
+Cfwd Destination| 착신전환 대상
+Please login| 로그인 하시오
+Incorrect password| 잘못된 암호
+Reset Configuration?| 구성 리셋?
+Cfg. Svr.| 구성 서버
+Net disconnected| 망 접속 끊김
+Live Dialpad| 라이브 다이얼패드
+Firmware Loaded| 펌웨어 탑재
+802.1x Authenticating| 802.1x 인증
+LLDP| LLDP
+Initializing network| 망 초기화
+Bluetooth Upgrade| 블루투스 업그레이드
+Contacting Redirector| 리다이렉터 접속 중
+Redirecting Step 1| 리다이렉팅 단계 1
+Redirecting Step 2| 리다이렉팅 단계 2
+Redirecting Step 3| 리다이렉팅 단계 3
+Redirecting Step 4| 리다이렉팅 단계 4
+Redirecting Step 5| 리다이렉팅 단계 5
+Redirecting Step 6| 리다이렉팅 단계 6
+Auto Discovery| 자동 검색 중..
+Starting in Generic SIP Mode| SIP 모드 시작
+Starting in Aastra Link Mode| Aastra 링크 모드 시작
+Updating configuration| 구성 업데이트
+Waiting assignment| 할당 대기
+Checking for new firmware| 새 펌웨어 확인
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| 새 펌웨어: 전화기 플러그를 뽑지 마시오
+New Firmware: Restarting...| 새 펌웨어: 재시작
+Downloading configuration| 구성 다운로딩
+Downloading Language Packs| 언어 팩 다운로딩
+Network| 네트워크
+UPnP Gateway Not Found| UPnP 게이트웨어 미발견
+UPnP Port Map In Progress| UPnP 포트 맵 처리중
+UPnP Port Map Incomplete| UPnP 포트 맵 미완성
+DSP| DSP
+SIP| SIP
+Tone| 톤
+Registering with the voice network...| 음성 네트워크 등록 중
+Web| 웹
+Done| 완료
+Cannot use| 사용 불가
+this firmware.| 해당 펌웨어
+All lines in use| 모든 라인 사용중
+Current Password| 현재 암호
+New Password| 새 암호
+Enter Again| 다시 입력하시오
+Ringer volume   | 벨소리 볼륨
+DELETE again to| 다시 제거
+erase all calls| 모든 전화 삭제
+Caller is erased| 발신자 제거
+Network Time| 네트워크 타임
+Change| 변경
+Options| 옵션
+Access denied| 접속 불가
+Directory full| 디렉토리 꽉 찬 상태
+Link Active| 링크 활성화
+No Link| 링크 없음
+Live Dialpad is\nnot available.| Live Dialpad is\nnot available.
+Live Dialpad is\nON| Live Dialpad is\nON
+Live Dialpad is\nOFF| Live Dialpad is\nOFF
+-  confirmed   -| 확인
+Contrast | 명암 레벨
+Set| 셋트
+DHCP\nON| DHCP\nON
+DHCP\nOFF| DHCP\nOFF
+Enable?\nYes| Enable?\nYes
+Enable?\nNo| Enable?\nNo
+Check Expires| 만료 확인
+Check Expires?\nYes| 만료 확인? Yes
+Check Expires?\nNo| 만료 확인? No
+Check Hostnames| 호스트네임 확인
+Check Hostnames?\nYes| 호스트네임 확인? Yes
+Check Hostnames?\nNo| 호스트네임 확인? No
+Cancel| 취소
+SIP Register\nON| SIP Register\nON
+SIP Register\nOFF| SIP Register\nOFF
+Nortel NAT\nEnabled| Nortel NAT\nEnabled
+Nortel NAT\nDisabled| Nortel NAT\nDisabled
+Next| 다음
+Done| 완료
+Retry| 재시도
+Exit| 나가기
+Pickup| 응답
+Call held| 보류된 호
+Calls held| 보류된 호(s)
+Country Code: | 국가 번호:
+*List Countries| 리스트 국가
+Enter| 입력
+Admin Password| 관리자 암호
+yyyy-mm-dd | yyyy-mm-dd 
+Restart phone?| 전화기 리부팅?
+#Confirm| #확인
+RestoreDefaults?| 디폴트 상태 복귀?
+Call Agent 1| 콜 에이전트 1
+Call Agent 2| 콜 에이전트 2
+Call Agent 3| 콜 에이전트 3
+Invalid Code    | 이용불가 코드
+E: Invalid port!| 이용불가 포트
+Application:| 어플리케이션
+Boot ROM:| ROM 부트:
+Negotiation:| Negotiation
+30m summertime| 30m 서머타임
+1h summertime| 1hr 서머타임
+Invalid password| 무효 암호
+  disconnected| 연결 끊김
+   connected| 연결
+    Network| 네트워크
+erase all items| 모든 아이템 제거
+Enter Number>| 번호 입력
+Setting phone to| 전화 설정
+Use Save to end| 종료 위해 저장 이용
+to enter name>| 이름 입력
+Saved: Directory| 저장됨: 디렉토리
+Retrying config | 설정 재시도
+download...     | 다운로드
+empty| 빈 상태
+No Match| 노 매치
+Save to?| 저장?
+Saved Memory key| 저장 메모리 키
+Removed Key| 제거 키
+Key saved | 저장 키
+Key removed| 제거 키
+Press 1st letter| 첫번째 문자 누르시오
+Speaker volume  | 스피커 볼륨
+Handset volume  | 핸드셋 볼륨
+Headset volume  | 헤드셋 볼륨
+Factory Defaults| 공장초기화 상태
+ Missed Call| 부재중 전화
+ Missed Calls| 부재중 전화들
+Cfwd State| 작신전환 상태
+Cfwd Number| 착신전환 번호
+Cfwd Mode| 착신전환 모드
+CFWD All| 착신전환 All
+CFWD Busy| 착신전환 통화중
+CFWD NoAnswer| 착신전환 부재중
+Select TFTP\nPrimary| TFTP\nPrimary 선택
+Select TFTP\nAlternate| TFTP\nAlternate 선택
+DownloadProtocol| 다운로드 프로토콜
+VLAN Settings| VLAN 셋팅
+Server Name/IP?| 서버 이름/IP?
+HTTPS Port?| HTTPS 포트?
+Client Method\nSSL 3.0| 클라이언트 메소드\nSSL 3.0
+Client Method\nTLS 1.0| 클라이언트 메소드\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\n리다이렉트
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\n리다이렉트 하지마시오
+Redirect| 리다이렉트
+Do not redirect| 리다이렉트 하지마시오
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\n블록 하지 마시오
+XML HTTP POSTs\nBlock| XML HTTP POSTs\n블록
+Do not block| 블록 하지 마시오
+Block| 블록
+Erasing config| 구성 지우기
+Pri TFTP Path| 기본 TFTP 경로
+Alt TFTP Path| 대체 TFTP 경로
+Backlight Mode| 백라이트 모드
+Backlight Time| 백라이트 타임
+Answer| 응답
+Ignore| 무시
+Cfwd| 착신전환
+Copy to All?| 모든 구성 정보 복사
+Apply Changes?| 변경 적용?
+Logging in| 로그 인
+Login Failed| 로그인 실패
+Conf Unavailable| 구성 불가능
+Error Messages| 에러 메시지
+No Error Messages| 에러 메시지 아님
+Delete All| 모두 삭제
+Download Options| 다운로드 옵션
+Config updated. Restarting...| 구성 업데이트. 재시작…
+DELETE again to erase all calls| 모든 전화 삭제 위해 다시 지움
+Firmware Check| 펌웨어 체크
+Fwd Filtering| 포워드 필터링
+CFWD Filtering| 착신전환 필터링
+DELETE again to erase all items| 모든 아이템 삭제 위해 다시 지움
+Upload Sys Info| 업로드 시스템 Info
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| SID_ENTER_ADMIN_PASSWORD
+Error Msg| 에러 메시지
+Unlock the phone?| 전화기 잠금 해제?
+ Enter Unlock Password| 잠금햬제 암호 입력
+softkey| 소프트키
+Edit Number| 번호 편집
+Lock the phone| 전화 잠금
+keypad| 키패드
+Unlock| 잠금해제
+ Cust Feat|  Cust Feat
+Phone is locked| 전화가 잠김
+Unlock the phone| 전화 잠금 해제
+GoodBye| 굿바이
+Pass Thru Port| Pass Thru Port
+First| 첫째
+Last| 마지막
+Name| 이름
+Add| 추가
+Edit| 편집
+Space| 스페이스
+Bksp| Bksp
+caps| caps
+CAPS| CAPS
+Reject| 거부
+Silence| 무음
+Hold| 보류
+Transfer| 전송
+>| >
+Lines| 라인
+Settings| 셋팅
+Device Name| 디바이스 이름
+Bluetooth Devices| 블루투스 디바이스
+Bluetooth Status:| 블루투스 상태
+Search| 검색
+Searching...| 검색 중
+device(s) found.| 디바이스 발견
+Press on a device to start pairing.| 페어링하기위해 디바이스를 누르시오.
+Enter PIN| PIN 입력
+Add Device| 디바이스 추가
+Active| 액티브
+Are you sure?| 확실합니까?
+ALL| ALL
+Phone No:| 전화번호
+Copy to all modes| 모든 모드로 카피
+BUSY| 통화중
+NO ANSWER| 부재중
+CFWD NO ANS:| 착신전환무응답:
+CFWD BUSY:| 착신전환 통화중:
+CFWD ALL:| 모두 착신전환:
+Audio| 오디오
+Calibrate Screen| 스크린 보정
+Recalibrate Touchscreen?| 터치스크린 재보정?
+Softkeys| 소프트키
+Headset Mic Volume| 마이크볼륨 헤드셋
+Headset Device| 헤드셋 디바이스
+Bluetooth| 블루투스
+Wired| 유선
+Restart | 재시작
+No Calls| No Calls
+Brightness Timer| 밝기 타이머
+Brightness Level| 밝기 레벨
+Add to Directory| 디렉토리 추가
+Waiting for Touch Screen activity to subside ...| Waiting for Touch Screen activity to subside ...
+Touch the UPPER-LEFT corner of the screen| 스크린의 UPPER-LEFT 코너를 터치하시오.
+Touch the UPPER-RIGHT corner of the screen| 스크린의 UPPER-RIGHT 코너를 터치하시오.
+Touch the LOWER-RIGHT corner of the screen| 스크린의 LOWER-LEFT 코너를 터치하시오.
+Touch the LOWER-LEFT corner of the screen| 스크린의 LOWER-RIGHT 코너를 터치하시오.
+Received unreliable data. You will be asked to touch the same point again| Received unreliable data. You will be asked to touch the same point again
+Processing ...| 프로세싱…
+Validating calibration data ... please wait| Validating calibration data ... please wait
+Sanity Check OK. Save changes?| Sanity Check OK. Save changes?
+Sanity Check Failed| Sanity Check Failed
+Retry| 재시도
+Quit| 중지
+Please Enter| 입력하시오
+Submit| 제출
+User ID:| 유저 ID:
+Password:| 암호:
+Transferring| 이동하기
+No. Rings| No. Rings
+Line| 라인
+Unable to Pair| 페어링 불가능
+Please Wait...| 기다리시오
+Add new device...| 새 디바이스 추가
+Detected:| 감지됨:
+Connecting:| 커넥팅:
+Disonnecting:| 디스커넥팅:
+Connected:| 커넥티드:
+ALL| ALL
+BUSY| 통화중
+NO ANSWER| 응답 없음
+CFWD ALL:| 모두 착신전환:
+CFWD BUSY:| 착신전환 통화중:
+CFWD NO ANSWER:| 착신전환 무응답:
+Copy to all modes| 모든 모드 정보 복사
+OFF| 오프
+Off| 오프
+Phone Number:| 전화 번호:
+Level 1| 레벨 1
+Level 2| 레벨 2
+Level 3| 레벨 3
+Level 4| 레벨 4
+Level 5| 레벨 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| 관리자암호 입력
+Phone will restart automatically after finishing.| 종료 후 전화 자동으로 재시작
+Conference| 회의
+Conf| Conf
+Reset Configuration?| 구성 리셋?
+Hide| 숨기기
+Live Dialpad| 라이브 다이얼패드
+Live Dial| 라이브 다이얼
+Lock| 잠금
+Lock the phone?| 전화 잠금?
+Directory| 디렉토리
+Phone Number:| 전화번호
+Common prompts| 
+None| 없음
+Disable| 비활성화
+Logout failed| 로그아웃 실패
+Logout successful| 로그아웃 성공
+Login successful| 로그인 성공
+Logout user %s| 로그아웃 유저 %s
+Login/Logout| 로그인/로그아웃
+User ID| 유저 ID
+User ID required| 유저 ID 요구 됨
+Application busy. Please try again later.| 어플리케이션 사용중. 다음에 다시 시도하시오.
+Page Expired. Please reload the page.| 페이지 만료. 페이지 다시 로드하시오.
+Check Expires| 기한 체크
+Check Hostnames| 호스트명 체크
+Use DHCP?| DHCP 사용?
+Restart Phone?| 전화 재시작?
+12 Hour| 12 시간
+Speeddial| 스피드다이얼
+Erase local cfg?| 로컬 cfg 삭제?
+Spd Dial| 스피드다이얼
+Backup Outbound Proxy Server| 아웃바운드 프록시 서버 백업
+Backup Outbound Proxy Port| 아웃바운드 프록시 포트 백업
+Firmware Info| 펌웨어 정보
+DHSG| DHSG
+DHSG is ON| DHSG 온
+DHSG is OFF| DHSG 오프
+Backlight On Time| 백라이트 온 타임
+Use Alt TFTP| Alt TFTP 사용
+Pri TFTP Path| Pri TFTP 경로
+Alt TFTP Path| Alt TFTP 경로
+RestoreDefaults?| RestoreDefaults?
+HTTP Init Failed| HTTP Init Failed
+Get aastra.lic| Get aastra.lic
+Get mac.lic| Get mac.lic
+Firmware not licensed for use on this phone| Firmware not licensed for use on this phone
+Redial List is empty| 리다이얼 리스트 없음
+Callers List is empty| 발신자 리스트 없음
+Callers List| 발신자 리스트
+Redial List| 리다이얼 리스트
+Directory| 디렉토리
+License Information| 라이선스 정보
+XML Application URI:| XML 어플리케이션 URI:
+Missing User ID| Missing User ID
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| 사용
+Active Features| 액티브 기능
+WWW MMM DD| WWW MMM DD
+DD-MMM-YY| DD-MMM-YY
+YYYY-MM-DD| YYYY-MM-DD
+DD/MM/YYYY| DD/MM/YYYY
+DD/MM/YY| DD/MM/YY
+DD-MM-YY| DD-MM-YY
+MM/DD/YY| MM/DD/YY
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM YYYY
+WWW DD MMM| WWW DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.YYYY
+24 Hour| 24 시간
+XML Application Title:| XML 어플리케이션 제목:
+License Status| 라이선스 정보
+FTP| FTP
+to view| to view
+Contact Name already exists| 연락처 이름 이미 존재
+Leave| 나가기
+Contact Mismatch| 연락처 미스매치
+ Call Terminated| 호 종료
+IP and gateway have to be on same subnet| IP와 게이트웨이는 동일 서브넷 위치
+IP cannot be equal to gateway address| IP 와 게이트웨이 주소와 동일 할 수 없음
+Call Waiting Tone Period| 호 대기 톤 기간
+OK| OK
+Directory empty| 디렉토리 빈 상태
+Files Sent| 파일 전송
+Upload System Info| 업로드 시스템 Info
+Upload| 업로드
+Call Transferred| 호 전송
+Firmware Information| 펌웨어 정보
+Contact Name already exists| 연락처이름 이미 존재
+Replace| 대체
+No Services| 노 서비스
+Merge| 병합
+Enter Name:| 이름 입력:
+Call Hold Reminder| 호 보류 알림
+Others| Others
+Call Hold Reminder During Active Calls| 액티브 호 동안 호 보류 통보
+Out of service| 서비스불가
+Reason: | 이유: 
+Add blank record?| 블랭크 레코드 추가?
+Audio Setting| 오디오 셋팅
+Delete Item| 아이템 삭제
+Services| 서비스
+Server| 서버
+Service Disabled| 서비스 비활성화
+Port| 포트
+Path| 경로
+Username| 유저네임
+No. Rings| 노 링
+Use xx to view| Use xx to view
+User Password| 유저 암호
+Time and Date| 시간과날짜
+Language| 언너
+Screen Language| 스크린 언어
+Tones| 톤
+Tone Set| 톤셋트
+Ring Tone| 링톤
+State| 상황
+State:| 상황
+User-Busy| 유저-통화중
+Unconditional| 무조건
+Time of day| 시간
+Deflection| 편차
+Follow Me| 팔로우미
+Away| 어웨이
+Busy| 통화중
+Restart| 재시작
+All On| All 온
+All Off| All 오프
+AllAccts| AllAccts
+Conference| 회의
+Flash| 플래쉬
+Dial| 다이얼
+Directory| 디렉토리
+Callers| 발신자
+Icom| Icom
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Conf| Conf
+SIP Settings| SIP 셋팅
+Proxy Port| 프록시포트
+Registrar Port| 기록포트
+User Name| 유저네임
+Screen Name| 스크린명
+Proxy Server| 프록시 서버:
+Registrar Server| 인증 서버
+Auth. Name| 인증  이름
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| Broadsoft
+Display Name| 디스플레이 네임
+RTP Port Base| RTP 포트 베이스
+Static NAT| Static NAT
+NAT Settings| NAT 설정
+NAT IP| NAT IP
+NAT SIP Port| NAT SIP 포트
+NAT RTP Port| NAT RTP 포트
+NAT HTTPS Port| NAT HTTPS 포트
+Phone Status| 전화 상태
+Auto Discovery| 자동 검색 중..
+Trying...| 시도중…
+Remote| 원격
+Reset| 리셋
+Choose Server| 서버 선택
+Select| 선택
+Select| 선택
+Ring Tone:| 링톤
+Silent| 무음
+Network Settings| 네트워크 셋팅
+Clear| 클리어
+Speaker | 스피커
+Headset | 헤드셋
+Speaker/Headset| 스피커/헤드셋
+Headset/Speaker| 헤드셋/스피커
+Audio Mode| 오디오 모드
+Low| 로우
+Medium| 미디움
+High| 하이
+OFF| 오프
+Off| 오프
+ON| 온
+DHCP Settings| DHCP 설정
+DHCP User Class| DHCP 유저 등급
+Hostname| 호스트명
+IP Address| IP 주소
+Subnet Mask| 서브넷 마스크
+Subnet Mask:| 서브넷 마스크:
+Gateway| 게이트웨이
+Primary DNS| Primary DNS
+Secondary DNS| Secondary DNS
+TFTP Settings| TFTP 설정
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC Port VLAN ID
+LAN Port VLAN| LAN Port VLAN
+PC Port VLAN| PC Port VLAN
+Priority| Priority
+VLAN Enabled\nYes| VLAN Enabled\nYes
+VLAN Enabled\nNo| VLAN Enabled\nNo
+PC Port Priority| PC Port Priority
+LAN Port VLAN ID| LAN Port VLAN ID
+UPnP| UPnP
+Use UPnP| Use UPnP
+Select Gateway| 게이트웨이 선택
+Portmap Started| 포트맵 시작
+Portmap Error| 포트맵 에러
+LLDP| LLDP
+LLDP packet interval| LLDP 패킷 인터벌
+LLDP Settings| LLDP 셋팅
+Use LLDP ELIN| Use LLDP ELIN
+TypeService DSCP| DSCP 서비스 타입
+Type of Service DSCP| DSCP 서비스 타입
+VLAN Priority| VLAN Priority
+Other Priority| Other Priority
+SessionBorderCtl| SessionBorderCtl
+Session Border Ctrl| Session Border Ctrl
+Select SBC| SBC 선택
+SBC Settings| SBC 셋팅
+Kagoor| Kagoor
+Update Interval (sec)| 업데이트 인터벌 (sec)
+Backspace| 백스페이스
+No| No
+Yes| Yes
+DHCP Download Options| DHCP 다운로드 옵션
+DHCP Download Option| DHCP 다운로드 옵션
+Firmware Version| 펌웨어 버전
+Restart Phone| 전화 재시작
+Show| Show
+is OFF| 가 오프
+Password| 암호
+Restarting...| 재시작…
+Speed| 스피드
+Manual| 매뉴얼
+Auto| Auto
+Auto| Auto
+Half| 하프
+Full| 풀
+Duplex| 듀플렉스
+ ERROR: |  ERROR: 
+Invalid IP addr.| 잘못된 IP 주소
+Invalid mask| 잘못된 Mask
+Range is 1-4094| 범위가 1-4094
+Range is 1-4095| 범위가 1-4095
+Range is 1-4095| 범위가 1-4095
+Range is 0-63| 범위가 0-63
+Range is 0-7| 범위가 0-7
+DND| DND
+DND On| DND On
+Time Server| 타임 서버
+Set Time| Time 설정
+Set Date| Date 설정
+Date Format| Date 포맷
+Time Zone| Time Zone
+Daylight Savings| 서머타임
+Invalid Time| Invalid Time
+Invalid Date| Invalid Date
+Invalid IP| Invalid IP
+ Invalid Number|  Invalid Number
+On| 온
+On| 온
+On| 온
+OFF| 오프
+Automatic| 자동
+Conf Hold| Conf Hold
+No Service| No Service
+Mute| 무음
+Connected| 연결
+Drop| Drop
+Park| Park
+PickUp| 응답
+Redial| 리다이얼
+DCP| DCP
+DCP List| DCP 리스트
+Cancel| 캔슬
+Done| Done
+Callers List| 발신자 리스트
+No changes made| 변경 없음
+Key is Locked| 키가 잠김
+Cannot Save| Cannot Save
+1 item| 1 item
+ items|  items
+No User| No User
+DHCP failed| DHCP 실패
+Unknown Name| 알려지지 않은 이름
+Unknown Number| 알려지지 않은  숫자
+Unknown Line| 알려지지 않은 번호
+Item is erased| 아이템 삭제
+Unknown| 알려지지 않은
+NextSpace| 한칸 띄기
+Dot "."| 점 "."
+Transfer Failed| 돌려주기 실패
+Call Forward| 호 전환
+Call Fwd| 호 전환
+All| All
+All| All
+Any| Any
+NoAns| NoAns
+BusyNoAns| BusyNoAns
+Number:| 번호:
+Mode:| 모드:
+No. Rings:| No. Rings:
+Line: | 라인:
+Contrast Level| 명암 레벨
+ Message| 메시지
+ Messages| 메시지
+Loading Page...| 로딩 페이지
+Abort Loading...| 로딩 취소
+Connect Timeout| 연결 타임아웃
+Data Timeout| 데이터 타임아웃
+File Not Found| 파일 미발견
+Page Load Error| 페이지 로드 에러
+Cannot display| Cannot display
+Skip| 스킵
+Call Failed| 호 실패
+Primary Server| 기본 서버
+Primary Server| 기본 서버
+Alternate Server| 대체 서버
+Primary| Primary
+Alternate| 대체
+Bad encrypted cfg| Bad encrypted cfg
+Use TFTP| TFTP 사용
+Use FTP| FTP 사용
+Use HTTP| HTTP 사용
+Use HTTPS| HTTPS 사용
+FTP Settings| FTP 설정
+FTP Server| FTP 서버
+FTP Path| FTP 경로
+FTP Username| FTP 유저네임
+FTP Password| FTP 암호
+HTTP Settings| HTTP 설정
+HTTP Server| HTTP 서버
+HTTP Path| HTTP 경로
+HTTP Port| HTTP 포트
+HTTPS Settings| HTTPS 설정
+Download Server| 다운로드 서버
+Download Path| 다운로드 경로
+Download Port| 다운로드 포트
+HTTPS Server| HTTPS 서버
+HTTPS Path| HTTPS 경로
+HTTPS Port| HTTPS 포트
+HTTPS Client| HTTPS 클라이언트
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| 잘못된 인증서
+Certificates| 인증서
+Cert Validation| 인증서 검증
+All defaults| All defaults
+Config default| Config default
+AM| AM
+PM| PM
+Factory Default| 공장 초기화 ?
+Factory Default?| 공장 초기화 ? 
+Erase Local Cfg.| Local Cfg. 삭제
+New IP Obtained| 신규 할당된 IP 주소
+New NAT IP| 신규 NAT IP 주소
+Server IP Change| 서버 IP 변경
+AastraLink Menu| AastraLink Menu
+Server Options| 서버 옵션
+AastraLink Info| AastraLink Info
+Server Remote IP| 서버 원격 IP
+Server Local IP| 서버 로컬 IP
+Preferences| 기본 설정
+Network Status| 네트워크 상태
+MAC Address:| MAC Address:
+MAC Address| MAC Address
+BT MAC Address:| BT MAC Address:
+Invalid Key| 무효 키
+Speed Dial Edit:| 스피드 다이얼 편집:
+Press SD button| SD 버튼 누름
+From: | From: 
+To: | To: 
+Via: | Via: 
+Diverted: | Diverted: 
+Log Off| 로그 오프
+Customer Support| 고객 지원
+Status| 상태
+Operation| 오퍼레이션
+Basic Settings| 기본 설정
+Advanced Settings| 고급 설정
+System Information| 시스템 정보 업로드
+Down| Down
+Up| Up
+n/a| n/a
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| 속성
+Link State| 링크 상태
+Negotiation| Negotiation
+Hardware Information| 하드웨어 정보
+Firmware Information| 펌웨어 정보
+Firmware Release Code| 펌웨어 출시 코드
+Value| 밸류
+Platform| 플랫폼
+Boot Version| 부트 버전
+Date/Time| Date/Time
+DND Key Mode| DND 키모드
+Call Forward Key Mode| 호 착신전환 키 모드
+Option 160| 옵션 160
+Option 159| 옵션 159
+Option 66| 옵션 66
+Option 43| 옵션 43
+Account| 어카운트
+Both| Both
+Line| Line
+Line 1| Line 1
+Line 2| Line 2
+Line 3| Line 3
+Line 4| Line 4
+Line 5| Line 5
+Line 6| Line 6
+Line 7| Line 7
+Line 8| Line 8
+Line 9| Line 9
+Line 10| Line 10
+Configuration Line %d| 구성 라인 %d
+Basic SIP Authentication Settings| 베이직 SIP 인증 셋팅
+Screen Name| 스크린네임
+Screen Name 2| 스크린네임 2
+Phone Number:| 전화 번호
+Phone Number| 전화 번호
+Caller ID| Caller ID
+Authentication Name| 인증명
+Password| 암호
+BLA Number| BLA Number
+Line Mode| 라인 모드
+Generic| Generic
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Shared Line Appearances
+Basic SIP Network Settings| 베이직 SIP 네트워크 설정
+Outbound Proxy Server| 아웃바운드 프록시 서버
+Outbound Proxy Port| 아웃바운드 프록시 포트
+Registration Period| 등록기간
+RTP Settings| RTP 셋팅
+Autodial Settings| 자동다이얼 설정
+Autodial Number| 자동다이얼 번호
+Autodial Timeout| 자동다이얼 타임아웃
+Use Global Settings| 글로벌 셋팅 사용
+DTMF Method| DTMF 방법
+SIP INFO| SIP INFO
+BOTH| BOTH
+Save Settings| 설정 저장
+Global SIP| 글로벌 SIP
+Global SIP Settings| 글로벌 SIP 셋팅
+RTP Encryption| RTP 암호화
+SRTP Disabled| SRTP 비활성화
+SRTP Preferred| SRTP 우선
+SRTP Only| SRTP Only
+Advanced SIP Settings| 고급 SIP 설정
+Explicit MWI Subscription| 명시된 MWI 등록
+Explicit MWI Subscription Period| 명시된 MWI 등록 기간
+MWI for BLA account| MWI for BLA account
+Enabled| 활성화
+Send MAC Address in REGISTER Message| REGISTER 메시지 MAC 주소 전송
+Send Line Number in REGISTER Message| REGISTER 메시지 Line 번호 전송
+Session Timer| 세션 타이머
+T1 Timer| T1 타이머
+T2 Timer| T2 타이머
+Transaction Timer| 처리 타이머
+Transport Protocol| 전송 프로토콜
+UDP and TCP| UDP and TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| Persistent TLS
+Registration Failed Retry Timer| 등록 실패 재시도 타이머
+Registration Timeout Retry Timer| 등록 타임아웃 재시도 타이머
+Registration Renewal Timer| 등록 갱신 타이머
+BLF Subscription Period| BLF  등록 기간
+ACD Subscription Period| ACD 등록 기간
+BLA Subscription Period| BLA 등록 기간
+Blacklist Duration| 블랙리스트 기간
+ Park Pickup Config|  Park Pickup Config
+RTP Port| RTP Port
+Basic Codecs| 기본 Codecs
+Force RFC2833 Out-of-Band DTMF| Force RFC2833 Out-of-Band DTMF
+Codec Preference List| 코덱 선호 리스트
+Silence Suppression| 묵음 삭제
+Provisioning complete.| 프로비저닝 완료
+You must restart the phone before the new settings will take effect.| 새로운 셋팅 적용 전 전화기를 재시작 하시오.
+You must restart the phone before the new settings take effect.| 새로운 셋팅 적용 전 전화기를 재시작 하시오.
+ERROR: Maximum number of connections reached.| 에러: 연결 최대 수 도달
+Logout Complete| 로그아웃 완료
+Your session has ended.  Please close the browser.| 세션 끝남. 브라우져 닫기.
+Session Expired| 세션 만료
+Please close the browser or use the link below to log in again.| 재로그인을 위해 브라우저를 닫거나 아래 링크를 이용하시오.
+Log In| Log In
+Log Out| Log Out
+Log Out| Log Out
+Avail| Avail
+Avail| Avail
+Unavail| Unavail
+Unavail| Unavail
+Reset User Password| 유저 암호 리셋
+Please enter the current and new passwords| 새암호 입력하시오
+Current Password| 현재 암호
+New Password| 새 암호
+Password Confirm| 암호 확인
+Please Enter| Please Enter
+Submit| 제출
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| 승인 중...
+Authorization Failed| 승인 실패
+Auth Failed| Auth Failed
+Current password is incorrect.| 암호가 틀림
+Please try again.| 다시 시
+The new password fields do not match.| 새 암호 필드 매치 불가
+The new password can not be saved.| 새 암호 저장 불가
+The user password has been changed.| 유저 암호 변경
+Task and Stack Info| Task and Stack Info
+Back| Back
+Files Available for Download| 파일 다운로드 가능
+Custom| Custom
+Save As...| Save As...
+Directory List| 디렉토리 리스트
+Current Settings| 현재 셋팅
+Restore To Factory Defaults| 초기설정 상태 복구
+Restore| 복구
+Remove Local Configuration Settings| 로컬 구성 셋팅 제거
+Remove| 제거
+Restarting the hardware...| 하드웨어 재시작 중...
+Please return to the main page after your phone restarts.| 전화기 재시작 후 메인 페이지로 돌아가시오.
+User not authorized to make changes.| 사용자의 변경 권한 없음. 
+Local configuration file has been deleted.| 로컬 구성 파일 삭제
+Please restart the phone for the settings to take effect.| 셋팅 적용위해 전화기를 재시작 하시오.
+Phone has been set to factory Defaults.| 전화기 초기 설정 상태
+Action URI| Action URI
+Action URI Configuration| Action URI 구성
+Event| 이벤트
+StartUp| 스타트업
+Successful Registration| 등록 성공
+Registration Event| 등록 이벤트
+Incoming Call| 착신호
+Outgoing Call| 발신호
+Offhook| 오프훅
+Onhook| 온훅
+Disconnected| 연결 끊김
+Poll| Poll
+Interval| 인터벌
+Settings saved.| 셋팅 저장
+Settings could not be saved.| 셋팅 저장 불가능
+Firmware Update| 펌웨어 업데이트
+TLS Support| TLS 지원
+Manual Firmware Update| 수동 펌웨어 업데이트
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| 펌웨어 업데이트하기 위해 서버 IP 주소와 펌웨어 이름을 입력하시오.
+Configuration Server| 구성 서버
+Configuration Server Settings| 구성 서버 셋팅
+Server IP| 서버IP
+File Name| 파일명
+Configure File Names| 파일명 구성
+Root and Intermediate Certificates Filename| 루트 와 중간 인증서 파일명
+Local Certificate Filename| 로컬 인증서 파일명
+Private Key Filename| 사설 키 파일명
+Trusted Certificates Filename| Trusted 인증서 파일명
+Download Firmware| 다운로드 펌웨어
+Firmware upgrade in progress.  Please wait.| 펌웨어 업그레이드 중. 기다리시오.
+Please enter a valid filename and TFTP server IP address.| 파일명과 TFTP 서버 IP 주소를 입력하시오.
+Invalid TFTP server IP address| 잘못된 TFTP 서버 IP 주소
+Invalid download settings.| 잘못된 다운로드 셋팅
+Unable to upgrade firmware.| 펌웨어 업그레이드 불가능
+The phone is restarting...| 전화기 재시작 중
+Firmware upgrade successful.| 펌웨어 업그레이드 성공
+This firmware already exists on the phone.| 펌웨어 이미 전화기에 설치 됨.
+No upgrade is needed.| 업그레이드 필요 없음
+Troubleshooting| 트러블슈팅
+Module| 모듈
+Log Settings| 로그 셋팅
+Log IP| 로그 IP
+Log Port| 로그 포트
+Debug Level| 더버그 레벨
+Support Information| 정보 지원
+Get local.cfg| local.cfg 정보 받기
+Get server.cfg| server.cfg 정보 받기
+Show Task and Stack Status| Show Task and Stack Status
+Settings| 셋팅
+Download Protocol| 다운로드 프로토콜
+Auto-Resync| 자동 재동기화
+Days| Days
+Maximum Delay| 최대 지원
+Mode| 모드
+Configuration Files| 구성 파일
+Time (24-hour)| Time (24-hour)
+XML Push Server List(Approved IP Addresses)| XML 푸쉬 서버 리스트(Approved IP Addresses)
+Phone-side Call Forward Settings| 전화기측 호 전환 셋팅
+Global Settings| 글로벌 셋팅 
+No Answer| 무응답
+Number| 횟수
+Number of Rings| 링울림 횟수
+Local Line| 로컬 라인
+Forward Number| 착신전환 번호
+Global| 글로벌
+Enable| 활성화
+Network| 네트워크
+Must provision a valid default gateway IP if DHCP is enabled| DHCP가 활성화되면, 유요한 디폴트 게이트웨이 IP 주소가
+공급되야 함. 
+Invalid IP Address| 잘못된 IP 주소
+Invalid IP address| 잘못된 IP 주소
+Invalid IP addr.| 유효하지 않은 IP 주소
+Invalid gateway address| 잘못된 게이트웨이 주소
+Invalid subnet mask| 잘못된 게이트웨이 주소
+Invalid primary DNS address| 유효하지 않은 기본 DNS 주소
+Invalid secondary DNS address| 유효하지 않은  대체 DNS 주소
+Basic Network Settings| 기본 네트워크 설정
+Advanced Network Settings| 고급 네트워크 설정
+DHCP| DHCP
+NAT Port| NAT Port
+Nortel NAT Traversal Enabled| Nortel NAT 순회 가능
+Nortel NAT Timer (seconds)| Nortel NAT 타이머 (seconds)
+NTP Time Servers| NTP 타임 서버
+Time Server 1| 타임 서버 1
+Time Server 2| 타임 서버 2
+Time Server 3| 타임 서버 3
+SIP| SIP
+VLAN Enable| VLAN 활성화
+Non-IP Packet| Non-IP 패킷
+SIP Priority| SIP Priority
+RTP Priority| RTP Priority
+RTCP Priority| RTCP Priority
+Preferences| 선호
+General| 제너럴
+Idle Display Name 1| 유휴 디스플레이명 1
+Idle Display Name 2| 유휴 디스플레이명 2
+Local Dial Plan| 로컬 다이얼 플랜
+Send Dial Plan Terminator| 다이얼 플랜 터미네이터 전송
+Digit Timeout (seconds)| 디지트 타임아웃 (seconds)
+Park Call:| 파크 콜:
+Pick Up Parked Call:| 파크 콜 픽업l:
+Suppress DTMF Playback| DTMF 플레이백 억제
+Display DTMF Digits| DTMF 디지트 디스플레이
+Call Waiting| 호 대기
+Call Waiting| 호 대기
+Play Call Waiting Tone| 호 대기 톤 플레이
+Stuttered Dial Tone| Stuttered 다이얼 톤
+Incoming Call Interrupts Dialing| 인입호 인터럽트 다이얼링
+Switch UI Focus To Ringing Line| UI 포커스를 링 라인으로 스위치
+Outgoing Intercom Settings| 발신 인터콤 셋팅
+Type| 타입
+Phone-Side| 전화기 측
+Server-Side| 서버 측
+Prefix Code| 프리픽스 코드
+Incoming Intercom Settings| 인커밍 인터콤 셋팅
+Microphone Mute| 마이크 무음
+Play Warning Tone| 플레이 경고 톤
+Allow Barge In| Barge In 허용
+Auto-Answer| 자동-응답
+Key Mapping| 키 매핑
+Map Redial Key To| Map Redial Key To
+Map Conf Key To| Map Conf Key To
+Ring Tones| 링 톤
+Brazil| Brazil
+France| France
+Germany| Germany
+Italy| Italy
+Italy2| Italy2
+Mexico| Mexico
+Russia| Russia
+UK| UK
+US| US
+Global Ring Tone| 글로벌 링 톤
+Tone 1| 톤 1
+Tone 2| 톤 2
+Tone 3| 톤 3
+Tone 4| 톤 4
+Tone 5| 톤 5
+Tone 6| 톤 6
+Tone 7| 톤 7
+Tone 8| 톤 8
+Tone 9| 톤 9
+Tone 10| 톤 10
+Tone 11| 톤 11
+Tone 12| 톤 12
+Tone 13| 톤 13
+Tone 14| 톤 14
+Tone 15| 톤 15
+Priority Alerting Settings| Priority Alerting Settings
+Enable Priority Alerting| Enable Priority Alerting
+Group| 그룹
+External| 외부
+Internal| 내부
+Emergency| 응급상황
+Auto call distribution| 자동 호 분배
+Auto Call Distribution Settings| 자동 호 분배 셋팅
+ACD| ACD
+Community 1| 커뮤니티 1
+Community 2| 커뮤니티 2
+Community 3| 커뮤니티 3
+Community 4| 커뮤니티 4
+Normal ringing| 일반 링
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| 디렉티드 호 픽업 셋팅
+Directed Call Pickup| 디렉티드 호 픽업 셋팅
+Directed Call Pickup by Prefix| 프리픽스 이용 디렉티드 호 픽업
+Play a Ring Splash| 링 스플래쉬 플레이
+Auto Available| Auto Available
+Auto Available Timer| Auto Available Timer
+Time and Date Setting| Time and Date 셋팅
+Time Format| TIME 형식
+Date Format| Date 형식
+Programmable Keys| 프로그램 가능 키
+Programmable Keys Configuration| 프로그램 가능 키 구성
+Hard Key| Hard Key
+Key| Key
+BLF List URI:| BLF List URI:
+Speeddial/Xfer| 스피드다이얼/Xfer
+Do Not Disturb| 방해금지
+BLF| 통화 상태 표시
+BLF/Xfer| 통화 상태 표시/돌려주기
+BLF/List| 통화 상태 표시/리스트
+XML| XML
+WebApps| WebApps
+Flash| 플래쉬
+Last Call Return| Last Call Return
+Sprecode| Sprecode
+Transfer| 돌려주기
+Conference| 컨퍼런스
+Save| 저장
+Delete| 제거
+Data has been transmitted to the phone successfully.| 전화기로 데이터 전송 성공
+Data cannot be posted to the phone.| 데이터가 전화기로 배정 불가능
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| 데이터 크기가 512바이트 이하이고 전화기가 해당 호스트로 부터 수신되도록 구성되어야 한다.
+Expansion Modules| 확장 모듈
+Expansion Module 1| 확장 모듈 1
+Expansion Module 2| 확장 모듈 2
+Expansion Module 3| 확장 모듈 3
+Page 1| 페이지 1
+Page 2| 페이지 2
+Page 3| 페이지 3
+List 1| 리스트 1
+List 2| 리스트 2
+List 3| 리스트 3
+List 4| 리스트 4
+List 5| 리스트 5
+List 6| 리스트 6
+Incompatible with phone model| 전화기 모델과 호환 암됨
+Backup Proxy Server| 백업 프록시 서버
+Backup Proxy Port| 백업 프록시 포트
+Backup Registrar Server| 백업 등록 서버
+Backup Registrar Port| 백업 등록 포트
+Phone is locked| 전화 잠금 상태
+Phone Lock| 전화 잠금
+Lock the phone?| 전화 잠금?
+Phone is unlocked| 전화 잠금상태
+Password:| 암호
+Emergency Dial Plan| 응급 다이얼 플랜
+Account Configuration| 어카운트 구성
+Lock| 잠금
+Unlock| 잠금 해제
+Unlock the phone?| 전화 잠금 해제?
+Lock or unlock the phone| 전화 잠금 또는 잠금 해제
+HTTPS Client Method| HTTPS 클라이언트 방식
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS 서버 - Redirect HTTP to HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS 서버 - Block XML HTTP POSTs
+Validate Certificates| 인증서 확인
+Check Certificate Expiration| 인증서 만기일 확인
+Check Certificate Hostnames| 인정스 호스트명 확인
+Language Settings| 언어 셋팅
+Webpage Language| 웹페이지 언어
+Input Language| 언어 입력
+Input Language| 언어 입력
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| May
+Jun| Jun
+Jul| Jul
+Aug| Aug
+Sep| Sep
+Oct| Oct
+Nov| Nov
+Dec| Dec
+Sun| Sun
+Mon| Mon
+Tue| Tue
+Wed| Wed
+Thu| Thu
+Fri| Fri
+Sat| Sat
+New Password Invalid.| 새 암호 틀림
+New password must be 10 characters or less.| 새 암호는 10개 이하의 문자로 이루어져야 한다.
+New password must be numeric.| 새 암호는 숫자이다.
+New password and confirm password do not match.| 새 암호가 매치 안됨
+Error| 에러
+Are you sure you want to restart the phone?| 전화를 재시작하겠습니까?
+This will restore the phone to default settings and cannot be undone.| 전화기를 초기설정으로 복구하고 완성한다.
+This will remove the local configuration settings and cannot be undone.| 로컬 구성 셋팅을 제거 완성한다.
+Continue| 계속하시오
+Error: Intercom Settings| 에러: 인터콤 셋팅
+Please enter a prefix code for server-side intercom.| 서버측 인터콤의 프리픽스 코드를 입력하시오
+Value must be between| Value must be between
+and| and
+Invalid Setting:| 무효 셋팅:
+Please select at least one state for softkey| 소프트키의 하나 이상의 상태를 선택하시오
+DSCP value| DSCP 값
+is mapped to multiple priorities.| is mapped to multiple priorities.
+Please enter Admin name and password| 관리자명과 암호를 입력하시오
+Please enter User name and password| 유저네임과 암호를 입력하시오
+Centralized Conference| 센트럴라이즈드 컨퍼런스
+Conference Server URI| 컨퍼런스 서버 URI
+UPnP device not found| UPnP 디바이스 미발견
+Ethernet| 이더넷
+Ethernet Link| 이더넷 링크
+Ethernet & VLAN| 이더넷 & VLAN
+Link| Link
+10M| 10M
+100M| 100M
+Unavailable| 불가능
+Available| 가능
+Server Info| 서버 정보
+Unique ID:| Unique ID:
+UPnP Mapping Lines| UPnP 매핑 라인
+Port Failed| 포트 실패
+Trying...| Trying...
+Seize Failed| Seize Failed
+Missed Call Summary Subscription| Missed Call Summary Subscription
+Missed Call Summary Subscription Period| Missed Call Summary Subscription Period
+AS-Feature-Event Subscription| AS-Feature-Event Subscription
+AS-Feature-Event Subscription Period| AS-Feature-Event Subscription Period
+Goodbye Key Cancels Incoming Call| Goodbye Key Cancels Incoming Call
+Address Incomplete| 불완전 주소
+Admin Menu| 관리 메뉴
+IP&MAC Addresses| IP&MAC 주소
+LAN Port| LAN 포트
+PC Port| PC 포트
+Set Audio| 세트 오디오
+Config. Server| Config. Server
+IP Address:| IP 주소:
+Error Messages| 에러 메시지
+No Error Messages| 노 에러 메시지
+ Errors| 에러
+ Error| 에러
+Disabled| 비활성화
+LAN Port Link| LAN 포트 링크
+PC Port Link| PC 포트 링크
+RTP| RTP
+RTCP| RTCP
+Phone| 전화
+Headset Mic Vol| Headset Mic Vol
+TypeService SIP| SIP 서비스타입
+TypeService RTP| RTP 서비스타입
+TypeService RTCP| RTCP 서비스타입
+Authentic. Name| 인증명
+XML Beep Support| XML Beep 지원
+Status Scroll Delay (seconds)| 상태 스크로 지연 (seconds)
+Backlight| 백라이트
+Backlight| 백라이트
+Display| 디스플레이
+Speed Dial Edit| 스피드 다이얼 편집
+second| second
+seconds| seconds
+Label| 라벨
+Message Waiting Indicator Line| 메시지 대기 인디케이터 라인
+Keypad Speed Dial| 키패드 스피드 다이얼
+Digit| 디지트
+Whitelist Proxy| 화이트리스트 프록시
+XML SIP Notify| XML SIP Notify
+Custom Feature| Custom Feature
+User ID:| 유저 ID:
+Local SIP UDP/TCP Port| 로컬 SIP UDP/TCP 포트
+Local SIP TLS Port| 로컬 SIP TLS 포트
+802.1x Support| 802.1x 지원
+EAP Type| EAP 타입
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| 아이덴티티
+MD5 Password| MD5 암호
+PC Port PassThru Enable/Disable| PC Port PassThru Enable/Disable
+EAP-TLS Settings| EAP-TLS 셋팅
+EAP-MD5 Settings| EAP-MD5 셋팅
+Enable PassThru Port| Enable PassThru Port
+PC Port Enabled\nYes| PC Port Enabled\nYes
+PC Port Disabled\nNo| PC Port Disabled\nNo
+802.1x Settings| 802.1x 셋팅
+802.1x Mode| 802.1x 모드
+EAP-MD5 Settings| EAP-MD5 셋팅
+EAP-TLS Settings| EAP-TLS 셋팅
+STUN Server| STUN 서버
+STUN Port| STUN 포트
+TURN Server| TURN 서버
+TURN Port| TURN 포트
+TURN User ID| TURN 유저 ID
+TURN Password| TURN 암호
+Paging| 페이징
+Streaming| 스트리밍
+Group Paging RTP Settings| 그룹 페이징 RTP 셋팅
+Paging Listen Addresses| 페이징 Listen 주소
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP 어카운트
+Backup Registrar Used?| 백업 등록서버 사용 ?
+Unregistered| 미등록
+Registered| 등록
+SIP Status| SIP 상태
+Server Error| 서버 에러
+Swap| 스왑
+LLDP\nEnabled| LLDP\nEnabled
+LLDP\nDisabled| LLDP\nDisabled
+LLDP Support| LLDP 지원
+Preferred line| 선호 라인
+Preferred line Timeout (seconds)| 선호 라인 타임아웃 (seconds)
+Invalid URI| 이용불가 URI
+WebApps| WebApps
+Watchdog| 워치독
+Speeddial/Conf| 스피드다이얼/Conf
+Call is on Hold| 통화보류상태
+No subscription| No subscription
+MDot1xFailedStartup| MDot1x 스타트업실패
+802.1x Startup Failed| 802.1x 스타트업 실패
+LLDP Startup Failed| LLDP 스타트업 실패
+Failed to config Line Manager| 라인 매니저 구성 실패
+Line in use| 사용중인 라인
+Get Crash Log| Get Crash Log
+Time Unavailable| Time Unavailable
+Packetization Interval| Packetization Interval
+Basic| 베이직 네트워크 셋팅
+Note: Basic Codecs Include| Note: 베이직 코덱 포함
+Default| 디폴트
+Not Configured| 구성 안됨
+America| America
+Asia| Asia
+Atlantic| Atlantic
+Pacific| Pacific
+Australia| Australia
+Europe| Europe
+Malaysia| Malaysia
+Invalid Setting| 잘못된 셋팅
+Must not be empty| 공란 불가
+Must be a valid number| 유요한 번호만 허용
+Must be a nonzero number| 0이아닌 번호만 허용
+Not in range| 범위를 벗어난 
+Invalid Hostname| 틀린 호스트명
+802.1x Failed| 802.1x 실패
+Admin Password:| 관리자 암호:
+Voicemail| 보이스메일
+Voicemail| 보이스메일
+HTTPS Failed| HTTPS 실패
+LLDP Failed| LLDP 실패
+TR69 connect Err| TR69 connect Err
+Downloading Language Packs| 언어 팩 다운로딩 중
+Please Wait...| 기다리시오
+to edit| to edit
+Cfg Svr Failure| Cfg Svr 실패
+Lines| 라인
+LDAP Directory| LDAP 디렉토리
+Ldap Directory| Ldap 디렉토리
+Item| 아이템
+item| 아이템
+Certificate Revoked| 인증서 취소
+Certificate Unknown| 미확인 인증서
+Delete entire| 전체 삭제
+LDAP Search Filter| LDAP 검색 필터
+Ldap Search Filter| Ldap 검색 필터
+LDAP Server| LDAP 서버
+Ldap Server| Ldap 서버
+Certificate Expired| 인증서 만료
+Unsupported Certificate| 미지원 인증서
+No Certificate| 인증서 아님
+Options List| 옵션 리스트
+Directory?| 디렉토리?
+Work| 워크
+No available lines| 가능한 라인 없음
+Search| 검색
+Ldap Base DN| Ldap Base DN
+items| 아이템
+Spddial| Spddial
+Ldap Number Attributes| Ldap 넘버 속성
+Ldap Max Hits| Ldap Max Hits
+Ldap Settings| Ldap 셋팅
+Ldap Name Attributes| Ldap 이름 속성
+Timezone zoneAmerica| 타임존 zoneAmerica
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlantic
+CA-Central| CA-Central
+CA-Eastern| CA-Eastern
+CA-Mountain| CA-Mountain
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Pacific
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Easter
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havana
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Cayman
+LC-St Lucia| LC-St Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleutian
+US-Central| US-Central
+US-Eastern| US-Eastern
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mountain
+US-Pacific| US-Pacific
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| Timezone zoneAsia
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Beijing
+CY-Nicosia| CY-Nicosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tokyo
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamchatka
+RU-Krasnoyarsk| RU-Krasnoyarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Yakutsk
+RU-Yekaterinburg| RU-Yekaterinburg
+SA-Saudi Arabia| SA-Saudi Arabia
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| Timezone zoneAtlantic
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Canary
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Faeroe
+GS-South Georgia| GS-South Georgia
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azores
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| Timezone zoneAustralia
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+Timezone zoneEurope| Timezone zoneEurope
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirane
+AT-Vienna| AT-Vienna
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Brussels
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zurich
+CZ-Prague| CZ-Prague
+DE-Berlin| DE-Berlin
+DK-Copenhagen| DK-Copenhagen
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-Paris
+GB-Belfast| GB-Belfast
+GB-London| GB-London
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Athens
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rome
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxembourg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Warsaw
+PT-Lisbon| PT-Lisbon
+RO-Bucharest| RO-Bucharest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moscow
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Stockholm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatican
+YU-Belgrade| YU-Belgrade
+Timezone zonePacific| Timezone zonePacific
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| Timezone zoneOthers
+DP-Dhcp| DP-Dhcp
+Live Dialpad| 라이브 다이얼패드
+1h    summertime| 1h    서머타임
+Link Down| 링크 다운
+Slovakia| Slovakia
+Cfg. Svr.| Cfg. Svr.
+Custom| Custom
+HPQ Enable| HPQ 활성화
+Checking For Firmware| 펌웨어 확인 중
+Firmware Check| 펌웨어 확인
+Speeddial/MWI| Speeddial/MWI
+Handset| 핸드셋
+WBand RX Filters| WBand RX Filters
+HS Setting1| HS 셋팅1
+HS Setting2| HS 셋팅2
+HS Setting3| HS 셋팅3
+HS Setting4| HS 셋팅4
+Spkr Setting1| Spkr 셋팅1
+Spkr Setting2| Spkr 셋팅2
+Spkr Setting3| Spkr 셋팅3
+Spkr Setting4| Spkr 셋팅4
+Hold Failed| 보류 실패
+Can not save record without number| 숫자 없이 레코드 저장 불가
+Feature Name| 기능 명
+Source| 소스
+License File| 라이선스 파일
+SW Version Restrictions| SW 버전 제한
+Unlimited| 제한없는
+Expiration| 만료
+Upgrade| 업그레이드
+License Server| 라이선스 서버
+License Info| 라이선스 정보
+License PBX| 라이센스 PBX
+Voice Recording| 보이스 레코딩
+BLF List Subscription Period| BLF 리스트 구독 기간
+Conf Failed| Conf 실패
+Push| 푸쉬
+Forward Filtering| 전환 필터링
+OUT| OUT
+Opt Status| Opt 상태
+Filter| 필터
+Filtering| 필터링
+Executives| 이그제큐티브
+IN| 인
+Divert| 전환
+Divert to Number| 숫자로 전환
+ Enter Unlock Password| 잠금해제 암호 입력
+ Enter Administrator Password| 관리자 암호 입력
+Today| Today
+Yesterday| Yesterday
+Two Days Ago| Two Days Ago
+Three Days Ago| Three Days Ago
+Four Days Ago| Four Days Ago
+Five Days Ago| Five Days Ago
+Six Days Ago| Six Days Ago
+Last Week| Last Week
+Two Weeks Ago| Two Weeks Ago
+Three Weeks Ago| Three Weeks Ago
+Last Month| Last Month
+Older| Older
+Monday| Monday
+Tuesday| Tuesday
+Wednesday| Wednesday
+Thursday| Thursday
+Friday| Friday
+Saturday| Saturday
+Sunday| Sunday
+Upload Sys Info| 업로드 시스템 정보
+Cfwd State| 호전환 상태
+Cfwd Number| 호전환 번호
+Cfwd Mode| 호전환 모드
+Set| 셋트
+#Confirm| #Confirm
+Call held| 보류 호
+Calls held| 보류 호
+Apply Changes?| 변경 적용?
+Dialpad| 다이얼패드
+Edit| 편집
+Quit| 중지
+Directory Empty| 디렉토리 비었음
+Saved Memory key| 저장 메모리 키
+Speaker volume  | 스피커 볼륨
+Handset volume  | 핸드셋 볼륨
+Headset volume  | 헤드셋 볼륨
+Ringer volume   | Ringer 볼륨
+Enter Number:| 번호 입력
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Half 10Mbps
+Half 100Mbps| Half 100Mbps
+Half 1000Mbps| Half 1000Mbps
+Delete All| 모두 삭제
+Erase Local Configuration?| 로컬 구성 삭제?
+Audio| 오디오
+Application| 어플리케이션
+NAT| NAT
+DSCP| DSCP
+User| 유저
+802.1x| 802.1x
+Enter Date (m/d/y):| 날짜 입력 (m/d/y):
+Brightness Timer| 밝기 타이머
+Brightness Level| 밝기 레벨
+Level 1| 레벨 1
+Level 2| 레벨 2
+Level 3| 레벨 3
+Level 4| 레벨 4
+Level 5| 레벨 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Line: %d
+Line %d: %s| Line %d: %s
+Invalid %s (%d to %d)| Invalid %s (%d to %d)
+Sys Info| 시스템 인포
+keypad| 키패드
+Login| 로그인
+Seized| 중지
+Active| 액티브
+Held| 보류
+Ringing| 링잉
+Park Failed| Park Failed
+Canada| Canada
+Press a contact button on the left to view contact information.| 연락처 정보를 보기위해 왼쪽 연락처 버튼을 누르시오
+Press a contact button to view contact info.| 연락처 정보를 보기위해 연락처 버튼을 누르시오
+No info available. Please press a contact button.| 가능한 정보 없음. 연락처 버튼을 누르시오
+Set Date and Time| 날짜와 시간 설정
+Ethernet Ports| 이더넷 포트
+Call Server| 호 서버
+Use Network Time| NTP를 사용하시오
+Speed Dial Key %d| 스피드 다이얼 키 %d
+%d/%d records| %d/%d records
+%d days stored| %d days stored
+1 day stored| 1 일 저장
+Upload System Info Files?| 업로드 시스템 정보 파일?
+Entries Saved| 입력 저장
+Storage| 스토리지
+IP and gateway are equal| IP 와 게이트웨이 동일
+IP gateway subnet mismatch| IP 게이트웨이 서브넷 미스매치
+Bridge active| 브릿지 액티브
+Please enter a number| 숫자을 입력하시오
+Deleted| 제거
+No Matches Found| 매치대상 발견 안됨
+Name| 이름
+Contact already exists| 연락처 이미 존재
+Left Softkey %d| 왼쪽 소프트키 %d
+Bottom Softkey %d| 아래쪽 소프트키 %d
+New Call| 새로운 호
+All Accounts| 모든 어카운트
+Exp. Mod. %d Key %d| Exp. Mod. %d Key %d
+Add Num| 숫자 추가
+Diverted to: | Diverted to: 
+No lines are configured| 라인 구성 없음
+"Dot ""."""| "Dot ""."""
+Mode %d| 모드 %d
+Top Softkey %d| 탑 소프트키 %d
+Home Screen Mode| 홈 스크린 모드
+Screen Saver Timer| 스크린 세이버 타이머
+Home Screen| 홈 스크린
+Cannot add new number. Limit reached.| 새로운 번호 추가 불가능. 한계치 도달
+Key is already programmed for functionality in a non-idle state| 키가 동작 상태에서 이미 프로그램 되어있음.
+Please enter a name| 이름을 입력하시오
+Top Softkeys| 탑 소프트키 
+Left Softkeys| 좌측 소프트키
+Bottom Softkeys| 아래쪽 소프트키 
+Brightness| 밝기
+Speed Dial 8| 스피드 다이얼 8
+A filename-related error occurred. Rename the specified file and try again.| 파일명 관련 에러 발생 특정 파일에 새이름을 붙이고 다시 시도 하시오.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| HTTP 관련 에러 발생. 다시 시도 하시오 (또는 이전에 동일 에러 발생시 전화기를 재시작 하시오.)
+A system-related error occurred. Please restart the phone and try again.| 시스템 관련 에러 발생. 전화기를 재시작하고 다시 시도 하시오.
+Xsi Enterprise Directory| Xsi 엔터프라이즈 디렉토리
+Xsi Personal Contacts| Xsi 개인 연락처
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| 비즈니스 팩스
+By First Name| By First Name
+By Last Name| By Last Name
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| 새로운 레코드 추가 불가. 한계치 도달.
+City| City
+Corporate| Corporate
+Country| Country
+Custom Ringtones| 사용자 지정 벨소리
+Delete %s from %s?| Delete %s from %s?
+Delete all entries in %s?| Delete all entries in %s?
+Directory import failed| 디렉토리 import 실패
+Directory loading| 디렉토리 로딩
+Directory not available at this time| 이번에 디렉토리 불가
+Display Name Order| 디스플레이 네임 오더
+Name Order| 네임 오더
+Edit Details| 세부사항 편집
+Email| 이메일
+Email 1| 이메일 1
+Email 2| 이메일 2
+Email 3| 이메일 3
+Enabled also in call| Enabled also in call
+Enterprise Directory| 엔터프라이즈 디렉토리
+Exchange Contacts| 교환 연락처
+Explicit| 명시적
+External Sources| 외부 소스
+Failed to retrieve contact details| 세부 연락처 검색 실패
+First Last| First Last
+First name| First name
+Home 1| 집 1
+Home 2| 집 2
+Home Address| 집 주소
+Implicit| 암시적
+Invalid Subscription Time| Invalid Subscription Time
+Job Title| Job Title
+LDAP| LDAP
+Last%c First| Last%c First
+Last First| Last First
+Last Name| Last Name
+Local| 로컬 구성 삭제?
+Microsoft Exchange| Microsoft Exchange
+Mobile| 모바일
+New Contact| 새 연락처
+Numbers| 숫자
+Organization| 조직
+Other| 다른
+Personal| 퍼스널
+Personal Contacts| 퍼스널 연락처
+Province/State| Province/State
+Request Failed| 요청 실패
+Sorting Preferences| 분류 선호
+Sorting| 분류 선호
+Street Address| Street Address
+Test| 테스트
+Test Connection| 테스트 커넥션
+The phone does not have enough space to store this file.| 전화기의 해당 파일 저장 용량 불충분
+The specified file is too large. Each file cannot exceed 1 MB in size.| 파일이 너무 큼. 각 파일 사이즈 1MB 초과 불가능.
+UA-Profile-Event Subscription| UA-Profile-Event Subscription
+UA-Profile-Event Subscription Period| UA-Profile-Event Subscription Period
+Undefined| 정의되지 않은
+Work 1| 회사 1
+Work 2| 회사 2
+Work Address| 회사주소
+Zip/Postal Code| 우편번호
+Credentials| 증명서
+Enable/Disable| 활성화/비활성화
+Labels| 라벨
+Ringtone files must be in WAV format| 링톤 파일은 WAV 포맷일것
+Copy| Copy
+Add New| Add New
+ALU SCA| ALU SCA
+Accessory Info| 부가 정보
+Add| Add
+Alerting| 경고
+Delete selected item or delete all items?| 선택아이템 삭제 또는 모든 아이템 삭제?
+DialingIn| DialingIn
+DialingOut| DialingOut
+Disconnecting| 디스커넥팅:
+Enter First Name| Enter First Name
+Enter Last Name| Enter Last Name
+Enter Number| Enter Number
+Enter Password>| Enter Password>
+Enter Username>| Enter Username>
+Enterprise Dir.| 엔터프라이즈 디렉토리
+Exp. Mod. 1 Version| Exp. Mod. 1 Version
+Exp. Mod. 2 Version| Exp. Mod. 2 Version
+Exp. Mod. 3 Version| Exp. Mod. 3 Version
+Get user.cfg| Get user.cfg
+Get user_local.cfg| Get user_local.cfg
+Keyboard Version| 키보드 버전
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| 온홀드
+Pending| 펜딩
+Phone Info| 전화기 정보
+Please Login| 로그인 하시오
+Please select a file to upload| 업로드 위한 파일 선택하시오.
+Saved| 저장됨
+Unmute| Unmute
+Line 11| 라인 11
+Line 12| 라인 12
+Line 13| 라인 13
+Line 14| 라인 14
+Line 15| 라인 15
+Line 16| 라인 16
+Line 17| 라인 17
+Line 18| 라인 18
+Line 19| 라인 19
+Line 20| 라인 20
+Line 21| 라인 21
+Line 22| 라인 22
+Line 23| 라인 23
+Line 24| 라인 24
+Line 25| 라인 25
+Client Method| 클라이언드 방법
+#Edit| #Edit
+#Copy| #Copy
+Action forbidden| 액션 금지
+Action not supported| 액션 미지원
+ Additional Settings| 추가 셋팅
+ Barge-In|  Barge-In
+Congestion| 정체
+Discreet| Discreet
+Discreet Ringing| Discreet Ringing
+Executives list is empty| 이그제큐티브 리스트가 비어있음
+Extension not registered| 내선 미등록
+Internal error| 내부 에러
+Invalid Password| 틀린 암호
+Invalid forwarding number| 틀린 착신전환 번호
+ Listen|  Listen
+ Normal|  Normal
+Phone not registered| 미등록 전화
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.| 사일런트 소프트키를 누르면 Intrusion warning tone을 toggle on/off 하게 됩니다.
+Prv| Prv
+Pub| Pub
+Record not found| 레코드 미발견
+SCAP-Bridged| SCAP-Bridged
+SCAP-Held| SCAP-Held
+ Select Barge-In Mode| Barge-In 모드 선택
+ UA-Profile-Event Subscription Period|  UA-Profile-Event Subscription Period
+Unique ID| Unique ID
+ Whisper| 위스퍼
+Missed Calls| 부재중 통화
+Silence| 사일런스
+As-Feature-Event Subscription| As-Feature-Event Subscription
+As-Feature-Event Subscription Period| As-Feature-Event Subscription Period
+Feature-Status-Exchange Subscription| Feature-Status-Exchange Subscription
+Feature-Status-Exchange Subscription Period| Feature-Status-Exchange Subscription Period
+Action superseded by a previous command| 이전 명령어로 대체된 액션
+Attendant| 통신원
+BLF Privacy| BLF 프라이버시
+BLF Privacy Key Mode| BLF 프라이버시 키 모드
+Feature not configured| 기능 미 구성
+Forward Type| 호 전환 타입
+Live Keyboard| 라이브 키보드
+Not assigned| 미 할당
+PIN| PIN
+Pin Required| Pin 요구됨
+Privacy| 프라이버시
+Privacy On| 프라이버시 온
+Restart | 재시작
+Capture| 캡쳐
+Get capture file| 캡쳐 파일 구하기
+Mute All| Mute All
+No Participant| 참석자 없음
+Private Call| 직통 전화 통화
+Start| 시작
+Stop| 스탑
+TLS Preferred| TLS 우선
+Timeout| 타임아웃
+Unmute All| Unmute All
+Speeddial/Mwi| 스피드다이얼/Mwi
+Phone will restart automatically after finishing.| 종료 후 전화기 자동으로 재시작
+Idle| Idle
+CFWD Filtering| CFWD 필터링
+Volume| 볼륨
+DTMF| DTMF
+All Accounts| All Accounts
+Outgoing| Outgoing
+Call History is Empty| 호 내역이 없음
+No Outgoing Calls| 발신호 없음
+No Missed Calls| 부재중 전화 없음
+No Received Calls| 수신호 없음
+Received| 수신
+Missed| 부재중
+Screenshot| 스크린샷
+Xsi Enterprise Common Directory| Xsi 엔터프라이즈 일반 디렉토리
+Enterprise Common Directory| 엔터프라이즈 일반 디렉토리
+Enterprise Common Dir.| 엔터프라이즈 일반 디렉토리
+Xsi Group Directory| Xsi 그룹 디렉토리
+Group Directory| 그룹 디렉토리
+Xsi Group Common Directory| Xsi 그룹 일반 디렉토리
+Group Common Directory| 그룹 일반 디렉토리
+Call Settings| 호 셋팅
+%s Call Settings| %s 호 셋팅
+Hide Number| 번호 감추기
+Xsi Password Not Configured| Xsi 암호 미 구성
+Xsi User Not Configured| Xsi 유저 미 구성
+Xsi Authentication Failure| Xsi 인증 실패
+Xsi File Not Found| Xsi 파일 미발견
+Xsi Invalid URI| Xsi 틀린 URI
+Xsi Invalid Download Configuration| Xsi 틀린 다운로드 구성
+Call History| 호 내역
+Bluetooth| 블루투스
+Scan| 스캔
+Timeout [1..168 h]| 타임아웃 [1..168 h]
+Paired Devices| 페어 디바이스
+Available Devices| 사용가능 디바이스
+Swipe the toggle switch to the right to enable Bluetooth| 블루투스 작동을 위해 토글 스위치를 오른쪽으로 대시오.
+Pairing| 페어링
+Connecting| 연결
+Device| 디바이스
+No paired devices| 노 페어 디바이스
+Connection successful| 연결 성공
+Connection failed| 연결 싪패
+Disconnection successful| 분리 성공
+Disconnection failed| 분리 실패
+Pairing failed| 페어링 실패
+Operation failed| 작동 실패
+Connected| 연결
+Retry| 재시도
+Do you want to forget this device?| 이 디바이스를 무시하겠습니까?
+Close| 닫힘
+Enabling Bluetooth...| 블루투스 작동
+Disabling Bluetooth...| 블루투스 연결 끊기
+Connecting...| Connecting...
+Disconnecting...| Disconnecting...
+Boot| 부트
+App| 앱
+USB disabled. Insufficient power for current configuration.| USB 비활성화됨. 현재 구성에 전력 불충분 함.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| 파일이 전화기의 링톤 스펙에 맞지 않습니다. 링톤 파일 필수사항의 유저가이드를 참조하시오.
+%d/%d| %d/%d
+%d days| %d days
+1 day| 1 day
+System Messages| 시스템 메시지
+Authorization Canceled| 인증 취소
+Crash Logs| 크래쉬 로그
+Warning - All entries in %s will also be deleted| Warning - All entries in %s will also be deleted
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| 링톤 
+Identity| 아이덴티티
+Extension| 내선
+Address| 주소
+Server Error| 서버에러
+Use Global Ring Tone| 글로벌 링톤 사용
+Standard Ring Tone| 스탠다드 링톤
+Hide Number| 번호 감추기
+Remote Office| 원격 사무실
+Remote Office| 원격 사무실
+Phone Number/SIP-URI| 전화 번호/SIP-URI
+Simultaneous Ring Personal| 동시 링 퍼스널
+Simultaneous Ring| 동시 링 
+Do Not Ring if on a Call| Do Not Ring if on a Call
+Answer Confirmation Required| 확인 응답
+Phone Num/SIP-URI| 전화 번호/SIP-URI
+Alt Num/SIP-URI| Alt Num/SIP-URI
+Ring for all Incoming Calls| 모든 인입호 링
+Invalid Number or SIP-URI| 틀린 번호 또는 SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| 포탈 번호
+Alert Locations for Click-To-Dial| Alert Locations for Click-To-Dial
+Alert Locations for Group Paging| Alert Locations for Group Paging
+Phone Number| 전화 번호
+Description| 설명
+Alternate Number| 대체 번호
+Call Control| 호 제어
+Diversion Inhibitor| 전환 억제
+Answer Confirmation| 응답 확인
+Xsi Server Not Found| Xsi 서버 미발견
+Xsi Invalid Input| Xsi 틀린 입력
+Call Center| 콜 센터
+Presence| 참석
+My Status| 나의 상태
+Contacts| 연락처
+Favorite| 선호
+Available| Available
+Eager to Chat| 채팅을 원함
+Busy| 통화중
+Away| 어웨이
+Extended Away| Extended Away
+Offline| 오프라인
+Unknown| Unknown
+Enter custom presence text here...| custom presence text를 여기 입력하시오
+Status| 상태
+Custom| Custom
+Favorites| 선호사항
+All Contacts| 모든 연락처
+No contact in folder| 폴더 연락처 아님
+No phone number| 전화번호 아님
+No contact| 연락처 아님
+Contact list currently not available| 연락처 리스트가 현재 불가능
+Contact| 연락처
+Contact| 연락처
+Connection to server failed| 서버 연결 실패
+Configuration error| 구성 에러
+Authentication error| 인증 에러
+Connection to server lost| 서버 연결 잃음
+Mobile| 모바일
+Connect| 연결
+%s disconnected| %s 연결 끊김
+%s connected| %s 연결 
+Confirm passkey is "%ld" to pair with "%s"| Confirm passkey is "%ld" to pair with "%s"
+Failed to disable Bluetooth| 블루투스 비활성화 실패
+Failed to enable Bluetooth| 블루투스 활성화 실패
+M685i: New Firmware. Do not unplug phone!| M685i: 새 펌웨어. 전화기 플러그를 뽑지 마시오!
+.| .
+Static Settings| 정적 셋팅
+Port Mirroring| 포트 미러링
+Audio Feedback| 오디오 피드백
+Audio Path| 오디오 경로
+Button Beep| 버튼 빕
+Error Beep| 에러 빕
+Made| Made
+To my prime line| To my prime line
+To any appearance| To any appearance
+Display Call Info| 호 정보 디스플레이
+Always| 항상
+Busy Internal| 내부 통화중
+Busy External| 외부 통화중
+No Answer Internal| 내부 응답 아님
+No Answer External| 외부 응답 아님
+Copy to All?| 모든 구성 정보 복사 ?
+Loading...| 로딩
+Password Changed| 암호 변경
+Restore Default| 초기 설정 복구
+Restore Default| 초기 설정 복구
+Enter Again| 다시 입력하시오
+Erase| 제거
+Set All| Set All
+VLAN Settings| VLAN 셋팅
+Broadsoft XSI| Broadsoft XSI
+Advanced| 고급
+Phonebook| 폰북
+Update| 업데이트
+Copyright| Copyright
+Pause| 중지
+Incorrect password| 틀린 암호
+Please input duration between 1 to 1440 minutes| 1-1440분 사이의 시간을 입력하시오.
+Level 0| Level 0
+Static Network Settings| 정적 네트워크 셋팅
+Enter| 입력
+Reset Configuration?| 구성 리셋?
+TCP DUMP| TCP DUMP
+minutes| minutes
+IP and gateway have to be on the same subnet| IP 와 게이트웨이가 동일 서브넷 IP 일 필요가 없음
+Timeout (1-1440 Minutes)| Timeout (1-1440 Minutes)
+Timeout (1-5 Minutes)| Timeout (1-5 Minutes)
+Call Server IP Address| 호 서버 IP 주소
+TFTP Server IP Address| TFTP 서버 IP 주소
+IPA IP Address| IPA IP 주소
+Ping| Ping
+Test POE| Test POE
+Host Name or IP Address| 호스트 네임 또는 IP 주소
+Please enter a valid HostName/IP Address| 호스트네임/IP 주소를 입력하시오.
+Pinging %s...| Pinging %s...
+Add Contact| 연락처 추가
+Cannot dial a private number| 개인 번호를 걸수 없음
+Delete all contacts from %s?| %s 에서 모든 연락처 삭제?
+Search contacts| 연락처 검색
+CDP Settings| CDP 셋팅
+Current Network Settings| 현재 네트워크 셋팅
+VLAN Id| VLAN Id
+DSCP Default| DSCP 디폴트
+DSCP Voice| DSCP 음성
+DSCP Signaling| DSCP 시그날링
+DSCP Other| DSCP Other
+L2P Default| L2P 디폴트
+L2P Voice| L2P 음성
+L2P Signaling| L2P 시그날링
+L2P Other| L2P Other
+Modify PIN| PIN 변경
+Registering...| 등록 중...
+Erase PIN| PIN 삭제
+Erase PIN?| PIN 삭제?
+Duration| 시간
+Details| 세부사항
+First Name| First Name
+Home| 집
+People| People
+Contacts - Add New| 연락처-새연락 추가
+Work| 사무실
+Entry copied to| Entry copied to
+Settings - Bluetooth| 셋팅-블루투스
+Bluetooth| 블루투스
+Screen Saver| 스크린 세이버 
+Dimmer Level| 조광 레벨
+Paired| 페어드
+Press the Turn On softkey to enable Bluetooth| 블루투스 작동 위해서 소프트키를 턴온 하시오.
+Connected successfully| 연결 성공
+Directory is full| 디렉토리가 꽉 참
+Directory full| 디렉토리가 꽉 참
+Do you want to connect this device?| 이 디바이스를 연결 하시겠습니까?
+Do you want to disconnect this device?| 이 디바이스를 연결 해제 하시겠습니까?
+Connect| 연결
+%s audio connected| %s 오디오 연결
+%s audio connection failed| %s 오디오 연결 실패
+Pair with %s\nPairing code - %06ld| Pair with %s\nPairing code - %06ld
+Do you want to get the device's contacts?| 이 디바이스의 연락처를 획득하겠습니까?
+Retrieving contacts...| 연락처 검색 중…
+Contacts retrieved successfully| 연락처 검색 성공
+Phonebook retrieval unavailable| 폰북 검색 불가능
+ Failed to retrieve contacts| 연락처 검색 실패
+Ongoing Call| Ongoing Call
+Scan| 스캔
+Stop| 스톱
+Close| 끝내기
+Press scan to find a device| 디바이스를 찾기 위해 스캔을 누르시오.
+Please Wait. Scanning for nearby devices| 기다리시오. 근처 디바이스 스캐닝 중.
+Connect Automatically| 자동 연결
+Pairing ...| 페어링…
+Successfully paired| 페이링 성공
+Unable to pair with the device| 이 디바이스와 페어링 불가능
+Does the passkey match?| 이 패스키 매치 가능?
+Unpair| Unpair
+Bluetooth is currently off.| 현재 블루투스 오프상태
+Turn Off| 턴 오프
+Turn On| 턴 온
+Sorry! Unable to turn Bluetooth on. | 죄송합니다. 블루투스 턴온 불가능 
+Sorry! Too many devices paired.| 죄송합니다. 너무 많은 디바이스가 페어링 상태임
+Only one Handset can be paired to a phone| Only one Handset can be paired to a phone
+Forget| Forget
+Unknown Caller| 미확인 발신자
+Answer| 응답 확인
+Decline| Decline
+Push Call| Push Call
+End Call| End Call
+Caller| 발신자
+Disconnect| 연결 해제
+Capturing ...| 캡쳐링…
+Speaker| 스피커
+Headset| 헤드셋
+Ringer| Ringer
+Internal Ring| 내부 링
+External Ring| 외부 링
+Classic 1| Classic 1
+Classic 2| Classic 2
+Classic 3| Classic 3
+Classic 4| Classic 4
+Classic 5| Classic 5
+Classic 6| Classic 6
+Classic 7| Classic 7
+Classic 8| Classic 8
+Classic 9| Classic 9
+Classic 10| Classic 10
+Call Notification| 호 통보
+Config Teleworker| 구성 텔레워커
+Diagnostics| 진단
+MinetDump| MinetDump
+Float Keys| Float Keys
+Network Services| 네트워크 서비스
+DHCP Trace| DHCP Trace
+Firewall Settings| 방화벽 셋팅
+Wi-Fi| Wi-Fi
+Port Info| 포트 정보
+Phone Info| 전화 정보
+Error Message| 에러 미시지
+Current Call Server IP Address| 현재 호 서버 IP 주소
+TFTP Server Port| TFTP 서버 포트
+Primary DNS| 기본  DNS 주소
+Secondary DNS| 대체 DNS 주소
+Call Server1 IP Address| Call Server1 IP Address
+Call Server2 IP Address| Call Server2 IP Address
+Call Server3 IP Address| Call Server3 IP Address
+Call Server4 IP Address| Call Server4 IP Address
+DHCP Status| DHCP Status
+T1 (Seconds)| T1 (Seconds)
+T1 Left (Seconds)| T1 Left (Seconds)
+T2 (Seconds)| T2 (Seconds)
+T2 Left (Seconds)| T2 Left (Seconds)
+LAN Port Speed| LAN 포트 스피드
+LAN Port Duplex| LAN 포트 듀플렉스
+PC Port Speed| PC 포트 스피드
+PC Port Duplex| PC 포트 듀플렉스
+Model| 모델
+Call Server Rev.| 호 서버 Rev.
+Main Version| 메인 버전
+802.1x| 802.1x
+Password| 암호 변경
+Save to Confirm or Cancel to Revert| 확인 위해 저장 또는 복구 위해 취소
+Hardware Rev.| Hardware Rev.
+Change| 변경 적용?
+Change Password| 암호 변경
+Confirm Password| 암호 확인
+ Blank| 공백
+ Wrong| 틀림
+ Passwords don't match.| 암호 매치 안됨
+No Link| No Link
+Half-Duplex| 하프-듀플렉스
+Full_Duplex| 풀-듀플렉스
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nAll rights reserved.
+Proxy Logoff| 프록시 로그오프
+No Network| No Network
+Contacting Server| 서버 접속중
+Private| 프라이빗
+Miscellaneous| Miscellaneous
+Programmable Key| 프로그램 가능 키
+Speed Call| 스피드 콜
+Other Features| 다른 기능
+Account Code Verified| 확인된 어카운트 코드
+Acct Verified| Acct Verified
+Call Forward Always| 항상 호 전환
+Fwd Always| Fwd Always
+Do Not Disturb| 방해 금지
+Phone Lock| 폰 잠금
+Account Code Non Verified| 미확인 어카운트 코드
+Acct Non-Ver| Acct Non-Ver
+Name or Number is empty| 이름 또는 번호가 빈 상태
+Label Name| 라벨 네임
+Rename| 이름 변경
+Rename this device| 디바이스 이름변경
+PKM version| PKM version
+Department| Department
+Location| 위치
+Softphone| 소프트폰
+My Phone| My Phone
+More ...| More ...
+Restart| 재시작
+Key is Programmed| 키가 프로그램됨
+Advanced XML| 고급 XML
+Too many answers - Refine your search| Too many answers - 검색 개선
+%s Search| %s 검색
+Searching| 검색 중
+Server not configured| 서버 구성 안됨
+SimRing| SimRing
+Phone No/SIP-URI Not Configured| Phone No/SIP-URI Not Configured
+ Xsi Server Update Failed|  Xsi 서버 업데이트 실패
+Call Settings| 호 셋팅
+Missing Config| Missing Config
+Deflect| 변경
+AnswerIcom| AnswerIcom
+In a call| In a call
+Chats| 챗
+Chat| 챗
+Send| Send
+Delete all chat sessions?| 모든 챗 세션 삭제?
+Delete chat session with %s?| Delete chat session with %s?
+No active chat session| 액티브 챗 세션 아님
+Push Notifications| 푸쉬 통보
+Sound| 사운드
+Bluetooth| 블루투스
+Chat| 챗
+%s is typing...| %s is typing...
+Last message received %s at %s| Last message received %s at %s
+Last message received while offline| 마지막 메시지가 오프라인에서 수신
+now| 현재
+%ld secs ago| %ld secs ago
+1 min ago| 1 min ago
+%ld mins ago| %ld mins ago
+1 hour ago| 1 hour ago
+%ld hours ago| %ld hours ago
+yesterday| yesterday
+%ld days ago| %ld days ago
+while offline| while offline
+Can't talk right now. I'll call you later.| 지금 통화 불가능합니다. 다시 전화하겠습니다.
+On another call| 다른 전화
+I'll call you back| 제가 다시 전화하겠습니다.
+Call me back in 10 minutes| 10분후에 다시 전화 주세요.
+I’m not able to answer your call right now| 지금 전화통화 불가능합니다.
+On my way| On my way
+I’m in a meeting| 미팅중
+Custom...| Custom...
+Message to %s| Message to %s
+Cancel - No message sent| 취소-발신 메시지 없음
+Chat Messages| 챗 메시지
+Reject Call Message Configuration| 호 메시지 구성 거절
+Message| 메시지
+Server Failure| 서버 실패
+Use ^v to view| Use ^v to view
+Answer| 응답
+Log Issue| 로그 이슈
+Logging Issue| 로깅 이슈
+Administrator access is disabled| 관리자 접근 불가능
+Please input a duration between 1 and 1440 minutes| 1-1440분 사이 시간 입력하시오.
+Please input a duration between 1 and 5 minutes| 1-5분 사이 시간 입력하시오.
+Teleworker Settings| 텔레워커 셋팅
+Invalid TFTP Port| 무효 TFTP 포트
+Cannot copy a private number| 개인번호 카피 불가능
+Search Corporate| 회사 검색
+Warning| 경고
+Configuration changes detected\nApplication must be closed| Configuration changes detected\nApplication must be closed
+Desktop Portal URL| 데스크탑 포털 URL
+Velocity| 속도
+Skyline| 스카이라인
+Rise| Rise
+Daybreak| 새벽
+After Hours| 근무시간 이후
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| EAP-Type
+Phone Numbers| 전화 번호
+ Max Exceeded| 최대치 초과
+Press "%s" key to search corporate contacts| Press "%s" key to search corporate contacts
+Too many answers\nRefine your search| Too many answers\nRefine your search
+Not available\nConfiguration error| Not available\nConfiguration error
+DHCP Trace information is not available| DHCP 추적 정보가 없음
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| IP 충돌 감지
+Do you want to save this IP?| 해당 IP 저장 하겠습니까?
+Max allowed Number length is 26| 최대 허용 가능 번호는 길이가 26
+Enabling DHSG Headset...| DHSG 헤드셋 동작중...
+Disabling DHSG Headset...| DHSG 헤드셋 비활성화...
+Enter name| 이름 입력
+Lastname Firstname| Lastname Firstname
+Call History currently not available| 호 내역이 현재 없음
+Audio Diagnostics| 오디오 진단
+Avatars| Avatars
+Request timed out| 리퀘스트 타임 아웃
+Complete ...| 완료..
+Collecting Logs ...| 로그 수집 중…
+Pass Thru Port| Pass Thru Port
+Page Expired. Please reload the page.| 페이지 만료. 페이지를 재로딩하시오.
+Application busy. Please try again later.| 어플리케이션 사용 중. 다음에 다시 시도 하십시오.
+User ID required| 유저 ID 필요
+Directory file must be in WAV format| 디렉토리 파일은 반드시 WAV 포맷이어야 함
+Local Directory Upload| 로컬 디렉토리 업로드
+Upload failed - Too many records detected in csv file| 업로드 실패 - 너무 많은 기록이 csv 파일에서 감지됨
+Upload failed - No record detected in csv file| 업로드 실패 - csv 파일에서 기록이 감지되지 않음
+Upload performed - %d records created| 업로드 실행 - %d 기록 생성
+minutes| minutes
+User ID| 유저 ID
+Any PBX| Any PBX
+Screen Mode| 스크린 모드
+Show Picture| Show Picture
+Request timed out| 리퀘스트 타임 아웃
+No Mobile phone connected| 모바일 연결 안됨
+Only one Handset can be paired to the phone| 단 하나의 핸드셋이 전화에 페어링 될 수 있음
+Only one Speaker can be paired to the phone| 단 하나의스피커가 전화에 페어링 될 수 있음
+Maximum number of paired devices reached| 페어링된 디바이스의 최대 숫자 도달
+Reload| Reload
+Mobile Contacts| 모바일 연락처
+Mobile| 모바일
+Press "Turn on" to enable Bluetooth| 블루투스 작동위해 'Turn on' 누르시오.
+Turn on| 턴 온
+Turn off| 톤 오프
+Mobile : %s| 모바일 : %s
+Pair| 페어
+Connect| 연결
+Disconnect| 연결 해제
+Forget| Forget
+Rename| 이름 변경
+Rename Device| 디바이스 이름
+Disabling Bluetooth will disconnect your Cordless Handset| 블루투스 작동 해제는 무선 핸드셋을 연결을 끊습니다.
+Warning| Warning
+Do you want to continue?| 계속하시겠습니까?
+Bluetooth pairing request| 블루투스 페이링 요청
+Pair with %s| Pair with %s
+Pairing code - %06ld| 페어링 코드 - %06ld
+External| 외부
+Lock Settings| 셋팅 잠금
+Proximity auto-lock| Proximity 자동 잠금
+Delay before auto-lock| 자동 잠금 전 지연
+Proximity auto-unlock| Proximity 자동 잠금 해제
+Delay before auto-unlock| 자동 잠금 해제 전 지연
+Proximity auto-lock| Proximity 자동 잠금
+Proximity auto-unlock| Proximity 자동 잠금 해제
+Delay before auto-lock (minutes)| 자동 잠금 전 지연  (minutes)
+Delay before auto-unlock (minutes)| 자동 잠금 해제 전 지연 (minutes)
+M695: New Firmware. Do not unplug phone!| M695: 새 펌웨어. 전화기 플러그를 뽑지 마시오!
+Login/Logout| 로그인/로그아웃
+Logout user %s| 로그아웃 유저 %s
+Login successful| 로그인 성공
+Logout successful| 로그아웃 성공
+Login failed| 로그인 실패
+Logout failed| 로그아웃 실패
+Hot desk user can not pair handset please login as a local user| 핫 데스크 유저가 핸드셋 pair 할 수 없음. 로컬 유저로 로그인 하시오.
+Hot desk user can not pair speaker please login as a local user| 핫 데스크 유저가 스피커 pair 할 수 없음. 로컬 유저로 로그인 하시오.
+Hot desk user can not unpair handset please login as a local user| 핫 데스크 유저가 핸드셋을 unpair 할 수 없음. 로컬 유저로 로그인 하시오.
+Hot desk user can not unpair speaker please login as a local user| 핫 데스크 유저가 스피커를 unpair 할 수 없음. 로컬 유저로 로그인 하시오.
+Push Call| Push Call
+Cordless Handset| 무선 핸드셋
+Low Battery| 로우 배터리
+Critical Battery| 임계 배터리
+Ongoing Call| Ongoing Call
+Incoming Call| 인입 호
+Incoming Call from %s| Incoming Call from %s
+Incoming Call from %s (%s)| Incoming Call from %s (%s)
+Voicemail access of Mobile Phone not supported| 핸드폰의 음성메일 접근 지원 불가능
+Device not supported| 디바이스 미지원
+Phone not compatible| 전화기 호환 불가
+Dialing out through Mobile Line not supported| 모바일 라인 통한 전화걸기 지원 불가
+Page Expired. Please reload the page.| 페이지 만료. 페이지를 다시 로드 하시오.
+Application busy. Please try again later.| 어플리케이션 사용중. 다음에 다시 시도 하시오.
+Invalid prefix length (0 to 128)| 무효 프리픽스 길이 (0 to 128)
+User ID required| 필수 유저 ID 
+IPv6 Settings| IPv6 셋팅
+Basic Network Settings (IPv6)| 기본 네트워크 셋팅 (IPv6)
+Basic Network Settings (IPv4)| 기본 네트워크 셋팅 (IPv4)
+Ethernet Port Settings| 이더넷 포트 셋팅
+User ID| 유저 ID
+Colon ":"| Colon ":"
+Login/Logout| 로그인/로그아웃
+Logout user %s| 로그아웃 유저 %s
+Login successful| 로그인 성공
+Logout successful| 로그아웃 성공
+Login failed| 로그인 실패
+Logout failed| 로그아웃 실패
+IPv6| IPv6
+Enable IPv6| Enable IPv6
+Mode DHCPv6| 모드 DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| 자동-구성
+Prefix Length| 프리픽스 길이
+IPv6 Address| IPv6 주소
+Local Directory Upload| 로컬 디렉토리 업로드
+Upload failed - Too many records detected in csv file| 업로드 실패- 너무 많은 기록이 csv 파일에서 감지
+Upload failed - No record detected in csv file| 업로드 실패- csv 파일에서 기록 감지 않됨
+Upload performed - %d records created| 업로드 실행 - %d 기록 생성
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 에러: 부적합 펌웨어 버전은 업그레이드/다운그레이드 거부 
+Directory file must be in CSV format| 디렉토리 파일은 CSV 포맷이어야 한다.
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 에러: 부적합 펌웨어 버전은 업그레이드/다운그레이드 거부 
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| 포트 맵 미완성
+DSP| DSP
+SIP| SIP
+Checking DECT| DECT 확인
+Updating DECT Firmware| DECT 펌웨어 업데이트
+Tone| 톤
+Interface| 인터페이스
+Web| 웹
+7 +294| 7 +294
+Updating configuration| 구성 업데이트 중
+Waiting assignment| 할당 대기
+Checking for new firmware| 새 펌웨어 체크
+Firmware Check| 펌웨어 체크
+Firmware Check| 펌웨어 체크
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| 새 펌웨어: 전화 선을 뽑지 마십시오
+New Firmware: Restarting...| 새 펌웨어: 다시 시작하는 중 ...
+Downloading configuration| 구성 다운로딩
+9 +397| 9 +397
+erase all calls| 모든 전화 삭제
+DELETE again to erase this item| 이 아이템을 지우려면 다시 제거하십시오
+DELETE to erase item  or # to erase Number| 아이템을 지우려면 삭제하거나 또는 숫자를 지우려면 #를 제거하십시오
+DELETE again to erase all calls| 모든 통화들을 지우려면 다시 제거하십시오
+DELETE again to erase all items| 모든 아이템들을 지우려면 다시 제거하십시오
+Delete All| 모두 제거하십시오
+DELETE again to erase all calls| 모든 통화들을 지우려면 다시 제거하십시오
+DELETE again to erase all items| 모든 아이템들을 지우려면 다시 제거하십시오
+Delete All| 모두 제거하십시오
+Factory Defaults| 공장 초기화
+ Missed Call|  부재중 전화
+ Missed Calls|  부재중 전화(들)
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Push
+Push| Push
+Leave| 나가기
+Conf| Conf
+SIP Settings| SIP 셋팅
+8 +743| 8 +743
+Cannot Save| 저장할 수 없습니다
+1 item| 1 개 아이템
+ items|  아이템들
+item| 아이템
+items| 아이템들
+item| 아이템
+items| 아이템들
+No User| 유저가 없습니다
+Missing User ID| 누락된 유저 ID
+DHCP failed| DHCP 실패
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS 우선
+Cfg Svr Failure| Cfg Svr 실패
+Bad Certificate| 유효하지 않은 인증서
+Bad Cert/TLS Err| 유효하지 않은 인증서/TLS 에러
+Certificates| 인증서들
+Cert Validation| 인증서 검증
+All defaults| 모든 기본 설정들
+6 +1070| 6 +1070
+Debug Level| 더버그 레벨
+Support Information| 정보 지원
+Get local.cfg| local.cfg 정보 받기
+Get Log Files| 로그 파일들 얻기
+Get server.cfg| server.cfg 정보 받기
+Get user_local.cfg| user_local.cfg 얻기
+Get user.cfg| user.cfg 얻기
+12 +1104| 12 +1104
+Invalid subnet mask| 유효하지 않은 게이트웨이 주소
+Invalid primary DNS address| 유효하지 않은 기본 DNS 주소
+Invalid secondary DNS address| 유효하지 않은 대체 DNS 주소
+Invalid prefix length (0 to 128)| 유효하지 않은 프리픽스 길이 (0 ~ 128)
+User ID required| 유저 ID가 필요합니다
+IP cannot be equal to gateway address| IP는 게이트웨이 주소와 동일할 수 없습니다
+IP and gateway have to be on same subnet| IP와 게이트웨이가 동일한 서브넷에 있어야 합니다
+IP and gateway are equal| IP와 게이트웨이가 동일합니다
+IP gateway subnet mismatch| IP 게이트웨이 서브넷 불일치
+IPv6 Settings| IPv6 셋팅
+Basic Network Settings| 기본 네트워크 셋팅
+Basic Network Settings (IPv6)| 기본 네트워크 셋팅 (IPv6)
+Basic Network Settings (IPv4)| 기본 네트워크 셋팅 (IPv4)
+Advanced Network Settings| 고급 네트워크 셋팅
+DHCP| DHCP
+NAT Port| NAT 포트
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| 지정된 파일이 너무 큽니다. 각 파일의 크기는 1MB를 초과할 수 없습니다.
+The phone does not have enough space to store this file.| 전화기의 해당 파일 저장 용량 불충분.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| 지정된 파일은 전화에서 요구하는 벨소리 사양들을 충족하지 않습니다. 벨소리 파일 요구 사항들은 활성화 설명서를 참조하십시오.
+Directory file must be in WAV format| 디렉토리 파일은 반드시 WAV 포맷이어야 함
+Directory file must be in CSV format| 디렉토리 파일은 CSV 형식이어야 합니다
+Local Directory Upload| 로컬 디렉토리 업로드
+Upload failed - Too many records detected in csv file| 업로드 실패- 너무 많은 기록이 csv 파일에서 감지
+Upload failed - No record detected in csv file| 업로드 실패- csv 파일에서 기록 감지 않됨
+6 +1370| 6 +1370
+IP&MAC Addresses| IP&MAC 주소들
+LAN Port| LAN 포트
+PC Port| PC 포트
+Port Mirroring| 포트 미러링
+Set Audio| 세트 오디오
+Config. Server| Config. 서버
+IP Address:| IP 주소:
+7 +1463| 7 +1463
+App| 앱
+Watchdog| 워치독
+Speeddial/Conf| 스피드 다이얼/Conf
+Speeddial/MWI| 스피드 다이얼/MWI
+Speeddial/MWI| 스피드 다이얼/MWI
+Call is on Hold| 통화 보류 상태
+No subscription| 구독 없음
+802.1x Failed| 802.1x 실패
+6 +1473| 6 +1473
+Failed to config Line Manager| 라인 관리자를 구성하지 못했습니다
+Line in use| 활성화중인 라인
+Get Crash Log| 크래시 로그 얻기
+Logging Issue| 로깅 이슈
+Time Unavailable| 시간 활성화 불가
+Packetization Interval| 패킷화 간격
+Basic| 기본
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Custom
+IN| 인
+OUT| 아웃
+Filter| 필터
+Filtering| 필터링
+Opt Status| Opt 상태
+Executives| 이그제큐티브
+Forward Filtering| 전환 필터링
+Divert| 전환
+Divert to Number| 숫자로 전환
+IN| 인
+OUT| 아웃
+Filter| 필터
+Filtering| 필터링
+Opt Status| Opt 상태
+Executives| 이그제큐티브
+Forward Filtering| 전환 필터링
+Divert| 전환
+Divert to Number| 숫자로 전환
+Press a contact button to view contact info.| 연락처 정보를 보기 위해 연락처 버튼을 누르십시오.
+No info available. Please press a contact button.| 정보가 없습니다. 연락처 버튼을 누르십시오.
+ Enter Administrator Password|  관리자 암호를 입력하십시오
+6 +1749| 6 +1749
+Level 4| 레벨 4
+Level 5| 레벨 5
+Dot "."| 점 "."
+Colon ":"| Colon ":"
+(Min: %d  Max: %d)| (최소: %d 최대: %d)
+Line: %d| 라인: %d
+Line %d: %s| 라인 %d: %s
+6 +1780| 6 +1780
+Please enter a number| 숫자를 입력하십시오
+Please enter a name| 이름을 입력하십시오
+Login| 로그인
+Log Issue| 로그 문제
+Log Out| 로그 아웃
+Avail| 도움이 됨
+Unavail| 도움이 되지 않음
+14 +1852| 14 +1852
+Show Picture| 그림 표시
+Mode %d| 모드 %d
+Screen Saver Timer| 화면 보호기 타이머
+Enabled also in call| 통화 중에도 또한 활성화 설정됨
+Enabled also in call| 통화 중에도 또한 활성화 설정됨
+Invalid Subscription Time| 유효하지 않은 가입 시간
+Speed Dial 8| 스피드 다이얼 8
+Request Failed| 요청이 실패되었습니다
+Request timed out| 요청이 시간 초과되었습니다
+Too many answers - Refine your search| 대답이 너무 많습니다 - 검색 범위를 좁히십시오
+New Contact| 새 연락처
+Edit Details| 세부 사항 편집
+Edit Details| 세부 사항 편집
+Failed to retrieve contact details| 연락처 세부 사항를 가져 오지 못했습니다
+No Mobile phone connected| 연결된 휴대 전화가 없습니다
+Only one Handset can be paired to the phone| 핸드셋 하나만 전화와 페어드할 수 있습니다
+7 +2039| 7 +2039
+Volume| 음량
+DTMF| DTMF
+Screenshot| 스크린 샷
+All| 모든
+All| 모든
+Missed| 누락된
+Outgoing| 발신의
+Received| 수신된
+7 +2053| 7 +2053
+Paired Devices| 페어드된 디바이스
+Available Devices| 활성화 가능한 디바이스들
+Swipe the toggle switch to the right to enable Bluetooth| 전환 스위치를 오른쪽으로 밀어 블루투스를 활성화하도록 설정합니다
+Press "Turn on" to enable Bluetooth| 블루투스를 활성화하려면 "Turn on"를 누르십시오
+Press "Turn on" to enable Bluetooth| 블루투스를 활성화하려면 "Turn on"를 누르십시오
+Turn on| 켜다
+Turn off| 턴 오프
+Mobile : %s| 모바일 : %s
+9 +2067| 9 +2067
+Device| 디바이스
+Rename Device| 디바이스 이름 변경
+No paired devices| 노 페어 디바이스
+Connection successful| 연결 성공
+Connection failed| 연결 실패
+Disconnection successful| 분리 성공
+Connection successful| 연결 성공
+Connection failed| 연결 실패
+Disconnection successful| 분리 성공
+Disconnection failed| 분리 실패
+Pairing failed| 페어드 실패
+Operation failed| 작동 실패
+7 +2153| 7 +2153
+%ld days ago| %ld 일 전
+while offline| 오프라인일 때
+Can't talk right now. I'll call you later.| 지금 대화할 수 없습니다. 나중에 전화하겠습니다.
+On another call| 통화중입니다
+On another call| 통화중입니다
+I'll call you back| 제가 다시 전화하겠습니다
+Call me back in 10 minutes| 10 분 후에 다시 전화해 주십시오
+Custom...| 고객 맞춤...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| 핫 데스크 유저가 스피커를 페어드할 수 없습니다. 지역 유저로 로그인하십시오
+Hot desk user can not unpair handset please login as a local user| 핫 데스크 유저가 핸드셋을 페어드 해제할 수 없습니다. 지역 유저로 로그인하십시오
+Hot desk user can not unpair speaker please login as a local user| 핫 데스크 유저가 스피커를 페어드 해제할 수 없습니다. 지역 유저로 로그인하십시오
+Push Call| 통화를 누르십시오
+Cordless Handset| 무선 핸드셋
+Push Call| 통화를 누르십시오
+Cordless Handset| 무선 핸드셋
+Low Battery| 로우 베터리
+Critical Battery| 임계 배터리
+Ongoing Call| 진행중인 통화
+5 +2188| 5 +2188
+Device not supported| 디바이스 미지원
+Phone not compatible| 전화기 호환 불가
+Dialing out through Mobile Line not supported| 모바일 라인 통한 전화걸기 지원 불가
+IPv6| IPv6
+Enable IPv6| Ipv6 활성화
+Mode DHCPv6| 모드 DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| 자동 구성
+Prefix Length| 머릿말 길이
+IPv6 Address| IPv6 주소
+Error: Upgrade/Downgrade rejected for incompatible firmware version| 에러: 호환되지 않는 펌웨어 버전에 대한 업그레이드/다운 그레이드가 거부되었습니다
+Audio Diagnostics| 오디오 진단
+Diagnostics| 진단
+Timeout (1-5 Minutes)| 타임 아웃 (1-5 분)
+Disconnect| 연결 끊기
+Capturing ...| 캡처 중 ...
+Complete ...| 완료 ...
+Collecting Logs ...| 로그 수집 중 ...
+Collect Logs| 로그 수집
+Please input a duration between 1 and 5 minutes| 기간을 1 ~ 5 분 사이로 입력하십시오
+Erase| 삭제
+Cloud Service| 클라우드 서비스
+Enable Cloud Service| 클라우드 서비스 활성화
+Cloud SIP| 클라우드 SIP
+Cloud Directory| 클라우드 디렉토리
+Active Config Server| 활성 구성 서버
+Cloud Config Server 1| 클라우드 구성 서버 1
+Cloud Config Server 2| 클라우드 구성 서버 2
+Cloud Staging Server| 클라우드 스테이징 서버
+Cloud Domain| 클라우드 도메인
+Replay| 다시 재생
+Backward| 뒤로
+Forward| 전진
+Send To| 보내기 주소
+Logout| 로그아웃
+To Email| 이메일로
+Delete Failure| 제거 실패
+Play Failure| 재생 실패
+Play Failure due to a system error. See your system administrator.| 시스템 에러로 재생 실패. 시스템 관리자에게 문의하십시오.
+Save Failure| 저장 실패
+Add Contact| 주소록에 추가
+Voicemail and Recordings| 음성 메일 및 녹음
+Voicemail User Login| 음성 메일 유저 로그인
+Send to| 보내기 주소
+Cannot dial a private number| 비공개 숫자로 전화를 걸 수 없습니다
+Cannot copy a private number| 비공개 숫자를 복사할 수 없습니다
+Number not available| 숫자를 활성화할 수 없습니다
+Loading...| 로드 중 ...
+Login| 로그인
+Contacts| 연락처
+Private| 비공개
+To| 수신
+Send| 송신
+Voicemail has been sent.| 음성 메일이 전송되었습니다.
+Error in sending Voicemail. Please send it again.| 음성 메일을 보내는 중 에러가 발생했습니다. 다시 보내 주십시오.
+Voicemail has been sent to email.| 음성 메일이 이메일로 전송되었습니다.
+Error in sending to Email.| 이메일로 보내는 중 에러가 발생했습니다.
+New| 새로운
+Recorded| 기록된
+Receipt Confirmation| 영수증 확인
+Passcode| 패스 코드
+Mailbox Number| 편지함 숫자
+Remember passcode| 패스 코드를 기억하십시오
+Passcode is incorrect. Enter a valid passcode.| 패스 코드가 틀립니다. 유효한 패스 코드를 입력하십시오.
+Invalid mailbox number.| 편지함 숫자가 잘못되었습니다.
+Error - Mailbox in use| 에러 - 편지함이 활성화중입니다
+Error - maximum sessions exceeded| 에러 - 최대 세션을 초과했습니다
+Error - no session exists| 에러 - 세션이 존재하지 않습니다
+Error - bad extension| 에러 - 유효하지 않은 내선
+Mailbox locked for security reasons. See your system administrator.| 보안상의 이유로 편지함이 잠겼습니다. 시스템 관리자에게 문의하십시오.
+DECT Headset| DECT 헤드셋
+DECT Headset Version| DECT 헤드셋 버전
+DECT Headset Battery| DECT 헤드셋 배터리
+DECT Headset Rf Power| DECT 헤드셋 Rf 전원
+DECT Headset Rf Power| DECT 헤드셋 Rf 전원
+Very Low| 매우 로우
+Downloading font| 다운로딩 포트
+No calls to unpark| 언파크할 전화발신 없음
+For …| …용
+To VM| VM에게
+Number of Packets Sent| 전송된 패킷 횟수
+Number of Packets Received| 수신된 패킷 횟수
+RTT min/avg/max| RTT 분/평균/최대
+traceroute to| 트레이스라우트
+hops max| 호프 맥스
+byte max| 바이트 맥스
+Voicemail box is full| 보이스메일 풀
+ALL| 모든
+REMOTE| 원격
+Local| 로컬
+Not allowed on this call| 이 전화발신에서 허용되지 않음
+ Whisper| 
+ Consult| 
+ Coach| 
+ Barge| 
+ Monitor| 
+ For| 
+ External Speaker| 
+ UnPark| 
+ Call Parked| 
+ UnPark Failed| 
+ Rev:| 
+ You must restart the phone before the new settings will take effect.| 
+ None| 
+ Use LLDP-MED| 
+ LLDP neighbor| 
+ Cache LLDP-MED| 
+ Conf In Progress| 
+  Enter Voicemail Password| 
+ Call Server| 
+ Do Not Ring if on a Call| 
+ P| 
+ To Vm| 
+ Pickup not permitted| 
+ Pickup/unpark not permitted| 
+ Unpark not permitted| 
+ Silent Monitor not permitted on this call| 
+ Silent Coach not permitted on this call| 
+ Barge In not permitted on this call| 
+ Park not permitted| 
+ Park/Transfer is still in progress| 
+ No calls to unpark| 
+ No calls to park| 
+ No calls to pickup| 
+ No calls to take action| 
+ My Status| 
+ Favorite| 
+ Voicemail playback failed| 
+ Voicemail skip failed| 
+ Voicemail bad address| 
+ Voicemail box is full for| 
+ Not supported| 
+ Service unavalilable at this time| 
+ Hold not permitted on this call| 
+ Action not permitted| 
+ Not Permitted on this call| 
+ Request denied or \r\nunacceptable at this time| 
+ Phone number is invalid or not properly formatted| 
+ Move Message Failure| 
+ Contacts| 
+ Cloud Connect| 
+ Service Type| 
+ MiCloud Connect| 
+ MiVoice Border Gateway| 
+ User DID| 
+ Domain| 
+ Call Back| 
+ Play| 
+ Exit| 
+ Skip Back| 
+ Skip Forward| 
+ Inbox| 
+ MiCloud| 
+ Fetching Details| 
+ Additional Phone| 
+ Agent state| 
+ Availability| 
+ Standard| 
+ In a meeting| 
+ Out of office| 
+ Extended Absence| 
+ Do not disturb| 
+ On the Phone| 
+ Assign| 
+ Assign user| 
+ Assign user failed| 
+ Assign user to phone in progress. Please wait...| 
+ Extension or password invalid| 
+ Unassign| 
+ Unassign user| 
+ Unassign user failed| 
+ Unassign user?| 
+ Unassigning user...| 
+ Voicemail password| 
+ Ping| 
+ Host Name or IP Address| 
+ Please enter a valid HostName/IP Address| 
+ Pinging %s...| 
+ Tracerouting...| 
+ Tracerouting Complete| 
+ Traceroute| 
+ Page Up| 
+ Page Down| 
+ Traceroute Command| 
+ Always| 
+ Never| 
+ Always destination| 
+ No answer destination| 
+ Busy destination| 
+ Simulring| 
+ VPN| 
+ Use VPN| 
+ VPN gateway| 
+ VPN gateway port| 
+ Tunnel IP| 
+ VPN protocol| 
+ VPN debug mode| 
+ System| 
+ Log upload| 
+ Timeout (1-1440 Minutes)| 
+ Please input a duration between 1 and 1440 minutes| 
+ User Settings| 
+ Diagnostic server| 
+ Diag Server| 
+ Wrap up| 
+ UnWrap| 
+  Open| 
+ Confirm| 
+ New voicemail password| 
+ Password entries do not match| 
+ Password change succeeded| 
+ New password same as old password| 
+  Reply| 
+  ReplyAll| 
+  Compose| 
+  Call VM| 
+ Cannot choose your own extension| 
+ Save Changes?| 
+ Validating number...| 
+ Invalid %s| 
+ Upgrade Required| 
+ Invalid DID or Password| 
+ Register| 
+ Voice Service| 
+ Start Over| 
+ Empty domain name| 
+ Registering| 
+ DID or password no update| 
+ Invalid domain name| 
+  Registration cancelled| 
+ Pager| 
+ Phone not registered| 
+ Enterprise| 
+  Parameter Type| 
+ Remote| 
+  Filter Page| 
+  Parameter Filter| 
+  Get Parameters| 
+ Assigned| 
+ Assigning| 
+ Invalid extension| 
+ Extension or password no update| 
+ Assignment cancelled| 
+ Extension already assigned| 
+  Select a call to park| 
+  Select a call to unpark| 
+  Unpark| 
+ Duration| 
+ Subject| 
+ Uploading Fail| 
+ Diagnostic server is empty| 
+ Logs uploaded successfully| 
+ Urgent| 
+ Return Receipt| 
+ Include Original| 
+ Re: Voice Message| 
+ Fw: Voice Message| 
+ Phone not assigned| 
+ Whisper Page| 
+ Intercom| 
+ Silent Monitor| 
+ Barge In| 
+ Silent Coach| 
+ To Inbox| 
+ Save Message?| 
+ By First| 
+ By Last| 
+ Dial Voicemail| 
+ Dial VM| 
+  Invalid Phone Number| 
+ Transfer not permitted on this call| 
+ Conference not permitted on this call| 
+ Remote log upload in progress| 
+ Remote capture upload in progress| 
+ Standard| 
+ Ring 2| 
+ Ring 3| 
+ Ring 4| 
+ Play Int| 
+ Play Ext| 
+ Press "Upload" to upload a debug log| 
+ Select a call to merge| 
+ Add Caller:| 
+ Assign user?| 
+ Participants| 
+ Conferenced| 
+ calls| 
+ held calls| 
+ Debug on| 
+ Debug off| 
+ Unknown Error| 
+ Connection Error| 
+ Application Error| 
+ Number of Packets Sent:| 
+ Number of Packets Received:| 
+ RTT min/avg/max| 
+ traceroute to| 
+ hops max| 
+ byte packets| 
+ Help| 
+ Call Mitel Support ?| 
+ Mitel Support| 
+ Remote| 
+ OnHold| 
+Initializing Components| 컴포넌트 초기화
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

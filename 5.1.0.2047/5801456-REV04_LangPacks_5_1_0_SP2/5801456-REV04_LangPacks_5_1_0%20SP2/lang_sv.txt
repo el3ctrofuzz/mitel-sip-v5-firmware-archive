@@ -1,0 +1,3606 @@
+Svenska
+AQUARIUS_3 prompts| 
+Net. General Info| Allm nätverksinfo
+Net. Persist. Data| Pers nät- data
+Net. DHCP Info| Info om DHCP
+Net. QoS| QoS i nät
+Message Key Launch Voicemail App| Medd.knapp som startar röstbrevlåda
+AQUARIUS_4 prompts| 
+Network Persist. Data| Bestän. nätverks- data
+Network QoS| QoS i nät
+Message Key Launches Voicemail Application| Meddelandeknapp startar röstbrevlådan
+AQUARIUS_5 prompts| 
+Network General Info| Allm. nätverksinfo
+Network DHCP Info| Överbelast. nätv.
+480iCT prompts| 
+No handsets are currently paired| Inga handtag är kopplade just nu
+Cordless Handset Feature Key Configuration| Funktionsknapp
+None| Ingen
+Attempting to pair...| Försöker koppla...
+Pairing successful| Anslutning lyckades
+Pairing failed       | Lyckades ej ansluta        
+Try again| Försök igen
+Remove Handset:| Ta bort handtaget:
+Attempting to remove| Försöker ta bort
+Wait...| Vänta...
+Removal successful| Lyckad borttagning
+Cordless| Trådlös
+Cordless Handsets| Trådlösa handtag
+None Registered| Ingen registrerad
+Sync| Synk
+Private Line| Privat linje
+Sending Directory| Skickar kontakter
+to Handsets| till handtag
+System Unavailable| System otillgängligt
+Handset Pairing| Handtag kopplas
+Handset Keys| Handtagsknappar
+Feature Key programming complete.| Programmering av funktionsknappar
+Two Call Support| 2-samtalssupport
+Intercom| Intercom
+Sending Directory to Handsets| 
+No Public Number Found| 
+480i prompts| 
+Time Format| Tidsformat
+    NOT MATCH !!!|  Ingen Matchning
+Erase local config?| Radera lokal konfig.
+Alternate Server| Alt. Server
+Contrast Level| Kontrastnivå
+TypeService SIP| TypTjänst SIP
+TypeService RTP| TypTjänst RTP
+TypeService DSCP| TypTjänst DSCP
+TypeService RTCP| TypTjänstRTCP
+Dn| Ned
+Rt| Höger
+Lf| Vänster
+Del| Radera
+System Info Upload| Laddar systeminfo
+Up| Upp
+Copyright| Copyright
+Reset| Återställ
+Phone will restart automatically after finishing.|  Telefonen startar om  automatiskt
+Please login| Vag god logga in
+Incorrect password| Felaktigt lösenord
+Reset Configuration?| Återställ konfiguration?
+Cfg. Svr.| Cfg.Server
+Enable| Aktivera
+List| Lista
+Move Up| Flytta Upp
+Move Down| Flytta ner
+Firmware Loaded| Mjukvara laddad
+802.1x Authenticating| 802.1x Verifiering
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Väntar på IP
+Bluetooth Upgrade .. Please wait| Bluetooth uppgraderas... Var god vänta
+Contacting Redirector| Kontaktar redirector
+Redirecting Step 1| Omdirigerar Steg 1
+Redirecting Step 2| Omdirigerar Steg 2
+Redirecting Step 3| Omdirigerar Steg 3
+Redirecting Step 4| Omdirigerar Steg 4
+Redirecting Step 5| Omdirigerar Steg 5
+Redirecting Step 6| Omdirigerar Steg 6
+Auto Discovery...| Auto-Igenkänning
+Starting in Generic SIP Mode| Startar i Generic SIP läge
+Starting in AastraLink Mode| Startar i AastraLink läge
+Updating config| Uppdaterar konfiguration
+Waiting assignment| Väntar på uppgift
+Checking for Firmware  Do not unplug phone!| Söker programvara. Avbryt ej
+New Firmware. Do not unplug phone!| Ny mjukvara. Koppla ej ur telefonen!
+New Firmware. Restarting...| Ny mjukvara... Startar om
+Downloading configuration| Laddar ner konfiguration
+Downloading Language Packs| Laddar ner språk
+Network| Nätverk
+UPnP device not found| UPnP-enhet ej hittad
+Port Map In Progress| Portmappning pågår
+Port Map Incomplete| Mappning ofullständig
+DSP| DSP
+SIP| SIP
+Tone| Signal
+Interface| Gränssnitt
+Web| Web
+Done| Klar
+CopyToAll| Kopia Alla
+Cannot use firmware.| Oanvändbar mjukvara
+No available lines| Linjer saknas
+Current Password:| Nuvarande lösenord:
+New Password:| Nytt lösenord:
+Re-enter Password:| Upprepa lösenord:
+  Password Changed|    Lösenord ändrat
+Change| Ändra
+Use DHCP?| Använda DHCP?
+Advanced| Avancerad
+DNS| DNS
+Ringer | Signal
+ ERROR: invalid port|  Fel: Ogiltig port
+SIP Register| SIP- registrering
+Register?| Registrera?
+Authentication Name| Namnverifikation
+Nortel NAT| Nortel NAT
+Reset phone to| Nollställa till
+factory defaults?| grundinställning?
+Setting phone back to| Återställer
+Factory Defaults| grundinställningen
+  Please enter the   | Var god ange
+    administrator    | administratörs-
+      password.      | lösenord
+Password: | Lösenord:
+Quit| Avsluta
+More| Mer
+Timeserver Address:| Tidsserverns adress:
+Network Time Disabled| Nätverkstid avstängd
+Dialing| Slår nummer
+Incoming| Inkommande
+Calling| Ringer...
+Pause| Paus
+Pickup| Svara
+Previous| Föregående
+Enter Time:| Ange tid:
+Message Waiting| Meddelande väntar
+Live Dialpad| Aktiv Knappsats
+Live Dialpad is| Aktiv Knappsats är
+Options List| Inställning Meny
+    Access denied    | Tillgång nekad    
+Directory is full| Rymms ej!
+30min summertime| 30min sommartid
+1h    summertime| 1 tim sommartid
+No Link| Olänkad
+Next| Nästa
+Retry| Upprepa
+Negotiation| Förhandling
+Live Dialpad disabled| Aktiv Knappsats AV
+Link State| Länkstatus
+Headset Mic Volume| Headset Mik. Volym
+Gateway IP Address:| Gateway IP-adress:
+Enter Date (y-m-d):| Ange datum (å-m-d)
+Enter| Ange
+Enable| Aktivera
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Halv 10Mbps
+Half 100Mbps| Halv 100Mbps
+Half 1000Mbps| Halv 1000Mbps
+Default| Grund
+Add New| Ny
+DeleteList| Radera
+Delete entire| Radera hela
+Directory?| Kontakter?
+Enter Number:| Ange Nummer:
+Network disconnected| Ej kontakt med nätet
+Network connected| Nätverket anslutet
+Entry Saved| Uppgiften sparad
+Entry Removed| Uppgiften raderad
+Private| Privat
+Public| Offentlig
+Delete entry?| Radera inmatning?
+Delete?| Radera?
+Delete number| Radera nummer
+or delete all| eller radera allt
+entries?| uppgifter?
+Name is full| Namn är fullt
+Empty| Tom
+Redial List| Utgående Samtal
+Details| Uppgifter
+Copy| Kopiera
+Select| Välj
+Voicemail| Röstbrevlåda
+DeleteItem| Radera
+Delete All| Radera Alla
+Entry copied to| Uppgift kopierad till
+Entry Exists| Uppgiften finns
+All items erased| Alla poster raderade
+Sort| Sortera
+Resume| Fortsätta
+EditNum| Ändra Nr
+DeleteList again to| Radera igen för att
+Delete again to| Radera igen för att
+erase this item| radera denna post
+erase all calls| radera alla samtal
+ new caller|  nytt samtal
+ new callers|  nya samtal
+Press 1st letter| Tryck 1:a bokstav
+Handset | Handtag
+ Missed Call|  Obesvarat samtal
+ Missed Calls|  Obesvarade samtal
+Call Forward Mode| Vidarekopplad
+CFWD All| VIDARE Alla
+CFWD Busy| VIDARE Upptaget
+CFWD NoAnswer| VIDARE Ej Svar
+Call| Samtal
+Select TFTP| Välj TFTP
+Use %c for new| %c Nästa
+Use %c to view| %c Visa
+Download Protocol| Laddprotokoll
+OFF| AV
+ON| PÅ
+Add Number| Nytt nr.
+Arrange| Ordna
+%cmore| %c Mer
+Office| Kontor
+Home| Hem
+Cell| Mobil
+Pager| Sökare
+VLAN Settings| VLAN-inställning
+Softkeys and XML| Softkeys och XML
+Softkeys Configuration| Softkey-konfiguration
+Bottom Keys| Underknappar
+Top Keys| Överknappar
+Page1| Sid 1
+Page2| Sid 2
+Page3| Sid 3
+Page4| Sid 4
+Page5| Sid 5
+Idle| I vila
+Outgoing| Utgående
+Empty| Tom
+Enter server name/IP:| Ange servernamn / IP:
+Enter HTTPS port:| Ange HTTPS-port:
+Erase| Radera
+Proxy IP/Port| Proxy IP/Port
+Registrar IP/Port| Registr. IP/Port
+Erasing local config| Raderar lokal konfig.
+Proxy Port:| Proxy- port:
+Registrar Port:| Registrator port:
+Proxy Server:| Proxy Server:
+Registrar Server:| Registrator Server
+Contrast Level:| Kontrastnivå:
+Erase Local Config.| Radera lokal konfig.
+Administrator Menu| Administratörsmeny
+Backlight On Time| Belysningstid
+Redirect HTTP->HTTPS?| Omdir.  HTTP->HTTPS?
+Block XML HTTP POSTs?| Spårr XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Klientmetod
+To unlock the phone| För att låsa upp
+No more softkeys| Inga fler softkeys
+Ignore| Avvisa
+Answer| Svara
+Configuration Server| Konfig. Server
+Primary Path| Primär väg
+Alternate Path| Alternativ väg
+Logging in| Loggar in
+Login Failed| Inloggningsfel
+Enable?| Aktivera?
+Check Expires| Kontroll certifikat
+Check Hostnames| Kontroll värdnamn
+Conf. Unavailable| Konferens ej tillg
+Ringing...| Ringer...
+Error Messages| Felmeddelanden
+No Error Messages| Ingen Felinformation
+Download Options| Nerladdnings alternativ
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| mer
+A # &| A # &
+  Invalid password   |   Ogiltigt lösenord!   
+Upload Sys Info| Laddar Sys info
+Config is updated. Restarting...| Konfig. uppdateras. Startar om...
+CFWD Filtering| CFWD-filtrering
+Checking for Firmware| Söker programvara
+for new| 
+9133i prompts| 
+Password Changed| Lösenord ändrat
+Leave| Lämna
+Time Format| Tidsformat
+Erase local cfg?| Radera konfig.
+TypeService SIP| TypTjänst SIP
+TypeService RTP| TypTjänst RTP
+TypeService DSCP| TypTjänst DSCP
+TypeService RTCP| TypTjänstRTCP
+Alternate Server| Alt. Server
+Contrast Level| Kontrastnivå
+Options List| Inställning Meny
+DELETE to erase item  or # to erase Number| RADERA post eller # att ta bort nummer
+Upload Sys Info| Laddar Sys info
+Directory Empty. Use Save to add| Telefonboken tom. Spara adderar
+Directory Empty Use Save to add| Telefonboken tom Spara adderar
+  NOT MATCH !!!|   Stämmer ej !!!
+DELETE again to erase this item| RADERA igen för att ta bort!
+System Info Upload| Laddar systeminfo
+Phone will restart after| Telefonen startar om efter
+Copyright| Copyright
+Reset| Återställa
+Use DHCP?| Använda DHCP?
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Half 10Mbps| Halv 10Mbps
+Half 100Mbps| Halv 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 1000Mbps| Halv 1000Mbps
+Cfwd Destination| Destination för vidarekoppling av samtal
+Please login| Vag god logga in
+Incorrect password| Felaktigt lösenord
+Reset Configuration?| Återställ konfiguration?
+Cfg. Svr.| Cfg.Server
+Net disconnected| Inget Nätverk
+Live Dialpad| Aktiv Knappsats
+Firmware Loaded| Mjukvara laddad
+802.1x Authenticating| 802.1x Verifiering
+LLDP| LLDP
+Initializing network| Initierar Nätverk
+Bluetooth Upgrade| Bluetooth Uppgradering
+Contacting Redirector| Kontaktar redirector
+Redirecting Step 1| Omdirigerar Steg 1
+Redirecting Step 2| Omdirigerar Steg 2
+Redirecting Step 3| Omdirigerar Steg 3
+Redirecting Step 4| Omdirigerar Steg 4
+Redirecting Step 5| Omdirigerar Steg 5
+Redirecting Step 6| Omdirigerar Steg 6
+Auto Discovery| Auto-igenkänning
+Starting in Generic SIP Mode| Startar i Generic SIP läge
+Starting in Aastra Link Mode| Startar i AastraLink läge
+Updating configuration| Uppdaterar konfiguration
+Waiting assignment| Väntar på uppgift
+Checking for new firmware| Söker ny programvara
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Ny Mjukvara: KOPPLA EJ UR TELEFONEN!
+New Firmware: Restarting...| Ny Mjukvara: Startar om...
+Downloading configuration| Laddar ner konfiguration
+Downloading Language Packs| Laddar ner språk
+Network| Nätverk
+UPnP Gateway Not Found| UPnP Gateway ej funnen
+UPnP Port Map In Progress| UPnP Portmappning pågår
+UPnP Port Map Incomplete| Ofullständig UPnP Portmappning
+DSP| DSP
+SIP| SIP
+Tone| Signal
+Registering with the voice network...| Registrerar på nätverket
+Web| Web
+Done| Klar
+Cannot use| Kan inte använda
+this firmware.| denna mjukvara
+All lines in use| Linjer upptagna
+Current Password| Aktuellt Lösenord
+New Password| Nytt lösenord
+Enter Again| Ange igen
+Ringer volume   | Ringvolym   
+DELETE again to| Radera igen för att
+erase all calls| radera alla samtal
+Caller is erased| Data raderat.
+Network Time| Nätverkstid
+Change| Ändra
+Options| Inställningar
+Access denied| Tillgång nekad
+Directory full| Rymms ej!
+Link Active| Länk aktiv
+No Link| Olänkad
+Live Dialpad is\nnot available.| Aktiv Knappsats\nEJ MÖJLIG
+Live Dialpad is\nON| Aktiv Knappsats\när PÅ
+Live Dialpad is\nOFF| Aktiv Knappsats\när AV
+-  confirmed   -| - bekräftad -
+Contrast | Kontrast
+Set| Sätt
+DHCP\nON| DHCP\nPÅ
+DHCP\nOFF| DHCP\nAV
+Enable?\nYes| Aktivera?\nJa
+Enable?\nNo| Aktivera?\nNej
+Check Expires| Kontroll certifikat
+Check Expires?\nYes| Kontrl dat?\nJa
+Check Expires?\nNo| Kontrl dat?\nNej
+Check Hostnames| Kontroll värdnamn
+Check Hostnames?\nYes| Kntrl värd?\nJa
+Check Hostnames?\nNo| Kntrl värd?\nNej
+Cancel| Avbryt
+SIP Register\nON| SIP Register\nPÅ
+SIP Register\nOFF| SIP Register\nAV
+Nortel NAT\nEnabled| Nortel NAT\nPå
+Nortel NAT\nDisabled| Nortel NAT\nAv
+Next| Nästa
+Done| Klar
+Retry| Upprepa
+Exit| Avsluta
+Pickup| Svara
+Call held| Samtal väntar
+Calls held| Parkerat
+Country Code: | Landskod:
+*List Countries| *Lista Länder
+Enter| Ange
+Admin Password| Admin Lösenord
+yyyy-mm-dd | åååå-mm-dd  
+Restart phone?| Omstart?
+#Confirm| #Bekräfta
+RestoreDefaults?| Grundläge?
+Call Agent 1| Samtal Agent 1
+Call Agent 2| Samtal Agent 2
+Call Agent 3| Samtal Agent 3
+Invalid Code    | Ogiltig kod     
+E: Invalid port!| E: Ogiltig port!
+Application:| Applikation:
+Boot ROM:| Boot ROM:
+Negotiation:| Förhandling:
+30m summertime| 30min sommartid
+1h summertime| 1 tim sommartid
+Invalid password| Ogiltigt lösenord!
+  disconnected|   frånkopplad  
+   connected|    ansluten
+    Network|     Nätverk    
+erase all items| att radera alla
+Enter Number>| Ange Nummer>
+Setting phone to| Sätter till
+Use Save to end| Spara avslutar
+to enter name>| för att ge namn>
+Saved: Directory| Sparad: Tfnbok
+Retrying config | Upprepar konfig
+download...     | nedladdning...  
+empty| Tom
+No Match| Ingen Matchning
+Save to?| Spara till?
+Saved Memory key| Minnesknapp
+Removed Key| Borttagen knapp
+Key saved | Minnesknapp
+Key removed| Borttagen knapp
+Press 1st letter| Tryck 1:a bokstav
+Speaker volume  | Högtalarvolym  
+Handset volume  | Handtagsvolym  
+Headset volume  | Headset volym  
+Factory Defaults| grundinställningen
+ Missed Call|  Obesvarat samtal
+ Missed Calls|  Obesvarade samtal
+Cfwd State| VIDARE Status
+Cfwd Number| VIDARE nr
+Cfwd Mode| Vidarekoppling
+CFWD All| VIDARE Alla
+CFWD Busy| VIDARE Upptaget
+CFWD NoAnswer| VIDARE Ej Svar
+Select TFTP\nPrimary| VäljTFTP\nPrimär
+Select TFTP\nAlternate| Välj TFTP\nAternativ
+DownloadProtocol| Laddprotokoll
+VLAN Settings| VLAN-inställning
+Server Name/IP?| Server Namn/IP?
+HTTPS Port?| HTTPS Port?
+Client Method\nSSL 3.0| Klient Metod\nSSL 3.0
+Client Method\nTLS 1.0| Klient Metod\nSSL 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nOmdirigera
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nOmdirigera ej
+Redirect| Omdirigera
+Do not redirect| Omdirigera ej
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nSpärra ej
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nSpärr
+Do not block| Blockera ej
+Block| Blockera
+Erasing config| Radera konfig.
+Pri TFTP Path| Pri. TFTP Väg
+Alt TFTP Path| Alt TFTP Väg
+Backlight Mode| Belyst läge
+Backlight Time| Belysningstid
+Answer| Svara
+Ignore| Avvisa
+Cfwd| VKPL
+Copy to All?| Kop. till Alla?
+Apply Changes?| Ändra?
+Logging in| Loggar in
+Login Failed| Inloggningsfel
+Conf Unavailable| Konf Ej tillg
+Error Messages| Felmeddelanden
+No Error Messages| Ingen inform.
+Delete All| Radera Alla
+Download Options| Nerladdnings alternativ
+Config updated. Restarting...| Konfig. uppdaterad. Startar om...
+DELETE again to erase all calls| Ta bort igen för att radera alla samtal
+Firmware Check| Kontrol. firmware
+Fwd Filtering| Filtrering för vidarekoppling
+CFWD Filtering| CFWD-filtrering
+DELETE again to erase all items| Radera igen för att att radera alla
+Upload Sys Info| Laddar Sys info
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Ange Adminlösenord
+Error Msg| Felmeddelanden
+Unlock the phone?| Lås upp telefonen?
+ Enter Unlock Password| Ange låsa upp lösenord
+softkey| softkey
+Edit Number| Redigera nummer
+Lock the phone| Lås telefonen
+keypad| Knappsats
+Unlock| Lås upp
+ Cust Feat| Anpassade funktioner
+Phone is locked| Telefonen låst
+Unlock the phone| Lås upp telefonen
+GoodBye| Adjö
+Pass Thru Port| Pass Thru Port
+First| Först
+Last| Namn
+Name| Namn
+Add| Ny
+Edit| Redigera
+Space| Mslag
+Bksp| Backa
+caps| caps
+CAPS| CAPS
+Reject| Avvisa
+Silence| Tyst
+Hold| Parkera
+Transfer| Överflyttning
+>| > 
+Lines| Linjer
+Settings| Inställningar
+Device Name| Enhetsnamn
+Bluetooth Devices| Bluetooth Enhet
+Bluetooth Status:| Bluetooth:
+Search| Söka
+Searching...| Söker...
+device(s) found.| Enhet(er) funna
+Press on a device to start pairing.| Tryck på en enhet för att para ihop
+Enter PIN| Ange PIN-kod
+Add Device| Lägg till enhet
+Active| Aktiv
+Are you sure?| Är du säker?
+ALL| Alla
+Phone No:| Telefon Nr:
+Copy to all modes| Kopiera > alla
+BUSY| Upptagen
+NO ANSWER| Ej Svar
+CFWD NO ANS:| VIDARE Ej Svar:
+CFWD BUSY:| VIDARE Uppt:
+CFWD ALL:| VIDARE ALLA:
+Audio| Ljud
+Calibrate Screen| Kalibrera skärmen
+Recalibrate Touchscreen?| Omkalibrera pekskärmen?
+Softkeys| Softkeys
+Headset Mic Volume| Headset Mik. Volym
+Headset Device| Headset
+Bluetooth| Bluetooth
+Wired| Trådad
+Restart | Starta om
+No Calls| Inga samtal
+Brightness Timer| Ljusstyrka - Timer
+Brightness Level| Ljusstyrka
+Add to Directory| Lägg in i Kontakter
+Waiting for Touch Screen activity to subside ...| Väntar på att skärmaktiviteten avslutas
+Touch the UPPER-LEFT corner of the screen| Rör skärmens ÖVRE-VÄNSTRA  hörn
+Touch the UPPER-RIGHT corner of the screen| Rör skärmens ÖVRE-HÖGRA  hörn
+Touch the LOWER-RIGHT corner of the screen| Rör skärmens NEDRE-HÖGRA  hörn
+Touch the LOWER-LEFT corner of the screen| Rör skärmens NEDRE-VÄNSTRA  hörn
+Received unreliable data. You will be asked to touch the same point again| Osäkert värde. Du kommer bli ombedd att röra ssamma punkt igen
+Processing ...| ¨Bearbetar...
+Validating calibration data ... please wait| Validerar kalibreringsdata... V.G Vänta
+Sanity Check OK. Save changes?| Giltighetskontroll OK. Spara?
+Sanity Check Failed| Giltighetskoll felade
+Retry| Upprepa
+Quit| Avsluta
+Please Enter| Var god ange
+Submit| Skicka
+User ID:| Användar-ID:
+Password:| Lösenord:
+Transferring| Överför
+No. Rings| Antal Ringning
+Line| Linje
+Unable to Pair| Kan ej koppla ihop
+Please Wait...| Var god vänta...
+Add new device...| Ny enhet...
+Detected:| Funnen:
+Connecting:| Ansluter:
+Disonnecting:| Kopplar från:
+Connected:| Ansluten:
+ALL| Alla
+BUSY| Upptagen
+NO ANSWER| Ej Svar
+CFWD ALL:| VIDARE ALLA:
+CFWD BUSY:| VIDARE Uppt:
+CFWD NO ANSWER:| VKPL EjSvar:
+Copy to all modes| Kopiera > alla
+OFF| AV
+Off| AV
+Phone Number:| Telefon Nr:
+Level 1| Nivå 1
+Level 2| Nivå 2
+Level 3| Nivå 3
+Level 4| Nivå 4
+Level 5| Nivå 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Ange Adminpassord1
+Phone will restart automatically after finishing.| Telefonen startar om automatiskt...
+Conference| Konferens
+Conf| Konferens
+Reset Configuration?| Återställ konfiguration?
+Hide| Dölj
+Live Dialpad| Aktiv Knappsats
+Live Dial| Akt. Kna
+Lock| Lås
+Lock the phone?| Lås telefonen?
+Directory| Kontakter
+Phone Number:| Telefon Nr:
+Common prompts| 
+None| Ingen
+Disable| Inaktivera
+Logout failed| Utloggning misslyckades
+Logout successful| Utloggningen lyckades
+Login successful| Inloggningen lyckades
+Logout user %s| Logga ut användare %s
+Login/Logout| Logga in/Logga ut
+User ID| Användar-ID
+User ID required| Användar-ID krävs
+Application busy. Please try again later.| Programmet är upptaget. Försök igen senare.
+Page Expired. Please reload the page.| Sidan har upphört att gälla. Läs in sidan igen.
+Check Expires| Kontroll certifikat
+Check Hostnames| Kontroll värdnamn
+Use DHCP?| Använda DHCP?
+Restart Phone?| Omstart?
+12 Hour| 12 Timmar
+Speeddial| Snabbval
+Erase local cfg?| Radera lokal konfig?
+Spd Dial| Snabbval
+Backup Outbound Proxy Server| Backup Utgående Proxyserver
+Backup Outbound Proxy Port| Backup Utgående Proxyport
+Firmware Info| Mjukvaruinfo
+DHSG| DHSG
+DHSG is ON| DGSG är PÅ
+DHSG is OFF| DHSG är AV
+Backlight On Time| Belysningstid
+Use Alt TFTP| Använd alt TFTP
+Pri TFTP Path| Pri. TFTP Väg
+Alt TFTP Path| Alt TFTP Väg
+RestoreDefaults?| Grundläge?
+HTTP Init Failed| HTTP init felade
+Get aastra.lic| Hämta aastra.lic
+Get mac.lic| Hämta mac.lic
+Firmware not licensed for use on this phone| FW ej licensierad för denna telefon
+Redial List is empty| Samtalslistan är tom
+Callers List is empty| Samtalslistan är tom
+Callers List| Inkommande Samtal
+Redial List| Utgående Samtal
+Directory| Kontakter
+License Information| Licensinformation
+XML Application URI:| XML-applikationens URI:
+Missing User ID| Saknade användar-ID
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Använda
+Active Features| Aktiva funktioner
+WWW MMM DD| VVV MMM DD
+DD-MMM-YY| DD-MMM-ÅÅ
+YYYY-MM-DD| ÅÅÅÅ-MM-DD
+DD/MM/YYYY| DD/MM/ÅÅÅÅ
+DD/MM/YY| DD/MM/ÅÅ
+DD-MM-YY| DD-MM-ÅÅ
+MM/DD/YY| MM/DD/ÅÅ
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM ÅÅÅÅ
+WWW DD MMM| VVV DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.ÅÅÅÅ
+24 Hour| 24 timmar
+XML Application Title:| XML-applikationens titel:
+License Status| Licens Status
+FTP| FTP
+to view| för visa
+Contact Name already exists| Kontaktnamnet finns redan
+Leave| Lämna
+Contact Mismatch| SIP-Kontakt stämmer ej
+ Call Terminated| Samtal avslutat
+IP and gateway have to be on same subnet| IP och Gateway måste vara på samma subnät
+IP cannot be equal to gateway address| IP och Gateway kan inte ha samma adress
+Call Waiting Tone Period| Samtal Vänrar tonperiod
+OK| OK
+Directory empty| Inga kontakter
+Files Sent| Filer skickade
+Upload System Info| Laddar systeminfo
+Upload| Laddar
+Call Transferred| Samtal förmedlat
+Firmware Information| Mjukvaruinformation
+Contact Name already exists| Kontaktnamnet finns redan
+Replace| Ersätta
+No Services| Inga tjänster
+Merge| Sammanföra
+Enter Name:| Ange Namn:
+Call Hold Reminder| Påminnelse Parkerat samtal
+Others| Andra
+Call Hold Reminder During Active Calls| Påminnelse Parkerat samtal
+Out of service| Ej i Tjänst
+Reason: | Orsak:
+Add blank record?| Ny tom post?
+Audio Setting| Ljud-Inställning
+Delete Item| Radera
+Services| Tjänster
+Server| Server
+Service Disabled| Tjänst avstängd
+Port| Port
+Path| Väg
+Username| Användarnamn
+No. Rings| Antal Ringning
+Use xx to view| xx för att visa
+User Password| Användarlösenord
+Time and Date| Tid och datum
+Language| Språk
+Screen Language| Skärmspråk
+Tones| Signaler
+Tone Set| Ton-standard
+Ring Tone| Ringsignal
+State| Status
+State:| Status:
+User-Busy| Upptagen
+Unconditional| Ovillkorligen
+Time of day| Tiden
+Deflection| Vidarekoppling
+Follow Me| Följ mig
+Away| Borta
+Busy| Upptagen
+Restart| Starta om
+All On| Alla På
+All Off| Alla Av
+AllAccts| AllaLinjer
+Conference| Konferens
+Flash| Blink
+Dial| Ring
+Directory| Kontakter
+Callers| Samtal
+Icom| Snabbtel
+Icom| Snabbtel
+Dir| Kontakter
+Xfer| Överflyttning
+Conf| Konf.
+SIP Settings| SIP-parametrar
+Proxy Port| Proxy- port
+Registrar Port| Registrator port
+User Name| Användarnamn
+Screen Name| Skärmnamn
+Proxy Server| Proxy- server
+Registrar Server| Registrator Server
+Auth. Name| Verifiering namn
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Visa namn
+RTP Port Base| RTP- port bas
+Static NAT| Statisk NAT
+NAT Settings| NAT-värden
+NAT IP| NAT IP-adress
+NAT SIP Port| NAT SIP- port
+NAT RTP Port| NAT RTP- port
+NAT HTTPS Port| NAT HTTPS-port
+Phone Status| Telefonstatus
+Auto Discovery| Auto-igenkänning
+Trying...| Försöker...
+Remote| Fjärr
+Reset| Återställa
+Choose Server| Välj server
+Select| Välj
+Select| Välj
+Ring Tone:| Ringsignal:
+Silent| Tyst
+Network Settings| Nätverksvärden
+Clear| Radera
+Speaker | Högtalare
+Headset | Headset
+Speaker/Headset| Högtal./Headset
+Headset/Speaker| Headset/Högtal.
+Audio Mode| Ljud-läge
+Low| Låg
+Medium| Medium
+High| Hög
+OFF| AV
+Off| AV
+ON| PÅ
+DHCP Settings| DHCP-värden
+DHCP User Class| DHCP Use Class
+Hostname| Värdnamn
+IP Address| IP-adress
+Subnet Mask| Subnetmask
+Subnet Mask:| Subnetmask:
+Gateway| Gateway
+Primary DNS| Primär DNS
+Secondary DNS| Sekundär DNS
+TFTP Settings| TFTP-inställning
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| PC Port VLAN ID
+LAN Port VLAN| LAN Port VLAN
+PC Port VLAN| PC Port VLAN
+Priority| Prioritet
+VLAN Enabled\nYes| VLAN Aktiv\nJa
+VLAN Enabled\nNo| VLAN Aktiv\nNej
+PC Port Priority| PC Portprioritet
+LAN Port VLAN ID| LAN Port VLAN ID
+UPnP| UPnP
+Use UPnP| Använd UPnP
+Select Gateway| Välj Gateway
+Portmap Started| Mappning startad
+Portmap Error| Portmappningsfel
+LLDP| LLDP
+LLDP packet interval| LLDP intervall.
+LLDP Settings| LLDP Inst.
+Use LLDP ELIN| Använd LLDP ELIN
+TypeService DSCP| TypTjänst DSCP
+Type of Service DSCP| Typ av tjänst DSCP
+VLAN Priority| VLAN Prioritet
+Other Priority| Annan prioritet
+SessionBorderCtl| SessionBorderCtl
+Session Border Ctrl| Session Border Ctrl
+Select SBC| Välj SBC
+SBC Settings| SBC- Inställning
+Kagoor| Kagoor
+Update Interval (sec)| Uppd.interv (s)
+Backspace| Backa
+No| Nej
+Yes| Ja
+DHCP Download Options| DHCP Laddningsalternativ
+DHCP Download Option| DHCP Laddningsalternativ
+Firmware Version| Mjukvaru-version
+Restart Phone| Omstart telefon
+Show| Visa
+is OFF| är AV
+Password| Lösenord
+Restarting...| Startar om...
+Speed| Hastighet
+Manual| Manual
+Auto| Auto
+Auto| Auto
+Half| Halv
+Full| Full
+Duplex| Duplex
+ ERROR: |  FEL:
+Invalid IP addr.| Ogiltig adress
+Invalid mask| Ogiltig mask
+Range is 1-4094| Intervall 1-4094
+Range is 1-4095| Intervall 1-4095
+Range is 1-4095| Intervall 1-4095
+Range is 0-63| Intervall 0-63
+Range is 0-7| Intervall 0-7
+DND| Stör Ej
+DND On| Stör Ej - På
+Time Server| Tidsserver
+Set Time| Sätt tid
+Set Date| Sätt datum
+Date Format| Datumformat
+Time Zone| Tidzon
+Daylight Savings| Sommartid
+Invalid Time| Ogiltig tid
+Invalid Date| Ogiltigt datum
+Invalid IP| Ogiltig IP
+ Invalid Number| Ogiltigt nummer
+On| PÅ
+On| PÅ
+On| PÅ
+OFF| AV
+Automatic| Automatisk
+Conf Hold| Parkera Konf
+No Service| Ingen tjänst
+Mute| Sekretess
+Connected| Ansluten
+Drop| Avsluta
+Park| Parkera
+PickUp| Svara
+Redial| Återuppringning
+DCP| DCP
+DCP List| DCP-lista
+Cancel| Avbryt
+Done| Klar
+Callers List| Samtalslista
+No changes made| Inga ändringar
+Key is Locked| Knappen är låst
+Cannot Save| Kan inte spara
+1 item| 1 post
+ items|  poster
+No User| Ingen användare
+DHCP failed| DHCP fel
+Unknown Name| Okänt Namn
+Unknown Number| Okänt Nummer
+Unknown Line| Okänd Linje
+Item is erased| Posten är rad.
+Unknown| Okänd
+NextSpace| Mellanslag
+Dot "."| Punkt "."
+Transfer Failed| Överföringsfel
+Call Forward| Vidarekoppling
+Call Fwd| VKPL
+All| Alla
+All| Alla
+Any| Valfri
+NoAns| Ej Svar
+BusyNoAns| Uppt Ej Svar
+Number:| Nummer:
+Mode:| Läge:
+No. Rings:| Antal Ring:
+Line: | Linje:
+Contrast Level| Kontrastnivå
+ Message|  Meddelande
+ Messages|  Meddelanden
+Loading Page...| Laddar sida...
+Abort Loading...| Avbryt laddning
+Connect Timeout| Timeout Anslutn.
+Data Timeout| Data Timeout
+File Not Found| Fil hittades ej
+Page Load Error| Sidladdningsfel
+Cannot display| Kan inte visa
+Skip| Avvisa
+Call Failed| Misslyckades
+Primary Server| Primär Server
+Primary Server| Primär Server
+Alternate Server| Alt. Server
+Primary| Primär
+Alternate| Alternativ
+Bad encrypted cfg| Felaktig konfig
+Use TFTP| Använd TFTP
+Use FTP| Använd FTP
+Use HTTP| Använd HTTP
+Use HTTPS| Använd HTTPS
+FTP Settings| FTP-Inställning
+FTP Server| FTP-Server
+FTP Path| FTP-Väg
+FTP Username| FTP-Användarnamn
+FTP Password| FTP-Lösenord
+HTTP Settings| HTTP-Inställn.
+HTTP Server| HTTP-Server
+HTTP Path| HTTP-Väg
+HTTP Port| HTTP-Port
+HTTPS Settings| HTTPS-Inställn.
+Download Server| Nedladdn.server
+Download Path| Laddningsväg
+Download Port| Laddningsport
+HTTPS Server| HTTPS-Server
+HTTPS Path| HTTPS-Väg
+HTTPS Port| HTTPS-Port
+HTTPS Client| HTTPS-Klient
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Fel certifikat
+Certificates| Certifikat
+Cert Validation| Cert.Validering
+All defaults| Alla grundvärden
+Config default| Grundkonfig.
+AM| FM
+PM| EM
+Factory Default| Grundinställning
+Factory Default?| Grundinställning?
+Erase Local Cfg.| Radera lokal konfig.
+New IP Obtained| Ny IP-adress
+New NAT IP| Ny NAT IP
+Server IP Change| IP-adressändring
+AastraLink Menu| AastraLink Meny
+Server Options| Server Inställningar
+AastraLink Info| AastraLink Info
+Server Remote IP| Fjärr IP-adress
+Server Local IP| Lokal IP-adress
+Preferences| Preferenser
+Network Status| Nätverksstatus
+MAC Address:| MAC-adress:
+MAC Address| MAC-adress
+BT MAC Address:| BT MAC Address:
+Invalid Key| Ogiltig knapp
+Speed Dial Edit:| Ändra snabbval
+Press SD button| Tryck SV-knapp
+From: | Från:
+To: | Till:
+Via: | Via:
+Diverted: | Vidarekopplad:
+Log Off| Log ut
+Customer Support| Kundsupport
+Status| Status
+Operation| Funktionsläge
+Basic Settings| Grundinställningar
+Advanced Settings| Avancerade inställningar
+System Information| Systeminformation
+Down| Ned
+Up| Upp
+n/a| Ej relevant
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Attribut
+Link State| Länkstatus
+Negotiation| Förhandling
+Hardware Information| Hårdvaruinformation
+Firmware Information| Mjukvaruinformation
+Firmware Release Code| Mjukvaru-versionskod
+Value| Värde
+Platform| Plattform
+Boot Version| Bootversion
+Date/Time| Datum/Tid
+DND Key Mode| Stör Ej inst.
+Call Forward Key Mode| VIDARE inställning
+Option 160| Option 160
+Option 159| Option 159
+Option 66| Option 66
+Option 43| Option 43
+Account| Konto
+Both| Båda
+Line| Linje
+Line 1| Linje 1
+Line 2| Linje 2
+Line 3| Linje 3
+Line 4| Linje 4
+Line 5| Linje 5
+Line 6| Linje 6
+Line 7| Linje 7
+Line 8| Linje 8
+Line 9| Linje 9
+Line 10| Linje 10
+Configuration Line %d| Konfigurationsledning %d
+Basic SIP Authentication Settings| Grundinställning -  SIP behörighet
+Screen Name| Skärmnamn
+Screen Name 2| Skärmnamn 2
+Phone Number:| Telefon Nr:
+Phone Number| Telefon Nr
+Caller ID| Uppringare-ID
+Authentication Name| Namnverifikation
+Password| Lösenord
+BLA Number| BLA-nummer
+Line Mode| Linje-läge
+Generic| Generisk
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Grundinställning - SIP nätverk
+Outbound Proxy Server| Utgående Proxy Server
+Outbound Proxy Port| Utgående Proxy Port
+Registration Period| Registreringsperiod
+RTP Settings| RTP-inställningar
+Autodial Settings| Automatisk uppringning - Inställningar
+Autodial Number| Automatisk Uppringning
+Autodial Timeout| Automatisk uppringning - Time Out
+Use Global Settings| Använd globala inställningar
+DTMF Method| DTMF-metod
+SIP INFO| SIP INFO
+BOTH| Båda
+Save Settings| Spara inställningar
+Global SIP| Global SIP
+Global SIP Settings| Globala SIP-inställningar
+RTP Encryption| RTP-kryptering
+SRTP Disabled| SRTP inaktiverad
+SRTP Preferred| SRTP standard
+SRTP Only| Endast SRTP
+Advanced SIP Settings| Avancerade SIP-inställningar
+Explicit MWI Subscription| Explicit MWI-abonnemang
+Explicit MWI Subscription Period| Explicit MWI-abonnemangsperiod
+MWI for BLA account| MWI för BLA Konto
+Enabled| Aktiverad
+Send MAC Address in REGISTER Message| Skicka MAC-adress i REGISTER- Meddelande
+Send Line Number in REGISTER Message| Skicka Linjenummer i REGISTER- Meddelande
+Session Timer| Sessionstimer
+T1 Timer| T1 Timer
+T2 Timer| T2 Timer
+Transaction Timer| Transaktionstimer
+Transport Protocol| Transportprotokoll
+UDP and TCP| UDP & TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| Permanent TLS
+Registration Failed Retry Timer| Timer vid misslyckad registrering
+Registration Timeout Retry Timer| Timer för ny registrering efter time out
+Registration Renewal Timer| Timer för nytt registreringsförsök
+BLF Subscription Period| BLF Abonnemangsperiod
+ACD Subscription Period| ACD Abonnemangsperiod
+BLA Subscription Period| BLA-Abonnemangsperiod
+Blacklist Duration| Tid i spärrlista
+ Park Pickup Config| Park-PickUp Konfiguration
+RTP Port| RTP- port
+Basic Codecs| Grund-Codecs
+Force RFC2833 Out-of-Band DTMF| Tvinga RFC2833 Out-of-Band DTMF
+Codec Preference List| Codec Preferenslista
+Silence Suppression| Tystnadsundertryckning
+Provisioning complete.| Tilldelning avslutad.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Du måste starta om telefonen innan de nya inställningarna börjar gälla.
+ERROR: Maximum number of connections reached.| FEL: Maximalt antal
+Logout Complete| Utloggning OK
+Your session has ended.  Please close the browser.| Din session har avslutats. Var god stäng webbläsaren.
+Session Expired| Sessionen har gått ut.
+Please close the browser or use the link below to log in again.| Var god stäng webbläsaren eller använd länken under för att logga in igen.
+Log In| Log in
+Log Out| Log ut
+Log Out| Log ut
+Avail| Inne
+Avail| Inne
+Unavail| Ejtillg
+Unavail| Ejtillg
+Reset User Password| Återställa lösenord
+Please enter the current and new passwords| Var god ange det nuvarande och nya lösenordet.
+Current Password| Aktuellt Lösenord
+New Password| Nytt lösenord
+Password Confirm| Bekräfta Lösenord
+Please Enter| Var god ange
+Submit| Skicka
+ABC...| ABC...
+abc...| ABC...
+123...| 123...
+Authorizing...| Verifierar...
+Authorization Failed| Verifieringsfel
+Auth Failed| Verifieringsfel
+Current password is incorrect.| Nuvarande lösenord är ogiltigt.
+Please try again.| Var god försök igen.
+The new password fields do not match.| De nya lösenordsfälten matchar ej.
+The new password can not be saved.| Det nya lösenordet kan ej sparas.
+The user password has been changed.| Det nya lösenordet har ändrats.
+Task and Stack Info| Uppgift- och Stack-info
+Back| Tillbaka
+Files Available for Download| Filer tillgängliga för nedladdning.
+Custom| Personlig
+Save As...| Spara som...
+Directory List| Kontaktlista
+Current Settings| Nuvarande inställningar
+Restore To Factory Defaults| Återställa till grundläge
+Restore| Återställa
+Remove Local Configuration Settings| Ta bort lokala konfigurationsinställningar
+Remove| Ta bort
+Restarting the hardware...| Startar om hårdvaran...
+Please return to the main page after your phone restarts.| Var god återvänd till startsidan efter att din telefon startat om.
+User not authorized to make changes.| Användare saknar behörighet att göra ändringar.
+Local configuration file has been deleted.| Lokal konfigurationsfil har
+Please restart the phone for the settings to take effect.| Var god starta om telefonen för att inställningarna ska börja gälla.
+Phone has been set to factory Defaults.| Telefonen har återställts till grundläget.
+Action URI| URI-Aktion
+Action URI Configuration| Konfiguration URI-Aktion
+Event| Händelse
+StartUp| Uppstart
+Successful Registration| Lyckad registrering
+Registration Event| Registreringshändelse
+Incoming Call| Inkommande samtal
+Outgoing Call| Utgående samtal
+Offhook| Lur AV
+Onhook| Lur PÅ
+Disconnected| Frånkopplad
+Poll| Hämta
+Interval| Intervall
+Settings saved.| Inställningar sparade.
+Settings could not be saved.| Inställningar kunde ej sparas.
+Firmware Update| Mjukvaru-uppdatering.
+TLS Support| Support TLS
+Manual Firmware Update| Manuell mjukvaruuppdatering
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Ange serverns IP-adress och programvarans namn nedan för att initiera laddning
+Configuration Server| Konfig. Server
+Configuration Server Settings| Konfigurationsserver-Inställningar
+Server IP| Server IP
+File Name| Filnamn
+Configure File Names| Konfigurera filnamn
+Root and Intermediate Certificates Filename| Root och Intermediate certifikatfilnamn
+Local Certificate Filename| Filnamn lokalt certifikat.
+Private Key Filename| Privatknapps filnamn
+Trusted Certificates Filename| Validerade certifikatets filnamn
+Download Firmware| Ladda ner mjukvara
+Firmware upgrade in progress.  Please wait.| Uppgradering av mjukvara pågår. Var god vänta.
+Please enter a valid filename and TFTP server IP address.| Var god ange ett giltigt filnamn och TFTP- serverns IP-adress
+Invalid TFTP server IP address| TFTP-serverns IP-adress ogiltig.
+Invalid download settings.| Ogiltiga nedladdnings-inställningar.
+Unable to upgrade firmware.| Kan ej uppgradera mjukvaran.
+The phone is restarting...| Telefonen startar om...
+Firmware upgrade successful.| Uppgradering av mjukvaran lyckades.
+This firmware already exists on the phone.| Denna mjukvara finns redan på telefonen.
+No upgrade is needed.| Uppgradering ej nödvändig.
+Troubleshooting| Problemlösning
+Module| Modul
+Log Settings| Log-inställningar
+Log IP| Log IP
+Log Port| Log port
+Debug Level| Debug-nivå
+Support Information| Supportinformation
+Get local.cfg| Få lokal konfig
+Get server.cfg| Få server konfig
+Show Task and Stack Status| Visa status för Uppgift & Stack
+Settings| Inställningar
+Download Protocol| Laddprotokoll
+Auto-Resync| Auto-Resynk.
+Days| Dagar
+Maximum Delay| Maximal fördröjning
+Mode| Läge
+Configuration Files| Konfigurationsfiler
+Time (24-hour)| Tid (24 h)
+XML Push Server List(Approved IP Addresses)| XML Push Server-Lista (Godkända IP-adresser)
+Phone-side Call Forward Settings| Vidarekopplingsinställningar
+Global Settings| Globala inställningar
+No Answer| Ej Svar
+Number| Nummer
+Number of Rings| Antal ringningar
+Local Line| Lokal linje
+Forward Number| Vidarekoppling till
+Global| Global
+Enable| Aktivera
+Network| Nätverk
+Must provision a valid default gateway IP if DHCP is enabled| Måste tilldela giltig IPadress för standard gateway om DHCP är aktiverad.
+Invalid IP Address| Ogiltig adress
+Invalid IP address| Ogiltig adress
+Invalid IP addr.| Ogiltig adress
+Invalid gateway address| Ogiltig gateway-adress.
+Invalid subnet mask| Ogiltig subnet mask
+Invalid primary DNS address| Ogiltig primär DNS-adress.
+Invalid secondary DNS address| Ogiltig sekundär DNS-adress.
+Basic Network Settings| Grundinställning - Nätverk
+Advanced Network Settings| Avancerade nätverksinställningar.
+DHCP| DHCP
+NAT Port| NAT- Port
+Nortel NAT Traversal Enabled| Nortel NAT Traversal Aktiverad
+Nortel NAT Timer (seconds)| Nortel NAT Timer (sekunder)
+NTP Time Servers| NTP Tidsservrar
+Time Server 1| Tidsserver 1
+Time Server 2| Tidsserver 2
+Time Server 3| Tidsserver 3
+SIP| SIP
+VLAN Enable| VLAN aktivering
+Non-IP Packet| Ej IP-paket
+SIP Priority| SIP-prioritet
+RTP Priority| RTP-prioritet
+RTCP Priority| RTCP-prioritet
+Preferences| Preferenser
+General| Generell
+Idle Display Name 1| Vilodisplay Namn 1
+Idle Display Name 2| Vilodisplay Namn 2
+Local Dial Plan| Lokal Nummerplan
+Send Dial Plan Terminator| Skicka Nummerplansavgränsare
+Digit Timeout (seconds)| Siffer-Timeout (sekunder)
+Park Call:| Parkera Samtal:
+Pick Up Parked Call:| Plocka Parkerat Samtal
+Suppress DTMF Playback| Undertryck DTMF-Playback
+Display DTMF Digits| Visa DTMF siffror
+Call Waiting| Samtal väntar
+Call Waiting| Samtal väntar
+Play Call Waiting Tone| Ge Samtal Väntar-signal
+Stuttered Dial Tone| Hackton
+Incoming Call Interrupts Dialing| Inkommande Samtal Avbryter...
+Switch UI Focus To Ringing Line| Ändra UI-fokus till ringande linje
+Outgoing Intercom Settings| Utgående Snabbtel-inställningar
+Type| Typ
+Phone-Side| Telefonsidan
+Server-Side| Serversida
+Prefix Code| Prefix-kod
+Incoming Intercom Settings| Inkommande Snabbtel-inställningar
+Microphone Mute| Mikrofon Tyst
+Play Warning Tone| Ge Varningssignal
+Allow Barge In| Tillåt inbrytning
+Auto-Answer| Automatiskt svar
+Key Mapping| Knappassociering
+Map Redial Key To| Associera Återuppringningsknapp Med
+Map Conf Key To| Associera Konf knapp med
+Ring Tones| Ringsignaler
+Brazil| Brasilien
+France| Frankrike
+Germany| Tyskland
+Italy| Italien
+Italy2| Italien2
+Mexico| Mexico
+Russia| Ryssland
+UK| Storbritannien
+US| USA
+Global Ring Tone| Global ringsignal
+Tone 1| Signal 1
+Tone 2| Signal 2
+Tone 3| Signal 3
+Tone 4| Signal 4
+Tone 5| Signal 5
+Tone 6| Signal 6
+Tone 7| Signal 7
+Tone 8| Signal 8
+Tone 9| Signal 9
+Tone 10| Signal 10
+Tone 11| Signal 11
+Tone 12| Signal 12
+Tone 13| Signal 13
+Tone 14| Signal 14
+Tone 15| Signal 15
+Priority Alerting Settings| Priotitetslarmsinställningar
+Enable Priority Alerting| Aktivera prioritetslarm
+Group| Grupp
+External| Extern
+Internal| Intern
+Emergency| Nödfall
+Auto call distribution| Intelligent samtalsdistribution(ACD)
+Auto Call Distribution Settings| Inställningar ACD
+ACD| ACD
+Community 1| Samtalsgrupp 1
+Community 2| Samtalsgrupp 2
+Community 3| Samtalsgrupp 3
+Community 4| Samtalsgrupp 4
+Normal ringing| Normal ringning
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Besvara Annans-inställningar
+Directed Call Pickup| Besvara Annans
+Directed Call Pickup by Prefix| Besvara Annans med prefix
+Play a Ring Splash| Spela en välkomstmelodi
+Auto Available| Tillgänglig Automatiskt
+Auto Available Timer| Automatiskt tillgänglig Timer
+Time and Date Setting| Tid-och datuminställningar
+Time Format| Tidsformat
+Date Format| Datumformat
+Programmable Keys| Programmerbara knappar
+Programmable Keys Configuration| Knappkonfiguration
+Hard Key| Fast knapp
+Key| Knapp
+BLF List URI:| BLF Lista URI:
+Speeddial/Xfer| Snabbval/Överflyttning
+Do Not Disturb| Var god stör ej
+BLF| BLF
+BLF/Xfer| BLF/Trp
+BLF/List| BLF/Lista
+XML| XML
+WebApps| WebAppl
+Flash| Blink
+Last Call Return| Återuppringning
+Sprecode| Sprecode
+Transfer| Överflyttning
+Conference| Konferens
+Save| Spara
+Delete| Radera
+Data has been transmitted to the phone successfully.| Data har framgångsrikt överförts till telefonen
+Data cannot be posted to the phone.| Data kan ej skickas till telefonen.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Var god kontrollera att datastorleken är 512 bytes eller mindre och att telefonen är konfigurerad att motta från värden.
+Expansion Modules| Expansionsmoduler
+Expansion Module 1| Expansionsmodul 1
+Expansion Module 2| Expansionsmodul 2
+Expansion Module 3| Expansionsmodul 3
+Page 1| Sida 1
+Page 2| Sida 2
+Page 3| Sida 3
+List 1| Lista 1
+List 2| Lista 2
+List 3| Lista 3
+List 4| Lista 4
+List 5| Lista 5
+List 6| Lista 6
+Incompatible with phone model| Ej kompatibel med telefonmodell
+Backup Proxy Server| Backup Proxy Server
+Backup Proxy Port| Backup Proxy Port
+Backup Registrar Server| Backup Registrator Server
+Backup Registrar Port| Backup Registrator  Port
+Phone is locked| Telefonen låst
+Phone Lock| Telefonlås
+Lock the phone?| Lås telefonen?
+Phone is unlocked| Telefonen är upplåst
+Password:| Lösenord:
+Emergency Dial Plan| Nödsamtalsnummer
+Account Configuration| Konto-konfiguration
+Lock| Lås
+Unlock| Lås upp
+Unlock the phone?| Lås upp telefonen?
+Lock or unlock the phone| Lås eller lås upp telefonen
+HTTPS Client Method| HTTPS Klient Metod
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS Server - Omdirigera HTTP till HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS Server - Blockera XML HTTP POSTs
+Validate Certificates| Validera Certifikat
+Check Certificate Expiration| Kontrollera utgångsdatum certifikat
+Check Certificate Hostnames| Kontrollera certifikat värdnamn
+Language Settings| Språkinställningar
+Webpage Language| Hemsidespråk
+Input Language| Ingående språk
+Input Language| Ingående språk
+Jan| Jan
+Feb| Feb
+Mar| Mar
+Apr| Apr
+May| Maj
+Jun| Jun
+Jul| Jul
+Aug| Aug
+Sep| Sep
+Oct| Okt
+Nov| Nov
+Dec| Dec
+Sun| Sön
+Mon| Mån
+Tue| Tis
+Wed| Ons
+Thu| Tor
+Fri| Fre
+Sat| Lör
+New Password Invalid.| Nytt lösenord ogiltigt
+New password must be 10 characters or less.| Det nya lösenorder måste vara 10 tecken eller mindre.
+New password must be numeric.| Det nya lösenorder måste vara numeriskt.
+New password and confirm password do not match.| Det nya lösenordet och bekräfta lösenord matchar ej.
+Error| Fel
+Are you sure you want to restart the phone?| Är du säker på att du vill starta om telefonen?
+This will restore the phone to default settings and cannot be undone.| Denna operation kommer att återställa telefonen till standardinställningar och kan ej ångras.
+This will remove the local configuration settings and cannot be undone.| Denna operation kommer att ta bort de lokala konfigurationsinställningarna och kan ej ångras.
+Continue| Fortsätt.
+Error: Intercom Settings| Fel: Snabbtel-inställningar
+Please enter a prefix code for server-side intercom.| Var god skriv in en prefix-kod för serversidans intercom.
+Value must be between| Värdet måste vara mellan
+and| och
+Invalid Setting:| Ogiltig inställning:
+Please select at least one state for softkey| Var god välj minst ett läge för softkey.
+DSCP value| DSCP-värde
+is mapped to multiple priorities.| är associerad med flera prioriteter.
+Please enter Admin name and password| Var god skriv in Admin-namn och lösenord.
+Please enter User name and password| Var god skriv in användarnamn och lösenord.
+Centralized Conference| Centraliserad Konferens
+Conference Server URI| Konferens Server URI
+UPnP device not found| UPnP-enhet ej hittad
+Ethernet| Ethernet
+Ethernet Link| Ethernet Länk
+Ethernet & VLAN| Ethernet & VLAN
+Link| Länk
+10M| 10M
+100M| 100M
+Unavailable| Otillgänglig
+Available| Tillgänglig
+Server Info| Server Info
+Unique ID:| Unikt ID:
+UPnP Mapping Lines| Associerade linjer UPnP
+Port Failed| Port felade
+Trying...| Försöker...
+Seize Failed| Ingen linje
+Missed Call Summary Subscription| Abonnemang Sammanställning av Missade Samtal
+Missed Call Summary Subscription Period| Abonnemangsperiod för Sammanställning av Missade Samtal
+AS-Feature-Event Subscription| Abonnemang AS-Händelse-Funktion
+AS-Feature-Event Subscription Period| Abonnemangsperiod för AS-Händelse-Funktion
+Goodbye Key Cancels Incoming Call| Nedkoppling -  Avbryter Inkommande samtal
+Address Incomplete| Adress ofullständig
+Admin Menu| Admin Meny
+IP&MAC Addresses| IP&MAC-adresser
+LAN Port| LAN Port
+PC Port| PC Port
+Set Audio| Ställ in Ljud
+Config. Server| Konfig. Server
+IP Address:| IP-adress:
+Error Messages| Felmeddelanden
+No Error Messages| Ingen Felinformation
+ Errors|  Fel
+ Error|  Fel
+Disabled| Inaktiverad
+LAN Port Link| LAN Port Länk
+PC Port Link| PC Port Länk
+RTP| RTP
+RTCP| RTCP
+Phone| Telefon
+Headset Mic Vol| Headset Mikr Vol
+TypeService SIP| TypTjänst SIP
+TypeService RTP| TypTjänst RTP
+TypeService RTCP| TypTjänstRTCP
+Authentic. Name| Namnverif.
+XML Beep Support| XML -ton Support
+Status Scroll Delay (seconds)| Status Scroll Fördröjning (sekunder)
+Backlight| Bakgrundsbelysn.
+Backlight| Bakgrundsbelysn.
+Display| Skärm
+Speed Dial Edit| Ändra Snabbval
+second| sekund
+seconds| sekunder
+Label| Etikett
+Message Waiting Indicator Line| Meddelande Väntar indikatorlinje
+Keypad Speed Dial| Knappsats för Snabbval
+Digit| Siffra
+Whitelist Proxy| Whitelist Proxy
+XML SIP Notify| XML SIP Rapport
+Custom Feature| Personlig funkt
+User ID:| Användar-ID:
+Local SIP UDP/TCP Port| Lokal SIP UDP/TCP Port
+Local SIP TLS Port| Lokal SIP TLS Port
+802.1x Support| 802.1x Support
+EAP Type| EAP Typ
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Identitet
+MD5 Password| MD5 Lösenord
+PC Port PassThru Enable/Disable| PC Port PassThru Aktiverad/Inaktiverad
+EAP-TLS Settings| EAP-TLS Inställningar
+EAP-MD5 Settings| EAP-MD5 Inställningar
+Enable PassThru Port| Aktivera PassThru
+PC Port Enabled\nYes| PC Port Aktiverad\nJa
+PC Port Disabled\nNo| PC Port Inaktiverad\nNej
+802.1x Settings| 802.1x Inställn.
+802.1x Mode| 802.1x Läge
+EAP-MD5 Settings| EAP-MD5 Inställningar
+EAP-TLS Settings| EAP-TLS Inställningar
+STUN Server| STUN Server
+STUN Port| STUN Port
+TURN Server| TURN Server
+TURN Port| TURN Port
+TURN User ID| TURN User ID
+TURN Password| TURN Lösenord
+Paging| Paging
+Streaming| Streaming
+Group Paging RTP Settings| RTP- inställningar för Grupp-Paging
+Paging Listen Addresses| Söker efter Lyssningsadresser
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| SIP-konto
+Backup Registrar Used?| Backup Registrator använd?
+Unregistered| Oregistrerad
+Registered| Registrerad
+SIP Status| SIP Status
+Server Error| Serverfel
+Swap| Byt
+LLDP\nEnabled| LLDP\nAktiverad
+LLDP\nDisabled| LLDP\nInaktiverad
+LLDP Support| LLDP Support
+Preferred line| Förvald linje
+Preferred line Timeout (seconds)| Förvald linje Time Out (sekunder)
+Invalid URI| Ogiltigt URI
+WebApps| WebAppl
+Watchdog| Övervakningstimer
+Speeddial/Conf| Snabbval/Konf
+Call is on Hold| Samtal Väntar
+No subscription| Inget abonnemang
+MDot1xFailedStartup| MDot1xFailedStartup
+802.1x Startup Failed| 802.1x Uppstart Misslyckades
+LLDP Startup Failed| LLDP Uppstart Misslyckades
+Failed to config Line Manager| Misslyckad konfig av Line Manager
+Line in use| Linjen används
+Get Crash Log| Få Crash Log
+Time Unavailable| Tid otillgänglig
+Packetization Interval| Tidsintervall mellan paketen
+Basic| Codec grundinställningar
+Note: Basic Codecs Include| OBS: Codecs grundinställningar inkluderar
+Default| Grund
+Not Configured| Ej konfig
+America| Amerika
+Asia| Asien
+Atlantic| Atlatic
+Pacific| Pacific
+Australia| Australien
+Europe| Europa
+Malaysia| Malaysia
+Invalid Setting| Ogiltig Inställning:
+Must not be empty| Måste vara tom
+Must be a valid number| Måste vara ett giltigt nummer
+Must be a nonzero number| Får inte vara tal förutom 0
+Not in range| Fel storlek
+Invalid Hostname| Ogiltigt värdnamn
+802.1x Failed| 802.1x-fel
+Admin Password:| Adminlösenord:
+Voicemail| Röstbrevlåda
+Voicemail| Röstbrevlåda
+HTTPS Failed| HTTPS-fel
+LLDP Failed| LLDP-fel
+TR69 connect Err| TR69-fel
+Downloading Language Packs| Laddar ner språk
+Please Wait...| Var god vänta...
+to edit| att editera
+Cfg Svr Failure| Konfig serverfel
+Lines| Linjer
+LDAP Directory| LDAP Databas
+Ldap Directory| Ldap Databas
+Item| Post
+item| post
+Certificate Revoked| Certifikat Återkallad
+Certificate Unknown| Certifikat okänt
+Delete entire| Radera Poster
+LDAP Search Filter| 
+Ldap Search Filter| 
+LDAP Server| 
+Ldap Server| 
+Certificate Expired| Certifikat Utgått
+Unsupported Certificate| Inget support för detta Certifikat
+No Certificate| Inget Certifikat
+Options List| Inställnings Meny
+Directory?| Telefonbok?
+Work| Arbete
+No available lines| Inga lediga linjer
+Search| Sök
+Ldap Base DN| 
+items| poster
+Spddial| Snabbval
+Ldap Number Attributes| Ldap Nummer Attributes
+Ldap Max Hits| Ldap Max Hit
+Ldap Settings| Ldap Inställningar
+Ldap Name Attributes| Ldap Namn Attributes
+Timezone zoneAmerica| Tidzon ZoneAmerika
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curaçao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaína
+BR-Belem| BR-Belém
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiabá
+BR-Eirunepe| BR-Eirunepé
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceió
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Saõ Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlanten
+CA-Central| CA-Centrala
+CA-Eastern| CA-Östra
+CA-Mountain| CA-Mountain
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Västra
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Östra
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogotá
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havanna
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Caymanöarna
+LC-St Lucia| LC-Saint Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancún
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlán
+MX-Merida| MX-Mérida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asunción
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleuterna
+US-Central| US-Centrala
+US-Eastern| US-Östra
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mountain
+US-Pacific| US-Västra
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Peking
+CY-Nicosia| CY-Nicosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hongkong
+JP-Tokyo| JP-Tokyo
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamtjatka
+RU-Krasnoyarsk| RU-Krasnojarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sachalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Jakutsk
+RU-Yekaterinburg| RU-Jekaterinburg
+SA-Saudi Arabia| SA-Saudiarabien
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taibei
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Kanarieöarna
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Färöarna
+GS-South Georgia| GS-Sydgeorgien
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azorerna
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howeön
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmanien
+Timezone zoneEurope| 
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirane
+AT-Vienna| AT-Wien
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Bryssel
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zürich
+CZ-Prague| CZ-Prag
+DE-Berlin| DE-Berlin
+DK-Copenhagen| DK-Köpenhamn
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsingfors
+FR-Paris| FR-Paris
+GB-Belfast| GB-Belfast
+GB-London| GB-London
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Aten
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rom
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxemburg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Kisjinjov
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Warsawa
+PT-Lisbon| PT-Lissabon
+RO-Bucharest| RO-Bukarest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moskva
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Stockholm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatikanstaten
+YU-Belgrade| YU-Belgrad
+Timezone zonePacific| 
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| NR-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chathamöarna
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Aktiv Knappsats
+1h    summertime| 1 tim sommartid
+Link Down| Link Down
+Slovakia| Slovakien
+Cfg. Svr.| Cfg.Server
+Custom| Kund
+HPQ Enable| HPQ aktivering
+Checking For Firmware| Söker programvara
+Firmware Check| Kontroll programvara
+Speeddial/MWI| Snabbval/MWI
+Handset| Handtag
+WBand RX Filters| WBand RX Filter
+HS Setting1| Handtag-värden1
+HS Setting2| Handtag-värden2
+HS Setting3| Handtag-värden3
+HS Setting4| Handtag-värden4
+Spkr Setting1| Högtalr-värden1
+Spkr Setting2| Högtalr-värden2
+Spkr Setting3| Högtalr-värden3
+Spkr Setting4| Högtalr-värden4
+Hold Failed| Parkera Misslyckades
+Can not save record without number| Kan inte spara utan nummer
+Feature Name| Funktionsnamn
+Source| Källa
+License File| Licensfil
+SW Version Restrictions| Mjukvara Restriktioner
+Unlimited| Obegränsat
+Expiration| Upphör
+Upgrade| Uppgradera
+License Server| Licensserver
+License Info| Licensinformation
+License PBX| Licens PBX
+Voice Recording| Röstinspelning
+BLF List Subscription Period| BLF Lista Abonnemangsperiod
+Conf Failed| Konf. Misslyckades
+Push| Tryck
+Forward Filtering| Filtrering för vidarekoppling
+OUT| Ute
+Opt Status| Alternativstatus
+Filter| Filter
+Filtering| Filtrering
+Executives| Verkställande
+IN| In
+Divert| Vidarekoppling
+Divert to Number| Vidarekopplad till Nummer
+ Enter Unlock Password| Ange låsa upp lösenord
+ Enter Administrator Password| Ange Adminlösenordet
+Today| Idag
+Yesterday| Igår
+Two Days Ago| Två Dagar Sedan
+Three Days Ago| Tre Dagar Sedan
+Four Days Ago| Fyra Dagar Sedan
+Five Days Ago| Fem Dagar Sedan
+Six Days Ago| Sex Dagar Sedan
+Last Week| Förra Veckan
+Two Weeks Ago| Två Veckor Sedan
+Three Weeks Ago| Tre Veckor Sedan
+Last Month| Förra Månaden
+Older| Äldre
+Monday| Måndag
+Tuesday| Tisdag
+Wednesday| Onsdag
+Thursday| Torsdag
+Friday| Fredag
+Saturday| Lördag
+Sunday| Söndag
+Upload Sys Info| Laddar Sys info
+Cfwd State| VIDARE Status
+Cfwd Number| VIDARE nr
+Cfwd Mode| Vidarekoppling
+Set| Sätt
+#Confirm| #Bekräfta
+Call held| Samtal väntar
+Calls held| Parkerat
+Apply Changes?| Ändra?
+Dialpad| Knappsats
+Edit| Redigera
+Quit| Avsluta
+Directory Empty| Inga kontakter
+Saved Memory key| Minnesknapp
+Speaker volume  | Högtalarvolym  
+Handset volume  | Handtagsvolym  
+Headset volume  | Headset volym  
+Ringer volume   | Ringvolym   
+Enter Number:| Ange Nummer:
+Full 10Mbps| Full 10Mbps
+Full 100Mbps| Full 100Mbps
+Full 1000Mbps| Full 1000Mbps
+Half 10Mbps| Halv 10Mbps
+Half 100Mbps| Halv 100Mbps
+Half 1000Mbps| Halv 1000Mbps
+Delete All| Radera Alla
+Erase Local Configuration?| Radera lokal konfig.
+Audio| Ljud
+Application| Applikation
+NAT| NAT
+DSCP| DSCP
+User| Användare
+802.1x| 802.1x
+Enter Date (m/d/y):| Ange datum (m/d/å)
+Brightness Timer| Ljusstyrka - Timer
+Brightness Level| Ljusstyrka
+Level 1| Nivå 1
+Level 2| Nivå 2
+Level 3| Nivå 3
+Level 4| Nivå 4
+Level 5| Nivå 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Linje: %d
+Line %d: %s| Linje %d: %s
+Invalid %s (%d to %d)| Ogiltig %s (%d to %d)
+Sys Info| Sys Info
+keypad| Knappsats
+Login| Logga in
+Seized| Taget
+Active| Aktiv
+Held| Väntar
+Ringing| Ringer
+Park Failed| Parkering Misslyckades
+Canada| Kanada
+Press a contact button on the left to view contact information.| Tryck på kontaktknappen till vänster för att se kontaktinformationen
+Press a contact button to view contact info.| Tryck på kontaktknappen för att se kontaktinformationen
+No info available. Please press a contact button.| Ingen information tillgängligt. Tryck på en kontaktknapp
+Set Date and Time| Sätt Datum/Tid
+Ethernet Ports| Ethernet Port
+Call Server| TelefoniServer
+Use Network Time| Andvänd NTP Server
+Speed Dial Key %d| Snabbval Knapp %d
+%d/%d records| %d/%d post
+%d days stored| %d dagar sparad
+1 day stored| 1 dag sparad
+Upload System Info Files?| Ladda Upp System Info Filer ?
+Entries Saved| Post Sparad
+Storage| Lagring
+IP and gateway are equal| IP och Gateway är lika
+IP gateway subnet mismatch| IP Gateway subnät felande
+Bridge active| Brygga Aktiv
+Please enter a number| Var god ange ett nummer
+Deleted| Borttagen
+No Matches Found| Inga resultat hittades
+Name| Namn
+Contact already exists| Kontakt finns redan
+Left Softkey %d| Vänster Softkey %d
+Bottom Softkey %d| Underknappar %d
+New Call| Nytt samtal
+All Accounts| Alla konton
+Exp. Mod. %d Key %d| Exp. Mod. %d Key %d
+Add Num| Nytt nr.
+Diverted to: | Vidarekopplad Till:
+No lines are configured| Inga linjer är konfigurerade
+"Dot ""."""| Punkt "."
+Mode %d| Läge %d
+Top Softkey %d| Övre Softkey %d
+Home Screen Mode| Hemskärm Läge
+Screen Saver Timer| Skärmsläckar Tid
+Home Screen| HemSkärm
+Cannot add new number. Limit reached.| Kan ej addera nya nummer, Max uppnått
+Key is already programmed for functionality in a non-idle state| Knapp redan programmerad för funktion
+Please enter a name| Var god ange namn
+Top Softkeys| Övre Softkeys
+Left Softkeys| Vänster Softkey
+Bottom Softkeys| Nedre Softkey
+Brightness| Ljusstyrka
+Speed Dial 8| Snabbval 8
+A filename-related error occurred. Rename the specified file and try again.| Ett filnamnsrelaterat fel inträffade. Byt namn på den angivna filen och försök igen.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Ett HTTP-relaterat fel inträffade. Försök igen (eller starta om telefonen om det här felet har inträffat tidigare).
+A system-related error occurred. Please restart the phone and try again.| Ett system-related fel uppkom, var god starta om Telefonen och prova på nytt
+Xsi Enterprise Directory| Xsi Enterprise kontaktlista
+Xsi Personal Contacts| Xsi personliga kontakter
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Fax
+By First Name| Med Förnamn
+By Last Name| Med Efternamn
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Ingen ledig plats
+City| Stad
+Corporate| Företag
+Country| Land
+Custom Ringtones| Egen Rington
+Delete %s from %s?| Ta Bort %s från %s?
+Delete all entries in %s?| Ta bort alla poster i %s?
+Directory import failed| Import Av Telefonboken misslyckade
+Directory loading| Ladda Telefonboken
+Directory not available at this time| Telefonboken ej tillgänglig just nu
+Display Name Order| Visningsnamn ordning
+Name Order| Visningsnamn ordning
+Edit Details| Ändra Uppgifter
+Email| E-Post
+Email 1| E-Post 1
+Email 2| E-Post 2
+Email 3| E-Post 3
+Enabled also in call| Aktiverad även under samtal
+Enterprise Directory| Företag
+Exchange Contacts| Exchange Kontakt
+Explicit| Explicit
+External Sources| Extern Källa
+Failed to retrieve contact details| Kan ej hämnta kontakt informationen
+First Last| Först Sist
+First name| Förnamn
+Home 1| Hem 1
+Home 2| Hem 2
+Home Address| Hemadress
+Implicit| Implicit
+Invalid Subscription Time| Ogiltig prenumerationstid
+Job Title| Titel
+LDAP| LDAP
+Last%c First| Sist%c Först
+Last First| Sist Först
+Last Name| Efternamn
+Local| Lokal
+Microsoft Exchange| Microsoft Exchange
+Mobile| Mobil
+New Contact| Ny Kontakt
+Numbers| Nummmer
+Organization| Organisation
+Other| Annat
+Personal| Personlig
+Personal Contacts| Personlig Kontakt
+Province/State| Kommun / Län
+Request Failed| Förfrågan felade
+Sorting Preferences| Sorting Ordning
+Sorting| Sorting Ordning
+Street Address| Gatu Adress
+Test| Test
+Test Connection| Test Koppling
+The phone does not have enough space to store this file.| Telefonen har inget lagringsutrymme för att spara denna fil
+The specified file is too large. Each file cannot exceed 1 MB in size.| Denna specifika fil är för stor. Varje fil kan inte vara större än 1 MB.
+UA-Profile-Event Subscription| UA-Profile-Event-abonnemang
+UA-Profile-Event Subscription Period| UA-Profile-Event-abonnemangsperiod
+Undefined| Odefinerad
+Work 1| Arbete 1
+Work 2| Arbete 2
+Work Address| Arbetsadress
+Zip/Postal Code| Postkod
+Credentials| Referenser
+Enable/Disable| Aktivera/Inaktivera
+Labels| Etikett
+Ringtone files must be in WAV format| Rington filen måste vara i WAV format
+Copy| Kopiera
+Add New| Skapa Ny
+ALU SCA| ALU SCA
+Accessory Info| Tillbehörsinformation
+Add| Ny
+Alerting| Larma
+Delete selected item or delete all items?| Ta bort markerad kontakt eller ta bort alla kontakter?
+DialingIn| Ringa In
+DialingOut| Ringa Ut
+Disconnecting| Nerkoppla
+Enter First Name| Skriv in Förnamn
+Enter Last Name|  Skriv in Efternam
+Enter Number| Ange Nummer
+Enter Password>| Tryck Lösenord>
+Enter Username>| Tryck Andvändarnamn
+Enterprise Dir.| Företaget Telefonbok
+Exp. Mod. 1 Version| Exp. Läge 1 Version
+Exp. Mod. 2 Version| Exp. Läge 2 Version
+Exp. Mod. 3 Version| Exp. Läge 3 Version
+Get user.cfg| Hämta user.cfg
+Get user_local.cfg| Hämta user_local.cfg
+Keyboard Version| Tangentbordsversion
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| 
+Pending| Pendla
+Phone Info| Telefon Info
+Please Login| Var god logga in
+Please select a file to upload| Välj Fil Att Ladda Upp
+Saved| Sparad
+Unmute| Sekretess Av
+Line 11| Linje 11
+Line 12| Linje 12
+Line 13| Linje 13
+Line 14| Linje 14
+Line 15| Linje 15
+Line 16| Linje 16
+Line 17| Linje 17
+Line 18| Linje 18
+Line 19| Linje 19
+Line 20| Linje 20
+Line 21| Linje 21
+Line 22| Linje 22
+Line 23| Linje 23
+Line 24| Linje 24
+Line 25| Linje 25
+Client Method| Klientmetod
+#Edit| #Redigera
+#Copy| #Kopiera
+Action forbidden| Åtgärden är inte tillåten
+Action not supported| Åtgärden stöds ej
+ Additional Settings|  Ytterligare inställningar
+ Barge-In|  Inbrytning
+Congestion| Överbelastning
+Discreet| Diskret
+Discreet Ringing| Diskret ringsignal
+Executives list is empty| Chefslistan är tom
+Extension not registered| Anknytningen är inte registrerad
+Internal error| Internt fel
+Invalid Password| Ogiltigt lösenord!
+Invalid forwarding number| Ogiltig vidarekopplingsnummer
+ Listen|  Lyssna
+ Normal|  Normal
+Phone not registered| Telefonen är inte registrerad
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Genom att trycka på funktionsknapparna för Tyst, växlas inbrytningstonen på/av.
+Prv| Privat
+Pub| Pub
+Record not found| Post hittades inte
+SCAP-Bridged| SCAP-bryggad
+SCAP-Held| SCAP-hanterad
+ Select Barge-In Mode|  Välj Bryt in-läge
+ UA-Profile-Event Subscription Period|  UA-Profile-Event-abonnemangsperiod
+Unique ID| Unikt ID
+ Whisper|  Viskning
+Missed Calls| Obesvarade samtal
+Silence| Tyst
+As-Feature-Event Subscription| Abonnemang As-Händelse-Funktion
+As-Feature-Event Subscription Period| Abonnemangsperiod för As-Händelse-Funktion
+Feature-Status-Exchange Subscription| Funktion-Status-Exchange Prenumeration
+Feature-Status-Exchange Subscription Period| Funktion-Status-Exchange Prenumerationsperiod
+Action superseded by a previous command| Åtgärden ersattes av ett tidigare kommando
+Attendant| Assistent
+BLF Privacy| BLF-sekretess
+BLF Privacy Key Mode| Läge för BLF-sekretessnyckel
+Feature not configured| Funktionen är inte konfigurerad
+Forward Type| Typ av vidarekoppling
+Live Keyboard| Aktivt tangentbord
+Not assigned| Inte tilldelad
+PIN| PIN
+Pin Required| PIN-kod krävs
+Privacy| Privat
+Privacy On| Sekretess aktiverad
+Restart | Starta om
+Capture| Lagra
+Get capture file| Hämta sparad fil
+Mute All| Stäng av allt ljud
+No Participant| Ingen deltagare
+Private Call| Privat samtal
+Start| Starta
+Stop| Stoppa
+TLS Preferred| Föredragen TLS
+Timeout| 
+Unmute All| Slå på allt ljud
+Speeddial/Mwi| Snabbval/MWI
+Phone will restart automatically after finishing.| Telefonen startar om automatiskt...
+Idle| I vila
+CFWD Filtering| CFWD-filtrering
+Volume| Volym
+DTMF| DTMF
+All Accounts| Alla
+Outgoing| Utgående
+Call History is Empty| Samtalshistoriken är tom
+No Outgoing Calls| Inga utgående samtal
+No Missed Calls| Inga missade samtal
+No Received Calls| Inga mottagna samtal
+Received| Mottagna
+Missed| Missade
+Screenshot| Skärmbild
+Xsi Enterprise Common Directory| Xsi Enterprise gemensam kontaktlista
+Enterprise Common Directory| Gemensam företagskatalog
+Enterprise Common Dir.| Enterprise gemensam kontaktlista
+Xsi Group Directory| Xsi gruppkontakter
+Group Directory| Gruppkatalog
+Xsi Group Common Directory| Xsi gemensam kontaktlista
+Group Common Directory| Gemensam gruppkatalog
+Call Settings| Samtalsinställningar
+%s Call Settings| %s samtalsinställningar
+Hide Number| Dölj nummer
+Xsi Password Not Configured| Xsi-lösenordet är inte konfigurerat
+Xsi User Not Configured| Xsi-användaren är inte konfigurerad
+Xsi Authentication Failure| Xsi-autentiseringen misslyckades
+Xsi File Not Found| Xsi-filen hittades inte
+Xsi Invalid URI| URI:n för Xsi är ogiltig
+Xsi Invalid Download Configuration| Ogiltig hämtning av konfiguration för Xsi
+Call History| Samtalshistorik
+Bluetooth| Bluetooth
+Scan| Söka
+Timeout [1..168 h]| Tidsgräns (1..168 timmar)
+Paired Devices| Ihopparade enheter
+Available Devices| Tillgängliga enheter
+Swipe the toggle switch to the right to enable Bluetooth| Dra omkopplaren åt höger för att aktivera Bluetooth
+Pairing| Para ihop
+Connecting| Ansluter
+Device| Enhet
+No paired devices| Inga ihopparade enheter
+Connection successful| Anslutningen har upprättats
+Connection failed| Anslutningen misslyckades
+Disconnection successful| Frånkopplad
+Disconnection failed| Frånkopplingen misslyckades
+Pairing failed| Lyckades ej ansluta        
+Operation failed| Åtgärden misslyckades
+Connected| Ansluten
+Retry| Upprepa
+Do you want to forget this device?| Vill du glömma den här enheten?
+Close| Stäng
+Enabling Bluetooth...| Aktiverar Bluetooth...
+Disabling Bluetooth...| Inaktiverar Bluetooth...
+Connecting...| Ansluter...
+Disconnecting...| Nerkoppla...
+Boot| Boot
+App| Applikation
+USB disabled. Insufficient power for current configuration.| USB inaktiverad. Otillräcklig ström för nuvarande konfiguration.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Den angivna filen uppfyller inte specifikationerna för ringsignaler som krävs för telefonen. Se användarhandboken om filkrav för ringsignaler.
+%d/%d| %d/%d
+%d days| %d dagar
+1 day| 1 dag
+System Messages| Systemmeddelanden
+Authorization Canceled| Auktorisering avbruten
+Crash Logs| Kraschloggar
+Warning - All entries in %s will also be deleted| Varning – alla poster i %s tas också bort
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Ringsignal
+Identity| Identitet
+Extension| Anknytning
+Address| Adress
+Server Error| Serverfel
+Use Global Ring Tone| 
+Standard Ring Tone| Standard-ringsignal
+Hide Number| Dölj nummer
+Remote Office| Arbeta på distans
+Remote Office| Arbeta på distans
+Phone Number/SIP-URI| Nummer/SIP-URI för telefon
+Simultaneous Ring Personal| Samtidig personlig ringning
+Simultaneous Ring| Samtidig ringning
+Do Not Ring if on a Call| Ring inte vid samtal
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Num/SIP-URI för telefon
+Alt Num/SIP-URI| Alternativt nummer/SIP-URI
+Ring for all Incoming Calls| Ring för alla inkommande samtal
+Invalid Number or SIP-URI| Ogiltigt nummer eller SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Antal portaler
+Alert Locations for Click-To-Dial| Ange platser för Click-to-Dial
+Alert Locations for Group Paging| Ange platser för personsökningsgrupp
+Phone Number| Telefonnummer
+Description| Beskrivning
+Alternate Number| 
+Call Control| Samtalskontroll
+Diversion Inhibitor| Begränsning av omstyrning
+Answer Confirmation| Svarsbekräftelse
+Xsi Server Not Found| Xsi-servern hittades inte
+Xsi Invalid Input| Ogiltig inmatning för Xsi
+Call Center| Kontaktcenter
+Presence| Närvaro
+My Status| Min status
+Contacts| Kontakt
+Favorite| Favorit
+Available| Tillgänglig
+Eager to Chat| Chattvänlig
+Busy| Upptagen
+Away| Borta
+Extended Away| Utökad Borta
+Offline| Offline
+Unknown| Okänd
+Enter custom presence text here...| Ange anpassad närvarotext här...
+Status| Status
+Custom| Personlig
+Favorites| Favoriter
+All Contacts| Alla kontakter
+No contact in folder| Ingen kontakt i mapp
+No phone number| Inget telefonnummer
+No contact| Ingen kontakt
+Contact list currently not available| Kontaktlistan är för närvarande inte tillgänglig
+Contact| Kontakta
+Contact| Kontakta
+Connection to server failed| Serveranslutningen misslyckades
+Configuration error| Konfigurationsfel
+Authentication error| Autentiseringsfel
+Connection to server lost| Anslutningen till servern har förlorats
+Mobile| Mobil
+Connect| Anslut
+%s disconnected| %s frånkopplad  
+%s connected| %s ansluten
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| Det gick inte att inaktivera Bluetooth
+Failed to enable Bluetooth| Det gick inte att aktivera Bluetooth
+M685i: New Firmware. Do not unplug phone!| M685i: Ny mjukvara. Koppla ej ur telefonen!
+.| .
+Static Settings| Statiska inställningar
+Port Mirroring| Portspegling
+Audio Feedback| Ljudåterkoppling
+Audio Path| Ljudväg
+Button Beep| Knappljud
+Error Beep| Felsignal
+Made| Ringt
+To my prime line| Till huvudlinje
+To any appearance| Till valfritt utseende
+Display Call Info| Visa samtalsinformation
+Always| Alltid
+Busy Internal| Upptagen – Internt
+Busy External| Upptagen – Externt
+No Answer Internal| Inget svar –  Internt
+No Answer External| Inget svar –  Externt
+Copy to All?| Kop. till Alla?
+Loading...| Läser in ...
+Password Changed| Lösenord ändrat
+Restore Default| Återställ standardvärde
+Restore Default| Återställ standardvärde
+Enter Again| Ange igen
+Erase| Radera
+Set All| Ställ in alla
+VLAN Settings| VLAN-inställning
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Avancerad
+Phonebook| Telefonbok
+Update| Uppdatera
+Copyright| Copyright
+Pause| Paus
+Incorrect password| Felaktigt lösenord
+Please input duration between 1 to 1440 minutes| Ange varaktighet mellan 1 och 1440 minuter
+Level 0| Nivå 0
+Static Network Settings| Statiska nätverksinställningar
+Enter| Ange
+Reset Configuration?| Återställ konfiguration?
+TCP DUMP| TCP DUMP
+minutes| minuter
+IP and gateway have to be on the same subnet| IP och gateway måste finnas i samma subnät
+Timeout (1-1440 Minutes)| Tidsgräns (1–1440 minuter)
+Timeout (1-5 Minutes)| Tidsgräns (1–5 minuter)
+Call Server IP Address| IP för samtalsserver
+TFTP Server IP Address| IP för TFTP-server
+IPA IP Address| IP-adress för IPA
+Ping| Ping
+Test POE| Testa POE
+Host Name or IP Address| Värdnamn eller IP-adress
+Please enter a valid HostName/IP Address| Ange ett giltigt värdnamn/en giltig IP-adress
+Pinging %s...| Pingar %s...
+Add Contact| Lägg till kontakt
+Cannot dial a private number| Det går inte att ringa upp ett privat nummer
+Delete all contacts from %s?| Vill du ta bort alla kontakter från %s?
+Search contacts| Sök efter kontakter
+CDP Settings| CDP-inställningar
+Current Network Settings| Nuvarande nätverksinställningar
+VLAN Id| VLAN ID
+DSCP Default| DSCP – standard
+DSCP Voice| DSCP – röst
+DSCP Signaling| DSCP – signal
+DSCP Other| DSCP – annat
+L2P Default| L2P – standard
+L2P Voice| L2P – röst
+L2P Signaling| L2P – signaler
+L2P Other| L2P – annat
+Modify PIN| Ändra PIN
+Registering...| Registrering...
+Erase PIN| Ta bort PIN
+Erase PIN?| Vill du ta bort PIN?
+Duration| Längd
+Details| Uppgifter
+First Name| Förnamn
+Home| Hem
+People| Människor
+Contacts - Add New| Kontakter – Lägg till ny
+Work| Arbete
+Entry copied to| Uppgift kopierad till
+Settings - Bluetooth| Inställningar – Bluetooth
+Bluetooth| Bluetooth
+Screen Saver| Skärmsläckare
+Dimmer Level| Dimmernivå
+Paired| Ihopparning
+Press the Turn On softkey to enable Bluetooth| Tryck på Aktivera för att aktivera Bluetooth
+Connected successfully| Ansluten
+Directory is full| Rymms ej!
+Directory full| Rymms ej!
+Do you want to connect this device?| Vill du ansluta den här enheten?
+Do you want to disconnect this device?| Vill du koppla från den är enheten?
+Connect| Anslut
+%s audio connected| Ljud för %s är anslutet
+%s audio connection failed| Ljudanslutningen för %S misslyckades
+Pair with %s\nPairing code - %06ld| Para ihop med %s\nIhopparningskod – %06ld
+Do you want to get the device's contacts?| Vill du ha enhetens kontakter?
+Retrieving contacts...| Hämtar kontakter...
+Contacts retrieved successfully| Kontakterna har hämtats
+Phonebook retrieval unavailable| Det gick inte att hämta telefonboken
+ Failed to retrieve contacts|  Det gick inte att hämta kontakterna
+Ongoing Call| Samtal pågår
+Scan| Söka
+Stop| Stoppa
+Close| Stäng
+Press scan to find a device| Tryck på sök för att hitta en enhet
+Please Wait. Scanning for nearby devices| Vänta. Söker efter närliggande enheter
+Connect Automatically| Anslut automatiskt
+Pairing ...| Parar ihop ...
+Successfully paired| Har parats ihop korrekt
+Unable to pair with the device| Det gick inte att para ihop enheterna
+Does the passkey match?| Stämmer lösenordet?
+Unpair| Ta bort ihopparning
+Bluetooth is currently off.| Bluetooth är avstängt.
+Turn Off| Stäng av
+Turn On| Sätt på
+Sorry! Unable to turn Bluetooth on. | Tyvärr Det gick inte att aktivera Bluetooth. 
+Sorry! Too many devices paired.| Tyvärr För många ihopparade enheter.
+Only one Handset can be paired to a phone| Endast en handenhet kan paras ihop med en telefon
+Forget| Glöm
+Unknown Caller| Okänt nummer
+Answer| Svara
+Decline| Avböj
+Push Call| Skicka smt
+End Call| Avsl. samt.
+Caller| Uppringare
+Disconnect| Koppla från
+Capturing ...| Lagrar...
+Speaker| Högtalare
+Headset| Headset
+Ringer| Ringsignal
+Internal Ring| Intern ringsignal
+External Ring| Extern ringsignal
+Classic 1| Klassisk 1
+Classic 2| Klassisk 2
+Classic 3| Klassisk 3
+Classic 4| Klassisk 4
+Classic 5| Klassisk 5
+Classic 6| Klassisk 6
+Classic 7| Klassisk 7
+Classic 8| Klassisk 8
+Classic 9| Klassisk 9
+Classic 10| Klassisk 10
+Call Notification| Samtalsmeddelande
+Config Teleworker| Konfig Teleworker
+Diagnostics| Diagnostik
+MinetDump| MinetDump
+Float Keys| Flytnycklar
+Network Services| Nätverkstjänster
+DHCP Trace| DHCP-spårning
+Firewall Settings| Brandväggsinställningar
+Wi-Fi| Wi-Fi
+Port Info| Portinfo
+Phone Info| Telefon Info
+Error Message| Felmeddelande
+Current Call Server IP Address| IP-adress för aktuell samtalsserver
+TFTP Server Port| TFTP-serverport
+Primary DNS| Primär DNS
+Secondary DNS| Sekundär DNS
+Call Server1 IP Address| IP för samtalsserver1
+Call Server2 IP Address| IP för samtalsserver2
+Call Server3 IP Address| IP för samtalsserver3
+Call Server4 IP Address| IP för samtalsserver4
+DHCP Status| DHCP-status
+T1 (Seconds)| T1 (sekunder)
+T1 Left (Seconds)| T1 återstående (sekunder)
+T2 (Seconds)| T2 (sekunder)
+T2 Left (Seconds)| T2 återstående (sekunder)
+LAN Port Speed| Hastighet för LAN-port
+LAN Port Duplex| Duplex för LAN-port
+PC Port Speed| Hastighet för PC-port
+PC Port Duplex| Duplex för PC-port
+Model| Modell
+Call Server Rev.| Samtalsserverrev.
+Main Version| Huvudversion
+802.1x| 802.1x
+Password| Lösenord
+Save to Confirm or Cancel to Revert| Spara för att bekräfta eller avbryt för att återgå
+Hardware Rev.| Maskinvarurev.
+Change| Ändra
+Change Password| Ändra lösenord
+Confirm Password| Bekräfta lösenord
+ Blank|  Tom
+ Wrong|  Fel
+ Passwords don't match.|  Lösenorden överensstämmer inte.
+No Link| Olänkad
+Half-Duplex| Halv duplex
+Full_Duplex| Full_duplex
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nMed ensamrätt.
+Proxy Logoff| Proxy-utloggning
+No Network| Inget nätverk
+Contacting Server| Kontaktar servern
+Private| Privat
+Miscellaneous| Diverse
+Programmable Key| Programmerbar tangent
+Speed Call| Snabbuppringning
+Other Features| Andra funktioner
+Account Code Verified| Kontokoden har verifierats
+Acct Verified| Kont. verifierat
+Call Forward Always| Automatiskt svar
+Fwd Always| Vkpl. alltid
+Do Not Disturb| Var god stör ej
+Phone Lock| Telefonlås
+Account Code Non Verified| Kontokoden har inte verifierats
+Acct Non-Ver| Kont. ej ver.
+Name or Number is empty| Namnet eller numret är tomt
+Label Name| Etikettnamn
+Rename| Byt namn
+Rename this device| Byt namn på enheten
+PKM version| PKM-version
+Department| Avdelning
+Location| Plats
+Softphone| Programvarutelefon
+My Phone| Min telefon
+More ...| Mer...
+Restart| Starta om
+Key is Programmed| Knapp programmeras
+Advanced XML| Avancerad XML
+Too many answers - Refine your search| För många svar – Förfina sökningen
+%s Search| % Söka
+Searching| Söker
+Server not configured| Servern har inte konfigurerats
+SimRing| Samtidig ringning
+Phone No/SIP-URI Not Configured| Telefonnummer/SIP-URI är inte konfigurerat
+ Xsi Server Update Failed|  Xsi-serveruppdatering misslyckades
+Call Settings| Samtalsinställningar
+Missing Config| Saknar konfiguration
+Deflect| Vidarekoppling
+AnswerIcom| Svarsikon
+In a call| Upptagen i samtal
+Chats| Chattar
+Chat| Chatt
+Send| Skicka
+Delete all chat sessions?| Ta bort alla chattsessioner?
+Delete chat session with %s?| Ta bort chattsessioner med %s?
+No active chat session| Ingen aktiv chattsession
+Push Notifications| Pushmeddelanden
+Sound| Ljud
+Bluetooth| Bluetooth
+Chat| Chatt
+%s is typing...| %s skriver...
+Last message received %s at %s| Senaste meddelandet togs emot %s vid %s
+Last message received while offline| Senaste meddelandet togs emot offline
+now| nu
+%ld secs ago| %ld sek sedan
+1 min ago| 1 min sedan
+%ld mins ago| %ld minuter sedan
+1 hour ago| 1 timme sedan
+%ld hours ago| %ld timmar sedan
+yesterday| igår
+%ld days ago| %ld dagar sedan
+while offline| medan offline
+Can't talk right now. I'll call you later.| Kan inte prata nu. Jag ringer dig senare.
+On another call| Sitter i ett annat samtal
+I'll call you back| Jag ringer tillbaka
+Call me back in 10 minutes| Ring upp mig om 10 minuter
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Personlig...
+Message to %s| Meddelande till %s
+Cancel - No message sent| Avbryt – Inget meddelande har skickats
+Chat Messages| Chattmeddelanden
+Reject Call Message Configuration| Konfiguration för att avvisa röstmeddelande
+Message| Meddelande
+Server Failure| Fel på server
+Use ^v to view| ^v Visa
+Answer| Svara
+Log Issue| Ange problem
+Logging Issue| Loggningsproblem
+Administrator access is disabled| Administratörsåtkomst är avaktiverad
+Please input a duration between 1 and 1440 minutes| Ange en varaktighet mellan 1 och 1440 minuter
+Please input a duration between 1 and 5 minutes| Ange en varaktighet mellan 1 och 5 minuter
+Teleworker Settings| Inställningar för Teleworker
+Invalid TFTP Port| Ogiltig TFTP-port
+Cannot copy a private number| Kan inte kopiera privat nummer
+Search Corporate| Sök inom företaget
+Warning| Varning
+Configuration changes detected\nApplication must be closed| Konfigurationsändringar upptäcktes\nApplikationen måste stängas
+Desktop Portal URL| URL till portalen
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| EAP-typ
+Phone Numbers| Telefonnummer
+ Max Exceeded|  Max överskridet
+Press "%s" key to search corporate contacts| Tryck på "%s"-tangenten för att söka efter en företagskontakt
+Too many answers\nRefine your search| För många svar\nFörfina sökningen
+Not available\nConfiguration error| Inte tillgänglig\nKonfigurationsfel
+DHCP Trace information is not available| DHCP Spårningsinformation är inte tillgänglig
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| En IP-konflikt upptäcktes
+Do you want to save this IP?| Vill du spara denna IP?
+Max allowed Number length is 26| Högsta tillåtna längd är 26
+Enabling DHSG Headset...| Aktiverar DHSG-headset...
+Disabling DHSG Headset...| Avaktiverar DHSG-headset...
+Enter name| Ange Namn
+Lastname Firstname| Efternamn Förnamn
+Call History currently not available| Samtalshistorik är inte tillgänglig för närvarande
+Audio Diagnostics| Ljud-diagnostik
+Avatars| Avatarer
+Request timed out| Timeout för begäran
+Complete ...| Slutförd...
+Collecting Logs ...| Samlar in loggar...
+Pass Thru Port| Pass Thru Port
+Page Expired. Please reload the page.| Sidan har upphört att gälla. Läs in sidan igen.
+Application busy. Please try again later.| Programmet är upptaget. Försök igen senare.
+User ID required| Användar-ID krävs
+Directory file must be in WAV format| Kontaktfilen måste vara i wav-format
+Local Directory Upload| Ladda upp lokala kontakter
+Upload failed - Too many records detected in csv file| Uppladdningen misslyckades – för många poster hittades i csv-fil
+Upload failed - No record detected in csv file| Uppladdningen misslyckades – inga poster hittades i cvs-fil
+Upload performed - %d records created| Uppladdningen utförd – %d poster skapade
+minutes| minuter
+User ID| Användar-ID
+Any PBX| Alla PBX
+Screen Mode| Skärmläge
+Show Picture| Visa bild
+Request timed out| Begäran har överskridit tidsgränsen
+No Mobile phone connected| Ingen mobiltelefon ansluten
+Only one Handset can be paired to the phone| Endast en handenhet kan parkopplas med telefonen
+Only one Speaker can be paired to the phone| Endast en högtalare kan parkopplas med telefonen
+Maximum number of paired devices reached| Maximalt antal parkopplade enheter har uppnåtts
+Reload| Ladda igen
+Mobile Contacts| Mobilkontakter
+Mobile| Mobil
+Press "Turn on" to enable Bluetooth| Tryck på ”Slå på” för att aktivera Bluetooth
+Turn on| Slå på
+Turn off| Stäng av
+Mobile : %s| Mobil: %s
+Pair| Ansluta
+Connect| Anslut
+Disconnect| Koppla från
+Forget| Glöm
+Rename| Byt namn
+Rename Device| Byt namn på enheten
+Disabling Bluetooth will disconnect your Cordless Handset| Om Bluetooth inaktiveras, kommer den trådlösa handenheten att kopplas från
+Warning| Varning
+Do you want to continue?| Vill du fortsätta?
+Bluetooth pairing request| Bluetooth-ihopparningsbegäran
+Pair with %s| Parkoppla med %s
+Pairing code - %06ld| Parkopplingskod – %06ld
+External| Externt
+Lock Settings| Lås inställningar
+Proximity auto-lock| Närhetsbaserat autolås
+Delay before auto-lock| Fördröjning av autolås
+Proximity auto-unlock| Närhetsbaserad auto-upplåsn.
+Delay before auto-unlock| Fördröjning av auto-upplåsn.
+Proximity auto-lock| Närhetsbaserat autolås
+Proximity auto-unlock| Närhetsbaserad auto-upplåsn.
+Delay before auto-lock (minutes)| Fördröjning av autolås (minuter)
+Delay before auto-unlock (minutes)| Fördröjning av auto-upplåsn. (minuter)
+M695: New Firmware. Do not unplug phone!| M695: Ny maskinvara. Koppla inte ur telefonen!
+Login/Logout| Logga in/Logga ut
+Logout user %s| Logga ut användare %s
+Login successful| Inloggningen lyckades
+Logout successful| Utloggningen lyckades
+Login failed| Inloggningen misslyckades
+Logout failed| Utloggning misslyckades
+Hot desk user can not pair handset please login as a local user| Hot Desk-användare kan inte parkoppla handenheten, logga in som lokal användare
+Hot desk user can not pair speaker please login as a local user| Hot Desk-användare kan inte parkoppla högtalaren, logga in som lokal användare
+Hot desk user can not unpair handset please login as a local user| Hot Desk-användare kan inte ta bort parkopplingen med handenheten, logga in som lokal användare
+Hot desk user can not unpair speaker please login as a local user| Hot Desk-användare kan inte ta bort parkopplingen med högtalaren, logga in som lokal användare
+Push Call| Skicka smt
+Cordless Handset| Trådlös handenhet
+Low Battery| Låg batterinivå
+Critical Battery| Batterinivån är kritisk
+Ongoing Call| Samtal pågår
+Incoming Call| Inkommande samtal
+Incoming Call from %s| Inkommande samtal från %s
+Incoming Call from %s (%s)| Inkommande samtal från %s (%s)
+Voicemail access of Mobile Phone not supported| Åtkomst till röstbrevlåda för mobiltelefon stöds inte
+Device not supported| Enheten stöds inte
+Phone not compatible| Telefonen är inte kompatibel
+Dialing out through Mobile Line not supported| Utringning via mobillinje stöds inte
+Page Expired. Please reload the page.| Sidan har upphört att gälla. Läs in sidan igen.
+Application busy. Please try again later.| Programmet är upptaget. Försök igen senare.
+Invalid prefix length (0 to 128)| Ogiltig prefixlängd (0 till 128)
+User ID required| Användar-ID krävs
+IPv6 Settings| IPv6-inställningar
+Basic Network Settings (IPv6)| Grundinställningar - nätverk (IPv6)
+Basic Network Settings (IPv4)| Grundinställningar - nätverk (IPv4)
+Ethernet Port Settings| Ethernet-portinställningar
+User ID| Användar-ID
+Colon ":"| Kolon ":"
+Login/Logout| Logga in/Logga ut
+Logout user %s| Utloggning användare %s
+Login successful| Inloggningen lyckades
+Logout successful| Utloggningen lyckades
+Login failed| Inloggningen misslyckades
+Logout failed| Utloggningen misslyckades
+IPv6| IPv6
+Enable IPv6| Aktivera IPv6
+Mode DHCPv6| Läge DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatisk konfiguration
+Prefix Length| Prefixlängd
+IPv6 Address| IPv6-adress
+Local Directory Upload| Ladda upp lokala kontakter
+Upload failed - Too many records detected in csv file| Uppladdningen misslyckades – för många poster hittades i csv-fil
+Upload failed - No record detected in csv file| Uppladdningen misslyckades – inga poster hittades i cvs-fil
+Upload performed - %d records created| Uppladdningen utförd – %d poster skapade
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fel: Upp-/nedgradering godkänns inte för icke-kompatibel inbyggd programvaruversion
+Directory file must be in CSV format| Kontaktfilen måste vara i CSV-format
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fel: Upp-/nedgradering godkänns inte för icke-kompatibel inbyggd programvaruversion
+6 +74| 6+74
+Port Map Incomplete| Portkarta ofullständig
+DSP| DSP
+SIP| SIP
+Checking DECT| Kontrollerar DECT
+Updating DECT Firmware| Uppdaterar DECT:s fasta programvara
+Tone| Ton
+Interface| Gränssnitt
+Web| Webb
+7 +196| 7+196
+Office| Office
+Home| Hem
+Cell| Cell
+Pager| Personsökare
+VLAN Settings| VLAN-inställningar
+Softkeys and XML| Mjuka nycklar och XML
+Softkeys Configuration| Konfigurering av mjuka nycklar
+6 +240| 6+240
+Enable?| Aktivera?
+Conf. Unavailable| Konf. Inre tillgänglig
+Ringing...| Ringer ...
+Is Calling...| Ringer ...
+Error Messages| Felmeddelanden
+No Error Messages| Inga felmeddelanden
+Download Options| Nedladdningsalternativ
+6 +591| 6+591
+Conference| Konferens
+Flash| Flash
+Dial| Ringa
+Whisper| Viska
+Consult| Konsultera
+Directory| Mapp
+Callers| Uppringare
+Icom| Icom
+6 +601| 6+601
+Push| Putta
+Leave| Lämna
+Conf| Konf
+Coach| Coach
+Barge| Bryt in
+Monitor| Bildskärm
+SIP Settings| SIP-inställningar
+Proxy Port| Proxy-port
+Registrar Port| Registrerande port
+6 +635| 6+635
+Network Settings| Nätverksinställningar
+Clear| Rensa
+Speaker | Högtalare 
+External Speaker | Extern Högtalare 
+Headset | -headset 
+Speaker/Headset| Högtalare/Headset
+Headset/Speaker| Headset/Högtalare
+6 +735| 6+735
+Connected| Ansluten
+Drop| Ignorera
+Park| Parkera
+UnPark| Återta
+Move| Flytta
+PickUp| Svara
+Redial| Återuppringning
+DCP| DCP
+7 +765| 7+765
+Transfer Failed| Överföring misslyckades
+Call Transferred| Samtal överfört
+ Call Terminated|  Samtal avslutat
+Call Parked| Samtal parkerat
+Park Failed| Samtal misslyckades
+UnPark Failed| Återupptag misslyckades
+Call Forward| Samtal vidareupploppling
+Call Fwd| Samtalsvidarebefodring
+All| Alla
+6 +1080| 6+1080
+Debug Level| Debuggnivå
+Support Information| Supportinformation
+Get local.cfg| Hämta local.cfg
+Get Log Files| Få fram lokala filer
+Get server.cfg| Hämta server.cfg
+Get user_local.cfg| Hämta user_local.cfg
+Get user.cfg| Hämta user.cfg
+6 +1465| 6+1465
+LLDP\nEnabled| LLDP\nAktiverad
+LLDP\nDisabled| LLDP\nInaktiverad
+LLDP Support| LLDP-support
+Use LLDP-MED| Använd LLDP-MED
+LLDP neighbor| LLDP-granne
+Cache LLDP-MED| Cache LLDP-MED
+Preferred line| Föredragen linje
+Preferred line Timeout (seconds)| Föredragen linje timeout (sekunder)
+Invalid URI| Ogiltig URI
+6 +1485| 6+1485
+Failed to config Line Manager| Misslyckades med att konfigurera linjehanterare
+Line in use| Linje används
+Get Crash Log| Hämta kraschlogg
+Logging Issue| Loggningsproblem
+Time Unavailable| Tid är otillgänglig
+Packetization Interval| Packeteringsintervall
+Basic| Grundläggande
+6 +1533| 6+1533
+Hold Failed| Pausning misslyckades
+Server Error| Serverfel
+Conf Failed| Konfigurering misslyckades
+Conf In Progress| Konfigurering pågår
+Lines| Linjer
+Options List| Alternativlista
+Checking For Firmware| Kontrollera efter firmware
+6 +1663| 6+1663
+AU-Lord Howe| AU-Lord Howeön
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmanien
+AD-Andorra| AD-Andorra
+6 +1734| 6+1734
+Divert to Number| Vidarekoppla till nummer
+Press a contact button to view contact info.| Tryck på en kontaktknapp för att visa kontaktinformation.
+No info available. Please press a contact button.| Ingen info tillgänglig. Tryck på en kontaktknapp.
+ Enter Voicemail Password|  Ange lösenord för röstbrevlåda
+ Enter Administrator Password|  Ange lösenord för administratör
+ Enter Unlock Password|  Ange upplåsningslösenord
+Phone will restart automatically after finishing.| Telefonen startar automatiskt om efter att den är färdig.
+6 +1794| 6+1794
+Please enter a number| Ange ett nummer
+Please enter a name| Ange ett namn
+Login| Inloggning
+Log Issue| Inloggningsproblem
+Log Out| Logga ut
+Avail| Tillgå
+Unavail| Ej tillgå
+6 +2001| 6+2001
+H2| H2
+O| O
+F| F
+P| P
+Last First| Sista först
+#Edit| #Redigera
+#Copy| #Kopiera
+6 +2088| 6+2088
+Disconnection failed| Frånkopplingen misslyckades
+Pairing failed| Ihopparning misslyckades
+Operation failed| Åtgärden misslyckades
+Pickup/unpark not permitted| Svara/återuppta ej tillåtet
+Unpark not permitted| Återuppta ej tillåtet
+Connected| Ansluten
+Retry| Försök igen
+Do you want to forget this device?| Vill du glömma den här enheten?
+7 +2129| 7+2129
+All Contacts| Alla kontakter
+Chats| Chattar
+Chat| Chat
+Send| Skicka
+Delete all chat sessions?| Ta bort alla chattsessioner?
+Delete chat session with %s?| Ta bort chattsessioner med %s?
+No contact in folder| Ingen kontakt i mapp
+8 +2202| 8+2202
+Incoming Call from %s (%s)| Inkommande samtal från %s (%s)
+Voicemail access of Mobile Phone not supported| Åtkomst till röstbrevlåda för mobiltelefon stöds inte
+Device not supported| Enheten stöds inte
+Not supported| Stöds inte
+Phone not compatible| Telefon är ej kompatibel
+Dialing out through Mobile Line not supported| Utringning via mobillinje stöds inte
+Service unavalilable at this time| Server är otillgänglig för tillfället
+Hold not permitted on this call| Det är inte tillåtet att pausa detta samtal
+Action not permitted| Åtgärd inte tillåten
+IPv6| IPv6
+Enable IPv6| Aktivera IPv6
+Mode DHCPv6| Läge DHCPv6
+44 +2235| 44+2235
+Cloud Config Server 2| Molnkonfig server 2
+Cloud Staging Server| Molniscensättning server
+Cloud Domain| Molndomän
+Replay| Spela igen
+Backward| Bakåt
+Forward| Framåt
+Send To| Skicka till
+Logout| Logga ut
+To Email| Till e-post
+Delete Failure| Fel – borttagn
+Play Failure| Fel – uppspeln
+Play Failure due to a system error. See your system administrator.| Uppspelningsfel pga. ett systemfel. Kontakta din systemadministratör.
+Save Failure| Fel – spara
+Add Contact| Lägg till kontakt
+Voicemail and Recordings| Röstmedd o inspeln
+Voicemail User Login| Anv.login t röstmedd
+Send to| Skicka till
+Cannot dial a private number| Det går inte att ringa upp ett privat nummer
+Cannot copy a private number| Kan inte kopiera ett privat nummer
+Number not available| Nummer inte tillgängligt
+Loading...| Läser in ...
+Login| Inloggning
+Contacts| Kontakter
+Private| Privat
+To| Till
+Send| Skicka
+Voicemail has been sent.| Röstmedd. har skickats.
+Error in sending Voicemail. Please send it again.| Fel vid skickande av röstmeddelande. Skicka det igen.
+Voicemail has been sent to email.| Röstmedd har skickats via e-post.
+Error in sending to Email.| Sändningsfel, e-postmedd
+New| Nytt
+Recorded| Inspelat
+Receipt Confirmation| Bekr. av mottagande
+Passcode| Lösenordskod
+Mailbox Number| Brevlådenummer
+Remember passcode| Kom ihåg lösenord
+Passcode is incorrect. Enter a valid passcode.| Lösenord är felaktigt. Skriv in ett giltigt lösenord.
+Invalid mailbox number.| Ogiltigt brevlådenummer.
+Error - Mailbox in use| Fel – brevlåda i bruk
+Error - maximum sessions exceeded| Fel – fler än maxantal sessioner
+Error - no session exists| Fel – session finns ej
+Error - bad extension| Fel – dålig anknytn
+Mailbox locked for security reasons. See your system administrator.| Postlåda låst av säkerhetsskäl. Kontakta din systemadministratör.
+Replay| Spela igen
+Backward| Bakåt
+Forward| Framåt
+Send To| Skicka till
+Logout| Logga ut
+To Email| Till e-post
+Move Message Failure| Flytta meddelande misslyckades
+Play Failure| Fel – uppspeln
+Play Failure due to a system error. See your system administrator.| Uppspelningsfel pga. ett systemfel. Kontakta din systemadministratör.
+Save Failure| Fel – spara
+Add Contact| Lägg till kontakt
+Voicemail and Recordings| Röstmedd o inspeln
+Voicemail User Login| Anv.login t röstmedd
+Send to| Skicka till
+Cannot dial a private number| Det går inte att ringa upp ett privat nummer
+Cannot copy a private number| Kan inte kopiera ett privat nummer
+Number not available| Nummer inte tillgängligt
+Loading...| Läser in ...
+Login| Inloggning
+Contacts| Kontakter
+Private| Privat
+To| Till
+Send| Skicka
+Voicemail has been sent.| Röstmedd. har skickats.
+Error in sending Voicemail. Please send it again.| Fel vid skickande av röstmeddelande. Skicka det igen.
+Voicemail has been sent to email.| Röstmedd har skickats via e-post.
+Error in sending to Email.| Sändningsfel, e-postmedd
+Receipt Confirmation| Bekr. av mottagande
+Passcode| Lösenordskod
+Mailbox Number| Brevlådenummer
+Remember passcode| Kom ihåg lösenord
+Passcode is incorrect. Enter a valid passcode.| Lösenord är felaktigt. Skriv in ett giltigt lösenord.
+Invalid mailbox number.| Ogiltigt brevlådenummer.
+Error - Mailbox in use| Fel – brevlåda i bruk
+Error - maximum sessions exceeded| Fel – fler än maxantal sessioner
+Error - no session exists| Fel – session finns ej
+Error - bad extension| Fel – dålig anknytn
+Mailbox locked for security reasons. See your system administrator.| Postlåda låst av säkerhetsskäl. Kontakta din systemadministratör.
+DECT Headset| DECT-headset
+DECT Headset Version| DECT-headsetversion
+DECT Headset Battery| DECT-headsetbatteri
+DECT Headset Rf Power| DECT-headset Rf-kraft
+DECT Headset Rf Power| DECT-headset Rf-kraft
+Very Low| Mycket litet
+Cloud Connect| Cloud Connect
+Service Type| Servicetyp
+MiCloud Connect| MiCloud Connect
+MiVoice Border Gateway| MiVoice Border Gateway
+User DID| Användar-ID
+Domain| Domän
+Call Back| Återuppringning
+Play| Spela
+Exit| Avsluta
+Skip Back| Hoppa tillbaka
+Skip Forward| Hoppa framåt
+Pause| Pause
+Inbox| Inkorg
+MiCloud| MiCloud
+Fetching Details| Hämtar detaljer
+Additional Phone| Ämtar detalher
+Agent state| Agentstatus
+Availability| Tillgänglighet
+Standard| Standard
+In a meeting| I ett möte
+Out of office| Frånvaro
+Extended Absence| Förlängd frånvaro
+Do not disturb| Stör ej
+On the Phone| På telefonen
+Assign| Tilldela
+Assign user| Tilldela användare
+Assign user failed| Tilldelning av användare misslyckades
+Assign user to phone in progress. Please wait...| Tilldela en användare till pågående samtal. Vänta ...
+Extension or password invalid| Förlängnig eller lösenord ogiltigt
+Unassign| Avregistrera
+Unassign user| Avregistrera användare
+Unassign user failed| Avregistrera användare misslyckades
+Unassign user?| Avregistrera användare?
+Unassigning user...| Avregistrerar användare ...
+Voicemail password| Lösenord till röstbrevlåda
+Ping| Ping
+Host Name or IP Address| Värdnamn eller IP-adress
+Please enter a valid HostName/IP Address| Ange ett giltigt värdnamn/en giltig IP-adress
+Pinging %s...| Pingar %s...
+Tracerouting...| Tracerouting...
+Tracerouting Complete| Spårning genomförd
+Traceroute| Traceroute
+Traceroute Command| Traceroute-kommande
+Always| Allrid
+Never| Aldr.
+Always destination| Alltid destination
+No answer destination| Ingen svarar vid destinationen
+Busy destination| Upptagen destination
+Simulring| Simulring
+VPN| VPN
+Use VPN| Använd VPN
+VPN gateway| VPN-gateway
+VPN gateway port| VPN-gateway: port
+Tunnel IP| Tunnel-IP
+VPN protocol| VPN-protokoll
+VPN debug mode| VPN-flesökning
+System| System
+Log upload| Logg är tillämpigt
+Timeout (1-1440 Minutes)| Tidsgräns (1–1 440 minuter)
+Please input a duration between 1 and 1440 minutes| Ange ett intervall mellan 1 och 1440 minuter
+User Settings| Änvändarinställningar
+Diagnostic server| Diagniska server
+Diag Server| Återuoppringningsserver
+Wrap up| Avsluata
+UnWrap| Packa upp
+ Open|  Open
+Confirm| Bekräfta
+New voicemail password| Nytt lösenord för röstbrevlåda
+Password entries do not match| Antalet inskrivningar av samtalet matchar inre
+Password change succeeded| Lyckade bytra näsenord
+New password same as old password| Det nya ansvaret är samma som ovan
+ Reply|  Svara
+ ReplyAll|  SvaraAlla
+ Compose|  Skriva
+ Call VM|  Ring VM
+Cannot choose your own extension| Kan inte välj din egen anknytning
+Save Changes?| Spara ändringar?
+Validating number...| Validerar nummer...
+Invalid %s| Ogiltig %s
+Upgrade Required| Uppgradering krävs
+Invalid DID or Password| Ogiltig DID eller lösenord
+Register| Registrera
+Voice Service| Röst tjänst
+Start Over| Börja om
+Empty domain name| Röm nomänna,et
+Registering| Registrering
+DID or password no update| DID eller lösenord ingen uppdatering
+Invalid domain name| Ogiltigt fonännummer för th nitty grytto
+ Registration cancelled|  Enbart förstora
+Pager| Personsökare
+Phone not registered| Telefon är icke-konfigurerad
+Enterprise| Organisation
+ Parameter Type|  Parametertyp
+ Filter Page|  Filterhanterare
+ Parameter Filter|  Parameterfilter
+ Get Parameters|  Mottagsainnehåll Parameters
+Assigned| Tilldelad
+Assigning| Tilldelning
+Invalid extension| Ogiltig anknytning
+Extension or password no update| Tillägg och lösenord är inte tillgämhliha
+Assignment cancelled| Uppgigt avbruten
+Extension already assigned| Anknytning redan tilldelad
+ Select a call to unpark|  Välj ett samtal att avparkera
+ UnPark|  Återta
+Duration| Längd
+Subject| Ämne
+Uploading Fail| Uppladdning misslyckades
+Diagnostic server is empty| Diagnostisk server är tom
+Logs uploaded successfully| Loggfiler laddades upp tillgängligt
+Urgent| Brådskande
+Return Receipt| Mottagningsbevis
+Include Original| Inkludera original
+Re: Voice Message| Sv: Röstsamtal
+Fw: Voice Message| Fvb: Röstsamtal
+Phone not assigned| Telefonen används nästan inte
+Whisper Page| Viskleken
+Intercom| Intercom
+Silent Monitor| Tyst övervakning
+Barge In| Klampa in
+Silent Coach| Tust tränare
+To Inbox| Till inkorgen
+Save Message?| Spara meddelande?
+By First| Av den första
+By Last| Av den sista
+Dial Voicemail| Ringa röstbrevlåda
+Dial VM| Ringa VM
+ Invalid Phone Number|  Ogiltigt telefonnummer
+Transfer not permitted on this call| Överföring inte tillåtet för detta samtal
+Conference not permitted on this call| Konferens inte tillåtet för detta samtal
+Remote log upload in progress| Uppladdning av fjärrlogg pågår
+Remote capture upload in progress| Uppladdning av fjärrkopiering pågår
+Standard| Standard
+Ring 2| Ring 2
+Ring 3| Ring 3
+Ring 4| Ring 4
+Play Int| Spela int
+Play Ext| Spela ext
+Press "Upload" to upload a debug log| Trycka på ”Ladda upp” för att ladda upp en debugglog
+Select a call to merge| Välj ett samtal att koppla samman
+Add Caller:| Lägg till uppringare:
+Assign user?| Tilldela användare?
+6 +74| 6 +74
+Port Map Incomplete| Portkarta ofullständig
+DSP| DSP
+SIP| SIP
+Checking DECT| Kontrollerar DECT
+Updating DECT Firmware| Uppdaterar DECT:s fasta programvara
+Tone| Ton
+Interface| Gränssnitt
+Web| Webb
+7 +294| 7 +294
+Updating configuration| Uppdaterar konfiguration
+Waiting assignment| Inväntar tilldelning
+Checking for new firmware| Kontrollera om det finns ny fast programvara
+Firmware Check| Kontroll av fast programvara
+Firmware Check| Kontroll av fast programvara
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Ny fast programvara: KOPPLA INTE UR TELEFONEN
+New Firmware: Restarting...| Ny fast programvara: Startar om...
+Downloading configuration| Laddar ner konfiguration
+9 +397| 9 +397
+erase all calls| radera alla samtal
+DELETE again to erase this item| TA BORT igen för att radera denna artikel
+DELETE to erase item  or # to erase Number| TA BORT för att radera artikel eller # för att radera nummer
+DELETE again to erase all calls| Ta bort igen för att radera alla samtal
+DELETE again to erase all items| TA BORT igen för att radera alla artiklar
+Delete All| Rad. allt
+DELETE again to erase all calls| Ta bort igen för att radera alla samtal
+DELETE again to erase all items| TA BORT igen för att radera alla artiklar
+Delete All| Rad. allt
+Factory Defaults| Fabriksinställningar
+ Missed Call|  Missat samtal
+ Missed Calls|  Missade samtal
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Tryck
+Push| Tryck
+Leave| Lämna
+Conf| Konf
+SIP Settings| SIP-inställningar
+8 +743| 8 +743
+Cannot Save| Kan inte spara
+1 item| 1 artikel
+ items|  artiklar
+item| artikel
+items| artiklar
+item| artikel
+items| artiklar
+No User| Ingen användare
+Missing User ID| Användar-ID saknas
+DHCP failed| DHCP misslyckades
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| Föredragen TLS
+Cfg Svr Failure| Cfg Svr fel
+Bad Certificate| Dåligt certifikat
+Bad Cert/TLS Err| Dåligt Cert.-/TLS-fel
+Certificates| Certifikat
+Cert Validation| Cert-validering
+All defaults| Alla standardvärden
+6 +1070| 6 +1070
+Debug Level| Felsökningsnivå
+Support Information| Supportinformation
+Get local.cfg| Hämta lokal.cfg
+Get Log Files| Hämta loggfiler
+Get server.cfg| Hämta server.cfg
+Get user_local.cfg| Hämta användare_lokal.cfg
+Get user.cfg| Hämta användare.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Ogiltig subnätmask
+Invalid primary DNS address| Ogiltig primär DNS-adress
+Invalid secondary DNS address| Ogiltig sekundär DNS-adress
+Invalid prefix length (0 to 128)| Ogiltig prefixlängd (0 till 128)
+User ID required| Användar-ID krävs
+IP cannot be equal to gateway address| IP-adressen kan inte vara samma som gatewayadressen
+IP and gateway have to be on same subnet| IP-adressen och gateway måste ligga på samma subnät
+IP and gateway are equal| IP-adressen och gateway är samma
+IP gateway subnet mismatch| Subnät för IP-adress och gateway matchar inte
+IPv6 Settings| IPv6-inställningar
+Basic Network Settings| Grundläggande nätverksinställningar
+Basic Network Settings (IPv6)| Grundläggande nätverksinställningar (IPv6)
+Basic Network Settings (IPv4)| Grundläggande nätverksinställningar (IPv4)
+Advanced Network Settings| Avancerade nätverksinställningar
+DHCP| DHCP
+NAT Port| NAT-port
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Den specifika filen är för stor. Varje fil kan inte överstiga 1 MB i storlek.
+The phone does not have enough space to store this file.| Telefonen har inte plats nog att lagra denna fil.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Den angivna filen uppfyller inte specifikationerna för ringsignaler som krävs för telefonen. Se användarhandboken om filkrav för ringsignaler.
+Directory file must be in WAV format| Kontaktfilen måste vara i wav-format
+Directory file must be in CSV format| Kontaktfilen måste vara i CSV-format
+Local Directory Upload| Ladda upp lokala kontakter
+Upload failed - Too many records detected in csv file| Uppladdningen misslyckades – för många poster hittades i csv-fil
+Upload failed - No record detected in csv file| Uppladdningen misslyckades – inga poster hittades i cvs-fil
+6 +1370| 6 +1370
+IP&MAC Addresses| IP- och MAC-adresser
+LAN Port| LAN-port
+PC Port| PC-port
+Port Mirroring| Portspegling
+Set Audio| Ställ in ljud
+Config. Server| Konfig. Server
+IP Address:| IP-adress:
+7 +1463| 7 +1463
+App| App
+Watchdog| Vakthund
+Speeddial/Conf| Kortnummer/konf
+Speeddial/MWI| Kortnummer/MWI
+Speeddial/MWI| Kortnummer/MWI
+Call is on Hold| Samtalet är parkerat
+No subscription| Ingen prenumeration
+802.1x Failed| 802.1x misslyckades
+6 +1473| 6 +1473
+Failed to config Line Manager| Misslyckades med att konfigurera linjehanterare
+Line in use| Linje används
+Get Crash Log| Hämta kraschlogg
+Logging Issue| Loggningsproblem
+Time Unavailable| Tid är otillgänglig
+Packetization Interval| Packeteringsintervall
+Basic| Grundläggande
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howeön
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmanien
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chathamöarna
+DP-Dhcp| DP-Dhcp
+Custom| Anpassad
+IN| IN
+OUT| UT
+Filter| Filter
+Filtering| Filtrering
+Opt Status| Alternativstatus
+Executives| Chefer
+Forward Filtering| Filtrering för vidarekoppling
+Divert| Omdirigera
+Divert to Number| Vidarekoppla till nummer
+IN| IN
+OUT| UT
+Filter| Filter
+Filtering| Filtrering
+Opt Status| Alternativstatus
+Executives| Chefer
+Forward Filtering| Filtrering för vidarekoppling
+Divert| Omdirigera
+Divert to Number| Vidarekoppla till nummer
+Press a contact button to view contact info.| Tryck på en kontaktknapp för att se kontaktinfo.
+No info available. Please press a contact button.| Ingen info tillgänglig. Tryck på en kontaktknapp.
+ Enter Administrator Password|  Skriv in administratörslösenord
+6 +1749| 6 +1749
+Level 4| Nivå 4
+Level 5| Nivå 5
+Dot "."| Punkt "."
+Colon ":"| Kolon ":"
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Linj: %d
+Line %d: %s| Linje %d: %s
+6 +1780| 6 +1780
+Please enter a number| Ange ett nummer
+Please enter a name| Ange ett namn
+Login| Inloggning
+Log Issue| Loggningsproblem
+Log Out| Logga ut
+Avail| Tillgå
+Unavail| Ej tillgå
+14 +1852| 14 +1852
+Show Picture| Visa bild
+Mode %d| Läge %d
+Screen Saver Timer| Timer för skärmsläckare
+Enabled also in call| Aktiveras även under samtal
+Enabled also in call| Aktiveras även under samtal
+Invalid Subscription Time| Ogiltig prenumerationstid
+Speed Dial 8| Kortnummer 8
+Request Failed| Förfrågan misslyckades
+Request timed out| Begäran har överskridit tidsgränsen
+Too many answers - Refine your search| För många svar – Förfina sökningen
+New Contact| Ny kontakt
+Edit Details| Redigera detaljer
+Edit Details| Redigera detaljer
+Failed to retrieve contact details| Lyckades inte hämta kontaktdetaljer
+No Mobile phone connected| Ingen mobiltelefon ansluten
+Only one Handset can be paired to the phone| Endast en handenhet kan parkopplas med telefonen
+7 +2039| 7 +2039
+Volume| Volym
+DTMF| DTMF
+Screenshot| Skärmbild
+All| Alla
+All| Alla
+Missed| Missad
+Outgoing| Utgående
+Received| Mottagit
+7 +2053| 7 +2053
+Paired Devices| Ihopparade enheter
+Available Devices| Tillgängliga enheter
+Swipe the toggle switch to the right to enable Bluetooth| Dra omkopplaren åt höger för att aktivera Bluetooth
+Press "Turn on" to enable Bluetooth| Tryck på ”Slå på” för att aktivera Bluetooth
+Press "Turn on" to enable Bluetooth| Tryck på ”Slå på” för att aktivera Bluetooth
+Turn on| Slå på
+Turn off| Stäng av
+Mobile : %s| Mobil: %s
+9 +2067| 9 +2067
+Device| Enhet
+Rename Device| Byt namn på enheten
+No paired devices| Inga ihopparade enheter
+Connection successful| Anslutningen har upprättats
+Connection failed| Anslutning misslyckades
+Disconnection successful| Frånkopplad
+Connection successful| Anslutningen har upprättats
+Connection failed| Anslutning misslyckades
+Disconnection successful| Frånkopplad
+Disconnection failed| Frånkopplingen misslyckades
+Pairing failed| Ihopparning misslyckades
+Operation failed| Åtgärden misslyckades
+7 +2153| 7 +2153
+%ld days ago| %ld dagar sedan
+while offline| medan offline
+Can't talk right now. I'll call you later.| Kan inte prata nu. Jag ringer dig senare.
+On another call| Sitter i ett annat samtal
+On another call| Sitter i ett annat samtal
+I'll call you back| Jag ringer tillbaka
+Call me back in 10 minutes| Ring upp mig om 10 minuter
+Custom...| Anpassad ...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Hot Desk-användare kan inte parkoppla högtalaren, logga in som lokal användare
+Hot desk user can not unpair handset please login as a local user| Hot Desk-användare kan inte ta bort parkopplingen med handenheten, logga in som lokal användare
+Hot desk user can not unpair speaker please login as a local user| Hot Desk-användare kan inte ta bort parkopplingen med högtalaren, logga in som lokal användare
+Push Call| Tryck samtal
+Cordless Handset| Trådlös handenhet
+Push Call| Tryck samtal
+Cordless Handset| Trådlös handenhet
+Low Battery| Låg batterinivå
+Critical Battery| Batterinivån är kritisk
+Ongoing Call| Samtal pågår
+5 +2188| 5 +2188
+Device not supported| Enheten stöds inte
+Phone not compatible| Telefonen är inte kompatibel
+Dialing out through Mobile Line not supported| Utringning via mobillinje stöds inte
+IPv6| IPv6
+Enable IPv6| Aktivera IPv6
+Mode DHCPv6| DHCPv6-läge
+DHCPv6| DHCPv6
+Auto-configuration| Autokonfiguration
+Prefix Length| Prefixlängd
+IPv6 Address| IPv6-address
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Fel: Upp-/nedgradering godkänns inte för icke-kompatibel inbyggd programvaruversion
+Audio Diagnostics| Ljuddiagnostik
+Diagnostics| Diagnostik
+Timeout (1-5 Minutes)| Tidsgräns (1-5 minuter)
+Disconnect| Koppla från
+Capturing ...| Lagrar...
+Complete ...| Komplett ...
+Collecting Logs ...| Hämtar loggar ...
+Collect Logs| Samlar loggar
+Please input a duration between 1 and 5 minutes| Ange ett längd mellan 1 och 5 minuter
+Erase| Radera
+Cloud Service| Molntjänst
+Enable Cloud Service| Aktivera molntjänst
+Cloud SIP| Moln-SIP
+Cloud Directory| Molnkatalog
+Active Config Server| Server med aktiv konfig
+Cloud Config Server 1| Molnkonfigserver 1
+Cloud Config Server 2| Molnkonfig server 2
+Cloud Staging Server| Molniscensättningsserver
+Cloud Domain| Molndomän
+Replay| Spela igen
+Backward| Bakåt
+Forward| Framåt
+Send To| Skicka till
+Logout| Logga ut
+To Email| Till e-post
+Delete Failure| Fel – borttagn
+Play Failure| Fel – uppspeln
+Play Failure due to a system error. See your system administrator.| Uppspelningsfel pga. ett systemfel. Kontakta din systemadministratör.
+Save Failure| Fel – spara
+Add Contact| Lägg till kontakt
+Voicemail and Recordings| Röstmedd o inspeln
+Voicemail User Login| Anv.login t röstmedd
+Send to| Skicka till
+Cannot dial a private number| Det går inte att ringa upp ett privat nummer
+Cannot copy a private number| Kan inte kopiera ett privat nummer
+Number not available| Numret finns inte
+Loading...| Läser in ...
+Login| Inloggning
+Contacts| Kontakter
+Private| Privat
+To| Till
+Send| Skicka
+Voicemail has been sent.| Röstmedd. har skickats.
+Error in sending Voicemail. Please send it again.| Fel vid skickande av röstmeddelande Skicka det igen.
+Voicemail has been sent to email.| Röstmedd har skickats via e-post.
+Error in sending to Email.| Sändningsfel, e-postmedd
+New| Ny
+Recorded| Inspelat
+Receipt Confirmation| Bekr. av mottagande
+Passcode| Lösenordskod
+Mailbox Number| Brevlådenummer
+Remember passcode| Kom ihåg lösenord
+Passcode is incorrect. Enter a valid passcode.| Lösenord är felaktigt. Skriv in ett giltigt lösenord.
+Invalid mailbox number.| Ogiltigt brevlådenummer.
+Error - Mailbox in use| Fel – brevlåda i bruk
+Error - maximum sessions exceeded| Fel – fler än maxantal sessioner
+Error - no session exists| Fel – session finns ej
+Error - bad extension| Fel – dålig anknytn
+Mailbox locked for security reasons. See your system administrator.| Postlåda låst av säkerhetsskäl. Kontakta din systemadministratör.
+DECT Headset| DECT-headset
+DECT Headset Version| DECT-headsetversion
+DECT Headset Battery| Batteri till DECT-headset
+DECT Headset Rf Power| Rf-ström till DECT-headset
+DECT Headset Rf Power| Rf-ström till DECT-headset
+Very Low| Mycket lågt
+Downloading font| Laddar ner typsnitt
+No calls to unpark| Inga samtal att återta
+For …| För …
+To VM| Till VM
+Number of Packets Sent| Antal skickade paket
+Number of Packets Received| Antal mottagna paket
+RTT min/avg/max| RTT min/med/max
+traceroute to| traceroute till
+hops max| max hops
+byte max| max byte
+Voicemail box is full| Röstbrevlådan är full
+ALL| ALLA
+REMOTE| FJÄRR
+Local| Lokal
+Not allowed on this call| Inte tillåtet för detta samtal
+ Whisper| 
+ Consult| 
+ Coach| 
+ Barge| 
+ Monitor| 
+ For| För
+ External Speaker| 
+ UnPark| 
+ Call Parked| 
+ UnPark Failed| 
+ Rev:|  Rev:
+ You must restart the phone before the new settings will take effect.|  Du måste starta om telefonen för att de nya inställningarna ska börja gälla.
+ None|  Ingen
+ Use LLDP-MED| 
+ LLDP neighbor| 
+ Cache LLDP-MED| 
+ Conf In Progress| 
+  Enter Voicemail Password| 
+ Call Server| 
+ Do Not Ring if on a Call|  Ring inte vid samtal
+ P| 
+ To Vm|  Till Vm
+ Pickup not permitted|  Inte tillåtet att svara
+ Pickup/unpark not permitted| 
+ Unpark not permitted| 
+ Silent Monitor not permitted on this call|  Tyst övervakning är inte tillåten på detta samtal
+ Silent Coach not permitted on this call|  Tyst coach är inte tillåten på detta samtal
+ Barge In not permitted on this call|  Det är inte tillåtet att klampa in på detta samtal
+ Park not permitted|  Inte tillåtet att parkera
+ Park/Transfer is still in progress|  Parkering/överföring håller fortfarande på
+ No calls to unpark|  Inga samtal att återta
+ No calls to park|  Inga samtal att parkera
+ No calls to pickup|  Inga samtal att svara på
+ No calls to take action|  Inga samtal att vidta åtgärder
+ My Status|  Min status
+ Favorite|  Favorit
+ Voicemail playback failed|  Uppspelning av röstbrevlådan misslyckades
+ Voicemail skip failed|  Avvisa röstbrevlådan misslyckades
+ Voicemail bad address|  Dålig adress för röstbrevlådan
+ Voicemail box is full for|  Röstbrevlådan är full för
+ Not supported| 
+ Service unavalilable at this time| 
+ Hold not permitted on this call| 
+ Action not permitted| 
+ Not Permitted on this call|  Inte tillåtet på detta samtal
+ Request denied or \r\nunacceptable at this time|  Förfrågan nekades eller \r\ninte acceptabel vid denna tidpunkt
+ Phone number is invalid or not properly formatted|  Telefonnumret är ogiltigt eller inte ordentligt formaterat
+ Move Message Failure| 
+ Contacts| 
+ Cloud Connect| 
+ Service Type| 
+ MiCloud Connect| 
+ MiVoice Border Gateway| 
+ User DID| 
+ Domain| 
+ Call Back| 
+ Play| 
+ Exit| 
+ Skip Back| 
+ Skip Forward| 
+ Inbox| 
+ MiCloud| 
+ Fetching Details| 
+ Additional Phone| 
+ Agent state| 
+ Availability| 
+ Standard| 
+ In a meeting| 
+ Out of office| 
+ Extended Absence| 
+ Do not disturb| 
+ On the Phone| 
+ Assign| 
+ Assign user| 
+ Assign user failed| 
+ Assign user to phone in progress. Please wait...| 
+ Extension or password invalid| 
+ Unassign| 
+ Unassign user| 
+ Unassign user failed| 
+ Unassign user?| 
+ Unassigning user...| 
+ Voicemail password| 
+ Ping| 
+ Host Name or IP Address| 
+ Please enter a valid HostName/IP Address| 
+ Pinging %s...| 
+ Tracerouting...| 
+ Tracerouting Complete| 
+ Traceroute| 
+ Page Up|  Sida upp
+ Page Down|  Sida ner
+ Traceroute Command| 
+ Always| 
+ Never| 
+ Always destination| 
+ No answer destination| 
+ Busy destination| 
+ Simulring| 
+ VPN| 
+ Use VPN| 
+ VPN gateway| 
+ VPN gateway port| 
+ Tunnel IP| 
+ VPN protocol| 
+ VPN debug mode| 
+ System| 
+ Log upload| 
+ Timeout (1-1440 Minutes)| 
+ Please input a duration between 1 and 1440 minutes| 
+ User Settings| 
+ Diagnostic server| 
+ Diag Server| 
+ Wrap up| 
+ UnWrap| 
+  Open| 
+ Confirm| 
+ New voicemail password| 
+ Password entries do not match| 
+ Password change succeeded| 
+ New password same as old password| 
+  Reply| 
+  ReplyAll| 
+  Compose| 
+  Call VM| 
+ Cannot choose your own extension| 
+ Save Changes?| 
+ Validating number...| 
+ Invalid %s| 
+ Upgrade Required| 
+ Invalid DID or Password| 
+ Register| 
+ Voice Service| 
+ Start Over| 
+ Empty domain name| 
+ Registering| 
+ DID or password no update| 
+ Invalid domain name| 
+  Registration cancelled| 
+ Pager| 
+ Phone not registered| 
+ Enterprise| 
+  Parameter Type| 
+ Remote| 
+  Filter Page| 
+  Parameter Filter| 
+  Get Parameters| 
+ Assigned| 
+ Assigning| 
+ Invalid extension| 
+ Extension or password no update| 
+ Assignment cancelled| 
+ Extension already assigned| 
+  Select a call to park|   Välj ett samtal att parkera
+  Select a call to unpark| 
+  Unpark|   Återta
+ Duration| 
+ Subject| 
+ Uploading Fail| 
+ Diagnostic server is empty| 
+ Logs uploaded successfully| 
+ Urgent| 
+ Return Receipt| 
+ Include Original| 
+ Re: Voice Message| 
+ Fw: Voice Message| 
+ Phone not assigned| 
+ Whisper Page| 
+ Intercom| 
+ Silent Monitor| 
+ Barge In| 
+ Silent Coach| 
+ To Inbox| 
+ Save Message?| 
+ By First| 
+ By Last| 
+ Dial Voicemail| 
+ Dial VM| 
+  Invalid Phone Number| 
+ Transfer not permitted on this call| 
+ Conference not permitted on this call| 
+ Remote log upload in progress| 
+ Remote capture upload in progress| 
+ Standard| 
+ Ring 2| 
+ Ring 3| 
+ Ring 4| 
+ Play Int| 
+ Play Ext| 
+ Press "Upload" to upload a debug log| 
+ Select a call to merge| 
+ Add Caller:| 
+ Assign user?| 
+ Participants|  Deltagare
+ Conferenced|  Konferenssamtal
+ calls|  samtal
+ held calls|  Samtal väntar
+ Debug on|  Felsökning på
+ Debug off|  Felsökning av
+ Unknown Error|  Okänt fel
+ Connection Error|  Anslutningsfel
+ Application Error|  Applikationsfel
+ Number of Packets Sent:|  Antal skickade paket:
+ Number of Packets Received:|  Antal mottagna paket:
+ RTT min/avg/max|  RTT min/med/max
+ traceroute to|  traceroute till
+ hops max|  max hops
+ byte packets|  byte paket
+ Help|  Hjälp
+ Call Mitel Support ?|  Ringa Mitel support?
+ Mitel Support|  Mitel support
+ Remote|  Fjärr
+ OnHold|  Vänteläge
+Initializing Components| Init. Komp
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

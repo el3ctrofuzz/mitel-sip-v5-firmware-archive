@@ -1,0 +1,3606 @@
+ελληνικά
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Κανένα ακουστικό δεν είναι συζευγμένο αυτήν τη στιγμή
+Cordless Handset Feature Key Configuration| Διαμόρφωση κλειδιού δυνατότητας ασύρματου ακουστικού
+None| Καμία
+Attempting to pair...| Απόπειρα σύζευξης...
+Pairing successful| Επιτυχής σύζευξη
+Pairing failed       | Αποτυχία σύζευξης       
+Try again| Ξαναπροσπαθήστε.
+Remove Handset:| Κατάργηση ακουστικού:
+Attempting to remove| Απόπειρα κατάργησης
+Wait...| Περιμένετε...
+Removal successful| Επιτυχής κατάργηση
+Cordless| Ασύρματο
+Cordless Handsets| Ασύρματο ακουστικό
+None Registered| Καμία καταχώριση
+Sync| Συγχρονισμός
+Private Line| Προσωπική γραμμή
+Sending Directory| Αποστολή καταλόγου
+to Handsets| σε ακουστικά
+System Unavailable| Μη διαθέσιμο σύστημα
+Handset Pairing| Σύζευξη ακουστικού
+Handset Keys| Πλήκτρα ακουστικού
+Feature Key programming complete.| Ο προγραμματισμός του κλειδιού δυνατότητας ολοκληρώθηκε.
+Two Call Support| Υποστήριξη δύο κλήσεων
+Intercom| Ενδοεπ/νία
+Sending Directory to Handsets| 
+No Public Number Found| 
+480i prompts| 
+Time Format| Μορφή ώρας
+    NOT MATCH !!!|     ΔΕΝ ΥΠΑΡΧΕΙ ΑΝΤΙΣΤΟΙΧΙΣΗ!!!
+Erase local config?| Διαγρ τοπ ρυθμ;
+Alternate Server| Εναλλακτ. server
+Contrast Level| Αντίθεση
+TypeService SIP| Τύπος υπηρ SIP
+TypeService RTP| Τύπος υπηρ RTP
+TypeService DSCP| Τύπος υπηρ DSCP
+TypeService RTCP| Τύπος υπηρ RTCP
+Dn| Κάτω
+Rt| Δεξ.
+Lf| Αρ.
+Del| Διαγραφή
+System Info Upload| Αποστολή πληροφοριών συστήματος
+Up| Επάνω
+Copyright| Πνευματικά δικαιώματα
+Reset| Επανεκ
+Phone will restart automatically after finishing.| Η συσκευή θα επανεκκινηθεί αυτόματα μετά τον τερματισμό .
+Please login| Είσοδος
+Incorrect password| Εσφαλμένος κωδικός πρόσβασης
+Reset Configuration?| Διαγραφή ρυθμίσεων  
+Cfg. Svr.| SrvΔιαμόρφ
+Enable| Ενεργοπ/ση
+List| Λίστα
+Move Up| Μετακίνηση επάνω
+Move Down| Μετακίνηση κάτω
+Firmware Loaded| Υλικολογισμικό φορτωμένο
+802.1x Authenticating| Έλεγχος ταυτότητας 802.1x
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Αναμονή για IP
+Bluetooth Upgrade .. Please wait| Αναβάθμιση Bluetooth ... Περιμένετε
+Contacting Redirector| Επικοινωνία με το Redirector
+Redirecting Step 1| Ανακατεύθυνση βήματος 1
+Redirecting Step 2| Ανακατεύθυνση βήματος 2
+Redirecting Step 3| Ανακατεύθυνση βήματος 3
+Redirecting Step 4| Ανακατεύθυνση βήματος 4
+Redirecting Step 5| Ανακατεύθυνση βήματος 5
+Redirecting Step 6| Ανακατεύθυνση βήματος 6
+Auto Discovery...| Αυτόμ. Αναζήτηση...
+Starting in Generic SIP Mode| Εκκίνηση σε γενική λειτουργία SIP
+Starting in AastraLink Mode| Εκκίνηση σε λειτουργία AastraLink
+Updating config| Ενημέρωση διαμόρφωσης
+Waiting assignment| Αναμονή ανάθεσης
+Checking for Firmware  Do not unplug phone!| Έλεγχος για υλικολογισμικό. Μην αποσυνδέετε το τηλέφωνο!
+New Firmware. Do not unplug phone!| Νέο υλικολογισμικό. Μην αποσυνδέετε το τηλέφωνο!
+New Firmware. Restarting...| Νέο υλικολογισμικό. Επανεκκίνηση...
+Downloading configuration| Λήψη διαμόρφωσης
+Downloading Language Packs| Λήψη πακέτων γλωσσών
+Network| Δίκτυο
+UPnP device not found| Δεν βρέθηκε συσκευή UPnP
+Port Map In Progress| Αντιστοίχιση θυρών σε εξέλιξη
+Port Map Incomplete| Αντιστοίχιση θυρών μη ολοκληρωμένη
+DSP| DSP
+SIP| SIP
+Tone| Ήχος
+Interface| Διασύνδεση
+Web| Web
+Done| Έγινε
+CopyToAll| Αντιγραφή σε κάθε λειτουργία
+Cannot use firmware.| Δεν είναι δυνατή η χρήση του υλικολογισμικού.
+No available lines| Μη διαθέσιμες γραμμές
+Current Password:| Τρέχων κωδικός πρόσβασης:
+New Password:| Νέος κωδικός πρόσβασης:
+Re-enter Password:| Επιβεβαίωση κωδικού πρόσβασης:
+  Password Changed| Ο κωδικός πρόσβασης άλλαξε
+Change| Αλλαγή
+Use DHCP?| Χρήση DHCP;
+Advanced| Προηγμένες
+DNS| DNS
+Ringer | Κουδουν
+ ERROR: invalid port|  ΣΦΑΛΜΑ: μη έγκυρη θύρα
+SIP Register| Μητρώο SIP
+Register?| Καταχώριση;
+Authentication Name| Όνομα ελέγχου ταυτότητας
+Nortel NAT| Nortel NAT
+Reset phone to| Επαναφορά στις προκαθορισμένες 
+factory defaults?| εργοστασιακές ρυθμίσεις;
+Setting phone back to| Ρύθμιση τηλεφώνου ξανά σε
+Factory Defaults| εργοστασιακές ρυθμίσεις
+  Please enter the   |   Εισαγωγή
+    administrator    |     κωδικού
+      password.      |         διαχειριστή.
+Password: | Κωδικός πρόσβασης
+Quit| Έξοδος
+More| Περισσότερα
+Timeserver Address:| Διεύθυνση διακομιστή ώρας:
+Network Time Disabled| Ώρα δικτύου απενεργοποιημένη
+Dialing| Κλήση
+Incoming| Εισερχόμενη
+Calling| Κλήση
+Pause| Παύση
+Pickup| ΛήψηΑπόΑλλ
+Previous| προηγούμενη
+Enter Time:| Εισαγωγή ώρας:
+Message Waiting| αναμονής μηνυμάτων
+Live Dialpad| Ενεργό πληκτρολογίο
+Live Dialpad is| Ενεργό πληκτρολογίο
+Options List| Λίστα επιλογών
+    Access denied    |     Δεν επιτρέπεται η πρόσβαση    
+Directory is full| Ο κατάλογος είναι πλήρης.
+30min summertime| 30λεπτό θερινή ώρα
+1h    summertime| 1 ώρα   θερινή ώρα
+No Link| Καμία σύνδεση
+Next| Επόμ
+Retry| Νέα δοκιμή
+Negotiation| Διαπραγμάτευση
+Live Dialpad disabled| Ενεργό πληκτρολόγιο απενεργοποιημένο
+Link State| Κατάσταση ζεύξης
+Headset Mic Volume| Ένταση μικροφώνου κεφαλόφωνου
+Gateway IP Address:| Διεύθυνση IP πύλης:
+Enter Date (y-m-d):| Εισαγωγή ημερομηνίας (ε-μ-η):
+Enter| Εισαγωγή
+Enable| Ενεργοπ/ση
+Full 10Mbps| Πλήρες 10Mbps
+Full 100Mbps| Πλήρες 100Mbps
+Full 1000Mbps| Πλήρες 1000Mbps
+Half 10Mbps| Μισό 10Mbps
+Half 100Mbps| Μισό 100Mbps
+Half 1000Mbps| Μισό 1000Mbps
+Default| Προκαθ. Τιμή
+Add New| Προσθ.νέου
+DeleteList| ΔιαγραφήΛίστα
+Delete entire| Διαγραφή όλων
+Directory?| Κατάλογος;
+Enter Number:| Εισαγάγετε αριθμό:
+Network disconnected| Αποσυνδεδεμένο δίκτυο
+Network connected| Συνδεδεμένο δίκτυο
+Entry Saved| Η καταχώριση αποθηκεύτηκε
+Entry Removed| Η καταχώριση καταργήθηκε
+Private| Ιδιωτικό
+Public| Δημόσιο
+Delete entry?| Διαγραφή στοιχείου;
+Delete?| Διαγραφή;
+Delete number| Διαγραφή αριθμού
+or delete all| ή διαγραφή όλων
+entries?| των καταχωρίσεων;
+Name is full| Το όνομα είναι πλήρες
+Empty| Άδειος
+Redial List| Λίστα Επανάκλησης
+Details| Λεπτομέρειες
+Copy| Αντιγραφή
+Select| Επιλογ
+Voicemail| Φων. ταχυδρομείο
+DeleteItem| Διαγραφή στοιχείου
+Delete All| Διαγρ όλων
+Entry copied to| Η καταχώριση αντιγράφτηκε σε
+Entry Exists| Η καταχώριση υπάρχει
+All items erased| Όλα τα στοιχεία διαγράφηκαν
+Sort| Ταξινόμηση
+Resume| Συνέχιση
+EditNum| Επεξ.αριθμού
+DeleteList again to| ΔιαγραφήΛίστας ξανά σε
+Delete again to| Διαγραφή ξανά σε
+erase this item| διαγραφή αυτού του στοιχείου
+erase all calls| διαγραφή όλων των κλήσεων
+ new caller|  νέος καλών
+ new callers|  νέοι καλούντες
+Press 1st letter| Πατήστε το 1ο γράμμα
+Handset | Ακουστ.  
+ Missed Call|  Αναπάντητη κλήση
+ Missed Calls|  Αναπάντητες κλήσεις
+Call Forward Mode| Λειτουργία Προώθ
+CFWD All| Προώθηση όταν δεν απαντά ή είναι κατειλημμένο
+CFWD Busy| Προώθηση όταν είναι κατειλημμένο
+CFWD NoAnswer| Προώθηση όταν δεν απαντά
+Call| Κλήση 
+Select TFTP| Επιλογή TFTP
+Use %c for new| Χρήση %c για νέο
+Use %c to view| Χρήση %c για προβολή
+Download Protocol| Λήψη πρωτοκόλλου
+OFF| OFF
+ON| ON
+Add Number| Προσθήκη αριθμού
+Arrange| Τακτοποίηση
+%cmore| %cmore
+Office| Γραφείο
+Home| Οικία
+Cell| Κινητό
+Pager| Τηλεειδοποίηση
+VLAN Settings| Ρυθμίσεις VLAN
+Softkeys and XML| Προγραμματιζόμενα πλήκτρα και XML
+Softkeys Configuration| Διαμόρφωση προγραμματιζόμενων πλήκτρων
+Bottom Keys| Κάτω πλήκτρα
+Top Keys| Επάνω πλήκτρα
+Page1| Σελίδα1
+Page2| Σελίδα2
+Page3| Σελίδα3
+Page4| Σελίδα4
+Page5| Σελίδα5
+Idle| Αδρανής
+Outgoing| Εξερχόμενη
+Empty| Άδειος
+Enter server name/IP:| Εισαγωγή IP/ονόματος διακομιστή:
+Enter HTTPS port:| Εισαγωγή θύρας HTTPS:
+Erase| Διαγρ
+Proxy IP/Port| IP/Θύρα διακομιστή μεσολάβησης
+Registrar IP/Port| IP/Θύρα μητρώου
+Erasing local config| Διαγρ τοπ ρυθμ;
+Proxy Port:| Θύρα proxy
+Registrar Port:| ΘύραServerΚαταχ.
+Proxy Server:| Proxy Server
+Registrar Server:| Server καταχώρ.
+Contrast Level:| Αντίθεση
+Erase Local Config.| Διαγρ τοπ ρυθμ;
+Administrator Menu| ΜενούΔιαχειριστή
+Backlight On Time| Χρόνος ενεργού φωτισμού
+Redirect HTTP->HTTPS?| Ανακατεύθυνση HTTP->HTTPS;
+Block XML HTTP POSTs?| Αποκλεισμός των XML HTTP POST;
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Μέθοδος πελάτη
+To unlock the phone| Για ξεκλείδωμα του τηλεφώνου
+No more softkeys| Δεν υπάρχουν περισσότερα προγραμματιζόμενα πλήκτρα
+Ignore| Παράβλεψη
+Answer| Απάντηση
+Configuration Server| Server διαμόρφωσης
+Primary Path| Κύρια διαδρομή
+Alternate Path| Εναλλακτική διαδρομή
+Logging in| Σύνδεση
+Login Failed| Αποτυχία σύνδεσης
+Enable?| Ενεργοπ/ση;
+Check Expires| Έλεγχος λήξης
+Check Hostnames| Έλεγχος ονομ. host
+Conf. Unavailable| Διαμόρφ. Μη διαθέσιμο
+Ringing...| Κουδουνίζει...
+Error Messages| Μηνύματα σφάλματος
+No Error Messages| Δεν υπάρχουν μηνύματα σφάλματος
+Download Options| Επιλογές λήψης
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| 
+A # &| A # &
+  Invalid password   |    Κωδικός μη έγκυρος   
+Upload Sys Info| Αποστολή πληρ.συστ.
+Config is updated. Restarting...| Η διαμόρφωση είναι ενημερωμένη. Επανεκκίνηση...
+CFWD Filtering| Φιλτράρισμα προώθησης
+Checking for Firmware| Έλεγχος firmware
+for new| 
+9133i prompts| 
+Password Changed| Ο κωδικός πρόσβασης τροποποιήθηκε
+Leave| Έξοδος από CNF
+Time Format| Μορφή ώρας
+Erase local cfg?| Διαγρ τοπ ρυθμ;
+TypeService SIP| Τύπος υπηρ SIP
+TypeService RTP| Τύπος υπηρ RTP
+TypeService DSCP| Τύπος υπηρ DSCP
+TypeService RTCP| Τύπος υπηρ RTCP
+Alternate Server| Εναλλακτ. server
+Contrast Level| Αντίθεση
+Options List| Λίστα επιλογών
+DELETE to erase item  or # to erase Number| ΔΙΑΓΡΑΦΗ για διαγραφή στοιχείου ή # για διαγραφή αριθμού
+Upload Sys Info| Αποστολή πληρ.συστ.
+Directory Empty. Use Save to add|  
+Directory Empty Use Save to add| Κενός κατάλογος, χρησιμοποιήστε την επιλογή "Αποθήκευση" για προσθήκη
+  NOT MATCH !!!|   ΔΕΝ ΥΠΑΡΧΕΙ ΑΝΤΙΣΤΟΙΧΙΣΗ!!!
+DELETE again to erase this item| ΔΙΑΓΡΑΦΗ ξανά για διαγραφή αυτού του στοιχείου
+System Info Upload| Αποστολή πληρ.συστ.
+Phone will restart after| Το τηλέφωνο θα επανεκκινηθεί μετά από
+Copyright| Πνευματικά δικαιώματα
+Reset| Επανεκ
+Use DHCP?| Χρήση DHCP;
+Full 10Mbps| Πλήρες 10Mbps
+Full 100Mbps| Πλήρες 100Mbps
+Half 10Mbps| Μισό 10Mbps
+Half 100Mbps| Μισό 100Mbps
+Full 1000Mbps| Πλήρες 1000Mbps
+Half 1000Mbps| Μισό 1000Mbps
+Cfwd Destination| Προορισμός προώθησης
+Please login| Είσοδος
+Incorrect password| Εσφαλμένος κωδικός πρόσβασης
+Reset Configuration?| Διαγραφή ρυθμίσεων  
+Cfg. Svr.| SrvΔιαμόρφ
+Net disconnected| Αποσυνδεδεμένο δίκτυο
+Live Dialpad| Ενεργό πληκτρολογίο
+Firmware Loaded| Υλικολογισμικό φορτωμένο
+802.1x Authenticating| Έλεγχος ταυτότητας 802.1x
+LLDP| LLDP
+Initializing network| Αρχικοποίηση δικτύου
+Bluetooth Upgrade| Αναβάθμιση Bluetooth
+Contacting Redirector| Επικοινωνία με το Redirector
+Redirecting Step 1| Ανακατεύθυνση βήματος 1
+Redirecting Step 2| Ανακατεύθυνση βήματος 2
+Redirecting Step 3| Ανακατεύθυνση βήματος 3
+Redirecting Step 4| Ανακατεύθυνση βήματος 4
+Redirecting Step 5| Ανακατεύθυνση βήματος 5
+Redirecting Step 6| Ανακατεύθυνση βήματος 6
+Auto Discovery| Αυτόμ. αναζήτηση
+Starting in Generic SIP Mode| Εκκίνηση σε γενική λειτουργία SIP
+Starting in Aastra Link Mode| Εκκίνηση σε λειτουργία σύνδεσης Aastra
+Updating configuration| Ενημέρωση διαμόρφωσης
+Waiting assignment| Αναμονή ανάθεσης
+Checking for new firmware| Έλεγχος για νέο υλικολογισμικό
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Νέο υλικολογισμικό: ΜΗΝ ΑΠΟΣΥΝΔΕΕΤΕ ΤΟ ΤΗΛΕΦΩΝΟ
+New Firmware: Restarting...| Νέο υλικολογισμικό: Επανεκκίνηση...
+Downloading configuration| Λήψη διαμόρφωσης
+Downloading Language Packs| Λήψη πακέτων γλωσσών
+Network| Δίκτυο
+UPnP Gateway Not Found| Η πύλη UPnP πύλη δεν βρέθηκε
+UPnP Port Map In Progress| Αντιστοίχιση θυρών UPnP σε εξέλιξη
+UPnP Port Map Incomplete| Αντιστοίχιση θυρών UPnP μη ολοκληρωμένη
+DSP| DSP
+SIP| SIP
+Tone| Ήχος
+Registering with the voice network...| Καταχώριση με το δίκτυο φωνής...
+Web| Web
+Done| Έγινε
+Cannot use| Δεν είναι δυνατή η χρήση
+this firmware.| αυτού του υλικολογισμικού.
+All lines in use| 
+Current Password| Τρέχων κωδικός πρόσβασης
+New Password| Νέος κωδικός πρόσβασης
+Enter Again| Επιβεβαίωση κωδικού πρόσβασης
+Ringer volume   | Ένταση Κουδουν  
+DELETE again to| ΔΙΑΓΡΑΦΗ ξανά σε
+erase all calls| διαγραφή όλων των κλήσεων
+Caller is erased| Ο καλών διαγράφεται
+Network Time| Ώρα δικτύου
+Change| Αλλαγή
+Options| Επιλογές
+Access denied| Δεν επιτρέπεται η πρόσβαση
+Directory full| Κατάλογος πλήρης
+Link Active| Σύνδεση ενεργή
+No Link| Καμία σύνδεση
+Live Dialpad is\nnot available.| Το ενεργό πληκτρολόγιο δεν\nείναι διαθέσιμο.
+Live Dialpad is\nON| Το ενεργό πληκτρολόγιο είναι\nενεργοποιημένο
+Live Dialpad is\nOFF| Το ενεργό πληκτρολόγιο είναι\nαπενεργοποιημένο
+-  confirmed   -| -  επιβεβαιώθηκε   -
+Contrast | Αντίθεση
+Set| Ρύθμιση
+DHCP\nON| DHCP\nON
+DHCP\nOFF| DHCP\nOFF
+Enable?\nYes| Ενεργό;\nΝαι
+Enable?\nNo| Ενεργό;\nΌχι
+Check Expires| Έλεγχος λήξης
+Check Expires?\nYes| Έλεγχος λήξης;\nΝαι
+Check Expires?\nNo| Έλεγχος λήξης;\nΌχι
+Check Hostnames| Έλεγχος ονομ. host
+Check Hostnames?\nYes| Έλεγχος ονομ. host;\nΝαι
+Check Hostnames?\nNo| Έλεγχος ονομ. host;\nΌχι
+Cancel| Ακύρωση
+SIP Register\nON| Μητρώο SIP\nενεργοποιημένο
+SIP Register\nOFF| Μητρώο SIP\nαπενεργοποιημένο
+Nortel NAT\nEnabled| Nortel NAT\nΝαι
+Nortel NAT\nDisabled| Nortel NAT\nΌχι
+Next| Επόμ
+Done| Έγινε
+Retry| Νέα δοκιμή
+Exit| Έξοδος
+Pickup| ΛήψηΑπόΑλλ
+Call held| Κλήση σε αναμονή
+Calls held| Κλήσεις σε αναμ.
+Country Code: | Κωδικός χώρας: 
+*List Countries| *Λίστα χωρών
+Enter| Εισαγωγή
+Admin Password| ΚωδΠροσβ Διαχειρ
+yyyy-mm-dd | εεεε-μμ-ηη 
+Restart phone?| Επανεκκ. Τηλ.;
+#Confirm| #Επιβεβαίωση
+RestoreDefaults?| ΕπαναφοράΠροκαθ;
+Call Agent 1| Τηλεφωνητής 1
+Call Agent 2| Τηλεφωνητής 2
+Call Agent 3| Τηλεφωνητής 3
+Invalid Code    | Μη έγκυρος κωδικός    
+E: Invalid port!| Ε: Μη έγκυρη θύρα!
+Application:| Εφαρμογή:
+Boot ROM:| Εκκίνηση ROM:
+Negotiation:| Διαπραγμάτευση:
+30m summertime| 30λεπτό θερινή ώρα
+1h summertime| 1 ώρα   θερινή ώρα
+Invalid password| Κωδικός μη έγκυρος
+  disconnected|   Έχει αποσυνδεθεί
+   connected|     Συνδεδεμένο
+    Network|       Δίκτυο
+erase all items| διαγραφή όλων των στοιχείων
+Enter Number>| Εισαγάγετε αριθμό>
+Setting phone to| Ρύθμιση τηλεφώνου σε
+Use Save to end| Χρησιμοποιήστε την επιλογή "Αποθήκευση" για τερματισμό
+to enter name>| για εισαγωγή ονόματος>
+Saved: Directory| Αποθηκεύτηκε: Κατάλογος
+Retrying config | Επανάληψη προσπάθειας διαμόρφωσης... 
+download...     | Λήψη...
+empty| κενό
+No Match| Καμία αντιστοιχία
+Save to?| Αποθήκευση σε;
+Saved Memory key| ΑποθΠλήκτρΜνήμης
+Removed Key| 
+Key saved | ΑποθΠλήκτρΜνήμης
+Key removed| Το κλειδί καταργήθηκε
+Press 1st letter| Πατήστε το 1ο γράμμα
+Speaker volume  | Ένταση ηχείου
+Handset volume  | Ένταση Ακουστ.  
+Headset volume  | Ένταση Κεφαλόφ  
+Factory Defaults| εργοστασιακές ρυθμίσεις
+ Missed Call|  Αναπάντητη κλήση
+ Missed Calls|  Αναπάντητες κλήσεις
+Cfwd State| Κατάστ Προώθ
+Cfwd Number| Αριθμός Προώθ
+Cfwd Mode| Λειτουργία Προώθ
+CFWD All| Προώθηση όταν δεν απαντά ή είναι κατειλημμένο
+CFWD Busy| Προώθηση όταν είναι κατειλημμένο
+CFWD NoAnswer| Προώθηση όταν δεν απαντά
+Select TFTP\nPrimary| Επιλογή TFTP\nΚύριο
+Select TFTP\nAlternate| Επιλογή TFTP\nΕναλλακτικό
+DownloadProtocol| Λήψη πρωτοκόλλου
+VLAN Settings| Ρυθμίσεις VLAN
+Server Name/IP?| IP/Όνομα διακομιστή;
+HTTPS Port?| Θύρα HTTPS;
+Client Method\nSSL 3.0| Λειτουργία πελάτη\nSSL 3.0
+Client Method\nTLS 1.0| Λειτουργία πελάτη\nTLS 1.0
+HTTP->HTTPS\nRedirect| Ανακατεύθυνση\nHTTP->HTTPS
+HTTP->HTTPS\nDo not redirect| Χωρίς ανακατεύθυνση\nHTTP->HTTPS
+Redirect| Ανακατεύθυνση
+Do not redirect| Χωρίς ανακατεύθυνση
+XML HTTP POSTs\nDo not block| XML HTTP POST\nΧωρίς αποκλεισμό
+XML HTTP POSTs\nBlock| XML HTTP POST\nΑποκλεισμός
+Do not block| Χωρίς αποκλεισμό
+Block| Αποκλεισμό
+Erasing config| Διαγραφή διαμόρφωσης
+Pri TFTP Path| Πρωτ.διαδρ.TFTP
+Alt TFTP Path| Δευτ.διαδρ.TFTP
+Backlight Mode| Λειτουργία ενεργού φωτισμού
+Backlight Time| Χρόνος ενεργού φωτισμού
+Answer| Απάντηση
+Ignore| Παράβλεψη
+Cfwd| Προώθ
+Copy to All?| Αντιγραφή σε κάθε λειτουργία;
+Apply Changes?| Εφαρμ. αλλαγών;
+Logging in| Σύνδεση
+Login Failed| Αποτυχία σύνδεσης
+Conf Unavailable| Μη διαθέσιμη διαμόρφωση
+Error Messages| Μηνύματα σφάλματος
+No Error Messages| Δεν υπάρχουν μηνύματα σφάλματος
+Delete All| Διαγρ όλων
+Download Options| Επιλογές λήψης
+Config updated. Restarting...| Η διαμόρφωση είναι ενημερωμένη. Επανεκκίνηση...
+DELETE again to erase all calls| ΔΙΑΓΡΑΦΗ ξανά για διαγραφή όλων των κλήσεων
+Firmware Check| Έλεγχος firmware
+Fwd Filtering| Φιλτράρισμα προώθησης
+CFWD Filtering| Φιλτράρισμα προώθησης
+DELETE again to erase all items| DELETE ξανά για διαγραφή όλων των στοιχείων
+Upload Sys Info| Αποστολή πληρ.συστ.
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Εισάγετε κωδικό διαχειριστή
+Error Msg| Μήνυμα λάθους
+Unlock the phone?| Ξεκλείδωμα συσκευής;
+ Enter Unlock Password|  Εισάγετε κωδικό ξεκλειδώματος
+softkey| Εικονικό πλήκτρο
+Edit Number| Επεξεργασία αριθμού
+Lock the phone| Κλείδ. συσκευής
+keypad| Πληκτρολόγιο 
+Unlock| Ξεκλείδωμα
+ Cust Feat| ΧαρακτΠελ
+Phone is locked| Κλειδωμ. συσκευή
+Unlock the phone| Ξεκλείδωμα συσκευής
+GoodBye| Αντίο
+Pass Thru Port| Θύρα διέλευσης
+First| Μικρό
+Last| Επών
+Name| Όνομ
+Add| Πρ+
+Edit| Επεξ
+Space| Κενό
+Bksp| Διαγραφή
+caps| Κεφαλαία
+CAPS| ΚΕΦΑΛΑΙΑ
+Reject| Απόρριψη
+Silence| Σίγαση
+Hold| Αναμονή
+Transfer| Μεταφορά
+>| >
+Lines| Γραμμές
+Settings| Ρυθμίσεις
+Device Name| Όνομα συσκευής
+Bluetooth Devices| Συσκ. Bluetooth
+Bluetooth Status:| ΚατBluetooth:
+Search| Αναζήτηση
+Searching...| Αναζήτηση
+device(s) found.| συσκ.βρέθηκαν
+Press on a device to start pairing.| Πιέστε συσκευή για έναρξη αντιστ/σης
+Enter PIN| Εισαγωγή κωδικού
+Add Device| Προσθήκη συσκευής
+Active| Ενεργό
+Are you sure?| Είστε σίγουροι;
+ALL| Όλα
+Phone No:| Αρ. τηλεφ:
+Copy to all modes| Αντιγραφή σε κάθε λειτουργία
+BUSY| Κατειλημμένο
+NO ANSWER| Δεν απαντά
+CFWD NO ANS:| Προώθηση όταν δεν απαντά
+CFWD BUSY:| Προώθηση όταν είναι κατειλημμένο
+CFWD ALL:| Προώθηση όταν δεν απαντά ή είναι κατειλημμένο
+Audio| Ήχος
+Calibrate Screen| Βαθμονόμηση οθόνης
+Recalibrate Touchscreen?| Επαναβαθμονόμηση οθόνης αφής;
+Softkeys| Εικονικά πλήκτρα
+Headset Mic Volume| Ένταση μικροφώνου κεφαλόφωνου
+Headset Device| Κεφαλόφωνο
+Bluetooth| Bluetooth
+Wired| Ενσύρματο
+Restart | Επανεκκίνηση
+No Calls| Χωρίς κλήσεις
+Brightness Timer| Χρονοδιακόπτης φωτεινότητας
+Brightness Level| Επίπεδο φωτεινότητας
+Add to Directory| Προσθ. στον κατάλογο
+Waiting for Touch Screen activity to subside ...| Αναμονή λήξης δραστηριότητας οθόνης αφής
+Touch the UPPER-LEFT corner of the screen| Αγγίξτε την επάνω αριστερή γωνία της οθόνης
+Touch the UPPER-RIGHT corner of the screen| Αγγίξτε την επάνω δεξιά γωνία της οθόνης
+Touch the LOWER-RIGHT corner of the screen| Αγγίξτε την κάτω δεξιά γωνία της οθόνης
+Touch the LOWER-LEFT corner of the screen| Αγγίξτε την κάτω αριστερή γωνία της οθόνης
+Received unreliable data. You will be asked to touch the same point again| Ελήφθησαν αναξιόπιστα δεδομένα. Θα σας ζητηθεί να αγγίξετε πάλι το ίδιο σημείο
+Processing ...| Επεξεργασία
+Validating calibration data ... please wait| Επικύρωση δεδομένων βαθμονόμησης ... παρακαλώ περιμένετε
+Sanity Check OK. Save changes?| Λογικός έλεγχος ΟΚ. Αποθ. αλλαγών;
+Sanity Check Failed| Αποτυχία λογικού ελέγχου
+Retry| Νέα δοκιμή
+Quit| Έξοδος
+Please Enter| Παρακαλώ εισαγάγετε
+Submit| Υποβολή
+User ID:| Αναγνωριστικό χρήστη:
+Password:| Κωδικός πρόσβασης
+Transferring| Μεταφορά
+No. Rings| Αρ. κουδουνισμών
+Line| Γραμμή
+Unable to Pair| Αδύνατη αντιστοίχιση
+Please Wait...| Περιμένετε...
+Add new device...| Προσθήκη συσκευής
+Detected:| Ανιχνεύθηκε:
+Connecting:| Σύνδεση:
+Disonnecting:| Αποσύνδεση:
+Connected:| Συνδεδεμένο:
+ALL| Όλα
+BUSY| Κατειλημμένο
+NO ANSWER| Δεν απαντά
+CFWD ALL:| Προώθ. όλων:
+CFWD BUSY:| Προώθ-κατ/νο
+CFWD NO ANSWER:| Πρθ-ΔενΑπαντ
+Copy to all modes| Αντιγραφή σε κάθε λειτουργία
+OFF| OFF
+Off| Off
+Phone Number:| Νούμερο συσκευής
+Level 1| Επίπεδο 1
+Level 2| Επίπεδο 2
+Level 3| Επίπεδο 3
+Level 4| Επίπεδο 4
+Level 5| Επίπεδο 5
+(Min: %d  Max: %d)| (Ελάχιστο: %d Μέγιστο: %d)
+ Enter Administrator Password| Εισαγάγετε κωδικό διαχειριστή
+Phone will restart automatically after finishing.| Η συσκευή θα επανεκκινηθεί αυτόματα μετά τον τερματισμό .
+Conference| Συνακρόαση
+Conf| Συνακρόαση
+Reset Configuration?| Διαγραφή ρυθμίσεων  
+Hide| Απόκρυψη
+Live Dialpad| Ενεργό Πληκτρολόγιο Κλήσης
+Live Dial| Ενεργή Κλήση
+Lock| Κλείδωμα
+Lock the phone?| Κλείδ.τηλεφώνου;
+Directory| Κατάλογος
+Phone Number:| Νούμερο συσκευής
+Common prompts| 
+None| Καμία
+Disable| Απενεργ/ση
+Logout failed| Αποτυχία αποσύνδεσης
+Logout successful| Επιτυχής αποσύνδεση
+Login successful| Επιτυχής σύνδεση
+Logout user %s| Αποσύνδεση χρήστη %s
+Login/Logout| Σύνδεση/Αποσύνδεση
+User ID| Αναγνωριστικό χρήστη
+User ID required| Απαιτείται αναγνωριστικό χρήστη
+Application busy. Please try again later.| Εφαρμογή απασχολημένη. Προσπαθήστε ξανά αργότερα.
+Page Expired. Please reload the page.| Η σελίδα έληξε. Φορτώστε ξανά τη σελίδα.
+Check Expires| Έλεγχος λήξης
+Check Hostnames| Έλεγχος ονομ. host
+Use DHCP?| Χρήση DHCP;
+Restart Phone?| Επανεκκ. Τηλ.;
+12 Hour| 12 ώρες
+Speeddial| Ταχεία κλήση
+Erase local cfg?| Διαγρ.τοπ.ρυθμ.;
+Spd Dial| Ταχ.κλήση
+Backup Outbound Proxy Server| Backup Outbound Proxy Server
+Backup Outbound Proxy Port| Backup Outbound Proxy Port
+Firmware Info| Πληρ.Firmware
+DHSG| DHSG
+DHSG is ON| DHSG ενεργό
+DHSG is OFF| DHSG ανενεργό
+Backlight On Time| Χρόνος ενεργού φωτισμού
+Use Alt TFTP| Χρήση δευτ.TFTP
+Pri TFTP Path| Πρωτ.διαδρ.TFTP
+Alt TFTP Path| Δευτ.διαδρ.TFTP
+RestoreDefaults?| ΕπαναφοράΠροκαθ;
+HTTP Init Failed| Αποτυχ.αρχικ.HTTP
+Get aastra.lic| Λήψ.aastra.lic
+Get mac.lic| Λήψ.aastra.lic
+Firmware not licensed for use on this phone| Απουσία άδειας χρήσης του firmware στη συσκευή
+Redial List is empty| Η Λίστα Επανάκλησης είναι κενή
+Callers List is empty| Η Λίστα Καλούντων είναι κενή
+Callers List| Λίστα Καλούντων
+Redial List| Λίστα Επανάκλησης
+Directory| Κατάλογος
+License Information| Πληροφορίες άδειας
+XML Application URI:| URI εφαρμογής XML:
+Missing User ID| Δεν υπάρχει ID χρήστη
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Χρ.
+Active Features| Ενεργά χαρακτηριστικά
+WWW MMM DD| ΒΒΒ ΜΜΜ ΗΗ
+DD-MMM-YY| ΗΗ-ΜΜΜ-ΕΕ
+YYYY-MM-DD| ΕΕΕΕ-ΜΜ-ΗΗ
+DD/MM/YYYY| ΗΗ/ΜΜ/ΕΕΕΕ
+DD/MM/YY| ΗΗ/ΜΜ/ΕΕ
+DD-MM-YY| ΗΗ-ΜΜ-ΕΕ
+MM/DD/YY| ΜΜ/ΗΗ/ΕΕ
+MMM DD| ΜΜΜ ΗΗ
+DD MMM YYYY| ΗΗ ΜΜΜ ΕΕΕΕ
+WWW DD MMM| ΒΒΒ ΗΗ ΜΜΜ
+DD MMM| ΗΗ ΜΜΜ
+DD.MM.YYYY| ΗΗ.ΜΜ.ΕΕΕΕ
+24 Hour| 24 ώρες
+XML Application Title:| Τίτλος εφαρμογής XML:
+License Status| Κατάσταση άδειας
+FTP| FTP
+to view| προς προβολή
+Contact Name already exists| Το Όνομα Επαφής υπάρχει ήδη
+Leave| Έξοδος από CNF
+Contact Mismatch| Αναντιστοιχία επαφής
+ Call Terminated| Η κλήση τερματίστηκε
+IP and gateway have to be on same subnet| IP και πύλη πρέπει να βρίσκονται στο ίδιο υποδίκτυο
+IP cannot be equal to gateway address| Το ΙΡ δεν μπορεί να είναι ίδιο με τη διεύθυνση της πύλης
+Call Waiting Tone Period| Περίοδος τόνου αναμονής κλήσης
+OK| ΟΚ
+Directory empty| Άδειος κατάλογος
+Files Sent| Σταλμένα αρχεία
+Upload System Info| Αποστολή πληροφοριών συστήματος
+Upload| Αποστολή
+Call Transferred| Μεταφορά κλήσης
+Firmware Information| Πληροφορίες firmware
+Contact Name already exists| Το Όνομα Επαφής υπάρχει ήδη
+Replace| Αντικατάσταση
+No Services| Απουσ. υπηρεσιών
+Merge| Συγχώνευση
+Enter Name:| Εισαγ. Όνομα:
+Call Hold Reminder| Υπενθύμιση αναμονής κλήσης
+Others| Άλλο
+Call Hold Reminder During Active Calls| Υπενθύμιση αναμονής κλήσης σε ενεργές κλήσεις
+Out of service| Εκτός υπηρεσίας
+Reason: | Αιτία:
+Add blank record?| Κενή εγγραφή; 
+Audio Setting| Ρυθμίσεις ήχου
+Delete Item| Διαγραφή στοιχείου
+Services| Υπηρεσίες
+Server| Server
+Service Disabled| Απενεργ. Υπηρεσ.
+Port| Θύρα
+Path| Διαδρομή
+Username| Όνομα Χρήστη
+No. Rings| Αρ.κουδουνισμών
+Use xx to view| xx για προβολή
+User Password| Κωδικός χρήστη
+Time and Date| Ώρα & ημερομηνία
+Language| Γλώσσα
+Screen Language| Γλώσσα οθόνης
+Tones| Τόνοι
+Tone Set| Ρύθμιση τόνων
+Ring Tone| Ήχος κουδ/σμού
+State| Κατάσταση
+State:| Κατάσταση:
+User-Busy| Χρήστης-Κατειλ.
+Unconditional| Χωρίς συνθήκες
+Time of day| Ώρα της ημέρας
+Deflection| Εκτροπή
+Follow Me| Follow Me
+Away| Απουσιάζει
+Busy| Κατειλημμένος
+Restart| Επανεκκίν.
+All On| Όλα on
+All Off| Όλα off
+AllAccts| ΌλοιΛογ/σμ
+Conference| Συνακρόαση
+Flash| Flash
+Dial| Κλήση
+Directory| Κατάλογος
+Callers| Καλούντες
+Icom| Ενδοεπ/νία
+Icom| Ενδοεπ/νία
+Dir| Κατάλογος
+Xfer| Μεταφορά
+Conf| Συνακρόαση
+SIP Settings| Ρυθμίσεις SIP
+Proxy Port| Θύρα proxy
+Registrar Port| ΘύραServerΚαταχ.
+User Name| Όνομα χρήστη
+Screen Name| Όνομα οθόνης
+Proxy Server| Proxy Server
+Registrar Server| Server καταχώρ.
+Auth. Name| Όνομα ελέγχου ταυτότητας
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Προβολή ονόματος
+RTP Port Base| Βάση θύρας RTP
+Static NAT| Στατικό ΝΑΤ
+NAT Settings| Ρυθμίσεις NAT
+NAT IP| NAT IP
+NAT SIP Port| Θύρα NAT SIP
+NAT RTP Port| Θύρα NAT RTP
+NAT HTTPS Port| Θύρα NAT HTTPS
+Phone Status| Κατάσταση τηλεφ.
+Auto Discovery| Αυτόμ. αναζήτηση
+Trying...| Απόπειρα...
+Remote| Απομακρ
+Reset| Επανεκ
+Choose Server| Επιλογή server
+Select| Επιλογ
+Select| Επιλογ
+Ring Tone:| Ήχος κουδ/σμού:
+Silent| Αθόρυβο
+Network Settings| Ρυθμ. δικτύου
+Clear| Ακύρωση
+Speaker | Ηχείο
+Headset | Κεφαλόφωνο
+Speaker/Headset| Ηχείο/Κεφαλόφ.
+Headset/Speaker| Κεφαλόφ./Ηχείο
+Audio Mode| Ένταση ήχου
+Low| Χαμηλή
+Medium| Μέτρια
+High| Υψηλή
+OFF| OFF
+Off| Off
+ON| ON
+DHCP Settings| Ρυθμίσεις DHCP
+DHCP User Class| Κλάση χρήστηDHCP
+Hostname| Όνομα host
+IP Address| Διεύθυνση IP
+Subnet Mask| Μάσκα υποδικτύου
+Subnet Mask:| Μάσκα υποδικτύου
+Gateway| Πύλη
+Primary DNS| Πρωτεύων DNS
+Secondary DNS| Δευτερεύων DNS
+TFTP Settings| Ρυθμίσεις TFTP
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| VLAN ID θύρας PC
+LAN Port VLAN| VLAN θύρας LAN
+PC Port VLAN| VLAN θύρας PC
+Priority| Προτεραιότητα
+VLAN Enabled\nYes| Ενεργό VLAN\nΝαι
+VLAN Enabled\nNo| Ενεργό VLAN\nΌχι
+PC Port Priority| Προτερ. θύρας PC
+LAN Port VLAN ID| VLAN ID θύραςLAN
+UPnP| UPnP
+Use UPnP| Χρήση UPnP
+Select Gateway| Επιλογή πύλης
+Portmap Started| Έναρξη Portmap
+Portmap Error| Σφάλμα Portmap
+LLDP| LLDP
+LLDP packet interval| Χρον.πακέτωνLLDP
+LLDP Settings| Ρυθμίσεις LLDP
+Use LLDP ELIN| Χρήση LLDP ELIN
+TypeService DSCP| ΕίδΥπηρεσίαςDSCP
+Type of Service DSCP| Είδος Υπηρεσίας DSCP
+VLAN Priority| Προτεραιότ. VLAN
+Other Priority| Άλλη προτεραιότ.
+SessionBorderCtl| ΈλεγχΣυνόρΕισόδ
+Session Border Ctrl| ΈλεγχοςΣυνόρωνΕισόδου
+Select SBC| Επιλογή SBC
+SBC Settings| Ρυθμίσεις SBC
+Kagoor| Kagoor
+Update Interval (sec)| Ανανέωση (δευτ.)
+Backspace| Backspace
+No| Όχι
+Yes| Ναι
+DHCP Download Options| Επιλογές λήψης DHCP
+DHCP Download Option| Επιλογές λήψης DHCP
+Firmware Version| Έκδοση Firmware
+Restart Phone| Επανεκκίνηση τηλ
+Show| Προβολή
+is OFF| ανενεργό
+Password| ΚωδΠρόσβ
+Restarting...| Επανεκκίνηση...
+Speed| Ταχύτητα
+Manual| Χειροκ
+Auto| Αυτ
+Auto| Αυτ
+Half| Half
+Full| Full
+Duplex| Duplex
+ ERROR: |  ΣΦΑΛΜΑ:
+Invalid IP addr.| Άκυρη διεύθ. IP
+Invalid mask| Άκυρη μάσκα
+Range is 1-4094| Εύρος: 1-4094
+Range is 1-4095| Εύρος: 1-4095
+Range is 1-4095| Εύρος: 1-4095
+Range is 0-63| Εύρος: 0-63
+Range is 0-7| Εύρος: 0-7
+DND| DND
+DND On| DND Ενεργό
+Time Server| Server ώρας
+Set Time| Ρύθμιση ώρας
+Set Date| Ρύθμ.ημερομηνίας
+Date Format| Μορφή ημερομηνίας
+Time Zone| Ζώνη ώρας
+Daylight Savings| Θερινή ώρα
+Invalid Time| Άκυρη ώρα
+Invalid Date| Άκυρη ημερομηνία
+Invalid IP| Άκυρη ΙΡ
+ Invalid Number|  Άκυρος αριθμός
+On| On
+On| On
+On| On
+OFF| OFF
+Automatic| Αυτόματο
+Conf Hold| Αναμ.Συνακρόασης
+No Service| ΑπουσίαΥπηρεσίας
+Mute| Σίγαση
+Connected| Συνδέθηκε
+Drop| Απόρριψη
+Park| Στάθμευση
+PickUp| ΛήψηΑπόΑλλ
+Redial| Επανάκληση
+DCP| DCP
+DCP List| Λίστα DCP
+Cancel| Ακύρωση
+Done| Έγινε
+Callers List| Λίστα καλούντων
+No changes made| Δεν έγινε αλλαγή
+Key is Locked| Πλήκτρο κλειδ/νο
+Cannot Save| ΑδυναμίαΑποθ/σης
+1 item| 1 στοιχείο
+ items|  στοιχεία
+No User| ΔενΥπαρχΧρήστης
+DHCP failed| Αποτυχία DHCP
+Unknown Name| Άγνωστο όνομα
+Unknown Number| Άγνωστος αριθμός
+Unknown Line| Άγνωστη γραμμή
+Item is erased| ΣτοιχείοΔιαγρ/νο
+Unknown| Άγνωστο
+NextSpace| ΕπόμΚενό
+Dot "."| Τελεία "."
+Transfer Failed| Αποτυχ.μεταφοράς
+Call Forward| Πρώθηση κλήσης
+Call Fwd| ΠρθΚλ
+All| Όλα
+All| Όλα
+Any| Οποιοδήποτε
+NoAns| Δεν απαντά
+BusyNoAns| ΚατειλΔενΑπαντά
+Number:| Αριθμός
+Mode:| Λειτ:
+No. Rings:| Αρ.Κουδουν.:
+Line: | Γραμμή
+Contrast Level| Αντίθεση
+ Message|  Μήνυμα
+ Messages|  Μηνύματα
+Loading Page...| Φόρτωση σελίδας 
+Abort Loading...| Ακύρωση φόρτωσης
+Connect Timeout| Λήξη Χρ.Σύνδεσης
+Data Timeout| ΛήξηΧρ.Δεδομένων
+File Not Found| ΔενΒρέθηκεΑρχείο
+Page Load Error| Σφάλμα φόρτ.σελ.
+Cannot display| ΑδυναμίαΠροβολής
+Skip| Παράλειψη
+Call Failed| Αποτυχία κλήσης
+Primary Server| Πρωτεύων server
+Primary Server| Πρωτεύων server
+Alternate Server| Εναλλακτ. server
+Primary| Πρωτεύων
+Alternate| Εναλλακτικός
+Bad encrypted cfg| Σφάλμα κρυπτ.cfg
+Use TFTP| Χρήση TFTP
+Use FTP| Χρήση FTP
+Use HTTP| Χρήση HTTP
+Use HTTPS| Χρήση HTTPS
+FTP Settings| Ρυθμίσεις FTP
+FTP Server| FTP Server
+FTP Path| διαδρ.FTP
+FTP Username| Όνομα Χρήστη FTP
+FTP Password| ΚωδΠρόσβ FTP
+HTTP Settings| Ρυθμίσεις HTTP
+HTTP Server| HTTP Server
+HTTP Path| διαδρ.HTTP
+HTTP Port| Θύρα HTTP
+HTTPS Settings| Ρυθμίσεις HTTPS
+Download Server| Λήψη Server
+Download Path| Λήψη διαδρ.
+Download Port| Λήψη Θύρα
+HTTPS Server| HTTPS Server
+HTTPS Path| διαδρ.HTTPS
+HTTPS Port| Θύρα HTTPS
+HTTPS Client| πελάτη HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Λάθος πιστοπ/κό
+Certificates| Πιστοποιητικά
+Cert Validation| Επικύρωση πιστ
+All defaults| ΌλεςΠροκαθ.Ρυθμ.
+Config default| ΠροκαθΔιαμορφωση
+AM| ΠΜ
+PM| ΜΜ
+Factory Default| Εργοστ.Ρυθμίσεις
+Factory Default?| Εργοστ. Ρυθμ;
+Erase Local Cfg.| ΔιαγραφήΤοπ.Ρυθμ
+New IP Obtained| Ελήφθη νέο ΙΡ
+New NAT IP| Νέο NAT IP
+Server IP Change| ΝέοIP του server
+AastraLink Menu| Μενού AastraLink
+Server Options| Επιλογές Server
+AastraLink Info| ΠληροφAastraLink
+Server Remote IP| ΑπομακρIP Server
+Server Local IP| Τοπικό IP Server
+Preferences| Προτιμήσεις
+Network Status| ΚατάστασηΔικτύου
+MAC Address:| Διεύθυνση MAC:
+MAC Address| Διεύθυνση MAC
+BT MAC Address:| ΔιεύθυνσηMAC BT:
+Invalid Key| Άκυρο πλήκτρο
+Speed Dial Edit:| Επεξ.ταχ.μνήμης:
+Press SD button| Πιέστε Ταχ.Μνήμη
+From: | Από:
+To: | Προς:
+Via: | Μέσω:
+Diverted: | Εκτροπή:
+Log Off| Αποσύνδεση
+Customer Support| Υποστ. Πελατών
+Status| Κατάσταση
+Operation| Λειτουργία
+Basic Settings| Βασικές ρυθμίσεις
+Advanced Settings| Προηγμένες ρυθμίσεις
+System Information| Πληροφορίες συστήματος
+Down| Κάτω
+Up| Επάνω
+n/a| Μ/Δ
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Ιδιότητα
+Link State| Κατάσταση ζεύξης
+Negotiation| Διαπραγμάτευση
+Hardware Information| Πληροφορίες υλικού
+Firmware Information| Πληροφορίες firmware
+Firmware Release Code| Κωδικός έκδοσης firmware
+Value| Τιμή
+Platform| Πλατφόρμα
+Boot Version| Έκδοση Boot
+Date/Time| Ημερομηνία/Ώρα
+DND Key Mode| Λειτουργία πλήκτρου DND
+Call Forward Key Mode| Λειτουργία πλήκτρου προώθησης κλήσης
+Option 160| Επιλογή 160
+Option 159| Επιλογή 159
+Option 66| Επιλογή 66
+Option 43| Επιλογή 43
+Account| Λογαριασμός
+Both| Και τα δύο
+Line| Γραμμή
+Line 1| Γραμμή 1
+Line 2| Γραμμή 2
+Line 3| Γραμμή 3
+Line 4| Γραμμή 4
+Line 5| Γραμμή 5
+Line 6| Γραμμή 6
+Line 7| Γραμμή 7
+Line 8| Γραμμή 8
+Line 9| Γραμμή 9
+Line 10| Γραμμή 10
+Configuration Line %d| Διαμόρφωση γραμμής %d
+Basic SIP Authentication Settings| Βασικές ρυθμίσεις ελέγχου ταυτότητας SIP
+Screen Name| Όνομα οθόνης
+Screen Name 2| Όνομα οθόνης 2
+Phone Number:| Αριθμός τηλεφώνου:
+Phone Number| Αριθμός τηλεφώνου
+Caller ID| Αναγν. καλούντος
+Authentication Name| Όνομα ελέγχου ταυτότητας
+Password| Κωδικός πρόσβασης
+BLA Number| Αριθμός BLA
+Line Mode| Λειτουργία γραμμής
+Generic| Γενικά
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Βασικές ρυθμίσεις δικτύου SIP
+Outbound Proxy Server| Proxy Server εξερχομένων
+Outbound Proxy Port| Θύρα Proxy εξερχομένων
+Registration Period| Περίοδος εγγραφής
+RTP Settings| Ρυθμίσεις RTP
+Autodial Settings| Ρυθμίσεις αυτόματης κλήσης
+Autodial Number| Αριθμός αυτόματης κλήσης
+Autodial Timeout| Χρονικό όριο αυτόματης κλήσης
+Use Global Settings| Χρήση καθολικών ρυθμίσεων
+DTMF Method| Μέθοδος DTMF
+SIP INFO| Πληροφορίες SIP
+BOTH| ΚΑΙ ΤΑ ΔΥΟ
+Save Settings| Αποθήκευση ρυθμίσεων
+Global SIP| Καθολ. SIP
+Global SIP Settings| Καθολικές ρυθμίσεις SIP
+RTP Encryption| Κρυπτογράφηση RTP
+SRTP Disabled| Απενεργοποίηση SRTP
+SRTP Preferred| Προτιμάται SRTP
+SRTP Only| Μόνο SRTP
+Advanced SIP Settings| Προηγμένες ρυθμίσεις SIP
+Explicit MWI Subscription| Εμφανής συνδρομή MWI
+Explicit MWI Subscription Period| Περίοδος εμφανούς συνδρομής σε MWI
+MWI for BLA account| MWI για λογαριασμό BLA
+Enabled| Ενεργοποιήθηκε
+Send MAC Address in REGISTER Message| Αποστολή διεύθυνσης MAC σε μήνυμα REGISTER
+Send Line Number in REGISTER Message| Αποστολή αριθμού γραμμής σε μήνυμα REGISTER
+Session Timer| Χρονόμετρο περιόδου λειτουργίας
+T1 Timer| Χρονόμετρο Τ1
+T2 Timer| Χρονόμετρο Τ2
+Transaction Timer| Χρονόμετρο συναλλαγών
+Transport Protocol| Πρωτόκολλο μεταφοράς
+UDP and TCP| UDP και TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| Μόνιμη TLS
+Registration Failed Retry Timer| Χρονόμετρο αποπειρών αποτυχίας εγγραφής
+Registration Timeout Retry Timer| Χρονόμετρο αποπειρών λήξης χρόνου εγγραφής
+Registration Renewal Timer| Χρονόμετρο ανανέωσης εγγραφής
+BLF Subscription Period| Περίοδος συνδρομής BLF
+ACD Subscription Period| Περίοδος συνδρομής ACD
+BLA Subscription Period| Περίοδος συνδρομής BLA
+Blacklist Duration| Διάρκεια χρόνου μαύρης λίστας
+ Park Pickup Config|  Διαμόρφ. στάθμευσης-λήψης άλλου
+RTP Port| Θύρα RTP
+Basic Codecs| Βασικά Codec
+Force RFC2833 Out-of-Band DTMF| Διασφάλιση RFC2833 Out-of-Band DTMF
+Codec Preference List| Λίστα προτίμησης Codec
+Silence Suppression| Καταστολή σίγασης
+Provisioning complete.| Η διαχείριση πόρων ολοκληρώθηκε.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Πρέπει να επανεκκινήσετε το τηλέφωνο για να εφαρμοστούν οι νέες ρυθμίσεις.
+ERROR: Maximum number of connections reached.| ΣΦΑΛΜΑ: Ο αριθμός συνδέσεων έφτασε στο μέγιστο όριο.
+Logout Complete| Ολοκλήρωση αποσύνδεσης
+Your session has ended.  Please close the browser.| Η περίοδος λειτουργίας σας έληξε. Παρακαλούμε κλείστε το πρόγραμμα πλοήγησης.
+Session Expired| Η περίοδος λειτουργίας σας έληξε.
+Please close the browser or use the link below to log in again.| Παρακαλούμε κλείστε το πρόγραμμα πλοήγησης ή χρησιμοποιήστε τον παρακάτω σύνδεσμο για νέα είσοδο.
+Log In| Είσοδος
+Log Out| Έξοδος
+Log Out| Έξοδος
+Avail| Διαθ
+Avail| Διαθ
+Unavail| Μη διαθ
+Unavail| Μη διαθ
+Reset User Password| Ορισμός νέου κωδικού πρόσβασης χρήστη
+Please enter the current and new passwords| Εισαγάγετε τον τρέχοντα και τον νέο κωδικό πρόσβασης
+Current Password| Τρέχων κωδικός πρόσβασης
+New Password| Νέος κωδικός πρόσβασης
+Password Confirm| Επιβεβαίωση κωδικού πρόσβασης
+Please Enter| Εισαγάγετε
+Submit| Υποβολή
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Έλεγχος ταυτ...
+Authorization Failed| Έλεγχος ταυτ απέτυχε
+Auth Failed| ΈλεγχΤαυτΑπέτυχε
+Current password is incorrect.| Ο κωδικός πρόσβασης είναι λανθασμένος.
+Please try again.| Ξαναπροσπαθήστε.
+The new password fields do not match.| Τα πεδία του νέου κωδικού πρόσβασης δεν ταιριάζουν.
+The new password can not be saved.| Ο νέος κωδικός πρόσβασης δεν μπορεί να αποθηκευθεί.
+The user password has been changed.| Ο κωδικός πρόσβασης του χρήστη άλλαξε.
+Task and Stack Info| Πληροφορίες εργασιών και στοιβών
+Back| Πίσω
+Files Available for Download| Αρχεία διαθέσιμα για λήψη
+Custom| Προσαρμογή
+Save As...| Αποθήκευση ως...
+Directory List| Λίστα καταλόγου
+Current Settings| Τρέχουσες ρυθμίσεις
+Restore To Factory Defaults| Επαναφορά στις προκαθορισμένες εργοστασιακές ρυθμίσεις
+Restore| Επαναφορά
+Remove Local Configuration Settings| Κατάργηση ρυθμίσεων τοπικής διαμόρφωσης
+Remove| Κατάργηση
+Restarting the hardware...| Επανεκκίνηση του υλικού...
+Please return to the main page after your phone restarts.| Μετά την επανεκκίνηση της συσκευής σας, μεταβείτε στην κύρια σελίδα.
+User not authorized to make changes.| Ο χρήστης δεν είναι εξουσιοδοτημένος να κάνει αλλαγές.
+Local configuration file has been deleted.| Το αρχείο τοπικής διαμόρφωσης έχει διαγραφεί.
+Please restart the phone for the settings to take effect.| Επανεκκινήστε τη συσκευή για να εφαρμοστούν οι ρυθμίσεις.
+Phone has been set to factory Defaults.| Η συσκευή ρυθμίστηκε στις προκαθορισμένες εργοστασιακές ρυθμίσεις.
+Action URI| URI ενέργειας
+Action URI Configuration| Διαμόρφωση URI ενέργειας
+Event| Συμβάν
+StartUp| Εκκίνηση
+Successful Registration| Επιτυχής εγγραφή
+Registration Event| Συμβάν εγγραφής
+Incoming Call| Εισερχόμενη κλήση
+Outgoing Call| Εξερχόμενη κλήση
+Offhook| Σηκωμένο ακουστικό
+Onhook| Ακουστικό στη θέση του
+Disconnected| Έχει αποσυνδεθεί
+Poll| Ελεγχος
+Interval| Χρονικό διάστημα
+Settings saved.| Οι ρυθμίσεις αποθηκεύθηκαν.
+Settings could not be saved.| Δεν ήταν δυνατό να αποθηκευθτούν οι ρυθμίσεις.
+Firmware Update| Ενημέρωση firmware
+TLS Support| Υποστήριξη TLS
+Manual Firmware Update| Μη αυτόματη ενημέρωση firmware
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Εισαγάγετε παρακάτω τη διεύθυνση ΙΡ του server και το όνομα του firmware για να ξεκινήσει η ενημέρωση του firmware.
+Configuration Server| Server διαμόρφωσης
+Configuration Server Settings| Ρυθμίσεις server διαμόρφωσης
+Server IP| ΙΡ του server
+File Name| Όνομα αρχείου
+Configure File Names| Διαμόρφωση ονομάτων αρχείων
+Root and Intermediate Certificates Filename| Όνομα αρχείου κύριου καταλόγου και ενδιάμεσων πιστοποιητικών
+Local Certificate Filename| Όνομα αρχείου τοπικού πιστοποιητικού
+Private Key Filename| Όνομα αρχείου ιδιωτικού κλειδιού
+Trusted Certificates Filename| Όνομα αρχείου αξιόπιστων πιστοποιητικών
+Download Firmware| Λήψη firmware
+Firmware upgrade in progress.  Please wait.| Η αναβάθμιση του firmware είναι σε εξέλιξη. Παρακαλώ περιμένετε.
+Please enter a valid filename and TFTP server IP address.| Εισαγάγετε έγκυρο όνομα αρχείου και διεύθυνση ΙΡ του TFTP server.
+Invalid TFTP server IP address| Η διεύθυνση ΙΡ του TFTP server δεν είναι έγκυρη.
+Invalid download settings.| Μη έγκυρες ρυθμίσεις λήψης.
+Unable to upgrade firmware.| Αδύνατη η αναβάθμιση του firmware.
+The phone is restarting...| Επανεκκίνηση συσκευής...
+Firmware upgrade successful.| Η αναβάθμιση του firmware ήταν επιτυχής.
+This firmware already exists on the phone.| Αυτό το firmware υπάρχει ήδη στη συγκεκριμένη συσκευή.
+No upgrade is needed.| Δεν απαιτείται αναβάθμιση.
+Troubleshooting| Αντιμετώπιση προβλημάτων
+Module| Λειτουργική μονάδα
+Log Settings| Ρυθμίσεις καταγραφής
+Log IP| IP καταγραφής
+Log Port| Θύρα καταγραφής
+Debug Level| Επίπεδο εντοπισμού σφαλμάτων
+Support Information| Πληροφορίες υποστήριξης
+Get local.cfg| Λήψη local.cfg
+Get server.cfg| Λήψη server.cfg
+Show Task and Stack Status| Εμφάνιση κατάστασης εργασιών και στοίβας
+Settings| Ρυθμίσεις
+Download Protocol| Λήψη πρωτοκόλλου
+Auto-Resync| Αυτόματος επανασυγχρονισμός
+Days| Ημέρες
+Maximum Delay| Μέγιστη καθυστέρηση
+Mode| Λειτουργία
+Configuration Files| Αρχεία διαμόρφωσης
+Time (24-hour)| Ώρα (24ωρη μορφή)
+XML Push Server List(Approved IP Addresses)| Λίστα XML Push Server (Εγκεκριμένες διευθύνσεις ΙΡ)
+Phone-side Call Forward Settings| Ρυθμίσεις προώθησης κλήσεων από την πλευρά της συσκευής
+Global Settings| Καθολικές ρυθμίσεις
+No Answer| Δεν απαντά
+Number| Αριθμός
+Number of Rings| Αριθμός κουδουνισμών
+Local Line| Τοπική γραμμή
+Forward Number| Αριθμός προώθησης
+Global| Καθολικό
+Enable| Ενεργοπ/ση
+Network| Δίκτυο
+Must provision a valid default gateway IP if DHCP is enabled| Πρέπει να δοθεί έγκυρη ΙΡ προκαθορισμένης πύλης, αν έχει ενεργοποιηθεί το DHCP
+Invalid IP Address| Μη έγκυρη διεύθυνση IP
+Invalid IP address| Μη έγκυρη διεύθυνση IP
+Invalid IP addr.| Μη έγκυρη διεύθυνση IP
+Invalid gateway address| Μη έγκυρη διεύθυνση πύλης
+Invalid subnet mask| Μη έγκυρη μάσκα υποδικτύου
+Invalid primary DNS address| Μη έγκυρη διεύθυνση πρωτεύοντος DNS
+Invalid secondary DNS address| Μη έγκυρη διεύθυνση δευτερεύοντος DNS
+Basic Network Settings| Βασικές ρυθμίσεις δικτύου
+Advanced Network Settings| Προηγμένες ρυθμίσεις δικτύου
+DHCP| DHCP
+NAT Port| Θύρα NAT
+Nortel NAT Traversal Enabled| Ενεργοποίηση Nortel NAT Traversal
+Nortel NAT Timer (seconds)| Χρονόμετρο Nortel NAT (δευτερόλεπτα)
+NTP Time Servers| Διακομιστής ώρας (time server) ΝΤΡ
+Time Server 1| Time Server 1
+Time Server 2| Time Server 2
+Time Server 3| Time Server 3
+SIP| SIP
+VLAN Enable| ΕνεργοποίησηVLAN
+Non-IP Packet| Πακέτο μη ΙΡ
+SIP Priority| Προτεραιότ. SIP
+RTP Priority| Προτεραιότ. RTP
+RTCP Priority| Προτεραιότ. RTCP
+Preferences| Προτιμήσεις
+General| Γενικά
+Idle Display Name 1| Αδρανής οθόνη - όνομα 1
+Idle Display Name 2| Αδρανής οθόνη - όνομα 2
+Local Dial Plan| Τοπικό σχέδιο κλήσεων
+Send Dial Plan Terminator| Αποστολή τερματιστή σχεδίου κλήσεων
+Digit Timeout (seconds)| Timeout ψηφίων (δευτερόλεπτα)
+Park Call:| Στάθμευση κλήσης:
+Pick Up Parked Call:| Απάντηση σταθμευμένης κλήσης:
+Suppress DTMF Playback| Καταστολή αναπαραγωγής DTMF
+Display DTMF Digits| Εμφάνιση ψηφίων DTMF
+Call Waiting| Αναμονή κλήσης
+Call Waiting| Αναμονή κλήσης
+Play Call Waiting Tone| Αναπαραγωγή τόνου αναμονής κλήσης
+Stuttered Dial Tone| Διακεκομμένος τόνος κλήσης
+Incoming Call Interrupts Dialing| Μια εισερχόμενη κλήση διακόπτει την επιλογή αριθμού κλήσης
+Switch UI Focus To Ringing Line| Μεταφορά εστίασης διασύνδεσης χρήστη στη γραμμή που καλεί
+Outgoing Intercom Settings| Ρυθμίσεις εξερχόμενης ενδοεπικοινωνίας
+Type| Τύπος
+Phone-Side| Από την πλευρά του τηλεφώνου
+Server-Side| Από την πλευρά του server
+Prefix Code| Κωδικός προθέματος
+Incoming Intercom Settings| Ρυθμίσεις εισερχόμενης ενδοεπικοινωνίας
+Microphone Mute| Σίγαση μικροφώνου
+Play Warning Tone| Αναπαραγωγή τόνου προειδοποίησης
+Allow Barge In| Επιτρέπεται η διακοπή της τρέχουσας κλήσης από κλήση ενδοεπικοινωνίας
+Auto-Answer| Αυτόματη απάντηση
+Key Mapping| Αντιστοίχιση κλειδιών
+Map Redial Key To| Αντιστοίχιση κλειδιού επανάκλησης σε
+Map Conf Key To| Αντιστοίχιση κλειδιού συνακρόασης σε
+Ring Tones| Τόνοι κουδουνισμού
+Brazil| Βραζιλία
+France| Γαλλία
+Germany| Γερμανία
+Italy| Ιταλία
+Italy2| Ιταλία2
+Mexico| Μεξικό
+Russia| Ρωσία
+UK| Ηνωμένο Βασίλειο
+US| ΗΠΑ
+Global Ring Tone| Καθολικός ήχος κουδουνισμού
+Tone 1| Ήχος 1
+Tone 2| Ήχος 2
+Tone 3| Ήχος 3
+Tone 4| Ήχος 4
+Tone 5| Ήχος 5
+Tone 6| Ήχος 6
+Tone 7| Ήχος 7
+Tone 8| Ήχος 8
+Tone 9| Ήχος 9
+Tone 10| Ήχος 10
+Tone 11| Ήχος 11
+Tone 12| Ήχος 12
+Tone 13| Ήχος 13
+Tone 14| Ήχος 14
+Tone 15| Ήχος 15
+Priority Alerting Settings| Ρυθμίσεις ειδοποίησης προτεραιοτήτων
+Enable Priority Alerting| Ενεργοποίηση ειδοποίησης προτεραιοτήτων
+Group| Ομάδα
+External| Εξωτερ.
+Internal| Εσωτερ.
+Emergency| Έκτακτη ανάγκη
+Auto call distribution| Αυτόματη διανομή κλήσεων
+Auto Call Distribution Settings| Ρυθμίσεις αυτόματης διανομής κλήσεων
+ACD| Αυτόματη διανομή κλήσεων
+Community 1| Κοινότητα 1
+Community 2| Κοινότητα 2
+Community 3| Κοινότητα 3
+Community 4| Κοινότητα 4
+Normal ringing| Κανονικός κουδουνισμός
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Ρυθμίσεις κατευθυνόμενης απάντησης κλήσης άλλου εσωτερικού
+Directed Call Pickup| Κατευθυνόμενη απάντηση κλήσης άλλου εσωτερικού
+Directed Call Pickup by Prefix| Κατευθυνόμενη απάντηση κλήσης άλλου εσωτερικού βάσει προθέματος
+Play a Ring Splash| Αναπαραγωγή ήχου "ring splash"
+Auto Available| Αυτόματη Διαθεσιμότητα
+Auto Available Timer| Χρονόμετρο Αυτόματης Διαθεσιμότητας
+Time and Date Setting| Ρύθμιση ημερομηνίας και ώρας
+Time Format| Μορφή ώρας
+Date Format| Μορφή ημερομηνίας
+Programmable Keys| Προγραμματιζόμενα πλήκτρα
+Programmable Keys Configuration| Διαμόρφωση προγραμματιζόμενων πλήκτρων
+Hard Key| Μόνιμο πλήκτρο
+Key| Πλήκτρο
+BLF List URI:| URI λίστας BLF:
+Speeddial/Xfer| Ταχεία κλήση/Μεταφορά
+Do Not Disturb| Μην ενοχλείτε
+BLF| BLF
+BLF/Xfer| BLF/Μεταφορά
+BLF/List| BLF/Λίστα
+XML| XML
+WebApps| Εφαρμογές ιστού
+Flash| Flash
+Last Call Return| Επιστροφή τελευταίας κλήσης
+Sprecode| Sprecode
+Transfer| Μεταφορά
+Conference| Συνακρόαση
+Save| Αποθήκευση
+Delete| Διαγραφή
+Data has been transmitted to the phone successfully.| Τα δεδομένα εστάλησαν στη συσκευή επιτυχώς.
+Data cannot be posted to the phone.| Τα δεδομένα δεν μπορούν να σταλούν στη συσκευή.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Βεβαιωθείτε ότι τα δεδομένα έχουν μέγεθος το πολύ 512 byte και ότι η συσκευή μπορεί να λαμβάνει από τον host.
+Expansion Modules| Μονάδα επέκτασης
+Expansion Module 1| Μονάδα επέκτασης 1
+Expansion Module 2| Μονάδα επέκτασης 2
+Expansion Module 3| Μονάδα επέκτασης 3
+Page 1| Σελίδα 1
+Page 2| Σελίδα 2
+Page 3| Σελίδα 3
+List 1| Λίστα 1
+List 2| Λίστα 2
+List 3| Λίστα 3
+List 4| Λίστα 4
+List 5| Λίστα 5
+List 6| Λίστα 6
+Incompatible with phone model| Ασυμβατότητα τηλεφωνικής συσκευής
+Backup Proxy Server| Εφεδρικός Proxy Server
+Backup Proxy Port| Θύρα εφεδρικού Proxy
+Backup Registrar Server| Εφεδρικός Server Καταχωρήσεων
+Backup Registrar Port| Θύρα εφεδρικού Server Καταχωρήσεων
+Phone is locked| Τηλ. κλειδωμένο
+Phone Lock| Κλείδ. τηλεφώνου
+Lock the phone?| Κλείδ.τηλεφώνου;
+Phone is unlocked| Το τηλέφωνο έχει ξεκλειδωθεί
+Password:| Κωδ. πρόσβασης
+Emergency Dial Plan| Σχέδιο κλήσεων εκτ. ανάγκης
+Account Configuration| Διαμόρφωση λογαριασμού
+Lock| Κλείδωμα
+Unlock| Ξεκλείδωμα
+Unlock the phone?| Ξεκλείδωμα τηλεφώνου;
+Lock or unlock the phone| Κλείδωμα ή ξεκλείδωμα τηλεφώνου
+HTTPS Client Method| Μέθοδος πελάτη HTTPS
+HTTPS Server - Redirect HTTP to HTTPS| HTTPS Server - Ανακατεύθυνση HTTP σε HTTPS
+HTTPS Server - Block XML HTTP POSTs| HTTPS Server - Αποκλεισμός XML HTTP POSTs
+Validate Certificates| Επικύρωση πιστοποιητικών
+Check Certificate Expiration| Έλεγχος λήξης πιστοποιητικού
+Check Certificate Hostnames| Έλεγχος ονόματος host πιστοποιητικού
+Language Settings| Ρυθμίσεις γλώσσας
+Webpage Language| Γλώσσα ιστοσελίδας
+Input Language| Γλώσσα εισόδου
+Input Language| Γλώσσα εισόδου
+Jan| Ιαν
+Feb| Φεβ
+Mar| Μαρ
+Apr| Απρ
+May| Μαι
+Jun| Ιον
+Jul| Ιολ
+Aug| Αυγ
+Sep| Σεπ
+Oct| Οκτ
+Nov| Νοε
+Dec| Δεκ
+Sun| Κυρ
+Mon| Δευ
+Tue| Τρι
+Wed| Τετ
+Thu| Πεμ
+Fri| Παρ
+Sat| Σαβ
+New Password Invalid.| Ο νέος κωδικός πρόσβασης είναι άκυρος
+New password must be 10 characters or less.| Ο νέος κωδικός πρόσβασης πρέπει να έχει το πολύ 10 χαρακτήρες
+New password must be numeric.| Ο νέος κωδικός πρόσβασης πρέπει να είναι αριθμητικός
+New password and confirm password do not match.| Ο κωδικός επιβεβαίωσης διαφέρει από τον κωδικό πρόσβασης.
+Error| Σφάλμα
+Are you sure you want to restart the phone?| Είστε βέβαιοι ότι θέλετε επανεκκίνηση του τηλεφώνου;
+This will restore the phone to default settings and cannot be undone.| Θα ακυρωθούν οι τοπικές ρυθμίσεις και η ενέργεια αυτή δεν μπορεί να αναιρεθεί.
+This will remove the local configuration settings and cannot be undone.| Το τηλέφωνο θα επανέλθει στις προκαθορισμένες ρυθμίσεις και η ενέργεια αυτή δεν μπορεί να αναιρεθεί.
+Continue| Συνέχεια
+Error: Intercom Settings| Σφάλμα: Ρυθμίσεις ενδοεπικοινωνίας
+Please enter a prefix code for server-side intercom.| Εισαγάγετε πρόθεμα ενδοεπικοινωνίας από την πλευρά του server.
+Value must be between| Η τιμή πρέπει να κυμαίνεται μεταξύ
+and| και
+Invalid Setting:| Άκυρη ρύθμιση:
+Please select at least one state for softkey| Επιλέξτε τουλάχιστον μία κατάσταση για το εικονικό πλήκτρο
+DSCP value| Η τιμή DSCP 
+is mapped to multiple priorities.| αντιστοιχίζεται σε πολλαπλές προτεραιότητες.
+Please enter Admin name and password| Παρακαλώ εισαγάγετε όνομα και κωδικό πρόσβασης διαχειριστή.
+Please enter User name and password| Παρακαλώ εισαγάγετε όνομα και κωδικό πρόσβασης χρήστη.
+Centralized Conference| Κεντρική συνακρόαση
+Conference Server URI| URI του server συνακρόασης
+UPnP device not found| Δεν βρέθηκε συσκευή UPnP
+Ethernet| Ethernet
+Ethernet Link| Ζεύξη Ethernet
+Ethernet & VLAN| Ethernet & VLAN
+Link| Ζεύξη
+10M| 10Μ
+100M| 100Μ
+Unavailable| Μη διαθέσιμο
+Available| Διαθέσιμο
+Server Info| Στοιχεία server
+Unique ID:| Μοναδικό ID:
+UPnP Mapping Lines| Γραμ. αντιστοίχισης UPnP
+Port Failed| Αποτυχία θύρας
+Trying...| Δοκιμή...
+Seize Failed| ΑποτχΚατάληψ
+Missed Call Summary Subscription| Συνδρομή περίληψης αναπάντητων κλήσεων
+Missed Call Summary Subscription Period| Περίοδος συνδρομής περίληψης αναπάντητων κλήσεων
+AS-Feature-Event Subscription| Συνδρομή συμβάντων "AS-Feature-Event"
+AS-Feature-Event Subscription Period| Περίοδος συνδρομής συμβάντων "AS-Feature-Event"
+Goodbye Key Cancels Incoming Call| Το πλήκτρο αποχαιρετισμού ακυρώνει την εισερχόμενη κλήση
+Address Incomplete| Ελλιπής διεύθυνση
+Admin Menu| ΜενούΔιαχειριστή
+IP&MAC Addresses| Διευθ/σειςIP&MAC
+LAN Port| Θύρα LAN
+PC Port| Θύρα PC
+Set Audio| Ρύθμιση ήχου
+Config. Server| Server διαμόρφ.
+IP Address:| Διεύθυνση ΙΡ:
+Error Messages| Μηνύματα σφάλματος
+No Error Messages| Δεν υπάρχουν μηνύματα σφάλματος
+ Errors|  Σφάλματα
+ Error|  Σφάλμα
+Disabled| Απενεργοποιήθηκε
+LAN Port Link| Ζεύξη θύρας LAN
+PC Port Link| Ζεύξη θύρας PC
+RTP| RTP
+RTCP| RTCP
+Phone| Τηλέφωνο
+Headset Mic Vol| ΈντασηΜικροφΚεφ
+TypeService SIP| Τύπος υπηρ SIP
+TypeService RTP| Τύπος υπηρ RTP
+TypeService RTCP| Τύπος υπηρ RTCP
+Authentic. Name| Όνομα ελέγχ.ταυτ
+XML Beep Support| Υποστήριξη ήχου XML
+Status Scroll Delay (seconds)| Καθυστέρηση κύλισης κατάστασης (δευτερόλεπτα)
+Backlight| Οπίσθ. φωτισμός
+Backlight| Οπίσθ. φωτισμός
+Display| Οθόνη
+Speed Dial Edit| Ρύθμ.ταχ.μνημών
+second| δευτερόλ.
+seconds| δευτερόλ.
+Label| Ετικέτα
+Message Waiting Indicator Line| Γραμμή ένδειξης αναμονής μηνυμάτων
+Keypad Speed Dial| Ταχεία κλήση πληκτρολογίου
+Digit| Ψηφίο
+Whitelist Proxy| Proxy server επιτρεπόμενων
+XML SIP Notify| Ειδοποίηση XML SIP
+Custom Feature| ΠροσαρμΧαρακτ/κό
+User ID:| ID χρήστη:
+Local SIP UDP/TCP Port| Τοπική θύρα SIP UDP/TCP
+Local SIP TLS Port| Τοπική θύρα SIP TLS
+802.1x Support| Υποστήριξη 802.1x
+EAP Type| Τύπος ΕΑΡ
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Ταυτότητα
+MD5 Password| Κωδικός πρόσβασης MD5
+PC Port PassThru Enable/Disable| Ενεργ/ση-Απενεργ/ση Θύρας PC PassThru
+EAP-TLS Settings| Ρυθμίσεις EAP-TLS
+EAP-MD5 Settings| Ρυθμίσεις EAP-MD5
+Enable PassThru Port| Ενεργ/σηΘύραςPassThru
+PC Port Enabled\nYes| ΘύραPCενεργ\nΝαι
+PC Port Disabled\nNo| ΘύραPCΜη ενεργ\nΌχι
+802.1x Settings| Ρυθμίσεις 802.1x
+802.1x Mode| Λειτουργία802.1x
+EAP-MD5 Settings| ΡυθμίσειςEAP-MD5
+EAP-TLS Settings| ΡυθμίσειςEAP-TLS
+STUN Server| Server STUN
+STUN Port| Θύρα STUN
+TURN Server| Server TURN
+TURN Port| Θύρα TURN
+TURN User ID| Idχρήστη TURN
+TURN Password| ΚωδΠροσβ TURN
+Paging| Τηλεειδοποίηση
+Streaming| Μετάδοση ροής
+Group Paging RTP Settings| Ρυθμίσεις RTP για ομαδική τηλεειδοποίηση
+Paging Listen Addresses| Διευθύνσεις τύπου Listen address για τηλεειδοποίηση
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| Λογαριασμός SIP
+Backup Registrar Used?| Χρήση εφεδρικού server καταχώρησης;
+Unregistered| Μη καταχωρημένο
+Registered| Καταχωρημένο
+SIP Status| Κατάσταση SIP
+Server Error| Σφάλμα server
+Swap| Εναλλαγή
+LLDP\nEnabled| LLDP\nΕνεργό
+LLDP\nDisabled| LLDP\nΑνενεργό
+LLDP Support| Υποστήριξη LLDP
+Preferred line| Προτιμώμενη γραμμή
+Preferred line Timeout (seconds)| Χρονικό όριο προτιμώμενης γραμμής (δευτερόλεπτα)
+Invalid URI| Μη έγκυρο URI
+WebApps| WebApps
+Watchdog| Λειτουργία φύλακα (watchdog)
+Speeddial/Conf| Ταχεία κλήση/Συνακρ
+Call is on Hold| Κλήση σε αναμονή
+No subscription| Οχι συνδρομή
+MDot1xFailedStartup| MDot1xΑποτυχΈναρξη
+802.1x Startup Failed| Αποτυχία έναρξης 802.1x
+LLDP Startup Failed| Αποτυχία έναρξης LLDP
+Failed to config Line Manager| Αποτυχία διαμόρφωσης Διαχείρισης Γραμμής
+Line in use| Γραμμή σε χρήση
+Get Crash Log| Λήψη καταχωρήσεων σφαλμάτων
+Time Unavailable| Μη διαθ. χρόνος
+Packetization Interval| Ενδιάμεσο διάστημα δημιουργίας πακέτων
+Basic| Βασικό
+Note: Basic Codecs Include| Σημείωση: Τα βασικά Codec περιλαμβάνουν
+Default| Προκαθ. Τιμή
+Not Configured| Μη διαμόρφ
+America| Αμερική
+Asia| Ασία
+Atlantic| Ατλαντικός
+Pacific| Ειρηνικός
+Australia| Αυστραλία
+Europe| Ευρώπη
+Malaysia| Μαλαισία
+Invalid Setting| Μη έγκυρη ρύθμιση
+Must not be empty| Δεν πρέπει να είναι κενό
+Must be a valid number| Απαιτείται έγκυρος αριθμός
+Must be a nonzero number| Απαιτείται μη μηδενικός αριθμ
+Not in range| Εκτός εύρους
+Invalid Hostname| Άκυρο όνομα host
+802.1x Failed| Αποτυχία 802.1x
+Admin Password:| ΚωδΠροσβ Διαχειρ
+Voicemail| Φων. ταχυδρομείο
+Voicemail| Φων. ταχυδρομείο
+HTTPS Failed| Αποτυχία HTTPS
+LLDP Failed| Αποτυχία LLDP
+TR69 connect Err| Σφάλμα σύνδ TR69
+Downloading Language Packs| Λήψη πακέτων γλωσσών
+Please Wait...| Περιμένετε...
+to edit| προς επεξεργασία
+Cfg Svr Failure| ΑποτχServΔιαμορφ
+Lines| Γραμμές
+LDAP Directory| Κατάλογος LDAP
+Ldap Directory| Κατάλογος Ldap
+Item| Στοιχείο
+item| Στοιχείο
+Certificate Revoked| ΠιστοποιητικόΑνακλήθηκε
+Certificate Unknown| Πιστοποιητικό άγνωστο
+Delete entire| Διαγραφή όλων
+LDAP Search Filter| ΦίλτροΑναζήτ LDAP
+Ldap Search Filter| ΦίλτροΑναζήτ Ldap
+LDAP Server| Server LDAP
+Ldap Server| Server Ldap
+Certificate Expired| Το πιστοποιητικό έληξε
+Unsupported Certificate| ΜηΥποστηριζόμενοΠιστοπ
+No Certificate| Απουσία πιστοποιητικού
+Options List| Λίστα επιλογών
+Directory?| Κατάλογος;
+Work| Εργασία
+No available lines| Μη διαθέσιμες γραμμές
+Search| Αναζήτηση
+Ldap Base DN| ΒασικόΌνΤομέαLdap
+items| στοιχεία
+Spddial| ΤαχΚλ
+Ldap Number Attributes| Αριθμ.Ιδιότ. Ldap
+Ldap Max Hits| Μέγ.Αποτελ.Ldap
+Ldap Settings| Ρυθμίσεις Ldap
+Ldap Name Attributes| Ονομ.Ιδιότ. Ldap
+Timezone zoneAmerica| 
+AG-Antigua| AG-Αντίγκουα
+AI-Anguilla| AI-Ανγκουίλα
+AN-Curacao| AN-Κουρασάο
+AR-Buenos Aires| AR-Μπουένος Άιρες
+AR-San Luis| AR-Σαν Λουίς
+AW-Aruba| AW-Αρούμπα
+BB-Barbados| BB-Μπαρμπάντος
+BO-La Paz| BO-Λα Παζ
+BR-Araguaina| BR-Αραγκουαΐνα
+BR-Belem| BR-Μπελέμ
+BR-Boa Vista| BR-Μπόα Βίστα
+BR-Cuiaba| BR-Κουιαμπά
+BR-Eirunepe| BR-Εϊρουνεπέ
+BR-Fortaleza| BR-Φορταλέζα
+BR-Maceio| BR-Μασεϊό
+BR-Manaus| BR-Μανάους
+BR-Noronha| BR-Νορόνια
+BR-Porto Velho| BR-Πόρτο Βέλιο
+BR-Recife| BR-Ρεσίφε
+BR-Rio Branco| BR-Ρίου Μπράνκου
+BR-Sao Paulo| BR-Σάο Πάολο
+BS-Nassau| BS-Νασσάου
+BZ-Belize| BZ-Μπελίζ
+CA-Atlantic| CA-Ατλαντικού
+CA-Central| CA-Κεντρική
+CA-Eastern| CA-Ανατολική
+CA-Mountain| CA-Ορεινή
+CA-Newfoundland| CA-Νέα Γη
+CA-Pacific| CA-Ειρηνικού
+CA-Saskatchewan| CA-Σασκάτσουαν
+CA-Yukon| CA-Γιούκον
+CL-Easter| CL-Πάσχα
+CL-Santiago| CL-Σαντιάγο
+CO-Bogota| CO-Μπογκοτά
+CR-Costa Rica| CR-Κόστα Ρίκα
+CU-Havana| CU-Αβάνα
+DM-Dominica| DM-Δομινίκα
+DO-Santo Domingo| DO-Σάντο Ντομίνγκο
+GD-Grenada| GD-Γρενάδα
+GF-Cayenne| GF-Καγιέν
+GP-Guadeloupe| GP-Γουαδελούπη
+GT-Guatemala| GT-Γουατεμάλα
+GY-Guyana| GY-Γουιάνα
+HN-Tegucigalpa| HN-Τεγουσιγάλπα
+HT-Port-au-Prince| HT-Πορτ-ο-Πρενς
+JM-Jamaica| JM-Τζαμάικα
+KY-Cayman| KY-Κέιμαν
+LC-St Lucia| LC-Αγία Λουκία
+MQ-Martinique| MQ-Μαρτινίκα
+MS-Montserrat| MS-Μοντσερράτ
+MX-Cancun| MX-Κανκούν
+MX-Chihuahua| MX-Τσιουάουα
+MX-Hermosillo| MX-Χερμοσίγιο
+MX-Mazatlan| MX-Μαζατλάν
+MX-Merida| MX-Μέριδα
+MX-Mexico City| MX-Πόλη του Μεξικού
+MX-Monterrey| MX-Μοντερρέι
+MX-Tijuana| MX-Τιχουάνα
+NI-Managua| NI-Μανάγουα
+PA-Panama| PA-Παναμάς
+PE-Lima| PE-Λίμα
+PR-Puerto Rico| PR-Πουέρτο Ρίκο
+PY-Asuncion| PY-Ασουνσιόν
+SR-Paramaribo| SR-Παραμαρίμπο
+SV-El Salvador| SV-Ελ Σαλβαδόρ
+TT-Port of Spain| TT-Πορτ-οφ-Σπέιν
+US-Alaska| US-Αλάσκα
+US-Aleutian| US-Αλεούτιες
+US-Central| US-Κεντρική
+US-Eastern| US-Ανατολική
+US-Hawaii| US-Χαβάη
+US-Mountain| US-Ορεινή
+US-Pacific| US-Ειρηνικού
+UY-Montevideo| UY-Μοντεβιδέο
+VE-Caracas| VE-Καράκας
+Timezone zoneAsia| 
+AE-Dubai| AE-Ντουμπάι
+AZ-Baku| AZ-Μπακού
+CN-Beijing| CN-Πεκίνο
+CY-Nicosia| CY-Λευκωσία
+GE-Tbilisi| GE-Τιφλίδα
+HK-Hong Kong| HK-Χονγκ Κονγκ
+JP-Tokyo| JP-Τόκιο
+MU-Mauritius| MU-Μαυρίκιος
+OM-Muscat| OM-Μουσκάτ
+RU-Anadyr| RU-Ανάντιρ
+RU-Irkutsk| RU-Ιρκούτσκ
+RU-Kamchatka| RU-Καμτσάτκα
+RU-Krasnoyarsk| RU-Κρασνογιάρσκ
+RU-Magadan| RU-Μαγκαντάν
+RU-Novosibirsk| RU-Νοβοσιμπίρσκ
+RU-Omsk| RU-Ομσκ
+RU-Sakhalin| RU-Σαχαλίνη
+RU-Vladivostok| RU-Βλαδιβοστόκ
+RU-Yakutsk| RU-Γιακούτσκ
+RU-Yekaterinburg| RU-Γεκατερίνμπουργκ
+SA-Saudi Arabia| SA-Σαουδική Αραβία
+SG-Singapore| SG-Σιγκαπούρη
+TW-Taipei| TW-Ταϊπέι
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Βερμούδες
+ES-Canary| ES-Κανάρια
+FK-Stanley| FK-Στάνλεϋ
+FO-Faeroe| FO-Φερόες
+GS-South Georgia| GS-Νότια Γεωργία
+IS-Reykjavik| IS-Ρέικιαβικ
+PT-Azores| PT-Αζόρες
+PT-Madeira| PT-Μαδέρα
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Αδελαΐδα
+AU-Brisbane| AU-Μπρίσμπεϊν
+AU-Broken Hill| AU-Μπρόκεν Χιλ
+AU-Darwin| AU-Ντάργουιν
+AU-Lindeman| AU-Λίντεμαν
+AU-Lord Howe| AU-Λορντ Χάου
+AU-Melbourne| AU-Μελβούρνη
+AU-Perth| AU-Περθ
+AU-Sydney| AU-Σίδνεϊ
+AU-Tasmania| AU-Τασμανία
+Timezone zoneEurope| 
+AD-Andorra| AD-Ανδόρρα
+AL-Tirane| AL-Τίρανα
+AT-Vienna| AT-Βιέννη
+BA-Sarajevo| BA-Σαράγεβο
+BE-Brussels| BE-Βρυξέλλες
+BG-Sofia| BG-Σόφια
+BY-Minsk| BY-Μινσκ
+CH-Zurich| CH-Ζυρίχη
+CZ-Prague| CZ-Πράγα
+DE-Berlin| DE-Βερολίνο
+DK-Copenhagen| DK-Κοπεγχάγη
+EE-Tallinn| EE-Ταλίν
+ES-Madrid| ES-Μαδρίτη
+FI-Helsinki| FI-Ελσίνκι
+FR-Paris| FR-Παρίσι
+GB-Belfast| GB-Μπέλφαστ
+GB-London| GB-Λονδίνο
+GI-Gibraltar| GI-Γιβραλτάρ
+GR-Athens| GR-Αθήνα
+HR-Zagreb| HR-Ζάγκρεμπ
+HU-Budapest| HU-Βουδαπέστη
+IE-Dublin| IE-Δουβλίνο
+IT-Rome| IT-Ρώμη
+LI-Vaduz| LI-Βαντούζ
+LT-Vilnius| LT-Βίλνιους
+LU-Luxembourg| LU-Λουξεμβούργο
+LV-Riga| LV-Ρίγα
+MC-Monaco| MC-Μονακό
+MD-Chisinau| MD-Κισινάου
+MK-Skopje| MK-Σκόπια
+MT-Malta| MT-Μάλτα
+NL-Amsterdam| NL-Άμστερνταμ
+NO-Oslo| NO-Όσλο
+PL-Warsaw| PL-Βαρσοβία
+PT-Lisbon| PT-Λισαβόνα
+RO-Bucharest| RO-Βουκουρέστι
+RU-Kaliningrad| RU-Καλίνινγκραντ
+RU-Moscow| RU-Μόσχα
+RU-Samara| RU-Σαμάρα
+SE-Stockholm| SE-Στοκχόλμη
+SI-Ljubljana| SI-Λιουμπλιάνα
+SK-Bratislava| SK-Μπρατισλάβα
+SM-San Marino| SM-Άγιος Μαρίνος
+TR-Istanbul| TR-Κωνσταντινούπολη
+UA-Kiev| UA-Κίεβο
+VA-Vatican| VA-Βατικανό
+YU-Belgrade| YU-Βελιγράδι
+Timezone zonePacific| 
+AS-Pago Pago| AS-Πάγκο Πάγκο
+CK-Rarotonga| CK-Ραροτόνγκα
+FJ-Fiji| FJ-Φίτζι
+GU-Guam| GU-Γκουάμ
+NR-Nauru| NR-Ναουρού
+NU-Niue| NU-Νιούε
+NZ-Auckland| NZ-Ώκλαντ
+NZ-Chatham| NZ-Τσάταμ
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Ενεργό πληκτρολογίο
+1h    summertime| 1 ώρα   θερινή ώρα
+Link Down| Ζεύξη εκτός
+Slovakia| Σλοβακία
+Cfg. Svr.| SrvΔιαμόρφ
+Custom| Προσαρμοσμένο
+HPQ Enable| Ενεργοποίηση HPQ
+Checking For Firmware| Έλεγχος firmware
+Firmware Check| Έλεγχος firmware
+Speeddial/MWI| Ταχ.Κλήση/Ένδειξη αναμονής μηνυμάτων
+Handset| Ακουστικό
+WBand RX Filters| Φίλτρα λήψης ζώνης W
+HS Setting1| Ρύθ ακουστικού1
+HS Setting2| Ρύθ ακουστικού2
+HS Setting3| Ρύθ ακουστικού3
+HS Setting4| Ρύθ ακουστικού4
+Spkr Setting1| Ρύθμιση ηχείων1
+Spkr Setting2| Ρύθμιση ηχείων2
+Spkr Setting3| Ρύθμιση ηχείων3
+Spkr Setting4| Ρύθμιση ηχείων4
+Hold Failed| Αποτυχία αναμονής
+Can not save record without number| Αδυναμία αποθήκευσης εγγραφής χωρίς αριθμό
+Feature Name| Όνομα χαρακτηριστικού
+Source| Πηγή
+License File| Αρχείο αδείας
+SW Version Restrictions| Περιορισμοί έκδοσης λογισμικού
+Unlimited| Χωρίς περιορισμό
+Expiration| Λήξη
+Upgrade| Αναβάθμιση
+License Server| Server αδειών
+License Info| Στοιχεία αδειών
+License PBX| Άδειες χρήσης PBX
+Voice Recording| Καταγραφή φωνής
+BLF List Subscription Period| Περίοδος συνδρομής λίστας BLF
+Conf Failed| Αποτυχία συνακρόασης
+Push| Μεταφορά
+Forward Filtering| Φιλτράρισμα προώθ
+OUT| ΕΞ
+Opt Status| Κατάσταση Επιλογής
+Filter| Φίλτρο
+Filtering| Φιλτράρισμα
+Executives| Στελέχη
+IN| ΕΙΣ
+Divert| Εκτροπή
+Divert to Number| Εκτροπή σε αριθμό
+ Enter Unlock Password|  Εισαγωγή κωδικού ξεκλειδώματος
+ Enter Administrator Password|  Εισαγωγή κωδικού διαχειριστή
+Today| Σήμερα
+Yesterday| Χθες
+Two Days Ago| Πριν δύο ημέρες
+Three Days Ago| Πριν τρεις ημέρες
+Four Days Ago| Πριν τέσσερις ημέρες
+Five Days Ago| Πριν πέντε ημέρες
+Six Days Ago| Πριν έξι ημέρες
+Last Week| Την προηγούμενη εβδομάδα
+Two Weeks Ago| Πριν δύο εβδομάδες
+Three Weeks Ago| Πριν τρεις εβδομάδες
+Last Month| Τον προηγούμενο μήνα
+Older| Παλιότερα
+Monday| Δευτέρα
+Tuesday| Τρίτη
+Wednesday| Τετάρτη
+Thursday| Πέμπτη
+Friday| Παρασκευή
+Saturday| Σάββατο
+Sunday| Κυριακή
+Upload Sys Info| Αποστολή πληρ.συστ.
+Cfwd State| Κατάστ Προώθ
+Cfwd Number| Αριθμός Προώθ
+Cfwd Mode| Λειτουργία Προώθ
+Set| Ρύθ/ση
+#Confirm| #Επιβεβαίωση
+Call held| Κλήση σε αναμονή
+Calls held| Κλήσεις σε αναμ.
+Apply Changes?| Εφαρμ. αλλαγών;
+Dialpad| Πληκτρολόγιο κλήσης
+Edit| Επεξ
+Quit| Έξοδος
+Directory Empty| Άδειος κατάλογος
+Saved Memory key| ΑποθΠλήκτρΜνήμης
+Speaker volume  | Ένταση ηχείου
+Handset volume  | Ένταση Ακουστ.  
+Headset volume  | Ένταση Κεφαλόφ  
+Ringer volume   | Ένταση Κουδουν  
+Enter Number:| Εισαγάγετε αριθμό:
+Full 10Mbps| Πλήρες 10Mbps
+Full 100Mbps| Πλήρες 10Mbps
+Full 1000Mbps| Πλήρες 10Mbps
+Half 10Mbps| Πλήρες 10Mbps
+Half 100Mbps| Πλήρες 10Mbps
+Half 1000Mbps| Πλήρες 10Mbps
+Delete All| Διαγρ όλων
+Erase Local Configuration?| Διαγρ τοπ ρυθμ;
+Audio| Ήχος
+Application| Εφαρμογή
+NAT| NAT
+DSCP| DSCP
+User| Χρήστης
+802.1x| 802.1x
+Enter Date (m/d/y):| Εισαγ.ημερ.(μ/η/ε)
+Brightness Timer| Χρονόμετρο φωτεινότητας
+Brightness Level| Επίπεδο φωτεινότητας
+Level 1| Επίπεδο 1
+Level 2| Επίπεδο 2
+Level 3| Επίπεδο 3
+Level 4| Επίπεδο 4
+Level 5| Επίπεδο 5
+(Min: %d  Max: %d)| (Ελάχ: %d  Μέγ: %d)
+Line: %d| Γραμμή: %d
+Line %d: %s| Γρμ %d: %s
+Invalid %s (%d to %d)| Άκυρο%s(%d σε%d)
+Sys Info| Πληρ. Συστ.
+keypad| Πληκτρολόγιο
+Login| Είσοδος
+Seized| Κατελήφθη
+Active| Ενεργό
+Held| Αναμονή
+Ringing| Κουδουνίζει
+Park Failed| Αποτυχία στάθμευσης
+Canada| Καναδάς
+Press a contact button on the left to view contact information.| Πιέστε ένα κουμπί επαφής στα αριστερά για να προβάλετε πληροφορίες επαφής.
+Press a contact button to view contact info.| Πιέστε ένα κουμπί επαφής για να προβάλετε πληροφορίες επαφής.
+No info available. Please press a contact button.| Δεν υπάρχουν πληροφορίες. Πιέστε ένα κουμπί επαφής.
+Set Date and Time| Ρύθμιση ημερομηνίας και ώρας
+Ethernet Ports| Θύρες Ethernet
+Call Server| Server κλήσεων
+Use Network Time| Χρήση ώρας δικτύου
+Speed Dial Key %d| Πλήκτρο ταχείας κλήσης %d
+%d/%d records| %d/%d εγγραφές
+%d days stored| %d ημέρες αποθηκευμένες
+1 day stored| Αποθήκευση 1 ημέρας
+Upload System Info Files?| Αποστολή αρχείων πληροφοριών συστήματος;
+Entries Saved| Οι εγγραφές αποθηκεύθηκαν
+Storage| Αποθήκευση
+IP and gateway are equal| IP και πύλη ταυτίζονται
+IP gateway subnet mismatch| Αναντιστοιχία πύλης IP υποδικτύου
+Bridge active| Γέφυρα ενεργή
+Please enter a number| Εισαγάγετε έναν αριθμό
+Deleted| Διαγράφτηκε
+No Matches Found| Δεν βρέθηκαν αντιστοιχίες
+Name| Όνομα
+Contact already exists| Η επαφή υπάρχει ήδη
+Left Softkey %d| Αριστερό εικονικό πλήκτρο %d
+Bottom Softkey %d| Κάτω εικονικό πλήκτρο %d
+New Call| Νέα κλήση
+All Accounts| Όλοι οι λογαριασμοί
+Exp. Mod. %d Key %d| Πλήκτρο επέκτασης
+Add Num| Προσθήκη αριθμού
+Diverted to: | Εκτροπή σε:
+No lines are configured| Δεν έχουν διαμορφωθεί γραμμές
+"Dot ""."""| "Τελεία ""."""
+Mode %d| Λειτουργία %d
+Top Softkey %d| Επάνω εικονικό πλήκτρο %d
+Home Screen Mode| Λειτουργία αρχικής οθόνης
+Screen Saver Timer| Χρονόμετρο προφύλαξης οθόνης
+Home Screen| Αρχική οθόνη
+Cannot add new number. Limit reached.| Αδύνατη η προσθήκη αριθμού. Μέγιστο όριο.
+Key is already programmed for functionality in a non-idle state| Το πλήκτρο έχει ήδη προγραμματιστεί για λειτουργία σε μη αδρανή κατάσταση
+Please enter a name| Εισαγάγετε ένα όνομα
+Top Softkeys| Επάνω εικονικά πλήκτρα
+Left Softkeys| Αριστερά εικονικά πλήκτρα
+Bottom Softkeys| Κάτω εικονικά πλήκτρα
+Brightness| Φωτεινότητα
+Speed Dial 8| Μνήμη ταχείας κλήσης 8
+A filename-related error occurred. Rename the specified file and try again.| Σφάλμα ονόματος αρχείου. Δώστε νέο όνομα στο αρχείο αυτό και ξαναπροσπαθήστε.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Σφάλμα HTTP. Ξαναπροσπαθήστε (ή επανεκκινήστε το τηλέφωνο, αν έχετε ξαναλάβει αυτό το μήνυμα σφάλματος).
+A system-related error occurred. Please restart the phone and try again.| Σφάλμα συστήματος. Επανεκκινήστε το τηλέφωνο και ξαναπροσπαθήστε.
+Xsi Enterprise Directory| Εταιρικός κατάλογος Xsi
+Xsi Personal Contacts| Προσωπικές επαφές Xsi
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Εταιρικό fax
+By First Name| Βάσει μικρού ονόματος
+By Last Name| Βάσει επωνύμου
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Αδύνατη η προσθήκη εγγραφής. Μέγιστο όριο.
+City| Πόλη
+Corporate| Εταιρεία
+Country| Χώρα
+Custom Ringtones| Προσαρμοσμένοι ήχοι κλήσης
+Delete %s from %s?| Διαγραφή %s από %s;
+Delete all entries in %s?| Διαγραφή όλων των εγγραφών στο %s;
+Directory import failed| Αποτυχία εισαγωγής καταλόγου
+Directory loading| Φόρτωση καταλόγου
+Directory not available at this time| Ο κατάλογος δεν είναι διαθέσιμος αυτή τη στιγμή.
+Display Name Order| Εμφάνιση σειράς ονομάτων
+Name Order| Εμφάνιση σειράς ονομάτων
+Edit Details| Επεξεργασία στοιχείων
+Email| Email
+Email 1| Email 1
+Email 2| Email 2
+Email 3| Email 3
+Enabled also in call| Ενεργοποίηση και στην κλήση
+Enterprise Directory| Εταιρικός κατάλογος
+Exchange Contacts| Επαφές Exchange
+Explicit| Εμφανής
+External Sources| Εξωτερικές πηγές
+Failed to retrieve contact details| Αποτυχία ανάκτησης στοιχείων επαφής
+First Last| Μικρό όνομα Επώνυμο
+First name| Μικρό όνομα Επώνυμο
+Home 1| Οικία 1
+Home 2| Οικία 2
+Home Address| Διεύθυνση οικίας
+Implicit| Αφανής
+Invalid Subscription Time| Άκυρος χρόνος συνδρομής
+Job Title| Θέση εργασίας
+LDAP| LDAP
+Last%c First| Επώνυμο%c Μικρό όνομα
+Last First| Επώνυμο Μικρό όνομα
+Last Name| Επώνυμο
+Local| Τοπικό
+Microsoft Exchange| Microsoft Exchange
+Mobile| Κινητό
+New Contact| Νέα επαφή
+Numbers| Αριθμοί
+Organization| Οργανισμός
+Other| Άλλα
+Personal| Προσωπικό
+Personal Contacts| Προσωπικές επαφές
+Province/State| Επαρχία/Πολιτεία
+Request Failed| Αποτυχία αιτήματος
+Sorting Preferences| Ταξινόμηση προτιμήσεων
+Sorting| Ταξινόμηση προτιμήσεων
+Street Address| Διεύθυνση
+Test| Δοκιμή
+Test Connection| Δοκιμή σύνδεσης
+The phone does not have enough space to store this file.| Το τηλέφωνο δεν έχει αρκετό χώρο για αποθήκευση του αρχείου αυτού.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Το αρχείο είναι πολύ μεγάλο. Κάθε αρχείο πρέπει να έχει μέγεθος το πολύ 1 ΜΒ.
+UA-Profile-Event Subscription| Συνδρομή συμβάντος UA Profile
+UA-Profile-Event Subscription Period| Περίοδος συνδρομής συμβάντος UA Profile
+Undefined| Μη καθορισμένο
+Work 1| Εργασία 1
+Work 2| Εργασία 2
+Work Address| Διεύθυνση εργασίας
+Zip/Postal Code| Ταχ. Κώδικας
+Credentials| Διαπιστευτήρια
+Enable/Disable| Ενεργοποίηση/Απενεργοποίηση
+Labels| Ετικέτες
+Ringtone files must be in WAV format| Τα αρχεία ήχων κλήσης πρέπει να είναι σε μορφή WAV
+Copy| Αντιγραφή
+Add New| Προσθ.νέου
+ALU SCA| ALU SCA
+Accessory Info| Πληροφορίες εξαρτημάτων
+Add| Προσθήκη
+Alerting| Ειδοποίηση
+Delete selected item or delete all items?| Διαγραφή επιλεγμένου στοιχείου ή όλων των στοιχείων;
+DialingIn| Εισερχόμενη κλήση
+DialingOut| Εξερχόμενη κλήση
+Disconnecting| Αποσύνδεση
+Enter First Name| Εισαγάγετε το μικρό όνομα
+Enter Last Name| Εισαγάγετε το επώνυμο
+Enter Number| Εισαγάγετε αριθμό
+Enter Password>| Εισαγάγετε κωδικό χρήστη>
+Enter Username>| Εισαγάγετε όνομα χρήστη>
+Enterprise Dir.| Εταιρικός κατάλογος
+Exp. Mod. 1 Version| Firmware επέκτασης 1
+Exp. Mod. 2 Version| Firmware επέκτασης 2
+Exp. Mod. 3 Version| Firmware επέκτασης 3
+Get user.cfg| Λήψη user.cfg
+Get user_local.cfg| Λήψη user_local.cfg
+Keyboard Version| Έκδοση πληκτρολογίου
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| ΣεΑναμονή
+Pending| Εκκρεμεί
+Phone Info| Πληροφορίες τηλεφώνου
+Please Login| Είσοδος
+Please select a file to upload| Επιλέξτε αρχείο προς αποστολή
+Saved| Αποθηκεύτηκε
+Unmute| Κατάργηση σίγασης
+Line 11| Γραμμή 11
+Line 12| Γραμμή 12
+Line 13| Γραμμή 13
+Line 14| Γραμμή 14
+Line 15| Γραμμή 15
+Line 16| Γραμμή 16
+Line 17| Γραμμή 17
+Line 18| Γραμμή 18
+Line 19| Γραμμή 19
+Line 20| Γραμμή 20
+Line 21| Γραμμή 21
+Line 22| Γραμμή 22
+Line 23| Γραμμή 23
+Line 24| Γραμμή 24
+Line 25| Γραμμή 25
+Client Method| Λειτουργία πελάτη
+#Edit| #Επεξεργ
+#Copy| #Αντιγραφή
+Action forbidden| Δράση απαγορεύεται
+Action not supported| Δράση δεν υποστηρίζεται
+ Additional Settings|  Πρόσθετες ρυθμίσεις
+ Barge-In| Είσοδος σε κλήση
+Congestion| Συμφόρηση
+Discreet| Διακριτός 
+Discreet Ringing| Διακριτός κουδουνισμός
+Executives list is empty| Άδεια λίστα στελεχών
+Extension not registered| Μη εγγεγραμένο εσωτερικό
+Internal error| Εσωτερικό λάθος
+Invalid Password| Κωδικός μη έγκυρος
+Invalid forwarding number| Μη έγκυρος αριθμός προώθησης
+ Listen|  Ακούω
+ Normal|  Κανονικός
+Phone not registered| Τηλέφωνο μη εγγεγραμμένο
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Εναλλαγή on/off του ήχου εισβολής σε κλήση πιέζοντας το πλήκτρο Silent
+Prv| Ιδιωτικό
+Pub| Δημόσιο
+Record not found| Εγγραφή δεν υπάρχει
+SCAP-Bridged| SCAP-γεφύρωση
+SCAP-Held| SCAP-Κράτηση
+ Select Barge-In Mode|  Επιλογή λειτουργίας Barge-In
+ UA-Profile-Event Subscription Period|  UA-Profile-Περιόδοs συνδρομής συμβάντων
+Unique ID| Μοναδικό ID
+ Whisper|  Ψίθυρος
+Missed Calls| Αναπάντητες κλήσεις
+Silence| Σιωπή
+As-Feature-Event Subscription| Συνδρομή συμβάντων "AS-Feature-Event"
+As-Feature-Event Subscription Period| Περίοδος συνδρομής συμβάντων "AS-Feature-Event"
+Feature-Status-Exchange Subscription| Κατάσταση συνδρομής Exchange
+Feature-Status-Exchange Subscription Period| Κατάσταση περιόδου συνδρομής Exchange
+Action superseded by a previous command| Δράση αντικατασταθεί από προηγούμενη εντολή
+Attendant| Προώθηση στην τηλεφωνήτρια
+BLF Privacy| BLF Απόκρυψη
+BLF Privacy Key Mode| Λειτουργία πλήκτου απόκρυψης BLF
+Feature not configured| Μη προγραμματισμένο χαρακτηριστικό
+Forward Type| Τύπος προώθησης
+Live Keyboard| Ενεργό πληκτρολογίο
+Not assigned| Δεν αντιστοιχεί
+PIN| Κωδικός
+Pin Required| Απαιτείται κωδικός
+Privacy| Ιδιωτικότητα
+Privacy On| Ιδιωτικότητα ΟΝ
+Restart | Επανεκκίνηση
+Capture| Καταγραφή
+Get capture file| Αρχείο καταγραφής
+Mute All| Σίγαση όλων
+No Participant| Χωρίς συμμετέχων
+Private Call| Ιδιωτική κλήση
+Start| Ξεκινάω
+Stop| Σταματαώ
+TLS Preferred| Προτινώμενα TLS
+Timeout| Λήξη χρόνου
+Unmute All| Κατάργηση σίγασης Όλων
+Speeddial/Mwi| Ταχ.Κλήση/Ένδειξη αναμονής μηνυμάτων
+Phone will restart automatically after finishing.| Η συσκευή θα επανεκκινηθεί αυτόματα μετά τον τερματισμό .
+Idle| Αδρανής
+CFWD Filtering| Φιλτράρισμα προώθησης
+Volume| Ένταση
+DTMF| DTMF
+All Accounts| Όλα
+Outgoing| Εξερχόμενη
+Call History is Empty| Το ιστορικό κλήσεων είναι κενό
+No Outgoing Calls| Καμία εξερχόμενη κλήση
+No Missed Calls| Καμία αναπάντητη κλήση
+No Received Calls| Καμία ληφθείσα κλήση
+Received| Ληφθείσες
+Missed| Αναπάντητες
+Screenshot| Στιγμιότυπο οθόνης
+Xsi Enterprise Common Directory| Εταιρικός κοινός κατάλογος Xsi
+Enterprise Common Directory| Εταιρικός κοινός κατάλογος
+Enterprise Common Dir.| Εταιρικός κοινός κατάλ.
+Xsi Group Directory| Κατάλογος ομάδας Xsi
+Group Directory| Κατάλογος ομάδας
+Xsi Group Common Directory| Κοινός κατάλογος ομάδας Xsi
+Group Common Directory| Κοινός κατάλογος ομάδας
+Call Settings| Ρυθμίσεις κλήσης
+%s Call Settings| Ρυθμίσεις κλήσης %s
+Hide Number| Απόκρυψη αριθμού
+Xsi Password Not Configured| Μη διαμορφωμένος κωδικός πρόσβασης Xsi
+Xsi User Not Configured| Μη διαμορφωμένος χρήστης Xsi
+Xsi Authentication Failure| Αποτυχία ελέγχου ταυτότητας Xsi
+Xsi File Not Found| Δεν βρέθηκε αρχείο Xsi
+Xsi Invalid URI| Μη έγκυρο URI Xsi
+Xsi Invalid Download Configuration| Μη έγκυρη διαμόρφωση λήψης Xsi
+Call History| Ιστορικό κλήσεων
+Bluetooth| Bluetooth
+Scan| Αναζήτηση
+Timeout [1..168 h]| Λήξη χρόνου  [1..168 ώρες]
+Paired Devices| Συζευγμένες συσκευές
+Available Devices| Διαθέσιμες συσκευές
+Swipe the toggle switch to the right to enable Bluetooth| Σύρετε το διακόπτη εναλλαγής προς τα δεξιά για να ενεργοποιήσετε το Bluetooth
+Pairing| Σύζευξη
+Connecting| Σύνδεση
+Device| Συσκευή
+No paired devices| Καμία συζευγμένη συσκευή
+Connection successful| Επιτυχής σύνδεση
+Connection failed| Αποτυχία σύνδεσης
+Disconnection successful| Επιτυχής αποσύνδεση
+Disconnection failed| Αποτυχία αποσύνδεσης
+Pairing failed| Αποτυχία σύζευξης
+Operation failed| Αποτυχία λειτουργίας
+Connected| Συνδεδεμένο
+Retry| Νέα δοκιμή
+Do you want to forget this device?| Θέλετε να καταργήσετε αυτήν τη συσκευή;
+Close| Κλείσιμο
+Enabling Bluetooth...| Ενεργοποίηση Bluetooth
+Disabling Bluetooth...| Απενεργοποίηση Bluetooth
+Connecting...| Σύνδεση...
+Disconnecting...| Αποσύνδεση...
+Boot| Boot
+App| Εφαρμογή
+USB disabled. Insufficient power for current configuration.| USB απενεργοποιημένο. Ανεπαρκής ισχύς για την τρέχουσα διαμόρφωση.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Το καθορισμένο αρχείο δεν πληροί τις προδιαγραφές ήχου κλήσης που απαιτούνται από το τηλέφωνο. Για τις απαιτήσεις αρχείων ήχου κλήσης, ανατρέξτε στον Οδηγό χρήστη.
+%d/%d| %d/%d
+%d days| %d ημέρες
+1 day| 1 ημέρας
+System Messages| Μηνύματα συστήματος
+Authorization Canceled| Η εξουσιοδότηση ακυρώθηκε
+Crash Logs| Αρχεία καταγραφής σφαλμάτων
+Warning - All entries in %s will also be deleted| Προειδοποίηση - θα διαγραφούν και όλες οι καταχωρίσεις στο %s
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Ήχος κουδ/σμού
+Identity| Ταυτότητα
+Extension| Επέκταση
+Address| Διεύθυνση
+Server Error| Σφάλμα server
+Use Global Ring Tone| 
+Standard Ring Tone| Τυπικός ήχος κλήσης
+Hide Number| Απόκρυψη αριθμού
+Remote Office| Απομακρυσμένο γραφείο
+Remote Office| Απομακρυσμένο γραφείο
+Phone Number/SIP-URI| Αριθμός τηλεφώνου/SIP-URI
+Simultaneous Ring Personal| Ταυτόχρονος κουδουνισμός προσωπικού
+Simultaneous Ring| Ταυτόχρονος κουδουνισμός
+Do Not Ring if on a Call| Χωρίς κουδουνισμό με κλήση σε εξέλιξη
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Αριθμός τηλεφ./SIP-URI
+Alt Num/SIP-URI| Εναλ. αριθμός/SIP-URI
+Ring for all Incoming Calls| Κουδουνισμός για όλες τις εισερχόμενες κλήσεις
+Invalid Number or SIP-URI| Μη έγκυρος αριθμός ή SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Αριθμός πύλης
+Alert Locations for Click-To-Dial| Θέσεις ειδοποίησης για κλικ-για-κλήση
+Alert Locations for Group Paging| Θέσεις ειδοποίησης για τηλεειδοποίηση ομάδας
+Phone Number| Αριθμός τηλεφώνου
+Description| Περιγραφή
+Alternate Number| 
+Call Control| Έλεγχος κλήσεων
+Diversion Inhibitor| Παρεμπόδιση εκτροπής
+Answer Confirmation| Επιβεβαίωση απάντησης
+Xsi Server Not Found| Δεν βρέθηκε διακομιστής Xsi
+Xsi Invalid Input| Μη έγκυρη εισαγωγή Xsi
+Call Center| Τηλεφωνικό κέντρο
+Presence| Παρουσία
+My Status| Η κατάσταση μου
+Contacts| Επαφές
+Favorite| Αγαπημένο
+Available| Διαθέσιμο
+Eager to Chat| Πρόθυμος για συνομιλία
+Busy| Κατειλημμένος
+Away| Απουσιάζει
+Extended Away| Απουσιάζω
+Offline| Εκτός σύνδεσης
+Unknown| Άγνωστο
+Enter custom presence text here...| Εισαγωγή προσαρμοσμένου κειμένου παρουσίας εδώ...
+Status| Κατάσταση
+Custom| Προσαρμογή
+Favorites| Αγαπημένα
+All Contacts| Όλες οι επαφές
+No contact in folder| Καμία επαφή στο φάκελο
+No phone number| Κανένας αριθμός τηλεφώνου
+No contact| Καμία επαφή
+Contact list currently not available| Η λίστα επαφών δεν είναι διαθέσιμη αυτήν τη στιγμή
+Contact| Επαφή
+Contact| Επαφή
+Connection to server failed| Αποτυχία σύνδεσης στο διακομιστή
+Configuration error| Σφάλμα διαμόρφωσης
+Authentication error| Σφάλμα ελέγχου ταυτότητας
+Connection to server lost| Η σύνδεση με το διακομιστή χάθηκε
+Mobile| Κινητό
+Connect| Σύνδεση
+%s disconnected| %s  Έχει αποσυνδεθεί
+%s connected| %s Συνδεδεμένο
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Νέο υλικολογισμικό. Μην αποσυνδέετε το τηλέφωνο!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Αντιγραφή σε κάθε λειτουργία;
+Loading...| 
+Password Changed| Ο κωδικός πρόσβασης τροποποιήθηκε
+Restore Default| 
+Restore Default| 
+Enter Again| Επιβεβαίωση κωδικού πρόσβασης
+Erase| Διαγρ
+Set All| 
+VLAN Settings| Ρυθμίσεις VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Προηγμένες
+Phonebook| 
+Update| 
+Copyright| Πνευματικά δικαιώματα
+Pause| Παύση
+Incorrect password| Εσφαλμένος κωδικός πρόσβασης
+Please input duration between 1 to 1440 minutes| 
+Level 0| Επίπεδο 0
+Static Network Settings| 
+Enter| Εισαγωγή
+Reset Configuration?| Διαγραφή ρυθμίσεων  
+TCP DUMP| 
+minutes| λεπτά
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| VLAN ID
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Λεπτομέρειες
+First Name| Μικρό όνομα Επώνυμο
+Home| Οικία
+People| 
+Contacts - Add New| 
+Work| Εργασία
+Entry copied to| Η καταχώριση αντιγράφτηκε σε
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Ο κατάλογος είναι πλήρης.
+Directory full| Κατάλογος πλήρης
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Σύνδεση
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Τρέχουσα κλήση
+Scan| Αναζήτηση
+Stop| Σταματαώ
+Close| Κλείσιμο
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Κατάργηση
+Unknown Caller| 
+Answer| Απάντηση
+Decline| 
+Push Call| Κλήση προώθησης
+End Call| 
+Caller| 
+Disconnect| Αποσύνδεση
+Capturing ...| 
+Speaker| Ηχείο
+Headset| Κεφαλόφωνο
+Ringer| Κουδουν
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Πληροφορίες τηλεφώνου
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| Πρωτεύων DNS
+Secondary DNS| Δευτερεύων DNS
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| ΚωδΠρόσβ
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Αλλαγή
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Καμία σύνδεση
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Ιδιωτικό
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Μην ενοχλείτε
+Phone Lock| Κλείδ. τηλεφώνου
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Μετονομασία
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| 
+Restart| Επανεκκίνηση
+Key is Programmed| Το κλειδί είναι προγραμματισμένο
+Advanced XML| Προηγμένο XML
+Too many answers - Refine your search| Πάρα πολλές απαντήσεις - Περιορίστε την αναζήτηση
+%s Search| % Αναζήτηση
+Searching| Αναζήτηση
+Server not configured| Μη διαμορφωμένος διακομιστής
+SimRing| Ταυτ. κουδ.
+Phone No/SIP-URI Not Configured| Αριθ. τηλεφώνου/Μη διαμορφωμένο SIP-URI
+ Xsi Server Update Failed|  Αποτυχία ενημέρωσης διακομιστή Xsi
+Call Settings| Ρυθμίσεις κλήσης
+Missing Config| Λείπει η διαμόρφωση
+Deflect| Εκτροπή
+AnswerIcom| Απάντηση ενδοεπικοινωνίας
+In a call| Σε κλήση
+Chats| Συνομιλίες
+Chat| Συνομιλία
+Send| Αποστολή
+Delete all chat sessions?| Διαγραφή όλων των περιόδων λειτουργίας συνομιλίας;
+Delete chat session with %s?| Διαγραφή περιόδου λειτουργίας συνομιλίας με %s;
+No active chat session| Καμία ενεργή περίοδος λειτουργίας συνομιλίας
+Push Notifications| Ειδοποιήσεις προώθησης
+Sound| Ήχος
+Bluetooth| Bluetooth
+Chat| Συνομιλία
+%s is typing...| Ο χρήστης %s πληκτρολογεί...
+Last message received %s at %s| Το τελευταίο μήνυμα λήφθηκε %s σε %s
+Last message received while offline| Το τελευταίο μήνυμα λήφθηκε όταν ήσασταν εκτός σύνδεσης
+now| τώρα
+%ld secs ago| πριν από %ld δευτ.
+1 min ago| πριν από 1 λεπτό
+%ld mins ago| πριν από %ld λεπτά
+1 hour ago| πριν από 1 ώρα
+%ld hours ago| πριν από %ld ώρες
+yesterday| xθες
+%ld days ago| πριν από %ld ημέρες
+while offline| όταν ήσασταν εκτός σύνδεσης
+Can't talk right now. I'll call you later.| Δεν μπορώ να μιλήσω τώρα. Θα σας καλέσω αργότερα.
+On another call| Είμαι σε άλλη κλήση
+I'll call you back| Θα σας καλέσω εγώ
+Call me back in 10 minutes| Καλέστε με σε 10 λεπτά
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Προσαρμογή...
+Message to %s| Μήνυμα στο %s
+Cancel - No message sent| Ακύρωση - Δεν στάλθηκε μήνυμα
+Chat Messages| Μηνύματα συνομιλίας
+Reject Call Message Configuration| Απόρριψη διαμόρφωσης μηνυμάτων κλήσης
+Message| Μήνυμα
+Server Failure| Αποτυχία διακομιστή
+Use ^v to view| ^v για προβολή
+Answer| Απάντηση
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Προειδοποίηση
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Εισαγ. Όνομα
+Lastname Firstname| Επώνυμο Μικρό όνομα Επώνυμο
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Λήξη χρονικού ορίου αίτησης
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Θύρα διέλευσης
+Page Expired. Please reload the page.| Η σελίδα έληξε. Φορτώστε ξανά τη σελίδα.
+Application busy. Please try again later.| Εφαρμογή απασχολημένη. Προσπαθήστε ξανά αργότερα.
+User ID required| Απαιτείται αναγνωριστικό χρήστη
+Directory file must be in WAV format| Το αρχείο καταλόγου πρέπει να είναι σε μορφή WAV
+Local Directory Upload| Αποστολή τοπικού καταλόγου
+Upload failed - Too many records detected in csv file| Αποτυχία αποστολής - Εντοπίστηκαν πάρα πολλές εγγραφές στο αρχείο csv
+Upload failed - No record detected in csv file| Αποτυχία αποστολής - Δεν εντοπίστηκαν εγγραφές στο αρχείο csv
+Upload performed - %d records created| Πραγματοποιήθηκε αποστολή - Δημιουργήθηκαν %d εγγραφές
+minutes| λεπτά
+User ID| Αναγνωριστικό χρήστη
+Any PBX| Οποιοδήποτε PBX
+Screen Mode| Λειτουργία οθόνης
+Show Picture| Εμφάνιση εικόνας
+Request timed out| Λήξη χρονικού ορίου αίτησης
+No Mobile phone connected| Δεν υπάρχει συνδεδεμένο κινητό τηλέφωνο
+Only one Handset can be paired to the phone| Μόνο ένα ακουστικό μπορεί να συζευχθεί στο τηλέφωνο
+Only one Speaker can be paired to the phone| Μόνο ένα ηχείο μπορεί να συζευχθεί στο τηλέφωνο
+Maximum number of paired devices reached| Έχει συμπληρωθεί ο μέγιστος αριθμός συζευγμένων συσκευών
+Reload| Επαναφόρτωση
+Mobile Contacts| Επαφές κιν. τηλεφώνου
+Mobile| Κινητό
+Press "Turn on" to enable Bluetooth| Πατήστε "Ενεργοποίηση" για να ενεργοποιήσετε το Bluetooth
+Turn on| Ενεργοποίηση
+Turn off| Απενεργοποίηση
+Mobile : %s| Κινητό: %s
+Pair| Σύζευξη
+Connect| Σύνδεση
+Disconnect| Αποσύνδεση
+Forget| Κατάργηση
+Rename| Μετονομασία
+Rename Device| Μετονομασία συσκευής
+Disabling Bluetooth will disconnect your Cordless Handset| Η απενεργοποίηση Bluetooth θα αποσυνδέσει το ασύρματο ακουστικό σας
+Warning| Προειδοποίηση
+Do you want to continue?| Θέλετε να συνεχίσετε;
+Bluetooth pairing request| Αίτημα σύζευξης Bluetooth
+Pair with %s| Σύζευξη με %s
+Pairing code - %06ld| Κωδικός σύζευξης - %06ld
+External| Εξωτερικό
+Lock Settings| Ρυθμίσεις κλειδώματος
+Proximity auto-lock| Αυτόματο κλείδωμα εγγύτητας
+Delay before auto-lock| Καθυστ.πριν από αυτόμ.κλείδ.
+Proximity auto-unlock| Αυτόματο ξεκλείδ. εγγύτητας
+Delay before auto-unlock| Καθυστ.πριν από αυτ.ξεκλείδ.
+Proximity auto-lock| Αυτόματο κλείδωμα εγγύτητας
+Proximity auto-unlock| Αυτόματο ξεκλείδ. εγγύτητας
+Delay before auto-lock (minutes)| Καθυστ.πριν από αυτόμ.κλείδ. (λεπτά)
+Delay before auto-unlock (minutes)| Καθυστ.πριν από αυτ.ξεκλείδ. (λεπτά)
+M695: New Firmware. Do not unplug phone!| M695: Νέο υλικολογισμικό. Μην αποσυνδέετε το τηλέφωνο!
+Login/Logout| Σύνδεση/Αποσύνδεση
+Logout user %s| Αποσύνδεση χρήστη %s
+Login successful| Επιτυχής σύνδεση
+Logout successful| Επιτυχής αποσύνδεση
+Login failed| Αποτυχία σύνδεσης
+Logout failed| Αποτυχία αποσύνδεσης
+Hot desk user can not pair handset please login as a local user| Ο χρήστης hot desk δεν μπορεί να εκτελέσει σύζευξη του ακουστικού. Συνδεθείτε ως τοπικός χρήστης
+Hot desk user can not pair speaker please login as a local user| Ο χρήστης hot desk δεν μπορεί να εκτελέσει σύζευξη του ηχείου. Συνδεθείτε ως τοπικός χρήστης
+Hot desk user can not unpair handset please login as a local user| Ο χρήστης hot desk δεν μπορεί να καταργήσει τη σύζευξη του ακουστικού. Συνδεθείτε ως τοπικός χρήστης
+Hot desk user can not unpair speaker please login as a local user| Ο χρήστης hot desk δεν μπορεί να καταργήσει τη σύζευξη του ηχείου. Συνδεθείτε ως τοπικός χρήστης
+Push Call| Κλήση προώθησης
+Cordless Handset| Ασύρματο ακουστικό
+Low Battery| Χαμηλή στάθμη μπαταρίας
+Critical Battery| Κρίσιμη στάθμη μπαταρίας
+Ongoing Call| Τρέχουσα κλήση
+Incoming Call| Εισερχόμενη κλήση
+Incoming Call from %s| Εισερχόμενη κλήση από %s
+Incoming Call from %s (%s)| Εισερχόμενη κλήση από %s (%s)
+Voicemail access of Mobile Phone not supported| Η πρόσβασης τηλεφωνητή του κινητού τηλεφώνου δεν υποστηρίζεται
+Device not supported| Η συσκευή δεν υποστηρίζεται
+Phone not compatible| Το τηλέφωνο δεν είναι συμβατό
+Dialing out through Mobile Line not supported| Η κλήση μέσω γραμμής κινητής τηλεφωνίας δεν υποστηρίζεται
+Page Expired. Please reload the page.| Η σελίδα έληξε. Φορτώστε ξανά τη σελίδα.
+Application busy. Please try again later.| Εφαρμογή απασχολημένη. Προσπαθήστε ξανά αργότερα.
+Invalid prefix length (0 to 128)| Μη έγκυρο μήκος προθήματος (0 έως 128)
+User ID required| Απαιτείται αναγνωριστικό χρήστη
+IPv6 Settings| Ρυθμίσεις IPv6
+Basic Network Settings (IPv6)| Ρυθμίσεις βασικού δικτύου (IPv6)
+Basic Network Settings (IPv4)| Ρυθμίσεις βασικού δικτύου (IPv4)
+Ethernet Port Settings| Ρυθμίσεις θύρας Ethernet
+User ID| Αναγνωριστικό χρήστη
+Colon ":"| Άνω και κάτω τελεία ":"
+Login/Logout| Σύνδεση/Αποσύνδεση
+Logout user %s| Αποσύνδεση χρήστη %s
+Login successful| Επιτυχής σύνδεση
+Logout successful| Επιτυχής αποσύνδεση
+Login failed| Αποτυχία σύνδεσης
+Logout failed| Αποτυχία αποσύνδεσης
+IPv6| IPv6
+Enable IPv6| Ενεργοποίηση IPv6
+Mode DHCPv6| Λειτουργία DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Αυτόματη διαμόρφωση
+Prefix Length| Μήκος προθήματος
+IPv6 Address| Διεύθυνση IPv6
+Local Directory Upload| Αποστολή τοπικού καταλόγου
+Upload failed - Too many records detected in csv file| Αποτυχία αποστολής - Εντοπίστηκαν πάρα πολλές εγγραφές στο αρχείο csv
+Upload failed - No record detected in csv file| Αποτυχία αποστολής - Δεν εντοπίστηκαν εγγραφές στο αρχείο csv
+Upload performed - %d records created| Πραγματοποιήθηκε αποστολή - Δημιουργήθηκαν %d εγγραφές
+Error: Upgrade/Downgrade rejected for incompatible firmware version| ΣΦΑΛΜΑ: Απόρριψη αναβάθμισης/υποβάθμισης λόγω ασύμβατης έκδοσης υλικολογισμικού
+Directory file must be in CSV format| Το αρχείο καταλόγου πρέπει να είναι σε μορφή CSV
+Error: Upgrade/Downgrade rejected for incompatible firmware version| ΣΦΑΛΜΑ: Απόρριψη αναβάθμισης/υποβάθμισης λόγω ασύμβατης έκδοσης υλικολογισμικού
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Αντιστοίχιση θυρών μη ολοκληρωμένη
+DSP| DSP
+SIP| SIP
+Checking DECT| Έλεγχος DECT
+Updating DECT Firmware| Ενημέρωση υλικολογισμικού DECT
+Tone| Ήχος
+Interface| Διασύνδεση
+Web| Web
+7 +294| 7 +294
+Updating configuration| Ενημέρωση διαμόρφωσης
+Waiting assignment| Αναμονή ανάθεσης
+Checking for new firmware| Έλεγχος για νέο υλικολογισμικό
+Firmware Check| Έλεγχος υλικολογισμικού
+Firmware Check| Έλεγχος υλικολογισμικού
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Νέο υλικολογισμικό: ΜΗΝ ΑΠΟΣΥΝΔΕΕΤΕ ΤΟ ΤΗΛΕΦΩΝΟ
+New Firmware: Restarting...| Νέο υλικολογισμικό: Επανεκκίνηση...
+Downloading configuration| Λήψη διαμόρφωσης
+9 +397| 9 +397
+erase all calls| διαγραφή όλων των κλήσεων
+DELETE again to erase this item| DELETE ξανά για διαγραφή αυτού του στοιχείου
+DELETE to erase item  or # to erase Number| DELETE για διαγραφή στοιχείου ή # για διαγραφή αριθμού
+DELETE again to erase all calls| DELETE ξανά για διαγραφή όλων των κλήσεων
+DELETE again to erase all items| DELETE ξανά για διαγραφή όλων των στοιχείων
+Delete All| Διαγραφή όλων
+DELETE again to erase all calls| DELETE ξανά για διαγραφή όλων των κλήσεων
+DELETE again to erase all items| DELETE ξανά για διαγραφή όλων των στοιχείων
+Delete All| Διαγραφή όλων
+Factory Defaults| Εργοστασιακές προεπιλογές
+ Missed Call|  Αναπάντητη κλήση
+ Missed Calls|  Αναπάντητες κλήσεις
+7 +596| 7 +596
+Icom| Ενδοεπ/νία
+Dir| Κατάλογος
+Xfer| Μεταφορά
+Push| Μεταφορά
+Push| Μεταφορά
+Leave| Έξοδος
+Conf| Διαμόρφ.
+SIP Settings| Ρυθμίσεις SIP
+8 +743| 8 +743
+Cannot Save| Δεν είναι δυνατή η αποθήκευση
+1 item| 1 είδος
+ items|  είδη
+item| είδη
+items| είδη
+item| είδη
+items| είδη
+No User| Κανένας χρήστης
+Missing User ID| Δεν υπάρχει αναγνωριστικό χρήστη
+DHCP failed| Αποτυχία DHCP
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| Προτιμώμενο TLS
+Cfg Svr Failure| ΑποτχServΔιαμορφ
+Bad Certificate| Ληγμένο πιστοποιητικό
+Bad Cert/TLS Err| Ληγμένο πιστοποιητικό/Βλάβη TLS
+Certificates| Πιστοποιητικά
+Cert Validation| Επικύρωση πιστοποιητικού
+All defaults| Όλες οι προεπιλογές
+6 +1070| 6 +1070
+Debug Level| Επίπεδο εντοπισμού σφαλμάτων
+Support Information| Πληροφορίες υποστήριξης
+Get local.cfg| Λήψη local.cfg
+Get Log Files| Λήψη αρχείων καταγραφής
+Get server.cfg| Λήψη server.cfg
+Get user_local.cfg| Λήψη user_local.cfg
+Get user.cfg| Λήψη user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Μη έγκυρη μάσκα υποδικτύου
+Invalid primary DNS address| Μη έγκυρη κύρια διεύθυνση DNS
+Invalid secondary DNS address| Μη έγκυρη δευτερεύουσα διεύθυνση DNS
+Invalid prefix length (0 to 128)| Μη έγκυρο μήκος προθέματος (0 έως 128)
+User ID required| Απαιτείται αναγνωριστικό χρήστη
+IP cannot be equal to gateway address| Το IP δεν μπορεί να είναι ίσο με τη διεύθυνση πύλης
+IP and gateway have to be on same subnet| Η IP και η πύλη πρέπει να βρίσκονται στο ίδιο υποδίκτυο
+IP and gateway are equal| Η IP και η πύλη είναι ίσες
+IP gateway subnet mismatch| Αναντιστοιχία υποδικτύου και πύλης IP
+IPv6 Settings| Ρυθμίσεις IPv6
+Basic Network Settings| Βασικές ρυθμίσεις δικτύου
+Basic Network Settings (IPv6)| Βασικές ρυθμίσεις δικτύου (IPv6)
+Basic Network Settings (IPv4)| Βασικές ρυθμίσεις δικτύου (IPv4)
+Advanced Network Settings| Προχωρημένες ρυθμίσεις δικτύου
+DHCP| DHCP
+NAT Port| Πύλη NAT
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Το καθορισμένο αρχείο είναι πολύ μεγάλο. Κάθε αρχείο δεν μπορεί να υπερβαίνει το μέγεθος το 1 MB.
+The phone does not have enough space to store this file.| Το τηλέφωνο δεν διαθέτει αρκετό χώρο για να αποθηκεύσει αυτό το αρχείο.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Το καθορισμένο αρχείο δεν πληροί τις προδιαγραφές ήχου κλήσης που απαιτούνται από το τηλέφωνο. Για τις απαιτήσεις αρχείων ήχου κλήσης, ανατρέξτε στον Οδηγό χρήστη.
+Directory file must be in WAV format| Το αρχείο καταλόγου πρέπει να είναι σε μορφή WAV
+Directory file must be in CSV format| Το αρχείο καταλόγου πρέπει να είναι σε μορφή CSV
+Local Directory Upload| Αποστολή τοπικού καταλόγου
+Upload failed - Too many records detected in csv file| Αποτυχία αποστολής - Εντοπίστηκαν πάρα πολλές εγγραφές στο αρχείο csv
+Upload failed - No record detected in csv file| Αποτυχία αποστολής - Δεν εντοπίστηκαν εγγραφές στο αρχείο csv
+6 +1370| 6 +1370
+IP&MAC Addresses| Διευθύνσεις IP&MAC
+LAN Port| Πύλη LAN
+PC Port| Πύλη PC
+Port Mirroring| Κατόπτριση πύλης
+Set Audio| Ρύθμιση ήχου
+Config. Server| Διαμόρφ. Εξυπηρετητή
+IP Address:| Διεύθυνση IP:
+7 +1463| 7 +1463
+App| Εφαρμογή
+Watchdog| Επαγρύπνηση
+Speeddial/Conf| Ταχεία κλήση/Συνακρ
+Speeddial/MWI| Ταχ.Κλήση/Ένδειξη αναμονής μηνυμάτων
+Speeddial/MWI| Ταχ.Κλήση/Ένδειξη αναμονής μηνυμάτων
+Call is on Hold| Η κλήση είναι σε αναμονή
+No subscription| Δεν υπάρχει συνδρομή
+802.1x Failed| Αποτυχία 802.1x
+6 +1473| 6 +1473
+Failed to config Line Manager| Αποτυχία διαμόρφωσης Διαχείρισης Γραμμής
+Line in use| Η γραμμή χρησιμοποιείται
+Get Crash Log| Λάβετε αρχείο καταγραφής σφαλμάτων
+Logging Issue| Πρόβλημα καταγραφής
+Time Unavailable| Μη διαθ. χρόνος
+Packetization Interval| Ενδιάμεσο διάστημα δημιουργίας πακέτων
+Basic| Βασικό
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Λορντ Χάου
+AU-Melbourne| AU-Μελβούρνη
+AU-Perth| AU-Περθ
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Σίδνεϊ
+AU-Tasmania| AU-Τασμανία
+AD-Andorra| AD-Ανδόρρα
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Τσάταμ
+DP-Dhcp| DP-Dhcp
+Custom| Προσαρμοσμένο
+IN| ΕΙΣΟΔΟΣ
+OUT| ΕΞΟΔΟΣ
+Filter| Φίλτρο
+Filtering| Φιλτράρισμα
+Opt Status| Κατάσταση επιλογής
+Executives| Στελέχη
+Forward Filtering| Φιλτράρισμα προώθ
+Divert| Εκτροπή
+Divert to Number| Εκτροπή σε αριθμό
+IN| ΕΙΣΟΔΟΣ
+OUT| ΕΞΟΔΟΣ
+Filter| Φίλτρο
+Filtering| Φιλτράρισμα
+Opt Status| Κατάσταση επιλογής
+Executives| Στελέχη
+Forward Filtering| Φιλτράρισμα προώθ
+Divert| Εκτροπή
+Divert to Number| Εκτροπή σε αριθμό
+Press a contact button to view contact info.| Πατήστε ένα κουμπί επαφής για να δείτε πληροφορίες επικοινωνίας.
+No info available. Please press a contact button.| Δεν υπάρχουν διαθέσιμες πληροφορίες. Πατήστε ένα κουμπί επαφής.
+ Enter Administrator Password|  Εισαγωγή κωδικού διαχειριστή
+6 +1749| 6 +1749
+Level 4| Επίπεδο 4
+Level 5| Επίπεδο 5
+Dot "."| Τελεία "."
+Colon ":"| Άνω κάτω τελεία ":"
+(Min: %d  Max: %d)| (Ελάχ.: %d Μέγ.: %d)
+Line: %d| Γραμμή: %d
+Line %d: %s| Γραμμή %d: %s
+6 +1780| 6 +1780
+Please enter a number| Εισαγάγετε έναν αριθμό
+Please enter a name| Εισαγάγετε έναν όνομα
+Login| Είσοδος
+Log Issue| Πρόβλημα καταγραφής
+Log Out| Έξοδος
+Avail| Διαθ.
+Unavail| Μη διαθ.
+14 +1852| 14 +1852
+Show Picture| Εμφάνιση εικόνας
+Mode %d| Λειτουργία %d
+Screen Saver Timer| Χρονόμετρο προφύλαξης οθόνης
+Enabled also in call| Ενεργοποίηση και στην κλήση
+Enabled also in call| Ενεργοποίηση και στην κλήση
+Invalid Subscription Time| Άκυρος χρόνος συνδρομής
+Speed Dial 8| Ταχεία κλήση 8
+Request Failed| Αποτυχία αιτήματος
+Request timed out| Λήξη χρονικού ορίου αίτησης
+Too many answers - Refine your search| Πάρα πολλές απαντήσεις - Περιορίστε την αναζήτηση
+New Contact| Νέα επαφή
+Edit Details| Επεξεργασία στοιχείων
+Edit Details| Επεξεργασία στοιχείων
+Failed to retrieve contact details| Αποτυχία ανάκτησης στοιχείων επαφής
+No Mobile phone connected| Δεν υπάρχει συνδεδεμένο κινητό τηλέφωνο
+Only one Handset can be paired to the phone| Μόνο ένα ακουστικό μπορεί να συζευχθεί στο τηλέφωνο
+7 +2039| 7 +2039
+Volume| Ένταση ήχου
+DTMF| DTMF
+Screenshot| Στιγμιότυπο οθόνης
+All| Όλα
+All| Όλα
+Missed| Αναπάντητες
+Outgoing| Εξερχόμενη
+Received| Ληφθείσες
+7 +2053| 7 +2053
+Paired Devices| Συζευγμένες συσκευές
+Available Devices| Διαθέσιμες συσκευές
+Swipe the toggle switch to the right to enable Bluetooth| Σύρετε το διακόπτη εναλλαγής προς τα δεξιά για να ενεργοποιήσετε το Bluetooth
+Press "Turn on" to enable Bluetooth| Πατήστε "Ενεργοποίηση" για να ενεργοποιήσετε το Bluetooth
+Press "Turn on" to enable Bluetooth| Πατήστε "Ενεργοποίηση" για να ενεργοποιήσετε το Bluetooth
+Turn on| Ενεργοποίηση
+Turn off| Απενεργοποίηση
+Mobile : %s| Κινητό: %s
+9 +2067| 9 +2067
+Device| Συσκευή
+Rename Device| Μετονομασία συσκευής
+No paired devices| Καμία συζευγμένη συσκευή
+Connection successful| Επιτυχής σύνδεση
+Connection failed| Αποτυχία σύνδεσης
+Disconnection successful| Επιτυχής αποσύνδεση
+Connection successful| Επιτυχής σύνδεση
+Connection failed| Αποτυχία σύνδεσης
+Disconnection successful| Επιτυχής αποσύνδεση
+Disconnection failed| Αποτυχία αποσύνδεσης
+Pairing failed| Αποτυχία σύζευξης
+Operation failed| Αποτυχία λειτουργίας
+7 +2153| 7 +2153
+%ld days ago| πριν από %ld ημέρες
+while offline| όταν ήσασταν εκτός σύνδεσης
+Can't talk right now. I'll call you later.| Δεν μπορώ να μιλήσω τώρα. Θα σας καλέσω αργότερα.
+On another call| Είμαι σε άλλη κλήση
+On another call| Είμαι σε άλλη κλήση
+I'll call you back| Θα σας καλέσω εγώ
+Call me back in 10 minutes| Καλέστε με σε 10 λεπτά
+Custom...| Προσαρμογή...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Ο χρήστης hot desk δεν μπορεί να εκτελέσει σύζευξη του ηχείου. Συνδεθείτε ως τοπικός χρήστης
+Hot desk user can not unpair handset please login as a local user| Ο χρήστης hot desk δεν μπορεί να καταργήσει τη σύζευξη του ακουστικού. Συνδεθείτε ως τοπικός χρήστης
+Hot desk user can not unpair speaker please login as a local user| Ο χρήστης hot desk δεν μπορεί να καταργήσει τη σύζευξη του ηχείου. Συνδεθείτε ως τοπικός χρήστης
+Push Call| Κλήση προώθησης
+Cordless Handset| Ασύρματο ακουστικό
+Push Call| Κλήση προώθησης
+Cordless Handset| Ασύρματο ακουστικό
+Low Battery| Χαμηλή στάθμη μπαταρίας
+Critical Battery| Κρίσιμη στάθμη μπαταρίας
+Ongoing Call| Τρέχουσα κλήση
+5 +2188| 5 +2188
+Device not supported| Η συσκευή δεν υποστηρίζεται
+Phone not compatible| Το τηλέφωνο δεν είναι συμβατό
+Dialing out through Mobile Line not supported| Η κλήση μέσω γραμμής κινητής τηλεφωνίας δεν υποστηρίζεται
+IPv6| IPv6
+Enable IPv6| Ενεργοποίηση IPv6
+Mode DHCPv6| Λειτουργία DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Αυτόματη διαμόρφωση
+Prefix Length| Μήκος Προθέματος
+IPv6 Address| Διεύθυνση IPv6
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Σφάλμα: Απόρριψη αναβάθμισης/υποβάθμισης λόγω ασύμβατης έκδοσης υλικολογισμικού
+Audio Diagnostics| Διαγνωστικά ήχου
+Diagnostics| Διαγνωστικά
+Timeout (1-5 Minutes)| Χρονικό όριο (1-5 λεπτά)
+Disconnect| Αποσύνδεση
+Capturing ...| Καταγραφή...
+Complete ...| Ολοκληρωμένη...
+Collecting Logs ...| Συλλογή αρχείων καταγραφής ...
+Collect Logs| Συλλογή αρχείων καταγραφής
+Please input a duration between 1 and 5 minutes| Καταχωρίστε μια διάρκεια μεταξύ 1 και 5 λεπτών
+Erase| Εξάλειψη
+Cloud Service| Υπηρεσία Cloud
+Enable Cloud Service| Ενεργοποιήστε την Υπηρεσία Cloud
+Cloud SIP| SIP Cloud
+Cloud Directory| Ευρετήριο Cloud
+Active Config Server| Ενεργός Εξυπηρετητής Διαμόρφωσης
+Cloud Config Server 1| Εξυπηρετητής 1 Διαμόρφωσης Cloud
+Cloud Config Server 2| Εξυπηρετητής 2 Διαμόρφωσης Cloud
+Cloud Staging Server| Εξυπηρετητής Σταδιοποίησης Cloud
+Cloud Domain| Τομέας Cloud
+Replay| Επανάληψη
+Backward| Οπισθοδρόμηση
+Forward| Προς τα εμπρός
+Send To| Αποστολή σε
+Logout| Αποσύνδεση
+To Email| Σε Email
+Delete Failure| Αποτυχία διαγραφής
+Play Failure| Αποτυχία αναπαραγωγής
+Play Failure due to a system error. See your system administrator.| Αποτυχία αναπαραγωγής λόγω σφάλματος συστήματος. Δείτε τον διαχειριστή του συστήματός σας.
+Save Failure| Αποτυχία αποθήκευσης
+Add Contact| Προσθήκη επαφής
+Voicemail and Recordings| Τηλεφωνητής και ηχογραφήσεις
+Voicemail User Login| Σύνδεση χρήστη τηλεφωνητή
+Send to| Αποστολή σε
+Cannot dial a private number| Δεν είναι δυνατή η κλήση ενός ιδιωτικού αριθμού
+Cannot copy a private number| Δεν είναι δυνατή η αντιγραφή ενός ιδιωτικού αριθμού
+Number not available| Ο αριθμός δεν είναι διαθέσιμος
+Loading...| Φόρτωση...
+Login| Είσοδος
+Contacts| Επαφές
+Private| Ιδιωτική
+To| Προς
+Send| Αποστολή
+Voicemail has been sent.| Έχει σταλεί φωνητικό μήνυμα.
+Error in sending Voicemail. Please send it again.| Σφάλμα κατά την αποστολή φωνητικού μηνύματος. Στείλτε το ξανά.
+Voicemail has been sent to email.| Έχει σταλεί φωνητικό μήνυμα στο email σας.
+Error in sending to Email.| Σφάλμα κατά την αποστολή φωνητικού μηνύματος στο email σας.
+New| Νέο
+Recorded| Καταγράφηκε
+Receipt Confirmation| Επιβεβαίωση παραλαβής
+Passcode| Κωδικός πρόσβασης
+Mailbox Number| Αριθμός γραμματοκιβωτίου
+Remember passcode| Απομνημόνευση του κωδικού πρόσβασης
+Passcode is incorrect. Enter a valid passcode.| Ο κωδικός πρόσβασης είναι λανθασμένος. Εισαγάγετε έναν έγκυρο κωδικό πρόσβασης.
+Invalid mailbox number.| Λανθασμένος κωδικός γραμματοκιβωτίου.
+Error - Mailbox in use| Σφάλμα - Το γραμματοκιβώτιο χρησιμοποιείται
+Error - maximum sessions exceeded| Σφάλμα - υπερβήκατε τις μέγιστες περιόδους σύνδεσης
+Error - no session exists| Σφάλμα - δεν υπάρχει περίοδος
+Error - bad extension| Σφάλμα - κακή επέκταση
+Mailbox locked for security reasons. See your system administrator.| Το γραμματοκιβώτιο είναι κλειδωμένο για λόγους ασφαλείας. Δείτε τον διαχειριστή του συστήματός σας.
+DECT Headset| Ακουστικά DECT
+DECT Headset Version| Έκδοση ακουστικών DECT
+DECT Headset Battery| Μπαταρία ακουστικών DECT
+DECT Headset Rf Power| Ισχύς Rf ακουστικών DECT
+DECT Headset Rf Power| Ισχύς Rf ακουστικών DECT
+Very Low| Πολύ χαμηλή
+Downloading font| Λήψη γραμματοσειράς
+No calls to unpark| Δεν υπάρχουν κλήσεις προς αποθήκευση
+For …| Για ...
+To VM| Σε VM
+Number of Packets Sent| Αριθμός πακέτων που στάλθηκαν
+Number of Packets Received| Αριθμός πακέτων που λήφθηκαν
+RTT min/avg/max| ελαχ./μέσ./μέγ. RTT
+traceroute to| ακολούθηση ίχνους σε
+hops max| μέγιστο αναπηδήσεων
+byte max| μέγιστα byte
+Voicemail box is full| Το φωνητικό ταχυδρομείο είναι γεμάτο
+ALL| ΟΛΑ
+REMOTE| ΑΠΟΜΑΚΡΥΣΜΕΝΟ
+Local| Τοπικό
+Not allowed on this call| Δεν επιτρέπεται σε αυτή την κλήση
+ Whisper|  Ψίθυρος
+ Consult|  Διαβούλευση
+ Coach|  Καθοδήγηση
+ Barge|  Συμμετοχή
+ Monitor|  Παρακολούθηση
+ For|  Για
+ External Speaker|  Εξωτερικό ηχείο
+ UnPark|  Ξεπαρκάρισμα
+ Call Parked|  Έγινε παρκάρισμα της κλήσης
+ UnPark Failed|  Το ξεπαρκάρισμα απέτυχε
+ Rev:|  Αναθ:
+ You must restart the phone before the new settings will take effect.|  Πρέπει να κάνετε επανεκκίνηση του τηλεφώνου πριν τεθούν σε ισχύ οι νέες ρυθμίσεις.
+ None|  Καμία
+ Use LLDP-MED|  Χρήση LLDP-MED
+ LLDP neighbor|  LLDP γειτον.
+ Cache LLDP-MED|  Cache LLDP-MED
+ Conf In Progress|  Συνδιάσκεψη σε εξέλιξη
+  Enter Voicemail Password|   Εισάγετε κωδικό πρόσβασης τηλεφωνητή
+ Call Server| 
+ Do Not Ring if on a Call|  Χωρίς κουδούνισμα με κλήση σε εξέλιξη
+ P|  P
+ To Vm|  Στον τηλεφ.
+ Pickup not permitted|  Δεν επιτρέπεται απάντηση
+ Pickup/unpark not permitted|  Δεν επιτρέπεται απάντηση/ξεπαρκάρισμα
+ Unpark not permitted|  Το ξεπαρκάρισμα δεν επιτρέπεται
+ Silent Monitor not permitted on this call|  Δεν επιτρέπεται αθόρυβη παρακολούθηση αυτής της κλήσης
+ Silent Coach not permitted on this call|  Δεν επιτρέπεται αθόρυβη καθοδήγηση αυτής της κλήσης
+ Barge In not permitted on this call|  Δεν επιτρέπεται συμμετοχή σε αυτή την κλήση
+ Park not permitted|  Δεν επιτρέπεται παρκάρισμα
+ Park/Transfer is still in progress|  Παρκάρισμα/Μεταφορά εξακολουθεί να είναι σε εξέλιξη
+ No calls to unpark|  Δεν υπάρχουν κλήσεις για ξεπαρκάρισμα
+ No calls to park|  Δεν υπάρχουν κλήσεις για παρκάρισμα
+ No calls to pickup|  Δεν υπάρχουν κλήσεις για απάντηση
+ No calls to take action|  Δεν υπάρχουν κλήσεις για ενέργεια
+ My Status|  Η κατάσταση μου
+ Favorite|  Αγαπημένο
+ Voicemail playback failed|  Η αναπαραγωγή του μηνύματος τηλεφωνητή απέτυχε
+ Voicemail skip failed|  Η παράκαμψη του μηνύματος τηλεφωνητή απέτυχε
+ Voicemail bad address|  Λάθος διεύθυνση τηλεφωνητή
+ Voicemail box is full for|  Ο τηλεφωνητής είναι γεμάτος
+ Not supported|  Δεν υποστηρίζεται
+ Service unavalilable at this time|  Η υπηρεσία δεν είναι διαθέσιμη αυτή τη στιγμή
+ Hold not permitted on this call|  Δεν επιτρέπεται να τεθεί σε αναμονή αυτή η κλήση
+ Action not permitted|  Η ενέργεια δεν επιτρέπεται
+ Not Permitted on this call|  Δεν επιτρέπεται σε αυτή την κλήση
+ Request denied or \r\nunacceptable at this time|  Το αίτημα απορρίφτηκε ή \r\δε μπορεί να γίνει αποδεκτό αυτή τη στιγμή
+ Phone number is invalid or not properly formatted|  Ο αριθμός τηλεφώνου δεν είναι έγκυρος ή είναι σε λάθος μορφή
+ Move Message Failure|  Αποτυχία μετακίνησης μηνύματος
+ Contacts|  Επαφές
+ Cloud Connect|  Σύνδεση στο Cloud
+ Service Type|  Τύπος υπηρεσίας
+ MiCloud Connect|  Σύνδεση MiCloud
+ MiVoice Border Gateway|  Πύλη MiVoice Border
+ User DID|  DID χρήστη
+ Domain|  Τομέας
+ Call Back|  Επιστροφή κλήσης
+ Play|  Αναπαραγωγή
+ Exit|  Έξοδος
+ Skip Back|  Παράκαμψη επιστροφής
+ Skip Forward|  Παράκαμψη προώθησης μπροστά
+ Inbox|  Εισερχόμενα
+ MiCloud|  MiCloud
+ Fetching Details|  Λήψη λεπτομερειών
+ Additional Phone|  Πρόσθετο τηλέφωνο
+ Agent state|  Κατάσταση αντιπροσώπου
+ Availability|  Διαθεσιμότητα
+ Standard|  Κανονικό
+ In a meeting|  Σε συνάντηση
+ Out of office|  Εκτός γραφείου
+ Extended Absence|  Παρατεταμένη απουσία
+ Do not disturb|  Μην ενοχλείτε
+ On the Phone|  Στο τηλέφωνο
+ Assign|  Ανάθεση
+ Assign user|  Ανάθεση χρήστη
+ Assign user failed|  Ανάθεση χρήστη απέτυχε
+ Assign user to phone in progress. Please wait...|  Ανάθεση χρήστη σε τηλέφωνο σε εξέλιξη. Παρακαλώ περιμένετε...
+ Extension or password invalid|  Μη έγκυρη επέκταση ή κωδικός πρόσβασης
+ Unassign|  Κατάργηση ανάθεσης
+ Unassign user|  Κατάργηση ανάθεσης χρήστη
+ Unassign user failed|  Η κατάργηση ανάθεσης χρήστη απέτυχε
+ Unassign user?|  Κατάργηση ανάθεσης χρήστη;
+ Unassigning user...|  Κατάργηση ανάθεσης χρήστη σε εξέλιξη...
+ Voicemail password|  Κωδικός πρόσβασης τηλεφωνητή
+ Ping|  Ping
+ Host Name or IP Address|  Όνομα κεντρικού υπολογιστή ή Διεύθυνση IP
+ Please enter a valid HostName/IP Address|  Εισάγετε έγκυρο όνομα κεντρικού υπολογιστή/Διεύθυνση ΙΡ
+ Pinging %s...|  Ping σε εξέλιξη %s...
+ Tracerouting...|  Ανίχνευση διαδρομής...
+ Tracerouting Complete|  Ανίχνευση διαδρομής ολοκληρώθηκε
+ Traceroute|  Ανίχνευση διαδρομής
+ Page Up|  Σελίδα επάνω
+ Page Down|  Σελίδα κάτω
+ Traceroute Command|  Εντολή ανίχνευσης διαδρομής
+ Always|  Πάντα
+ Never|  Ποτέ
+ Always destination|  Πάντα προορισμός
+ No answer destination|  Δεν υπάρχει απάντηση προορισμού
+ Busy destination|  Προορισμός απασχολημένος
+ Simulring|  Ταυτόχρ.ειδοπ. αριθμών
+ VPN|  VPN
+ Use VPN|  Χρήση VPN
+ VPN gateway|  Πύλη VPN
+ VPN gateway port|  Θύρα πύλης VPN
+ Tunnel IP|  ΙΡ τούνελ
+ VPN protocol|  Πρωτόκολλο VPN
+ VPN debug mode|  Λειτουργία αποσφαλμάτωσης VPN
+ System|  Σύστημα
+ Log upload|  Μεταφόρτωση αρχείου καταγραφής
+ Timeout (1-1440 Minutes)|  Λήξη χρόνου (1-1440 λεπτά)
+ Please input a duration between 1 and 1440 minutes|  Εισάγετε διάρκεια από 1 έως 1440 λεπτά
+ User Settings|  Ρυθμίσεις χρήστη
+ Diagnostic server|  Διακομιστής διαγνωστικών
+ Diag Server|  Διακομιστής διαγν.
+ Wrap up|  Ολοκλήρωση
+ UnWrap|  Κατάργηση ολοκλήρωσης
+  Open|   Άνοιγμα
+ Confirm|  Επιβεβαίωση
+ New voicemail password|  Νέος κωδικός πρόσβασης τηλεφωνητή
+ Password entries do not match|  Οι κωδικοί πρόσβασης δε συμφωνούν
+ Password change succeeded|  Ο κωδικός πρόσβασης άλλαξε με επιτυχία
+ New password same as old password|  Ο νέος κωδικός πρόσβασης είναι ίδιος με τον παλιό κωδικό πρόσβασης
+  Reply|   Απάντηση
+  ReplyAll|   Απάντηση σε όλους
+  Compose|   Σύνθεση
+  Call VM|   Κλήση Τηλεφ.
+ Cannot choose your own extension|  Δε μπορείτε να διαλέξετε τη δικιά σας επέκταση
+ Save Changes?|  Να αποθηκευτούν οι αλλαγές;
+ Validating number...|  Επαλήθευση αριθμού...
+ Invalid %s|  Μη έγκυρο %s
+ Upgrade Required|  Απαιτείται αναβάθμιση
+ Invalid DID or Password|  Μη έγκυρο DID ή κωδικός πρόσβασης
+ Register|  Καταχώρηση
+ Voice Service|  Υπηρεσία φωνής
+ Start Over|  Ξεκίνημα από την αρχή
+ Empty domain name|  Άδειο όνομα τομέα
+ Registering|  Καταχώρηση
+ DID or password no update|  Το DID ή ο κωδικός πρόσβασης δεν ενημερώθηκαν
+ Invalid domain name|  Μη έγκυρο όνομα τομέα
+  Registration cancelled|   Η καταχώρηση ακυρώθηκε
+ Pager|  Τηλεειδοποίηση
+ Phone not registered|  Το τηλέφωνο δεν έχει καταχωρηθεί
+ Enterprise|  Επαγγελματικό
+  Parameter Type|   Τύπος παραμέτρου
+ Remote|  Απομακρυσμένα
+  Filter Page|   Σελίδα φίλτρου
+  Parameter Filter|   Φίλτρο παραμέτρου
+  Get Parameters|   Λήψη παραμέτρων
+ Assigned|  Ανατέθηκε
+ Assigning|  Ανάθεση
+ Invalid extension|  Μη έγκυρη επέκταση
+ Extension or password no update|  Η επέκταση ή ο κωδικός πρόσβασης δεν έχουν ενημερωθεί
+ Assignment cancelled|  Η ανάθεση ακυρώθηκε
+ Extension already assigned|  Η επέκταση έχει ήδη ανατεθεί
+  Select a call to park|   Επιλέξτε μια κλήση για παρκάρισμα
+  Select a call to unpark|   Επιλέξτε μια κλήση για ξεπαρκάρισμα
+  Unpark|   Ξεπαρκάρισμα
+ Duration|  Διάρκεια
+ Subject|  Θέμα
+ Uploading Fail|  Η μεταφόρτωση απέτυχε
+ Diagnostic server is empty|  Ο διακομιστής διαγνωστικών είναι κενός
+ Logs uploaded successfully|  Τα αρχεία καταγραφής μεταφορτώθηκαν με επιτυχία
+ Urgent|  Επείγον
+ Return Receipt|  Επιστροφή απόδειξης
+ Include Original|  Να συμπεριληφθεί το αρχικό
+ Re: Voice Message|  Απ: Φωνητικό μήνυμα
+ Fw: Voice Message|  Πρ: Φωνητικό μήνυμα
+ Phone not assigned|  Το τηλέφωνο δεν έχει καταχωρηθεί
+ Whisper Page|  Ψιθύρισμα σελίδας
+ Intercom|  Ενδοεπ/νία
+ Silent Monitor|  Αθόρυβη παρακολούθηση
+ Barge In|  Συμμετοχή
+ Silent Coach|  Αθόρυβη καθοδήγηση
+ To Inbox|  Στα εισερχόμενα
+ Save Message?|  Αποθήκευση μηνύματος;
+ By First|  Από το πρώτο
+ By Last|  Από το τελευταίο
+ Dial Voicemail|  Κλήση φωνητικού ταχυδρομείου
+ Dial VM|  Κλήση Τηλεφ.
+  Invalid Phone Number|   Μη έγκυρος αριθμός τηλεφώνου
+ Transfer not permitted on this call|  Η/ μεταφορά δεν επιτρέπεται σε αυτή την κλήση
+ Conference not permitted on this call|  Η συνδιάσκεψη δεν επιτρέπεται σε αυτή την κλήση
+ Remote log upload in progress|  Μεταφόρτωση αρχείου καταγραφής απομακρυσμένης πρόσβασης σε εξέλιξη
+ Remote capture upload in progress|  Μεταφόρτωση αρχείου απομακρυσμένης λήψης σε εξέλιξη
+ Standard|  Κανονικό
+ Ring 2|  Ήχος κλήσης 2
+ Ring 3|  Ήχος κλήσης 3
+ Ring 4|  Ήχος κλήσης 4
+ Play Int|  Αναπαραγωγή εσωτ.
+ Play Ext|  Αναπαραγωγή εξωτ.
+ Press "Upload" to upload a debug log|  Πατήστε "Μεταφόρτωση" για να μεταφορτώσετε ένα αρχείο καταγραφής αποσφαλμάτωσης
+ Select a call to merge|  Επιλέξτε μία κλήση για συγχώνευση
+ Add Caller:|  Προσθήκη καλούντα:
+ Assign user?|  Ανάθεση χρήστη;
+ Participants|  Συμμετέχοντες
+ Conferenced|  Σε συνδιάσκεψη
+ calls|  κλήσεις
+ held calls|  κλήσεις σε αναμονή
+ Debug on|  Αποσφαλμάτωση ενεργ.
+ Debug off|  Αποσφαλμάτωση απενεργ.
+ Unknown Error|  Άγνωστο σφάλμα
+ Connection Error|  Σφάλμα σύνδεσης
+ Application Error|  Σφάλμα εφαρμογής
+ Number of Packets Sent:|  Αριθμός απεσταλμένων πακέτων:
+ Number of Packets Received:|  Αριθμός ληφθέντων πακέτων:
+ RTT min/avg/max|  ελαχ./μέσ./μέγ. RTT
+ traceroute to|  ακολούθηση ίχνους σε
+ hops max|  μέγιστο αναπηδήσεων
+ byte packets|  byte πακέτου
+ Help|  Βοήθεια
+ Call Mitel Support ?|  Κλήση υποστήριξης Mitel;
+ Mitel Support|  Υποστήριξη Mitel
+ Remote| 
+ OnHold| 
+Initializing Components|  Προετοιμασία στοιχείων
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

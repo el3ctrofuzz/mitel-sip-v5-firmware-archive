@@ -1,0 +1,3606 @@
+Cymraeg
+AQUARIUS_3 prompts| 
+Net. General Info|  
+Net. Persist. Data|   
+Net. DHCP Info|  
+Net. QoS|  
+Message Key Launch Voicemail App| 
+AQUARIUS_4 prompts| 
+Network Persist. Data|  
+Network QoS| 
+Message Key Launches Voicemail Application| 
+AQUARIUS_5 prompts| 
+Network General Info| 
+Network DHCP Info| 
+480iCT prompts| 
+No handsets are currently paired| Dim setiau llaw wedi’u paru.
+Cordless Handset Feature Key Configuration| Ffurfweddiad Bysell Nodwedd Set Law Ddiwifr
+None| Dim
+Attempting to pair...| Yn ceisio paru...
+Pairing successful| Paru'n llwyddiannus
+Pairing failed       | Paru wedi methu
+Try again| Ceisio eto
+Remove Handset:| Tynnu'r Set Law:
+Attempting to remove| Wrthi'n ceisio tynnu
+Wait...| Arhoswch...
+Removal successful| Wedi tynnu'n llwyddiannus
+Cordless| Diwifr
+Cordless Handsets| Setiau Llaw Diwifr
+None Registered| Dim un wedi'i chofrestru
+Sync| Cydamseru
+Private Line| Llinell Breifat
+Sending Directory| Wrthi'n Anfon Cyfeirlyfr
+to Handsets| i Setiau Llaw
+System Unavailable| System Ddim ar Gael
+Handset Pairing| Paru Setiau Llaw
+Handset Keys| Bysellau Set Law
+Feature Key programming complete.| Rhaglennu Bysell Nodweddion wedi cwblhau.
+Two Call Support| Cefnogaeth Dwy-Alwad
+Intercom| Intercom
+Sending Directory to Handsets| Wrthi'n anfon y  Cyfeiriadur i'r Set law
+No Public Number Found| Dim rhif cyhoeddus wedi'i ganfod
+480i prompts| 
+Time Format| Fformat Amser
+    NOT MATCH !!!| DDIM YN CYFATEB!!!
+Erase local config?| Dileu ffrfwdd lleol?
+Alternate Server| Gweinydd Eilaidd
+Contrast Level| Lefel Cyferbyniad
+TypeService SIP| MathWasanaeth SIP
+TypeService RTP| MathWasanaeth RTP
+TypeService DSCP| MathWasanaeth DSCP
+TypeService RTCP| MathWasanaeth RTCP
+Dn| I Lawr
+Rt| Hawl
+Lf| Chwith
+Del| Dileu
+System Info Upload| Llwytho gwybodaeth system
+Up| I Fyny
+Copyright| Hawlfraint
+Reset| Ailosod
+Phone will restart automatically after finishing.| Bydd y ffôn yn ailgychwyn yn awtomatig ar ôl gorffen.
+Please login| 
+Incorrect password| Cyfrinair anghywir
+Reset Configuration?| Ailosod ffurfweddiad?
+Cfg. Svr.| Ffurf. Gwein.
+Enable| Galluogi
+List| Rhestr
+Move Up| Symud i fyny
+Move Down| Symud i lawr
+Firmware Loaded| Cadarnwedd wedi'i llwytho
+802.1x Authenticating| 802.1x wrthi'n dilysu
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: Aros am IP
+Bluetooth Upgrade .. Please wait| Uwchraddio Bluetooth .. Arhoswch
+Contacting Redirector| Wrthi'n Cysylltu â'r Ailgyfeiriwr
+Redirecting Step 1| Wrthi'n ailgyfeirio Cam 1
+Redirecting Step 2| Wrthi'n ailgyfeirio Cam 2
+Redirecting Step 3| Wrthi'n ailgyfeirio Cam 3
+Redirecting Step 4| Wrthi'n ailgyfeirio Cam 4
+Redirecting Step 5| Wrthi'n ailgyfeirio Cam 5
+Redirecting Step 6| Wrthi'n ailgyfeirio Cam 6
+Auto Discovery...| Awto-ddarganfod...
+Starting in Generic SIP Mode| Startar i Generic SIP läge
+Starting in AastraLink Mode| Startar i AastraLink läge
+Updating config| Uppdaterar konfiguration
+Waiting assignment| Väntar på uppgift
+Checking for Firmware  Do not unplug phone!| Kontrollerar mjukvara. Avryt ej
+New Firmware. Do not unplug phone!| Ny mjukvara. Koppla ej ur telefonen!
+New Firmware. Restarting...| Ny mjukvara... Startar om
+Downloading configuration| Laddar ner konfiguration
+Downloading Language Packs| Laddar ner språk
+Network| Nätverk
+UPnP device not found| UPnP-enhet ej hittad
+Port Map In Progress| Portar mappas
+Port Map Incomplete| Ofullständig mappning
+DSP| DSP
+SIP| SIP
+Tone| Signal
+Interface| Rhyngwyneb
+Web| Y Wê
+Done| Wedi gorffen
+CopyToAll| Copio-I-Oll
+Cannot use firmware.| Ni ellir defnyddio cadarnwedd.
+No available lines| Dim llinellau ar gael
+Current Password:| Cyfrinair Cyfredol:
+New Password:| Cyfrinair Newydd:
+Re-enter Password:| Ail-deipio'r Cyfrinair
+  Password Changed| Cyfrinair wedi'i newid
+Change| Newid
+Use DHCP?| Defnyddio DHCP?
+Advanced| Uwch
+DNS| DNS
+Ringer | Cloch
+ ERROR: invalid port| GWALL: porth annilys
+SIP Register| Cofrestru SIP
+Register?| Cofrestru?
+Authentication Name| Enw Dilysu
+Nortel NAT| NAT Nortel
+Reset phone to| Ailosod y ffôn i
+factory defaults?| ragosodiadau'r ffatri
+Setting phone back to| Wrthi'n gosod y ffôn yn ôl i
+Factory Defaults| Ragosodiadau'r Ffatri
+  Please enter the   |   Teipiwch y
+    administrator    |     cyfrinair
+      password.      |       gweinyddwr.
+Password: | Cyfrinair:
+Quit| Ymadael
+More| Mwy
+Timeserver Address:| Cyfeiriad Gweinydd Amser:
+Network Time Disabled| Amser Rhyngrwyd wedi'i Anablu
+Dialing| Deialu
+Incoming| Yn dyfod i mewn
+Calling| Yn galw
+Pause| Saib
+Pickup| Pigwch i fyny
+Previous| Blaenorol
+Enter Time:| Teipiwch yr Amser:
+Message Waiting| Neges yn Aros
+Live Dialpad| Pad Deialu Byw
+Live Dialpad is| Pad Deialu Byw yn
+Options List| Rhestr Opsiynau
+    Access denied    |   Gwrthodwyd fynediad
+Directory is full| Mae'r cyfeiriadur yn llawn
+30min summertime| 30munud amser haf
+1h    summertime| 1awr amser haf
+No Link| Dim Dolen
+Next| Nesaf
+Retry| Ailgeisio
+Negotiation| Trafodaeth
+Live Dialpad disabled| Pad Deialu Byw wedi'i anablu
+Link State| Cyflwr y ddolen
+Headset Mic Volume| Uchder Meic Clustffon
+Gateway IP Address:| Cyfeiriad Mynedfa IP
+Enter Date (y-m-d):| Teipiwch y Dyddiad (b-m-d):
+Enter| Mewnbynnu
+Enable| Galluogi
+Full 10Mbps| Llawn 10Mbps
+Full 100Mbps| Llawn 100Mbps
+Full 1000Mbps| Llawn 1000Mbps
+Half 10Mbps| Hanner 10Mbps
+Half 100Mbps| Hanner 100Mbps
+Half 1000Mbps| Hanner 1000Mbps
+Default| Diofyn
+Add New| Ychwanegu Newydd
+DeleteList| DileuRhestr
+Delete entire| Dileu'r holl
+Directory?| Cyfeiriadur?
+Enter Number:| Teipiwch y Rhif:
+Network disconnected| Rhwydwaith wedi datgysylltu
+Network connected| Rhwydwaith wedi cysylltu
+Entry Saved| Cofnod wedi'i Gadw
+Entry Removed| Cofnod wedi'i ddiddymu
+Private| Preifat
+Public| Cyhoeddus
+Delete entry?| Dileu'r cofnod?
+Delete?| Dileu?
+Delete number| Dileu rhif
+or delete all| neu ddileu oll
+entries?| cofnodion?
+Name is full| Mae'r Enw yn llawn
+Empty| Gwag
+Redial List| Rhestr Ailddeialu
+Details| Manylion
+Copy| Copïo
+Select| Dewiswch
+Voicemail| Lleisbost
+DeleteItem| DileuEitem
+Delete All| Dileu pob
+Entry copied to| Cofnod wedi'i gopio i
+Entry Exists| Mae'r cofnod yn bod
+All items erased| Pob eitem wedi'i dileu
+Sort| Didoli
+Resume| Ailddechrau
+EditNum| GolyguRhif
+DeleteList again to| DileuRhestr eto i
+Delete again to| Dileu eto i
+erase this item| dileu'r eitem hon
+erase all calls| dileu pob galwad
+ new caller|  alwr newydd
+ new callers|  alwyr newydd
+Press 1st letter| Pwyswch y lythyren 1af
+Handset | Set Law 
+ Missed Call|  Galwad wedi'i methu
+ Missed Calls|  Galwadau wedi'u methu
+Call Forward Mode| Modd Blaenyrru Galwad
+CFWD All| Blaenyrru Galwad Oll
+CFWD Busy| Blaenyrru Galwad yn Brysur
+CFWD NoAnswer| Blaenyrru Galwad DimAteb
+Call| Galw
+Select TFTP| Dewis TFTP
+Use %c for new| Defnyddio %c am newydd
+Use %c to view| Defnyddio %c i weld
+Download Protocol| Lawrlwytho Protocol
+OFF| I FFWRDD
+ON| YMLAEN
+Add Number| Ychwanegu Rhif
+Arrange| Trefnu
+%cmore| %cmwy
+Office| Swyddfa
+Home| Adref
+Cell| Symudol
+Pager| Teclyn galw
+VLAN Settings| Gosodiadau VLAN
+Softkeys and XML| Bysellau Sgrîn ac XML
+Softkeys Configuration| Ffurfweddiad Bysellau Sgrîn
+Bottom Keys| Bysellau Gwaelod
+Top Keys| Bysellau Top
+Page1| Page 1
+Page2| Page 2
+Page3| Page 3
+Page4| Page 4
+Page5|  Page 5
+Idle| Segur
+Outgoing| Yn mynd allan
+Empty| Gwag
+Enter server name/IP:| Mewnbynnwch enw'r gweinydd/IP:
+Enter HTTPS port:| Mewnbynnwch borth HTTPS:
+Erase| Dileu
+Proxy IP/Port| Porth/IP Procsi
+Registrar IP/Port| Porth/IP Cofrestrydd
+Erasing local config| Wrthi'n dileu ffurfweddiad lleol
+Proxy Port:| Porth Procsi:
+Registrar Port:| Porth Cofrestrydd:
+Proxy Server:| Gweinydd Procsi:
+Registrar Server:| Gweinydd Cofrestrydd:
+Contrast Level:| Lefel Cyferbyniad:
+Erase Local Config.| Dileu Ffurfweddiad Lleol
+Administrator Menu| Dewislen Gweinyddwr
+Backlight On Time| Amser Parhâd Golau Ôl
+Redirect HTTP->HTTPS?| Ailgyfeirio HTTP->HTTPS?
+Block XML HTTP POSTs?| Blocio XML HTTP POSTs?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTs
+Client Method| Dull Cleient
+To unlock the phone| I ddatgloi'r ffôn
+No more softkeys| Dim mwy o fysellau sgrîn
+Ignore| Anwybyddu
+Answer| Ateb
+Configuration Server| Gweinydd Ffurfweddu
+Primary Path| Llwybr Cynradd
+Alternate Path| Llwybr Eilaidd
+Logging in| Mewngofnodi
+Login Failed| Mewngofnodi wedi methu
+Enable?| Galluogi?
+Check Expires| Gwirio Dyddiad Terfyn
+Check Hostnames| Gwirio EnwauGwesteiwyr
+Conf. Unavailable| Cynh. Ddim ar gael
+Ringing...| Wrthi'n canu...
+Error Messages| Negeseuon Gwall
+No Error Messages| Dim Negeseuon Gwall
+Download Options| Opsiynau Lawrlwytho
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| mwy
+A # &| A # &
+  Invalid password   |   Cyfrinair annilys
+Upload Sys Info| Llwytho gwybodaeth system
+Config is updated. Restarting...| Diweddarwyd Ffurfwedd. Wrthi'n ailgychwyn...
+CFWD Filtering| Hidlo CFWD
+Checking for Firmware| Kontrollerar mjukvara
+for new| am newydd
+9133i prompts| 
+Password Changed| Cyfrinair wedi'i newid
+Leave| Gadael
+Time Format| Fformat Amser
+Erase local cfg?| Dileu Ffurfwedd. Lleol?
+TypeService SIP| MathWasanaeth SIP
+TypeService RTP| MathWasanaeth RTP
+TypeService DSCP| MathWasanaeth DSCP
+TypeService RTCP| MathWasanaeth RTCP
+Alternate Server| Gweinydd Eilaidd
+Contrast Level| Lefel Cyferbyniad
+Options List| Rhestr Opsiynau
+DELETE to erase item  or # to erase Number| DILËWCH i gael gwared ar yr eitem  neu # i gael gwared ar rif
+Upload Sys Info| Llwytho gwybodaeth system
+Directory Empty. Use Save to add| Cyfeiriadur yn wag. Defnyddiwch Cadw i ategu
+Directory Empty Use Save to add| Cyfeiriadur yn wag Defnyddiwch Cadw i ategu
+  NOT MATCH !!!| DDIM YN CYFATEB!!!
+DELETE again to erase this item| Dileu eto i dileu'r eitem hon
+System Info Upload| Llwytho gwybodaeth system
+Phone will restart after| Restarts Ffôn ar ôl
+Copyright| Hawlfraint
+Reset| Reset
+Use DHCP?| Defnyddio DHCP?
+Full 10Mbps| Llawn 10Mbps
+Full 100Mbps| Llawn 100Mbps
+Half 10Mbps| Hanner 10Mbps
+Half 100Mbps| Hanner 100Mbps
+Full 1000Mbps| Llawn 1000Mbps
+Half 1000Mbps| Hanner 1000Mbps
+Cfwd Destination| Cyrchfan Cfwd
+Please login| Os gwelwch yn dda login
+Incorrect password| Anghywir password
+Reset Configuration?| Reset configuration?
+Cfg. Svr.| Configuration gweinyddwr
+Net disconnected| Rhw. wedi datgy.
+Live Dialpad| Pad Deialu Byw
+Firmware Loaded| Firmware gosod
+802.1x Authenticating| 802.1x Authenticating
+LLDP| LLDP
+Initializing network| Ymgychwyn y rhwydwaith
+Bluetooth Upgrade| Uwchraddio Bluetooth
+Contacting Redirector| Cysylltu â’r Ailgyfeiriwr
+Redirecting Step 1| Cam ailgyfeirio 1
+Redirecting Step 2| Cam ailgyfeirio 2
+Redirecting Step 3| Cam ailgyfeirio 3
+Redirecting Step 4| Cam ailgyfeirio 4
+Redirecting Step 5| Cam ailgyfeirio 5
+Redirecting Step 6| Cam ailgyfeirio 6
+Auto Discovery| Awto Darganfod
+Starting in Generic SIP Mode| Dechrau yn y modd SIP generig
+Starting in Aastra Link Mode| Dechrau yn y modd cyswllt Aastra
+Updating configuration| Diweddaru ffurfweddiad
+Waiting assignment| Yn aros am aseiniad
+Checking for new firmware| Chwilio am gadarnwedd newydd
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Cadarnwedd newydd: PEIDIWCH Â THYNNU’R FFÔN O’R PLWG
+New Firmware: Restarting...| Cadarnwedd newydd: Ailddechrau...
+Downloading configuration| Llwytho ffurfweddiad
+Downloading Language Packs| Llwytho pecynnau iaith
+Network| Rhwydwaith
+UPnP Gateway Not Found| Dim modd canfod Porth UPnP
+UPnP Port Map In Progress| Map Porth UPnP wrthi’n datblygu
+UPnP Port Map Incomplete| Map Porth UPnP yn anghyflawn
+DSP| DSP
+SIP| SIP
+Tone| Tôn
+Registering with the voice network...| Cofrestru gyda'r rhwydwaith llais...
+Web| Y Wê
+Done| Wedi gorffen
+Cannot use| Ni ellir defnyddio'r
+this firmware.| gadarnwedd hon.
+All lines in use| Pob llinell mewn defnydd
+Current Password| Cyfrinair Cyfredol
+New Password| Cyfrinair Newydd
+Enter Again| Mewngofnodi eto
+Ringer volume   | Uchder y gloch  
+DELETE again to| DILEU eto i
+erase all calls| dileu pob galwad
+Caller is erased| Mae'r galwr wedi'i ddileu
+Network Time| Amser y Rhwydwaith
+Change| Newid
+Options| Opsiynau
+Access denied| Gwrthodwyd fynediad
+Directory full| Cyfeiriadur yn llawn
+Link Active| Dolen yn Actif
+No Link| Dim Cysylltiad
+Live Dialpad is\nnot available.| Pad Deialu Byw\nDdim Ar Gael
+Live Dialpad is\nON| Pad DeialuByw \nYmlaen
+Live Dialpad is\nOFF| Pad DeialuByw \nIFfwrdd
+-  confirmed   -| - cadarnhawyd -
+Contrast | Cyferbyniad 
+Set| Gosod
+DHCP\nON| DHCP\nYmlaen
+DHCP\nOFF| DHCP\nIFfwrdd
+Enable?\nYes| Galluogi?\nIe
+Enable?\nNo| Galluogi?\nNa
+Check Expires| Gwirio Dod i Ben
+Check Expires?\nYes| Gwirio Dod i Ben?\nIe
+Check Expires?\nNo| Gwirio Dod i Ben?\nNa
+Check Hostnames| Gwirio EnwauGwesteiwyr
+Check Hostnames?\nYes| Gwirio EnwauGwesteiwyr?\nIe
+Check Hostnames?\nNo| Gwirio EnwauGwesteiwyr?\nNa
+Cancel| Dileu
+SIP Register\nON| Cofrestr SIP\nYmlaen
+SIP Register\nOFF| Cofrestr SIP\nIFfwrdd
+Nortel NAT\nEnabled| NAT Nortel\nGalluogwyd
+Nortel NAT\nDisabled| NAT Nortel\nAnablwyd
+Next| Nesaf
+Done| Wedi gorffen
+Retry| Ailgeisio
+Exit| Gadael
+Pickup| Pigo i fyny
+Call held| Galwad yn aros
+Calls held| Galwadau yn aros
+Country Code: | Côd Gwlad:
+*List Countries| *Rhestru Gwledydd
+Enter| Mewnbynnu
+Admin Password| Cyfrinair Gweinyddu
+yyyy-mm-dd | bbbb-mm-dd 
+Restart phone?| Ailgychwyn y ffôn?
+#Confirm| #Cadarnhau
+RestoreDefaults?| AdferDiofyn?
+Call Agent 1| Galw Asiant 1
+Call Agent 2| Galw Asiant 2
+Call Agent 3| Galw Asiant 3
+Invalid Code    | Côd Annilys    
+E: Invalid port!| E: Porth annilys!
+Application:| Cymhwysiad:
+Boot ROM:| Cychwyn ROM:
+Negotiation:| Trafodaeth:
+30m summertime| 30m amser haf
+1h summertime| 1awr amser haf
+Invalid password| Cyfrinair annilys
+  disconnected|   wedi datgysylltu
+   connected|    wedi cysylltu
+    Network|        Rhwydwaith
+erase all items| dileu pob eitem
+Enter Number>| Teipio Rhif>
+Setting phone to| Gosod ffôn ar
+Use Save to end| Defnyddiwch Cadw i derfynu
+to enter name>| i deipio enw>
+Saved: Directory| Cadwyd: Cyfeiriadur
+Retrying config | Ailgeisio ffurfweddu
+download...     | lawrlwytho...   
+empty| gwag
+No Match| Dim Cyfatebiaeth
+Save to?| Cadw i?
+Saved Memory key| Bysell Cof Cadwedig
+Removed Key| Bysell a Dynnwyd
+Key saved | Bysell Cof Cadwedig
+Key removed| Bysell a Dynnwyd
+Press 1st letter| Pwyswch y llythyren 1af
+Speaker volume  | Uchder y seinydd
+Handset volume  | Uchder y set law
+Headset volume  | Uchder y clustffon
+Factory Defaults| Rhagosodiadau'r Ffatri
+ Missed Call| Galwad a Fethwyd
+ Missed Calls| Galwadau a Fethwyd
+Cfwd State| BlnyrruGal. Stad
+Cfwd Number| BlnyrruGal. Rhif
+Cfwd Mode| BlnyrruGal. Modd
+CFWD All| BlnyrruGal. Oll
+CFWD Busy| Blnyrru yn Brysur
+CFWD NoAnswer| BlnyrruGal. DimAteb
+Select TFTP\nPrimary| Dewis TFTP\nCynradd
+Select TFTP\nAlternate| Dewis TFTP\nEilaidd
+DownloadProtocol| LawrlwythoProtocol
+VLAN Settings| Gosodiadau VLAN
+Server Name/IP?| Enw Gweinydd/IP?
+HTTPS Port?| Porth HTTPS?
+Client Method\nSSL 3.0| Dull Cleient\nSSL 3.0
+Client Method\nTLS 1.0| Dull Cleient\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nAilgyfeirio
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nPeidiwch ailgyfeirio
+Redirect| Ailgyfeirio
+Do not redirect| Peidiwch ailgyfeirio
+XML HTTP POSTs\nDo not block| XML HTTP POSTs\nPeidiwch a blocio
+XML HTTP POSTs\nBlock| XML HTTP POSTs\nBlociwch
+Do not block| Peidiwch a blocio
+Block| Blocio
+Erasing config| Wrthi'n dileu'r ffurfweddiad
+Pri TFTP Path| Prif Lwybr TFTP
+Alt TFTP Path| Llwybr amgen TFTP
+Backlight Mode| Modd Golau Ôl
+Backlight Time| Amser Golau Ôl
+Answer| Ateb
+Ignore| Anwybyddu
+Cfwd| BlnyrruGalwad
+Copy to All?| Copïo i'r Cyfan?
+Apply Changes?| Gwneud Newidiadau?
+Logging in| Wrthi'n mewngofnodi
+Login Failed| Mewngofnodi wedi methu
+Conf Unavailable| Ffurf. Ddim ar gael
+Error Messages| Negeseuon gwall.
+No Error Messages| Dim negeseuon
+Delete All| Dileu pob
+Download Options| Opsiynau Lawrlwytho
+Config updated. Restarting...| Diweddarwyd ffurfwedd. Wrthi'n ailgychwyn...
+DELETE again to erase all calls| DILEU eto i ddileu pob galwad
+Firmware Check| Kontrol mjukvara
+Fwd Filtering| Hidlo am ymlaen
+CFWD Filtering| Hidlo CFWD
+DELETE again to erase all items| DILEU eto I dileu pob eitem
+Upload Sys Info| Llwytho gwybodaeth system
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Rhowch Password Administrator
+Error Msg| Negeseuon Gwall
+Unlock the phone?| Datgloi'r ffôn?
+ Enter Unlock Password|  Rhowch y cyfrinair datgloi
+softkey| softkey
+Edit Number| Golygu rhif
+Lock the phone| Cloi'r Ffôn
+keypad| Bysellbad
+Unlock| Datgloi
+ Cust Feat|  Personoli nodwedd
+Phone is locked| Mae'r ffôn ar glo
+Unlock the phone| Datgloi'r ffôn
+GoodBye| Hwyl fawr
+Pass Thru Port| 
+First| Cyntaf
+Last| Diwethaf
+Name| Enw
+Add| Ychwanegu
+Edit| Golygu
+Space| Bwlch
+Bksp| Yn ôl
+caps| caps
+CAPS| CAPS
+Reject| Gwrthod
+Silence| Tawelwch
+Hold| Dal
+Transfer| Trosgl.
+>| >
+Lines| 
+Settings| Gosodiadau
+Device Name| Enw’r ddyfais
+Bluetooth Devices| Dyfeisiau Bluetooth
+Bluetooth Status:| Statws Bluetooth:
+Search| 
+Searching...| Wrthi'n chwilio...
+device(s) found.| canfuwyd dyfais/dyfeisiau.
+Press on a device to start pairing.| Pwyswch ar ddyfais i ddechrau paru.
+Enter PIN| Rhowch y rhif adnabod
+Add Device| Ychwanegu dyfais
+Active| Gweithredol
+Are you sure?| Ydych chi'n siŵr?
+ALL| Y cyfan
+Phone No:| 
+Copy to all modes| Copïo i bob dull
+BUSY| PRYSUR
+NO ANSWER| DIM ATEB
+CFWD NO ANS:| CFWD DIM ATEB:
+CFWD BUSY:| CFWD PRYSUR:
+CFWD ALL:| CFWD Y CYFAN:
+Audio| Sain
+Calibrate Screen| Calibro sgrin
+Recalibrate Touchscreen?| Ailgalibradu’r sgrin gyffwrdd?
+Softkeys| Bysellau meddal
+Headset Mic Volume| Lefel sain y clustffonau
+Headset Device| Dyfais clustffonau
+Bluetooth| 
+Wired| Wedi'i wifro
+Restart | Ailgychwyn 
+No Calls| Dim galwadau
+Brightness Timer| Amserydd disgleirdeb
+Brightness Level| Lefel disgleirdeb
+Add to Directory| Ychwanegu at y cyfeiriadur
+Waiting for Touch Screen activity to subside ...| Yn aros i weithgarwch y sgrin gyffwrdd dawelu ...
+Touch the UPPER-LEFT corner of the screen| Cyffyrddwch â chornel CHWITH UCHAF y sgrin
+Touch the UPPER-RIGHT corner of the screen| Cyffyrddwch â chornel DDE UCHAF y sgrin
+Touch the LOWER-RIGHT corner of the screen| Cyffyrddwch â chornel DDE ISAF y sgrin
+Touch the LOWER-LEFT corner of the screen| Cyffyrddwch â chornel CHWITH ISAF y sgrin
+Received unreliable data. You will be asked to touch the same point again| Wedi cael data annibynadwy. Gofynnir i chi gyffwrdd â'r un pwynt eto
+Processing ...| Wrthi'n prosesu ...
+Validating calibration data ... please wait| Wrthi'n dilysu data calibro ... arhoswch
+Sanity Check OK. Save changes?| Gwiriad pwyll yn iawn. Cadw newidiadau?
+Sanity Check Failed| Gwiriad pwyll wedi methu
+Retry| Ailgynnig
+Quit| Gadael
+Please Enter| Rhowch
+Submit| Cyflwynwch
+User ID:| ID Defnyddiwr:
+Password:| Cyfrinair:
+Transferring| Wrthi'n trosglwyddo
+No. Rings| Nifer y caniadau
+Line| Llinell
+Unable to Pair| Wedi methu paru
+Please Wait...| Arhoswch...
+Add new device...| Ychwanegu dyfais newydd...
+Detected:| Canfuwyd:
+Connecting:| Wrthi’n cysylltu:
+Disonnecting:| Wrthi’n datgysylltu:
+Connected:| Wedi cysylltu:
+ALL| Y cyfan
+BUSY| PRYSUR
+NO ANSWER| DIM ATEB
+CFWD ALL:| CFWD Y CYFAN:
+CFWD BUSY:| CFWD PRYSUR:
+CFWD NO ANSWER:| CFWD NO ANSWER:
+Copy to all modes| Copïo i bob dull
+OFF| I FFWRDD
+Off| I FFWRDD
+Phone Number:| Rhif ffôn:
+Level 1| Lefel 1
+Level 2| Lefel 2
+Level 3| Lefel 3
+Level 4| Lefel 4
+Level 5| Lefel 5
+(Min: %d  Max: %d)| (Lleiaf: %d  Mwyaf: %d)
+ Enter Administrator Password| Rhowch Password Administrator
+Phone will restart automatically after finishing.| Bydd y ffôn yn ailgychwyn yn awtomatig ar ôl gorffen.
+Conference| Cynadledda
+Conf| Cynadledda
+Reset Configuration?| Ailosod ffurfweddiad?
+Hide| Cuddio
+Live Dialpad| Pad Deialu Byw
+Live Dial| Live Dial
+Lock| Cloi
+Lock the phone?| Cloi'r Ffôn?
+Directory| Cyfeirlyfr
+Phone Number:| Rhif ffôn:
+Common prompts| 
+None| Dim
+Disable| Anablu
+Logout failed| Methwyd ag allgofnodi
+Logout successful| Allgofnodwyd yn llwyddiannus
+Login successful| Mewngofnodwyd yn llwyddiannus
+Logout user %s| Allgofnodi defnyddiwr %s
+Login/Logout| Mewngofnodi/Allgofnodi
+User ID| ID Defnyddiwr
+User ID required| Mae angen ID defnyddiwr
+Application busy. Please try again later.| Rhaglen yn brysur. Rhowch gynnig arall arni yn nes ymlaen.
+Page Expired. Please reload the page.| Diffoddodd y dudalen. Ail-lwythwch y dudalen.
+Check Expires| Gwirio Dod i Ben
+Check Hostnames| Gwirio EnwauGwesteiwyr
+Use DHCP?| Defnyddio DHCP?
+Restart Phone?| Ailgychwyn y ffôn?
+12 Hour| 12 Awr
+Speeddial| Deialu Cyflym
+Erase local cfg?| Dileu Ffurfwedd. Lleol?
+Spd Dial| Deialu cyflym
+Backup Outbound Proxy Server| Gweinydd dirprwyol am allan wrth gefn
+Backup Outbound Proxy Port| Porth dirprwyol am allan wrth gefn
+Firmware Info| Gwybodaeth am Gadarnwedd
+DHSG| DHSG
+DHSG is ON| DHSG YMLAEN
+DHSG is OFF| DHSG I FFWRDD
+Backlight On Time| Amser Parhâd Golau Ôl
+Use Alt TFTP| Defnyddio TFTP Amg
+Pri TFTP Path| Prif Lwybr TFTP
+Alt TFTP Path| Llwybr amgen TFTP
+RestoreDefaults?| AdferDiofyn?
+HTTP Init Failed| HTTP cychwynnol wedi methu
+Get aastra.lic| Cael aastra.lic
+Get mac.lic| Cael mac.lic
+Firmware not licensed for use on this phone| Dim trwydded i ddefnyddio cadarnwedd ar y ffôn hon
+Redial List is empty| Mae'r Rhestr Ailddeialu yn gwag
+Callers List is empty| Mae'r rhestr galwyr yn gwag
+Callers List| Rhestr Galwyr
+Redial List| Rhestr Ailddeialu
+Directory| Cyfeirlyfr
+License Information| Gwybodaeth am y drwydded
+XML Application URI:| URI Cymhwysiad XML:
+Missing User ID| ID defnyddiwr ar goll
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Defnyddio
+Active Features| Nodweddion gweithredol
+WWW MMM DD| WWW MMM DD
+DD-MMM-YY| DD-MMM-BB
+YYYY-MM-DD| BBBB-MM-DD
+DD/MM/YYYY| DD/MM/BBBB
+DD/MM/YY| DD/MM/BB
+DD-MM-YY| DD-MM-BB
+MM/DD/YY| MM/DD/BB
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM BBBB
+WWW DD MMM| WWW DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.BBBB
+24 Hour| 24 Awr
+XML Application Title:| Teitl Cymhwysiad XML:
+License Status| Statws trwydded
+FTP| FTP
+to view| i weld
+Contact Name already exists| Enw cyswllt yn bodoli’n barod
+Leave| Gadael
+Contact Mismatch| Camgymeriad cysylltu
+ Call Terminated|  Terfynwyd yr alwad
+IP and gateway have to be on same subnet| Mae'n rhaid i'r IP a'r porth fod ar yr un is-rwyd
+IP cannot be equal to gateway address| Ni all IP fod yr un fath â chyfeiriad porth
+Call Waiting Tone Period| Cyfnod tôn galwad yn aros
+OK| Iawn
+Directory empty| Cyfeiriadur yn wag
+Files Sent| Anfonwyd y ffeiliau
+Upload System Info| Llwytho gwybodaeth system
+Upload| Llwytho i fyny
+Call Transferred| Galw trosglwyddo
+Firmware Information| Gwybodaeth am Gadarnwedd
+Contact Name already exists| Enw cyswllt yn bodoli’n barod
+Replace| Disodli
+No Services| Dim Gwasanaeth
+Merge| Uno
+Enter Name:| Teipiwch Enw:
+Call Hold Reminder| Atgoffa bod galwadau’n cael eu dal
+Others| Arall
+Call Hold Reminder During Active Calls| Atgoffa bod galwadau’n cael eu dal yn ystod galwadau gweithredol
+Out of service| Ddim ar gael
+Reason: | Rheswm: 
+Add blank record?| Ychwanegu cofnod gwag?
+Audio Setting| Gosodiad sain
+Delete Item| Dileu eitem
+Services| Gwasanaethau
+Server| Gweinydd
+Service Disabled| Gwasanaeth wedi'i anablu
+Port| Porth
+Path| Llwybr
+Username| Enw defnyddiwr
+No. Rings| Nifer Caniadau
+Use xx to view| Defnyddiwch xx i weld
+User Password| Cyfrinair Defnyddiwr
+Time and Date| Amser a Dyddiad
+Language| Iaith
+Screen Language| Iaith Sgrîn
+Tones| Tonau
+Tone Set| Gosod Tôn
+Ring Tone| Tôn Ffôn
+State| Stad
+State:| Stad:
+User-Busy| Defnyddiwr-yn-Brysur
+Unconditional| Diamodol
+Time of day| Adeg o'r dydd
+Deflection| Allwyriad
+Follow Me| Dilynwch Fi
+Away| I ffwrdd
+Busy| Prysur
+Restart| Ailgychwyn
+All On| I Gyd Ymlaen
+All Off| I Gyd I Ffwrdd
+AllAccts| PobCyfrif
+Conference| Cynadledda
+Flash| Fflach
+Dial| Deialu
+Directory| Cyfeirlyfr
+Callers| Galwyr
+Icom| Icom
+Icom| Icom
+Dir| Cyfeir.
+Xfer| Trosgl.
+Conf| Cynh.
+SIP Settings| Gosodiadau SIP
+Proxy Port| Porth Dirprwyol
+Registrar Port| Porth Cofrestrydd
+User Name| Enw Defnyddiwr
+Screen Name| Enw Sgrîn
+Proxy Server| Gweinydd Procsi
+Registrar Server| Gweinydd Cofrestrydd
+Auth. Name| Awdur. Enw
+Nortel NAT| NAT Nortel
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Enw Dangosydd
+RTP Port Base| Sylfaen Porth RTP
+Static NAT| NAT Statig
+NAT Settings| Gosodiadau NAT
+NAT IP| IP NAT
+NAT SIP Port| Porth SIP NAT
+NAT RTP Port| Porth RTP NAT
+NAT HTTPS Port| Porth HTTPS NAT
+Phone Status| Statws y Ffôn
+Auto Discovery| Awto-ddarganfod
+Trying...| Wrthi'n ceisio...
+Remote| O bell
+Reset| Ailosod
+Choose Server| Dewis gweinydd
+Select| Dewis
+Select| Dewis
+Ring Tone:| Tôn Ffôn
+Silent| Distaw
+Network Settings| Gosodiadau Rhyngrwyd
+Clear| Clirio
+Speaker | Seinydd 
+Headset | Clustffon 
+Speaker/Headset| Seinydd/Clustffon
+Headset/Speaker| Clustffon/Seinydd
+Audio Mode| Modd Clywedol
+Low| Isel
+Medium| Canolig
+High| Uchel
+OFF| I FFWRDD
+Off| I FFWRDD
+ON| YMLAEN
+DHCP Settings| Gosodiadau DHCP
+DHCP User Class| Dosbarth Defnyddiwr DHCP
+Hostname| Enw gwesteiwr
+IP Address| Cyfeiriad IP
+Subnet Mask| Masg Is-ryngrwyd
+Subnet Mask:| Masg Is-ryngrwyd:
+Gateway| Mynedfa
+Primary DNS| DNS Cynradd
+Secondary DNS| DNS Eilaidd
+TFTP Settings| Gosodiadau TFTP
+VLAN| VLAN
+VLAN ID| ID VLAN
+PC Port VLAN ID| ID VLAN Porth PC
+LAN Port VLAN| Porth LAN VLAN
+PC Port VLAN| Porth PC VLAN
+Priority| Blaenoriaeth
+VLAN Enabled\nYes| VLAN wedi'i alluogi\n Ie
+VLAN Enabled\nNo| VLAN wedi'i alluogi\n Na
+PC Port Priority| Blaenoriaeth Porth PC
+LAN Port VLAN ID| ID VLAN Porth LAN
+UPnP| UPnP
+Use UPnP| Defnyddio UPnP
+Select Gateway| Dewis Mynedfa
+Portmap Started| Porth-fap wedi cychwyn
+Portmap Error| Gwall Porth-fap
+LLDP| LLDP
+LLDP packet interval| Cyfwng paced LLDP
+LLDP Settings| Gosodiadau LLDP
+Use LLDP ELIN| Defnyddio ELIN LLDP
+TypeService DSCP| MathGwasanaeth DSCP
+Type of Service DSCP| Math o Wasanaeth DSCP 
+VLAN Priority| Blaenoriaeth VLAN
+Other Priority| Blaenoriaeth Arall
+SessionBorderCtl| RheoliFfiniauSesiwn
+Session Border Ctrl| Rheoli Ffiniau Sesiwn
+Select SBC| Dewis SBC
+SBC Settings| Gosodiadau SBC
+Kagoor| Kagoor
+Update Interval (sec)| Cyfwng diweddaru (eiliadau)
+Backspace| ôl-fysellu
+No| Na
+Yes| Ie
+DHCP Download Options| Opsiynau Lawrlwytho DHCP
+DHCP Download Option| Opsiynau Lawrlwytho DHCP
+Firmware Version| Fersiwn Gadarnwedd
+Restart Phone| Ailgychwyn y Ffôn
+Show| Dangos
+is OFF| I FFWRDD
+Password| Cyfrinair
+Restarting...| Wrthi'n ailgychwyn...
+Speed| Cyflymder
+Manual| Â llaw
+Auto| Awto
+Auto| Awto
+Half| Hanner
+Full| Llawn
+Duplex| Dyblyg
+ ERROR: |  GWALL:
+Invalid IP addr.| Cyfeiriad IP annilys
+Invalid mask| Masg annilys
+Range is 1-4094| Cwmpas yw 1-4094
+Range is 1-4095| Cwmpas yw 1-4095
+Range is 1-4095| Cwmpas yw 1-4095
+Range is 0-63| Cwmpas yw 0-63
+Range is 0-7| Cwmpas yw 0-7
+DND| DND
+DND On| DND Ymlaen
+Time Server| Gweinydd Amser
+Set Time| Gosod yr Amser
+Set Date| Gosod y Dyddiad
+Date Format| Fformat y Dyddiad
+Time Zone| Cylchfa Amser
+Daylight Savings| Arbedion Golau Dydd
+Invalid Time| Amser Annilys
+Invalid Date| Dyddiad Annilys
+Invalid IP| IP Annilys
+ Invalid Number|  Rhif annilys
+On| Ymlaen
+On| Ymlaen
+On| Ymlaen
+OFF| I FFWRDD
+Automatic| Awtomatig
+Conf Hold| Oedi Cynh.
+No Service| Dim Gwasanaeth
+Mute| Mud
+Connected| Wedi cysylltu
+Drop| Gollwng
+Park| Parcio
+PickUp| Pigo i fyny
+Redial| Ailddeialu
+DCP| DCP
+DCP List| Rhestr DCP
+Cancel| Dileu
+Done| Wedi gorffen
+Callers List| Rhestr Galwyr
+No changes made| Dim newidiadau wedi'u gwneud
+Key is Locked| Bysell ar Glo
+Cannot Save| Ni ellir Cadw
+1 item| 1 eitem
+ items|  eitemau
+No User| Dim Defnyddiwr
+DHCP failed| DHCP wedi methu
+Unknown Name| Enw Anhysbys
+Unknown Number| Rhif Anhysbus
+Unknown Line| Llinell Anhysbus
+Item is erased| Eitem wedi'i dileu
+Unknown| Anhysbys
+NextSpace| BwlchNesaf
+Dot "."| Dot "."
+Transfer Failed| Trosglwyddo wedi Methu
+Call Forward| Blaenyrru Galwad
+Call Fwd| BlnyrruGalwad
+All| Oll
+All| Oll
+Any| Unrhyw
+NoAns| DimAteb
+BusyNoAns| PrysurDimAteb
+Number:| Rhif:
+Mode:| Modd:
+No. Rings:| Nifer Caniadau:
+Line: | Llinell:
+Contrast Level| Lefel Cyferbyniad
+ Message|  Neges
+ Messages|  Negeseuon
+Loading Page...| Wrthi'n Llwytho'r Dudalen...
+Abort Loading...| Atal Llwytho...
+Connect Timeout| Terfyn amser Cysylltu
+Data Timeout| Terfyn amser Data
+File Not Found| Ffeil Heb ei Chanfod
+Page Load Error| Gwall Llwytho Tudalen
+Cannot display| Ni ellir dangos
+Skip| Sgipio
+Call Failed| Galwad wedi Methu
+Primary Server| Gweinydd Cynradd
+Primary Server| Gweinydd Cynradd
+Alternate Server| Gweinydd Eilaidd
+Primary| Cynradd
+Alternate| Eilaidd
+Bad encrypted cfg| Ffurf. Amgryptiedig drwg
+Use TFTP| Defnyddio TFTP
+Use FTP| Defnyddio FTP
+Use HTTP| Defnyddio HTTP
+Use HTTPS| Defnyddio HTTPS
+FTP Settings| Gosodiadau FTP
+FTP Server| Gweinydd FTP
+FTP Path| Llwybr FTP
+FTP Username| Enw Defnyddiwr FTP
+FTP Password| Cyfrinair FTP
+HTTP Settings| Gosodiadau HTTP
+HTTP Server| Gweinydd HTTP
+HTTP Path| Llwybr HTTP
+HTTP Port| Porth HTTP
+HTTPS Settings| Gosodiadau HTTPS
+Download Server| Gweinydd Lawrlwytho
+Download Path| Llwybr Lawrlwytho
+Download Port| Porth Lawrlwytho
+HTTPS Server| Gweinydd HTTPS
+HTTPS Path| Llwybr HTTPS
+HTTPS Port| Porth HTTPS
+HTTPS Client| Cleient HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Tystysgrif Ddrwg
+Certificates| Tystysgrifau
+Cert Validation| Dilysu Tystysgrif
+All defaults| Pob diofyn
+Config default| Ffurfwedd. Diofyn
+AM| AM
+PM| PM
+Factory Default| Rhagosodiad Ffatri
+Factory Default?| Rhagosodiad Ffatri?
+Erase Local Cfg.| Dileu Ffurfwedd. Lleol
+New IP Obtained| Cafwyd IP Newydd
+New NAT IP| IP NAT Newydd
+Server IP Change| Newid IP Gweinydd
+AastraLink Menu| Dewislen AastraLink
+Server Options| Opsiynau Gweinydd
+AastraLink Info| Gwybod. AastraLink
+Server Remote IP| IP Pell Gweinydd
+Server Local IP| IP Lleol Gweinydd
+Preferences| Hoffterau
+Network Status| Statws Rhwydwaith
+MAC Address:| Cyfeiriad MAC:
+MAC Address| Cyfeiriad MAC
+BT MAC Address:| Cyfeiriad MAC BT:
+Invalid Key| Bysell Annilys
+Speed Dial Edit:| Golygu Deialu Cyflym:
+Press SD button| Pwyso botwm SD
+From: | O:
+To: | I:
+Via: | Trwy:
+Diverted: | Dargyfeiriwyd:
+Log Off| Allgofnodi
+Customer Support| Cefnogaeth Cwsmeriaid
+Status| Statws
+Operation| Gweithred
+Basic Settings| Gosodiadau Sylfaenol
+Advanced Settings| Gosodiadau Uwch
+System Information| Gwybodaeth System
+Down| I Lawr
+Up| I Fyny
+n/a| n/a
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Priodoledd
+Link State| Stad Dolen
+Negotiation| Trafodaeth
+Hardware Information| Gwybodaeth am Galedwedd
+Firmware Information| Gwybodaeth am Gadarnwedd
+Firmware Release Code| Côd Rhyddhau Cadarnwedd
+Value| Gwerth
+Platform| Platfform
+Boot Version| Fersiwn Gychwyn
+Date/Time| Dyddiad/Amser
+DND Key Mode| Modd Bysell DND
+Call Forward Key Mode| Modd Bysell Blaenyrru Galwad
+Option 160| Opsiwn 160
+Option 159| Opsiwn 159
+Option 66| Opsiwn 66
+Option 43| Opsiwn 43
+Account| Cyfrif
+Both| Y ddau
+Line| Llinell
+Line 1| Llinell 1
+Line 2| Llinell 2
+Line 3| Llinell 3
+Line 4| Llinell 4
+Line 5| Llinell 5
+Line 6| Llinell 6
+Line 7| Llinell 7
+Line 8| Llinell 8
+Line 9| Llinell 9
+Line 10| Llinell 10
+Configuration Line %d| Llinell Ffurfweddu %d
+Basic SIP Authentication Settings| Gosodiadau Sylfaenol Dilysu SIP
+Screen Name| Enw Sgrîn
+Screen Name 2| Enw Sgrîn 2
+Phone Number:| Rhif ffôn:
+Phone Number| Rhif ffôn
+Caller ID| ID y Galwr
+Authentication Name| Enw Dilysu
+Password| Cyfrinair
+BLA Number| Rhif BLA
+Line Mode| Modd Llinell
+Generic| Generig
+SCA| SCA
+%s SCA| SCA %s
+BLA| BLA
+Asterisk SLA| Seren SLA
+Basic SIP Network Settings| Gosodiadau Sylfaenol Rhwydwaith SIP
+Outbound Proxy Server| Gweinydd Procsi Allan
+Outbound Proxy Port| Porth Procsi Allan
+Registration Period| Cyfnod Cofrestru
+RTP Settings| Gosodiadau RTP
+Autodial Settings| Gosodiadau Awtodeialu
+Autodial Number| Rhif Awtoddeialu
+Autodial Timeout| Terfyn Amser Awtoddeialu
+Use Global Settings| Defnyddiwch Osodiadau Byd-eang
+DTMF Method| Dull DTMF
+SIP INFO| GWYB. SIP
+BOTH| Y DDAU
+Save Settings| Cadw Gosodiadau
+Global SIP| SIP Byd-eang
+Global SIP Settings| Gosodiadau Byd-eang SIP
+RTP Encryption| Amgryptiad RTP
+SRTP Disabled| Anablwyd SRTP
+SRTP Preferred| Ffefrir SRTP
+SRTP Only| SRTP yn Unig
+Advanced SIP Settings| Gosodiadau Uwch SIP
+Explicit MWI Subscription| Tanysgrifiad MWI Penodol
+Explicit MWI Subscription Period| Cyfnod Tanysgrifiad MWI Penodol
+MWI for BLA account| MWI ar gyfer cyfrif BLA
+Enabled| Galluogwyd
+Send MAC Address in REGISTER Message| Anfonwch Gyfeiriad MAC yn y Neges GOFRESTRU
+Send Line Number in REGISTER Message| Anfonwch Rif y Llinell yn y Neges GOFRESTRU
+Session Timer| Amserydd Sesiwn
+T1 Timer| Amserydd T1
+T2 Timer| Amserydd T2
+Transaction Timer| Amserydd Trafodyn
+Transport Protocol| Protocol Cludiant
+UDP and TCP| UDP a TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| TLS Parhaus
+Registration Failed Retry Timer| Amserydd Ailgeisio Cofrestru-wedi-Methu
+Registration Timeout Retry Timer| Amserydd Ailgeisio Cofrestru-Terfyn-Amser
+Registration Renewal Timer| Amserydd Adnewyddu Cofrestru
+BLF Subscription Period| Cyfnod Tanysgrifio BLF
+ACD Subscription Period| Cyfnod Tanysgrifio ACD
+BLA Subscription Period| Cyfnod Tanysgrifio BLA
+Blacklist Duration| Hyd RhestrWahardd
+ Park Pickup Config|  Ffurfweddu codi parcio
+RTP Port| Porth RTP
+Basic Codecs| Codecs Sylfaenol
+Force RFC2833 Out-of-Band DTMF| Gorfodi RFC2833 DTMF Allan-o-Fand 
+Codec Preference List| Rhestr Hoffterau Codec
+Silence Suppression| Ataliad Distewi
+Provisioning complete.| Cyflenwi yn gyflawn.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Mae'n rhaid i chi ailgychwyn y ffôn cyn i'r gosodiadau newydd ddod i rym.
+ERROR: Maximum number of connections reached.| GWALL: Cyrhaeddwyd mwyafswm nifer y cysylltiadau.
+Logout Complete| Allgofnodi wedi Cwblhau.
+Your session has ended.  Please close the browser.| Mae eich sesiwn wedi gorffen. Caewch y Porwr os gwelwch yn dda.
+Session Expired| Sesiwn wedi terfynu.
+Please close the browser or use the link below to log in again.| Caewch y porwr neu ddefnyddio'r ddolen isod i fewngofnodi eto, os gwelwch yn dda.
+Log In| Mewngofnodi
+Log Out| Allgofnodi
+Log Out| Allgofnodi
+Avail| ArGael
+Avail| ArGael
+Unavail| DdimArGael
+Unavail| DdimArGael
+Reset User Password| Ailosod Cyfrinair Defnyddiwr
+Please enter the current and new passwords| Teipiwch y cyfrineiriau presennol a'r newydd.
+Current Password| Cyfrinair Presennol
+New Password| Cyfrinair Newydd
+Password Confirm| Cadarnhau Cyfrinair
+Please Enter| Mewngofnodi
+Submit| Cyflwyno
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Wrthi'n Awdurdodi...
+Authorization Failed| Awdurdodi wedi Methu
+Auth Failed| Awdurd. Wedi methu
+Current password is incorrect.| Mae'r cyfrinair cyfredol yn anghywir.
+Please try again.| Ceisiwch eto os gwelwch yn dda.
+The new password fields do not match.| Nid yw meysydd y cyfrineiriau newydd yn cyfateb.
+The new password can not be saved.| Ni ellir Cadw'r cyfrinair newydd.
+The user password has been changed.| Newidwyd y cyfrinair defnyddiwr.
+Task and Stack Info| Gwybod. Tasg a Stacio
+Back| Yn ôl
+Files Available for Download| Ffeiliau ar Gael i'w Lawrlwytho
+Custom| Addasiadol
+Save As...| Cadw fel...
+Directory List| Rhestr Cyfeiriadur
+Current Settings| Gosodiadau Cyfredol
+Restore To Factory Defaults| Adfer i Ragosodiadau'r Ffatri
+Restore| Adfer
+Remove Local Configuration Settings| Tynnu Gosodiadau Ffurfweddu Lleol
+Remove| Tynnu
+Restarting the hardware...| Ailgychwyn y caledwedd...
+Please return to the main page after your phone restarts.| Dychwelwch i'r main page wedi i'ch ffôn ailgychwyn.
+User not authorized to make changes.| Defnyddiwr heb ei awdurdodi i wneud newidiadau.
+Local configuration file has been deleted.| Mae'r ffeil ffurweddu leol wedi'i dileu.
+Please restart the phone for the settings to take effect.| Ailgychwynwch y ffôn er mwyn i'r gosodiadau ddod i rym.
+Phone has been set to factory Defaults.| Mae'r ffôn wedi ei osod i Ragosodiadau'r ffatri.
+Action URI| URI Gweithrediad
+Action URI Configuration| Ffurfweddiad URI Gweithrediad
+Event| Digwyddiad
+StartUp| Cychwyn
+Successful Registration| Cofrestru'n Llwyddiannus
+Registration Event| Digwyddiad Cofrestru
+Incoming Call| Galwad yn dod i mewn
+Outgoing Call| Galwad yn mynd allan
+Offhook| Wedi'i godi
+Onhook| Wedi'i roi i lawr
+Disconnected| Wedi datgysylltu
+Poll| Pôl
+Interval| Cyfwng
+Settings saved.| Cadwyd y gosodiadau.
+Settings could not be saved.| Ni ellid cadw'r gosodiadau.
+Firmware Update| Diweddariad Cadarnwedd
+TLS Support| Cefnogaeth TLS
+Manual Firmware Update| Diweddariad Cadarnwedd â Llaw
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Teipiwch gyfeiriad IP y gweinydd ac enw'r gadarnwedd isod i gychwyn diweddaru'r gadarnwedd.
+Configuration Server| Gweinydd Ffurfweddu
+Configuration Server Settings| Gosodiadau Gweinydd Ffurfweddu
+Server IP| IP y Gweinydd
+File Name| Enw Ffeil
+Configure File Names| Ffurfweddu Enwau Ffeiliau
+Root and Intermediate Certificates Filename| Enw Ffeil Tystysgrifau Gwreiddiol a Chanolradd
+Local Certificate Filename| Enw Ffeil Tystysgrif Leol
+Private Key Filename| Enw Ffeil Bysell Breifat
+Trusted Certificates Filename| Enw Ffeil Tystysgrifau Dibynadwy
+Download Firmware| Lawrlwytho Cadarnwedd
+Firmware upgrade in progress.  Please wait.| Diweddaru Cadarnwedd yn mynd ymlaen. Arhoswch os gwelwch yn dda
+Please enter a valid filename and TFTP server IP address.| Teipiwch enw ffeil dilys a chyfeiriad IP gweinydd TFTP, os gwelwch yn dda.
+Invalid TFTP server IP address| Cyfeiriad IP gweinydd TFTP annilys.
+Invalid download settings.| Gosodiadau lawrlwytho annilys.
+Unable to upgrade firmware.| Analluog i uwchraddio cadarnwedd.
+The phone is restarting...| Mae'r ffôn yn ailgychwyn...
+Firmware upgrade successful.| Uwchraddio cadarnwedd yn llwyddiannus.
+This firmware already exists on the phone.| Mae'r gadarnwedd hon eisoes ar y ffôn.
+No upgrade is needed.| Nid oes angen uwchraddio.
+Troubleshooting| Cywiro diffygion
+Module| Modiwl
+Log Settings| Gosodiadau Log
+Log IP| IP Log
+Log Port| Porth Log
+Debug Level| Lefel Dadfygio
+Support Information| Gwybodaeth Gefnogi
+Get local.cfg| Cyrchu ffurf. Lleol
+Get server.cfg| Cyrchu ffurf. Gweinydd
+Show Task and Stack Status| Dangos statws Tasg a Stacio
+Settings| Gosodiadau
+Download Protocol| Protocol Lawrlwytho
+Auto-Resync| Awto-ailgydamseru
+Days| Dyddiau
+Maximum Delay| Oedi Mwyaf
+Mode| Modd
+Configuration Files| Ffeiliau Ffurfweddu
+Time (24-hour)| Amser (24-awr)
+XML Push Server List(Approved IP Addresses)| Rhestr Gweinydd Gwthio XML (Cyfeiriadau IP Cymeradwy)
+Phone-side Call Forward Settings| Gosodiadau Blaenyrru Galwadau Ochr-Ffôn 
+Global Settings| Gosodiadau Byd-eang
+No Answer| Dim Ateb
+Number| Rhif
+Number of Rings| Nifer o Ganiadau
+Local Line| Llinell Leol
+Forward Number| Blaenyrru Rhif
+Global| Byd-eang
+Enable| Galluogi
+Network| Rhwydwaith
+Must provision a valid default gateway IP if DHCP is enabled| Rhaid cyflenwi IP mynedfa diofyn ddilys os yw DHCP wedi'i alluogi
+Invalid IP Address| Cyfeiriad IP annilys
+Invalid IP address| Cyfeiriad IP annilys
+Invalid IP addr.| Cyfeiriad IP annilys
+Invalid gateway address| Cyfeiriad mynedfa annilys
+Invalid subnet mask| Masg is-rwyd annilys
+Invalid primary DNS address| Prif gyfeiriad DNS annilys
+Invalid secondary DNS address| Cyfeiriad DNS eilaidd annilys
+Basic Network Settings| Gosodiadau Rhwydwaith Sylfaenol
+Advanced Network Settings| Gosodiadau Rhwydwaith Uwch
+DHCP| DHCP
+NAT Port| Porth NAT
+Nortel NAT Traversal Enabled| Galluogwyd Traversal NAT Nortel 
+Nortel NAT Timer (seconds)| Amserydd NAT Nortel (eiliadau)
+NTP Time Servers| Gweinyddion Amser NTP
+Time Server 1| Gweinydd Amser 1
+Time Server 2| Gweinydd Amser 2
+Time Server 3| Gweinydd Amser 3
+SIP| SIP
+VLAN Enable| Galluogi VLAN
+Non-IP Packet| Paced An-IP
+SIP Priority| Blaenoriaeth SIP
+RTP Priority| Blaenoriaeth RTP
+RTCP Priority| Blaenoriaeth RTCP
+Preferences| Hoffterau
+General| Cyffredinol
+Idle Display Name 1| Enw Dangosydd Segur 1
+Idle Display Name 2| Enw Dangosydd Segur 2
+Local Dial Plan| Cynllun Deialu Lleol
+Send Dial Plan Terminator| Anfon Terfynwr Cynllun Deialu
+Digit Timeout (seconds)| Amser Terfyn Digid (eiliadau)
+Park Call:| Parcio Galwad:
+Pick Up Parked Call:| Pigo i Fyny Galwad wedi'i Pharcio:
+Suppress DTMF Playback| Atal Chwarae'n ôl DTMF
+Display DTMF Digits| Dangos Digidau DTMF
+Call Waiting| Galwad yn aros
+Call Waiting| Galwad yn aros
+Play Call Waiting Tone| Chwarae Tôn Galwad yn Aros
+Stuttered Dial Tone| Tôn Ffôn wedi'i Modiwleiddio
+Incoming Call Interrupts Dialing| Galwad yn Dod i Mewn yn Torri ar Ddeialu
+Switch UI Focus To Ringing Line| Newid Ffocws UI i Linell sy'n Canu
+Outgoing Intercom Settings| Gosodiadau Intercom Allan
+Type| Math
+Phone-Side| Ochr-y-Ffôn
+Server-Side| Ochr-y-Gweinydd
+Prefix Code| Côd Rhagddodiad
+Incoming Intercom Settings| Gosodiadau Intercom yn dod i mewn
+Microphone Mute| Meicroffon yn fud
+Play Warning Tone| Chwarae Tôn Rybuddio
+Allow Barge In| Caniatau Mewnwthiad
+Auto-Answer| Awto-Ateb
+Key Mapping| Mapio Bysellau
+Map Redial Key To| Mapio Bysell Ailddeialu I
+Map Conf Key To| Mapio Bysell Cynh I
+Ring Tones| Tonau Canu
+Brazil| Brasil
+France| Ffrainc
+Germany| Yr Almaen
+Italy| Yr Eidal
+Italy2| Yr Eidal2
+Mexico| Mecsico
+Russia| Rwsia
+UK| yDG
+US| UDA
+Global Ring Tone| Tôn Ffôn Byd-eang
+Tone 1| Tôn 1
+Tone 2| Tôn 2
+Tone 3| Tôn 3
+Tone 4| Tôn 4
+Tone 5| Tôn 5
+Tone 6| Tôn 6
+Tone 7| Tôn 7
+Tone 8| Tôn 8
+Tone 9| Tôn 9
+Tone 10| Tôn 10
+Tone 11| Tôn 11
+Tone 12| Tôn 12
+Tone 13| Tôn 13
+Tone 14| Tôn 14
+Tone 15| Tôn 15
+Priority Alerting Settings| Gosodiadau Rhybuddio am Flaenoriaethau
+Enable Priority Alerting| Galluogi Rhybuddio am Flaenoriaethau
+Group| Grŵp
+External| Allanol
+Internal| Mewnol
+Emergency| Argyfwng
+Auto call distribution| Dosbarthiad Galwadau Awto
+Auto Call Distribution Settings| Gosodiadau Dosbarthiad Galwadau Awto
+ACD| ACD
+Community 1| Cymuned 1
+Community 2| Cymuned 2
+Community 3| Cymuned 3
+Community 4| Cymuned 4
+Normal ringing| Canu'n arferol
+Bellcore-dr2| Craiddgloch-dr2
+Bellcore-dr3| Craiddgloch-dr3
+Bellcore-dr4| Craiddgloch-dr4
+Bellcore-dr5| Craiddgloch-dr5
+Directed Call Pickup Settings| Gosodiadau Pigo-i-fyny Galwad Gyfeiriedig
+Directed Call Pickup| Pigo-i-fyny Galwad Gyfeiriedig
+Directed Call Pickup by Prefix| Pigo-i-fyny Galwad Gyfeiriedig drwy Ragddodiad
+Play a Ring Splash| Chwarae Melodi Splash
+Auto Available| Awto Ar Gael
+Auto Available Timer| Amserydd Awto Ar Gael
+Time and Date Setting| Gosodiad Amser a Dyddiad
+Time Format| Fformat Amser
+Date Format| Fformat Dyddiad
+Programmable Keys| Bysellau Rhaglenadwy
+Programmable Keys Configuration| Ffurfweddiad Bysellau Rhaglenadwy
+Hard Key| Bysell Caled
+Key| Bysell
+BLF List URI:| URI Rhestr BLF:
+Speeddial/Xfer| DeialuCyflym/Xglwyddo
+Do Not Disturb| Peidiwch â Tharfu
+BLF| BLF
+BLF/Xfer| BLF/Xglwyddo
+BLF/List| BLF/Rhestr
+XML| XML
+WebApps| Cymh.Wê
+Flash| Fflach
+Last Call Return| Dychwelyd yr Alwad Ddiwethaf
+Sprecode| Sprecode
+Transfer| Trosglwyddo
+Conference| Cynadledda
+Save| Cadw
+Delete| Dileu
+Data has been transmitted to the phone successfully.| Mae data wedi'i drosglwyddo i'r ffôn yn llwyddiannus.
+Data cannot be posted to the phone.| Ni ellir cofnodi'r data i'r ffôn.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Sicrhewch fod maint y data yn 512 beit neu lai a bod y ffôn wedi'i ffurfweddu i dderbyn oddi wrth y gwesteiwr.
+Expansion Modules| Modiwlau Ymestyn
+Expansion Module 1| Modiwl Ymestyn 1
+Expansion Module 2| Modiwl Ymestyn 2
+Expansion Module 3| Modiwl Ymestyn 3
+Page 1| Tudalen 1
+Page 2| Tudalen 2
+Page 3| Tudalen 3
+List 1| Rhestr 1
+List 2| Rhestr 2
+List 3| Rhestr 3
+List 4| Rhestr 4
+List 5| Rhestr 5
+List 6| Rhestr 6
+Incompatible with phone model| Anghydnaws â model y ffôn
+Backup Proxy Server| Gweinydd Procsi Wrth Gefn
+Backup Proxy Port| Porth Procsi Wrth Gefn
+Backup Registrar Server| Gweinydd Cofrestrydd Wrth Gefn
+Backup Registrar Port| Porth Cofrestrydd Wrth Gefn
+Phone is locked| Mae'r ffôn ar glo
+Phone Lock| Clo ar y Ffôn
+Lock the phone?| Cloi'r Ffôn?
+Phone is unlocked| Mae'r ffôn wedi'i ddatgloi
+Password:| Cyfrinair:
+Emergency Dial Plan| Cynllun Deialu Argyfwng
+Account Configuration| Ffurfweddiad Cyfrif
+Lock| Cloi
+Unlock| Datgloi
+Unlock the phone?| Datgloi'r ffôn?
+Lock or unlock the phone| Cloi neu ddatgloi'r ffôn
+HTTPS Client Method| Dull Cleient HTTPS
+HTTPS Server - Redirect HTTP to HTTPS| Gweinydd HTTPS - Ailgyfeirio HTTP i HTTPS
+HTTPS Server - Block XML HTTP POSTs| Gweinydd HTTPS - Blocio XML HTTP POSTs
+Validate Certificates| Dilysu Tystysgrifau
+Check Certificate Expiration| Gwirio Terfyn Tystysgrif
+Check Certificate Hostnames| Gwirio EnwauGwesteion Tystysgrif
+Language Settings| Gosodiadau Iaith
+Webpage Language| Iaith Tudalen Wê
+Input Language| Iaith Mewnbwn
+Input Language| Iaith Mewnbwn
+Jan| Ion
+Feb| Chwe
+Mar| Maw
+Apr| Ebr
+May| Mai
+Jun| Meh
+Jul| Gor
+Aug| Aws
+Sep| Med
+Oct| Hyd
+Nov| Tach
+Dec| Rha
+Sun| Sul
+Mon| Llun
+Tue| Maw
+Wed| Mer
+Thu| Iau
+Fri| Gwe
+Sat| Sad
+New Password Invalid.| Cyfrinair Newydd yn Annilys.
+New password must be 10 characters or less.| Mae'n rhaid i'r cyfrinair newydd fod yn 10 llythyren neu lai.
+New password must be numeric.| Mae'n rhaid i'r cyfrinair newydd fod yn rhif.
+New password and confirm password do not match.| Nid yw'r cyfrinair newydd a'r cyfrinair cadarnhau yr un fath. 
+Error| Gwall
+Are you sure you want to restart the phone?| Ydych yn sicr eich bod eisiau ailgychwyn y ffôn?
+This will restore the phone to default settings and cannot be undone.| Bydd hyn yn adfer y ffôn i'r rhagosodiadau diofyn ac ni ellir ei ddadwneud.
+This will remove the local configuration settings and cannot be undone.| Bydd hyn yn tynnu'r gosodiadau ffurfweddu lleol ac ni ellir ei ddadwneud.
+Continue| Parhau
+Error: Intercom Settings| Gwall: Gosodiadau Intercom
+Please enter a prefix code for server-side intercom.| Teipiwch gôd rhagddodiad ar gyfer yr intercom ochr-y-gweinydd.
+Value must be between| Rhaid i'r gwerth fod rhwng
+and| a
+Invalid Setting:| Gosodiad Annilys:
+Please select at least one state for softkey| Dewiswch o leiaf un stad ar gyfer bysell sgrîn
+DSCP value| Mae'r Gwerth DSCP
+is mapped to multiple priorities.| wedi'i fapio i nifer o flaenoriaethau.
+Please enter Admin name and password| Teipiwch yr enw Gweinyddu a'r cyfrinair
+Please enter User name and password| Teipiwch yr Enw Defnyddiwr a'r cyfrinair
+Centralized Conference| Cynhadledd wedi'i Chanoli
+Conference Server URI| Gweinydd Cynadledda URI
+UPnP device not found| Dyfais UPnP heb ei chanfod
+Ethernet| Ethernet
+Ethernet Link| Dolen Ethernet
+Ethernet & VLAN| Ethernet & VLAN
+Link| Dolen
+10M| 10M
+100M| 100M
+Unavailable| Ddim ar Gael
+Available| Ar Gael
+Server Info| Gwyb. Gweinydd
+Unique ID:| ID Unigryw:
+UPnP Mapping Lines| Llinellau Mapio UPnP
+Port Failed| Porth wedi Methu
+Trying...| Wrthi'n ceisio...
+Seize Failed| Cipio wedi methu
+Missed Call Summary Subscription| Tanysgrifiad Crynodeb Galwadau-wedi'u-methu
+Missed Call Summary Subscription Period| Cyfnod Tanysgrifiad Crynodeb Galwadau-wedi'u-methu
+AS-Feature-Event Subscription| Tanysgrifiad GweinyddRhaglen-Nodwedd-Digwyddiad
+AS-Feature-Event Subscription Period| Cyfnod Tanysgrifiad GweinyddRhaglen-Nodwedd-Digwyddiad
+Goodbye Key Cancels Incoming Call| Mae'r Bysell Terfynu'n Dileu'r Alwad sy'n Dod i Mewn
+Address Incomplete| Cyfeiriad yn Anghyflawn
+Admin Menu| Dewislen Gweinyddu
+IP&MAC Addresses| Cyfeiriadau IP&MAC
+LAN Port| Porth LAN
+PC Port| Porth PC
+Set Audio| Gosod Sain
+Config. Server| Ffurf. Gweinydd
+IP Address:| Cyfeiriad IP:
+Error Messages| Negeseuon gwallau
+No Error Messages| Dim negeseuon gwallau
+ Errors|  Gwallau
+ Error|  Gwall
+Disabled| Wedi'i anablu
+LAN Port Link| Dolen Porth LAN
+PC Port Link| Dolen Porth PC
+RTP| RTP
+RTCP| RTCP
+Phone| Ffôn
+Headset Mic Vol| Uchder Meic Clustffon
+TypeService SIP| Math o Wasanaeth SIP
+TypeService RTP| Math o Wasanaeth RTP
+TypeService RTCP| Math o Wasanaeth RTCP
+Authentic. Name| Enw Dilysu
+XML Beep Support| Cefnogaeth Bîp XML
+Status Scroll Delay (seconds)| Oedi Sgrôl Statws (eiliadau)
+Backlight| Golau Ôl
+Backlight| Golau Ôl
+Display| Dangosydd
+Speed Dial Edit| Golygu Deialu Cyflym
+second| eiliad
+seconds| eiliadau
+Label| Label
+Message Waiting Indicator Line| Llinell Dangoswr Neges-yn-Aros
+Keypad Speed Dial| Deialu Cyflym ar y Bysellbad
+Digit| Digid
+Whitelist Proxy| Procsi RhestrWen
+XML SIP Notify| Hysbysu SIP XML
+Custom Feature| Nodwedd Addasiadol
+User ID:| ID Defnyddiwr:
+Local SIP UDP/TCP Port| Porth SIP UDP/TCP Lleol
+Local SIP TLS Port| Porth SIP TLS Lleol
+802.1x Support| Cefnogaeth 802.1x
+EAP Type| Math EAP
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Hunaniaeth
+MD5 Password| Cyfrinair MD5
+PC Port PassThru Enable/Disable| Galluogi/Anablu PassThru Porth PC 
+EAP-TLS Settings| Gosodiadau EAP-TLS
+EAP-MD5 Settings| Gosodiadau EAP-MD5
+Enable PassThru Port| Galluogi Porth PassThru
+PC Port Enabled\nYes| Galluogwyd Porth PC\nIe
+PC Port Disabled\nNo| Anablwyd Porth PC\nNa
+802.1x Settings| Gosodiadau 802.1x 
+802.1x Mode| Modd 802.1x
+EAP-MD5 Settings| Gosodiadau EAP-MD5
+EAP-TLS Settings| Gosodiadau EAP-TLS
+STUN Server| Gweinydd STUN
+STUN Port| Porth STUN
+TURN Server| Gweinydd TURN
+TURN Port| Porth TURN
+TURN User ID| ID Defnyddiwr TURN
+TURN Password| Cyfrinair TURN
+Paging| Wrthi'n Galw
+Streaming| Ffrydio
+Group Paging RTP Settings| Galw Grŵp RTP
+Paging Listen Addresses| Galw Cyfeiriadau Gwrando
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| Cyfrif SIP
+Backup Registrar Used?| Defnyddiwyd Cofrestrydd Wrthgefn?
+Unregistered| Heb ei gofrestru
+Registered| Cofrestrwyd
+SIP Status| Statws SIP
+Server Error| Gwall Gweinydd
+Swap| Cyfnewid
+LLDP\nEnabled| LLDP\nGalluogwyd
+LLDP\nDisabled| LLDP\nAnablwyd
+LLDP Support| Cefnogaeth LLDP
+Preferred line| Llinell ffafriedig
+Preferred line Timeout (seconds)| Terfyn amser Llinell Ffafriedig (eiliadau)
+Invalid URI| URI Annilys
+WebApps| RhaglWê
+Watchdog| Gwarchotgi
+Speeddial/Conf| Deilau Cyflym / Ffurf
+Call is on Hold| Mae'r alwad yn Aros
+No subscription| Dim Tanysgrifiad
+MDot1xFailedStartup| Cychwyn 802.1x wedi Methu
+802.1x Startup Failed| Cychwyn 802.1x wedi Methu
+LLDP Startup Failed| Cychwyn LLDP wedi Methu
+Failed to config Line Manager| Methwyd a ffurfweddu'r Rheolwr Llinell
+Line in use| Llinell mewn defnydd
+Get Crash Log| Cyrchu Log Chwalfa
+Time Unavailable| Amser Ddim ar Gael
+Packetization Interval| Cyfwng Pacedeiddio
+Basic| Sylfaenol
+Note: Basic Codecs Include| Sylwch: Codecs Sylfaenol yn Cynnwys
+Default| Diofyn
+Not Configured| Heb ffurfweddu
+America| America
+Asia| Asia
+Atlantic| Iwerydd
+Pacific| Môr Tawel
+Australia| Awstralia
+Europe| Ewrop
+Malaysia| Malaysia
+Invalid Setting| Gosodiad Annilys
+Must not be empty| Rhaid iddo beidio â bod yn wag
+Must be a valid number| Rhaid iddo fod yn rhif dilys
+Must be a nonzero number| Rhaid i’r rhif beidio â bod yn sero
+Not in range| Ddim o fewn yr amrediad
+Invalid Hostname| Enw gwesteiwr annilys
+802.1x Failed| 802.1x wedi methu
+Admin Password:| Cyfrinair Gweinyddu
+Voicemail| Lleisbost
+Voicemail| Lleisbost
+HTTPS Failed| HTTPS wedi methu
+LLDP Failed| LLDP wedi methu
+TR69 connect Err| TR69 Gwall cysylltu
+Downloading Language Packs| Laddar ner språk
+Please Wait...| Arhoswch...
+to edit| i olygu
+Cfg Svr Failure| Methiant Gwein. Ffurf.
+Lines| Llinellau
+LDAP Directory| Cyfeiriadur LDAP
+Ldap Directory| Cyfeiriadur LDAP
+Item| Eitem
+item| Eitem
+Certificate Revoked| Diddymwyd y Dystysgrif
+Certificate Unknown| Tystysgrif anhysbys
+Delete entire| Dileu'r cyfan
+LDAP Search Filter| Hidlydd Chwilio LDAP
+Ldap Search Filter| Hidlydd Chwilio LDAP
+LDAP Server| Gweinydd LDAP
+Ldap Server| Gweinydd LDAP
+Certificate Expired| Tystysgrif wedi dod i ben
+Unsupported Certificate| Tystysgrif Digefnogaeth
+No Certificate| Dim Tystysgrif
+Options List| Rhestr Opsiynau
+Directory?| Cyfeiriadur?
+Work| Gwaith
+No available lines| Dim llinellau ar gael
+Search| Chwilio
+Ldap Base DN| Bôn DN Ldap
+items| eitemau
+Spddial| DeialuCyflym
+Ldap Number Attributes| Priodweddau Rhifau Ldap
+Ldap Max Hits| Uchafrif Taro Ldap
+Ldap Settings| Gosodiadau Ldap
+Ldap Name Attributes| Priodweddau Enwau Ldap
+Timezone zoneAmerica| 
+AG-Antigua| AG-Antigua
+AI-Anguilla| AI-Anguilla
+AN-Curacao| AN-Curacao
+AR-Buenos Aires| AR-Buenos Aires
+AR-San Luis| AR-San Luis
+AW-Aruba| AW-Aruba
+BB-Barbados| BB-Barbados
+BO-La Paz| BO-La Paz
+BR-Araguaina| BR-Araguaina
+BR-Belem| BR-Belem
+BR-Boa Vista| BR-Boa Vista
+BR-Cuiaba| BR-Cuiaba
+BR-Eirunepe| BR-Eirunepe
+BR-Fortaleza| BR-Fortaleza
+BR-Maceio| BR-Maceio
+BR-Manaus| BR-Manaus
+BR-Noronha| BR-Noronha
+BR-Porto Velho| BR-Porto Velho
+BR-Recife| BR-Recife
+BR-Rio Branco| BR-Rio Branco
+BR-Sao Paulo| BR-Sao Paulo
+BS-Nassau| BS-Nassau
+BZ-Belize| BZ-Belize
+CA-Atlantic| CA-Atlantic
+CA-Central| CA-Central
+CA-Eastern| CA-Eastern
+CA-Mountain| CA-Mountain
+CA-Newfoundland| CA-Newfoundland
+CA-Pacific| CA-Pacific
+CA-Saskatchewan| CA-Saskatchewan
+CA-Yukon| CA-Yukon
+CL-Easter| CL-Easter
+CL-Santiago| CL-Santiago
+CO-Bogota| CO-Bogota
+CR-Costa Rica| CR-Costa Rica
+CU-Havana| CU-Havana
+DM-Dominica| DM-Dominica
+DO-Santo Domingo| DO-Santo Domingo
+GD-Grenada| GD-Grenada
+GF-Cayenne| GF-Cayenne
+GP-Guadeloupe| GP-Guadeloupe
+GT-Guatemala| GT-Guatemala
+GY-Guyana| GY-Guyana
+HN-Tegucigalpa| HN-Tegucigalpa
+HT-Port-au-Prince| HT-Port-au-Prince
+JM-Jamaica| JM-Jamaica
+KY-Cayman| KY-Cayman
+LC-St Lucia| LC-St Lucia
+MQ-Martinique| MQ-Martinique
+MS-Montserrat| MS-Montserrat
+MX-Cancun| MX-Cancun
+MX-Chihuahua| MX-Chihuahua
+MX-Hermosillo| MX-Hermosillo
+MX-Mazatlan| MX-Mazatlan
+MX-Merida| MX-Merida
+MX-Mexico City| MX-Mexico City
+MX-Monterrey| MX-Monterrey
+MX-Tijuana| MX-Tijuana
+NI-Managua| NI-Managua
+PA-Panama| PA-Panama
+PE-Lima| PE-Lima
+PR-Puerto Rico| PR-Puerto Rico
+PY-Asuncion| PY-Asuncion
+SR-Paramaribo| SR-Paramaribo
+SV-El Salvador| SV-El Salvador
+TT-Port of Spain| TT-Port of Spain
+US-Alaska| US-Alaska
+US-Aleutian| US-Aleutian
+US-Central| US-Central
+US-Eastern| US-Eastern
+US-Hawaii| US-Hawaii
+US-Mountain| US-Mountain
+US-Pacific| US-Pacific
+UY-Montevideo| UY-Montevideo
+VE-Caracas| VE-Caracas
+Timezone zoneAsia| 
+AE-Dubai| AE-Dubai
+AZ-Baku| AZ-Baku
+CN-Beijing| CN-Beijing
+CY-Nicosia| CY-Nicosia
+GE-Tbilisi| GE-Tbilisi
+HK-Hong Kong| HK-Hong Kong
+JP-Tokyo| JP-Tokyo
+MU-Mauritius| MU-Mauritius
+OM-Muscat| OM-Muscat
+RU-Anadyr| RU-Anadyr
+RU-Irkutsk| RU-Irkutsk
+RU-Kamchatka| RU-Kamchatka
+RU-Krasnoyarsk| RU-Krasnoyarsk
+RU-Magadan| RU-Magadan
+RU-Novosibirsk| RU-Novosibirsk
+RU-Omsk| RU-Omsk
+RU-Sakhalin| RU-Sakhalin
+RU-Vladivostok| RU-Vladivostok
+RU-Yakutsk| RU-Yakutsk
+RU-Yekaterinburg| RU-Yekaterinburg
+SA-Saudi Arabia| SA-Saudi Arabia
+SG-Singapore| SG-Singapore
+TW-Taipei| TW-Taipei
+Timezone zoneAtlantic| 
+BM-Bermuda| BM-Bermuda
+ES-Canary| ES-Canary
+FK-Stanley| FK-Stanley
+FO-Faeroe| FO-Faeroe
+GS-South Georgia| GS-South Georgia
+IS-Reykjavik| IS-Reykjavik
+PT-Azores| PT-Azores
+PT-Madeira| PT-Madeira
+Timezone zoneAustralia| 
+AU-Adelaide| AU-Adelaide
+AU-Brisbane| AU-Brisbane
+AU-Broken Hill| AU-Broken Hill
+AU-Darwin| AU-Darwin
+AU-Lindeman| AU-Lindeman
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+Timezone zoneEurope| 
+AD-Andorra| AD-Andorra
+AL-Tirane| AL-Tirane
+AT-Vienna| AT-Vienna
+BA-Sarajevo| BA-Sarajevo
+BE-Brussels| BE-Brussels
+BG-Sofia| BG-Sofia
+BY-Minsk| BY-Minsk
+CH-Zurich| CH-Zurich
+CZ-Prague| CZ-Prague
+DE-Berlin| DE-Berlin
+DK-Copenhagen| DK-Copenhagen
+EE-Tallinn| EE-Tallinn
+ES-Madrid| ES-Madrid
+FI-Helsinki| FI-Helsinki
+FR-Paris| FR-Paris
+GB-Belfast| GB-Belfast
+GB-London| GB-London
+GI-Gibraltar| GI-Gibraltar
+GR-Athens| GR-Athens
+HR-Zagreb| HR-Zagreb
+HU-Budapest| HU-Budapest
+IE-Dublin| IE-Dublin
+IT-Rome| IT-Rome
+LI-Vaduz| LI-Vaduz
+LT-Vilnius| LT-Vilnius
+LU-Luxembourg| LU-Luxembourg
+LV-Riga| LV-Riga
+MC-Monaco| MC-Monaco
+MD-Chisinau| MD-Chisinau
+MK-Skopje| MK-Skopje
+MT-Malta| MT-Malta
+NL-Amsterdam| NL-Amsterdam
+NO-Oslo| NO-Oslo
+PL-Warsaw| PL-Warsaw
+PT-Lisbon| PT-Lisbon
+RO-Bucharest| RO-Bucharest
+RU-Kaliningrad| RU-Kaliningrad
+RU-Moscow| RU-Moscow
+RU-Samara| RU-Samara
+SE-Stockholm| SE-Stockholm
+SI-Ljubljana| SI-Ljubljana
+SK-Bratislava| SK-Bratislava
+SM-San Marino| SM-San Marino
+TR-Istanbul| TR-Istanbul
+UA-Kiev| UA-Kiev
+VA-Vatican| VA-Vatican
+YU-Belgrade| YU-Belgrade
+Timezone zonePacific| 
+AS-Pago Pago| AS-Pago Pago
+CK-Rarotonga| CK-Rarotonga
+FJ-Fiji| FJ-Fiji
+GU-Guam| GU-Guam
+NR-Nauru| NR-Nauru
+NU-Niue| NU-Niue
+NZ-Auckland| NZ-Auckland
+NZ-Chatham| NZ-Chatham
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Pad Deialu Byw
+1h    summertime| 1awr amser haf
+Link Down| Dolen i Lawr
+Slovakia| Slofacia
+Cfg. Svr.| Configuration gweinyddwr
+Custom| Personoli
+HPQ Enable| Galluogi HPQ
+Checking For Firmware| Kontrollerar mjukvara
+Firmware Check| Kontrol mjukvara
+Speeddial/MWI| DeialuCyflym/MWI
+Handset| Set Law
+WBand RX Filters| 
+HS Setting1| Gosod. Set Law1
+HS Setting2| Gosod. Set Law2
+HS Setting3| Gosod. Set Law3
+HS Setting4| Gosod. Set Law4
+Spkr Setting1| Gosod. Seinydd1
+Spkr Setting2| Gosod. Seinydd2
+Spkr Setting3| Gosod. Seinydd3
+Spkr Setting4| Gosod. Seinydd4
+Hold Failed| Dal galwad wedi methu
+Can not save record without number| 
+Feature Name| Enw nodwedd
+Source| Ffynhonnell
+License File| Ffeil trwydded
+SW Version Restrictions| Cyfyngiadau fersiwn SW
+Unlimited| Diderfyn
+Expiration| Dyddiad dod i ben
+Upgrade| Uwchraddio
+License Server| Gweinydd trwydded
+License Info| Gwybodaeth am y drwydded
+License PBX| PBX trwydded
+Voice Recording| Recordio llais
+BLF List Subscription Period| Cyfnod Tanysgrifio BLF Rhestr
+Conf Failed| Cynadledda wedi Methu
+Push| Gwthio
+Forward Filtering| Hidlo am ymlaen
+OUT| ALLAN
+Opt Status| Statws opt.
+Filter| Hidlo
+Filtering| Wrthi'n hidlo
+Executives| Gweithredwyr
+IN| I MEWN
+Divert| Dargyfeirio
+Divert to Number| Dargyfeirio i rif
+ Enter Unlock Password|  Rhowch y cyfrinair datgloi
+ Enter Administrator Password| Rhowch Password Administrator
+Today| Heddiw
+Yesterday| Ddoe
+Two Days Ago| Dau ddiwrnod yn ôl
+Three Days Ago| Tri diwrnod yn ôl
+Four Days Ago| Pedwar diwrnod yn ôl
+Five Days Ago| Pum niwrnod yn ôl
+Six Days Ago| chwe niwrnod yn ôl
+Last Week| Wythnos diwethaf
+Two Weeks Ago| Bythefnos yn ôl
+Three Weeks Ago| Dair wythnos yn ôl
+Last Month| Fis diwethaf
+Older| Hŷn
+Monday| Dydd Llun
+Tuesday| Dydd Mawrth
+Wednesday| Dydd Mercher
+Thursday| Dydd Iau
+Friday| Dydd Gwener
+Saturday| Dydd Sadwrn
+Sunday| Dydd Sul
+Upload Sys Info| Llwytho gwybodaeth system
+Cfwd State| BlnyrruGal. Stad
+Cfwd Number| BlnyrruGal. Rhif
+Cfwd Mode| BlnyrruGal. Modd
+Set| Gosod
+#Confirm| #Cadarnhau
+Call held| Galwad yn aros
+Calls held| Galwadau yn aros
+Apply Changes?| Gwneud Newidiadau?
+Dialpad| Pad Deialu
+Edit| Golygu
+Quit| Gadael
+Directory Empty| Cyfeiriadur yn wag
+Saved Memory key| Bysell Cof Cadwedig
+Speaker volume  | Uchder y seinydd
+Handset volume  | Uchder y set law
+Headset volume  | Uchder y clustffon
+Ringer volume   | Uchder y gloch  
+Enter Number:| Teipiwch y Rhif:
+Full 10Mbps| Llawn 10Mbps
+Full 100Mbps| Llawn 100Mbps
+Full 1000Mbps| Llawn 1000Mbps
+Half 10Mbps| Hanner 10Mbps
+Half 100Mbps| Hanner 100Mbps
+Half 1000Mbps| Hanner 1000Mbps
+Delete All| Dileu pob
+Erase Local Configuration?| Dileu ffrfwdd lleol?
+Audio| Sain
+Application| Cymhwysiad
+NAT| NAT
+DSCP| DSCP
+User| Defnyddiwr
+802.1x| 802.1x
+Enter Date (m/d/y):| Teipiwch y Dyddiad (m/d/b):
+Brightness Timer| Amserydd disgleirdeb
+Brightness Level| Lefel disgleirdeb
+Level 1| Lefel 1
+Level 2| Lefel 2
+Level 3| Lefel 3
+Level 4| Lefel 4
+Level 5| Lefel 5
+(Min: %d  Max: %d)| (Lleiaf: %d  Mwyaf: %d)
+Line: %d| Llinell: %d
+Line %d: %s| Llinell %d: %s
+Invalid %s (%d to %d)| Annilys %s (%d to %d)
+Sys Info| Gwybodaeth system
+keypad| Bysellbad
+Login| Mewngofnodi
+Seized| Cipiwyd
+Active| Gweithredol
+Held| Yn aros
+Ringing| Wrthi'n canu
+Park Failed| Wedi methu parcio
+Canada| Canada
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Pwyswch fotwm cysylltu i weld gwybodaeth gysylltu.
+No info available. Please press a contact button.| Dim gwybodaeth ar gael. Pwyswch fotwm cysylltu.
+Set Date and Time| Gosod y dyddiad a'r amser
+Ethernet Ports| Pyrth Ether-rwyd
+Call Server| Gweinydd galwadau
+Use Network Time| Defnyddio amser rhwydwaith
+Speed Dial Key %d| Bysell deialu cyflym %d
+%d/%d records| %d/%d cofnodion
+%d days stored| %d diwrnod storio
+1 day stored| 1 diwrnod storio
+Upload System Info Files?| Llwytho ffeiliau gwybodaeth system?
+Entries Saved| Cofnodion a gadwyd
+Storage| Storio
+IP and gateway are equal| Mae'r IP a'r porth yr un fath
+IP gateway subnet mismatch| Is-rwyd porth IP ddim yr un fath
+Bridge active| Pontio’n weithredol
+Please enter a number| Rhowch rif
+Deleted| Dilëwyd
+No Matches Found| Dim byd yn cyfateb
+Name| Enw
+Contact already exists| Cyswllt yn bodoli’n barod
+Left Softkey %d| Bysell feddal chwith %d
+Bottom Softkey %d| Bysell Gwaelod %d
+New Call| Galwad newydd
+All Accounts| Pob Cyfrif
+Exp. Mod. %d Key %d| Exp. Mod. %d Bysell %d
+Add Num| Ychwanegu Rhif
+Diverted to: | Dargyfeiriwyd i: 
+No lines are configured| Llinellau heb eu ffurfweddu
+"Dot ""."""| Dot "."
+Mode %d| Modd %d
+Top Softkey %d| Prif fysell feddal %d
+Home Screen Mode| 
+Screen Saver Timer| Amserydd arbedwr sgrin
+Home Screen| Sgrin gartref
+Cannot add new number. Limit reached.| Methu ychwanegu rhif newydd. Cyrhaeddwyd y terfyn.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Rhowch enw
+Top Softkeys| Prif fysellau meddal
+Left Softkeys| Bysellau meddal
+Bottom Softkeys| Bysellau meddal gwaelod
+Brightness| Disgleirdeb
+Speed Dial 8| Deialu Cyflym 8
+A filename-related error occurred. Rename the specified file and try again.| Digwyddodd gwall yn gysylltiedig ag enw ffeil. Ailenwch y ffeil dan sylw a rhowch gynnig arall arni.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Digwyddodd gwall yn gysylltiedig â HTTP. Rhowch gynnig arall arni (neu ailgychwynnwch y ffôn os ydych chi wedi cael y gwall hwn o'r blaen).
+A system-related error occurred. Please restart the phone and try again.| Digwyddodd gwall yn gysylltiedig â'r system. Ailgychwynnwch y ffôn a rhowch gynnig arall arni.
+Xsi Enterprise Directory| Cyfeiriadur menter Xsi
+Xsi Personal Contacts| Cysylltiadau personol Xsi
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Ffacs busnes
+By First Name| Yn ôl enw cyntaf
+By Last Name| Yn ôl enw olaf
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Methu ychwanegu cofnod newydd. Cyrhaeddwyd y terfyn.
+City| Dinas
+Corporate| Corfforaethol
+Country| Gwlad
+Custom Ringtones| Personoli tôn y ffôn
+Delete %s from %s?| Dileu %s o %s?
+Delete all entries in %s?| Dileu pob cofnod yn %s?
+Directory import failed| Wedi methu mewngludo cyfeiriadur
+Directory loading| Cyfeiriadur yn llwytho
+Directory not available at this time| Cyfeiriadur ddim ar gael ar hyn o bryd
+Display Name Order| Dangos trefn enw
+Name Order| Trefn enw
+Edit Details| Golygwch fanylion
+Email| E-bost
+Email 1| E-bost 1
+Email 2| E-bost 2
+Email 3| E-bost 3
+Enabled also in call| Galluogi yn ystod galwad hefyd
+Enterprise Directory| Cyfeiriadur menter
+Exchange Contacts| Cyfnewid cysylltiadau
+Explicit| Eglur
+External Sources| Ffynonellau allanol
+Failed to retrieve contact details| Wedi methu adfer manylion cysylltu
+First Last| Cyntaf Olaf
+First name| Enw cyntaf
+Home 1| Cartref 1
+Home 2| Cartref 2
+Home Address| Cyfeiriad cartref
+Implicit| Ymhlyg
+Invalid Subscription Time| Amser tanysgrifio annilys
+Job Title| Teitl swydd
+LDAP| LDAP
+Last%c First| Olaf%c Cyntaf
+Last First| Olaf Cyntaf
+Last Name| Enw olaf
+Local| Lleol
+Microsoft Exchange| Microsoft Exchange
+Mobile| Symudol
+New Contact| Cyswllt newydd
+Numbers| Rhifau
+Organization| Sefydliad
+Other| Arall
+Personal| Personol
+Personal Contacts| Cysylltiadau personol
+Province/State| Rhanbarth/Talaith
+Request Failed| Cais wedi methu
+Sorting Preferences| Dewisiadau trefnu
+Sorting| Trefnu
+Street Address| Cyfeiriad stryd
+Test| Prawf
+Test Connection| Cysylltiad prawf
+The phone does not have enough space to store this file.| Nid oes digon o le ar y ffôn i storio’r ffeil hon.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Mae'r ffeil dan sylw yn rhy fawr. Ni all pob ffeil fod yn fwy na 1 MB o ran maint.
+UA-Profile-Event Subscription| Tanysgrifiad UA-Profile-Event
+UA-Profile-Event Subscription Period| Cyfnod Tanysgrifiad UA-Profile-Event
+Undefined| Anniffiniedig
+Work 1| Gwaith 1
+Work 2| Gwaith 2
+Work Address| Cyfeiriad gwaith
+Zip/Postal Code| Cod post/zip
+Credentials| Manylion adnabod
+Enable/Disable| Galluogi/Analluogi
+Labels| Labeli
+Ringtone files must be in WAV format| Rhaid i ffeiliau tôn y ffôn fod mewn fformat WAV
+Copy| Copïo
+Add New| Ychwanegu Newydd
+ALU SCA| ALU SCA
+Accessory Info| Gwybodaeth am yr ategolyn
+Add| Ychwanegu
+Alerting| Hysbysu
+Delete selected item or delete all items?| Dileu'r eitem a ddewiswyd neu ddileu pob eitem?
+DialingIn| Deialu i mewn
+DialingOut| Deialu allan
+Disconnecting| Datgysylltu
+Enter First Name| Rhowch enw cyntaf
+Enter Last Name| Rhowch enw olaf
+Enter Number| Teipiwch y Rhif
+Enter Password>| Rhowch gyfrinair>
+Enter Username>| Rhowch enw defnyddiwr>
+Enterprise Dir.| Cyfeiriadur menter
+Exp. Mod. 1 Version| Exp. Mod. 1 Fersiwn
+Exp. Mod. 2 Version| Exp. Mod. 2 Fersiwn
+Exp. Mod. 3 Version| Exp. Mod. 3 Fersiwn
+Get user.cfg| Cael user.cfg
+Get user_local.cfg| Cael user_local.cfg
+Keyboard Version| Fersiwn bysellfwrdd
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| Ar gadw
+Pending| Yn disgwyl
+Phone Info| Gwybodaeth am y ffôn
+Please Login| Os gwelwch yn dda login
+Please select a file to upload| Dewiswch ffeil i'w llwytho i fyny
+Saved| Cadwyd
+Unmute| Dad-dawelu
+Line 11| Llinell 11
+Line 12| Llinell 12
+Line 13| Llinell 13
+Line 14| Llinell 14
+Line 15| Llinell 15
+Line 16| Llinell 16
+Line 17| Llinell 17
+Line 18| Llinell 18
+Line 19| Llinell 19
+Line 20| Llinell 20
+Line 21| Llinell 21
+Line 22| Llinell 22
+Line 23| Llinell 23
+Line 24| Llinell 24
+Line 25| Llinell 25
+Client Method| Dull Cleient
+#Edit| #Golygu
+#Copy| #Copïo
+Action forbidden| Gweithred wedi ei gwahardd
+Action not supported| Ni chefnogir y weithred
+ Additional Settings|  Gosodiadau ychwanegol
+ Barge-In|  Mewnwthiad
+Congestion| Tagfa
+Discreet| Tawel
+Discreet Ringing| Caniad tawel
+Executives list is empty| Mae'r rhestr gweithredwyr yn wag
+Extension not registered| Estyniad heb ei gofrestru
+Internal error| Gwall mewnol
+Invalid Password| Cyfrinair annilys
+Invalid forwarding number| Rhif blaenyrru annilys
+ Listen|  Gwrando
+ Normal|  Arferol
+Phone not registered| Ffôn heb ei chofrestru
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Mae pwyso’r bysell feddal ddistaw yn toglo’r tôn rhybudd mewnwthio ymlaen/i ffwrdd.
+Prv| Prei.
+Pub| Cyh.
+Record not found| Dim modd canfod y cofnod
+SCAP-Bridged| SCAP-Pontio
+SCAP-Held| SCAP-ar gadw
+ Select Barge-In Mode|  Dewis modd hyrddio i mewn
+ UA-Profile-Event Subscription Period|  Cyfnod Tanysgrifiad UA-Profile-Event
+Unique ID| ID Unigryw
+ Whisper|  Sibrwd
+Missed Calls| Galwadau wedi'u methu
+Silence| Tawelwch
+As-Feature-Event Subscription| Tanysgrifiad GweinyddRhaglen-Nodwedd-Digwyddiad
+As-Feature-Event Subscription Period| Cyfnod Tanysgrifiad GweinyddRhaglen-Nodwedd-Digwyddiad
+Feature-Status-Exchange Subscription| Tanysgrifiad Cyfnewid-Statws-Nodwedd
+Feature-Status-Exchange Subscription Period| Cyfnod Tanysgrifiad Cyfnewid-Statws-Nodwedd
+Action superseded by a previous command| Gweithred wedi ei disodli gan orchymyn blaenorol
+Attendant| Gwas
+BLF Privacy| Preifatrwydd BLF
+BLF Privacy Key Mode| Modd allwedd preifatrwydd BLF
+Feature not configured| Nodwedd heb ei ffurfweddu
+Forward Type| Math blaenyrru
+Live Keyboard| Bysellfwrdd byw
+Not assigned| Heb ei aseinio
+PIN| PIN
+Pin Required| Mae angen PIN
+Privacy| Preifatrwydd
+Privacy On| Preifatrwydd ymlaen
+Restart | Ailgychwyn 
+Capture| Cipio
+Get capture file| Cael y ffeil gipio
+Mute All| Tawelu popeth
+No Participant| Dim cyfranogwr
+Private Call| Galwad breifat
+Start| Dechrau
+Stop| Atal
+TLS Preferred| TLS o ddewis
+Timeout| 
+Unmute All| Dad-dawelu popeth
+Speeddial/Mwi| DeialuCyflym/MWI
+Phone will restart automatically after finishing.| Bydd y ffôn yn ailgychwyn yn awtomatig ar ôl gorffen.
+Idle| Segur
+CFWD Filtering| Hidlo CFWD
+Volume| Uchder
+DTMF| DTMF
+All Accounts| 
+Outgoing| Yn mynd allan
+Call History is Empty| Hanes galwadau yn wag
+No Outgoing Calls| Dim galwadau am allan
+No Missed Calls| Dim galwadau wedi eu colli
+No Received Calls| Dim galwadau wedi cyrraedd
+Received| Derbyniwyd
+Missed| Collwyd
+Screenshot| Ciplun
+Xsi Enterprise Common Directory| Cyfeiriadur cyffredin menter Xsi
+Enterprise Common Directory| Cyfeiriadur cyffredin menter
+Enterprise Common Dir.| Cyfeiriadur cyffredin menter
+Xsi Group Directory| Cyfeiriadur grŵp Xsi
+Group Directory| Cyfeiriadur grŵp
+Xsi Group Common Directory| Cyfeiriadur cyffredin grŵp Xsi
+Group Common Directory| Cyfeiriadur cyffredin grŵp
+Call Settings| Gosodiadau galwadau
+%s Call Settings| %s gosodiadau galwadau
+Hide Number| Cuddio rhif
+Xsi Password Not Configured| Xsi Cyfrinair heb ei ffurfweddu
+Xsi User Not Configured| Xsi Defnyddiwr heb ei ffurfweddu
+Xsi Authentication Failure| Xsi Methu dilysu
+Xsi File Not Found| Xsi Methu canfod y ffeil
+Xsi Invalid URI| Xsi URI annilys
+Xsi Invalid Download Configuration| Xsi Cyfluniad llwytho i lawr annilys
+Call History| Hanes galwadau
+Bluetooth| Bluetooth
+Scan| Sganio
+Timeout [1..168 h]| Terfyn amser [1..168 h]
+Paired Devices| Dyfeisiau wedi eu paru
+Available Devices| Dyfeisiau sydd ar gael
+Swipe the toggle switch to the right to enable Bluetooth| Gyrrwch y switsh toglo i’r dde i alluogi Bluetooth
+Pairing| Paru
+Connecting| Cysylltu
+Device| Dyfais
+No paired devices| Dim dyfeisiau wedi eu paru
+Connection successful| Cysylltiad llwyddiannus
+Connection failed| Cysylltiad wedi methu
+Disconnection successful| Datgysylltiad llwyddiannus
+Disconnection failed| Datgysylltiad wedi methu
+Pairing failed| Paru wedi methu
+Operation failed| Gweithrediad wedi methu
+Connected| Cysylltwyd
+Retry| Ailgeisio
+Do you want to forget this device?| Ydych chi eisiau anghofio'r ddyfais hon?
+Close| Cau
+Enabling Bluetooth...| Galluogi Bluetooth...
+Disabling Bluetooth...| Analluogi Bluetooth...
+Connecting...| Wrthi'n cysylltu...
+Disconnecting...| Wrthi'n datgysylltu...
+Boot| Cychwyn
+App| Cymhwysiad
+USB disabled. Insufficient power for current configuration.| USB wedi ei analluogi. Dim digon o bŵer ar gyfer y ffurfwedd bresennol.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Nid yw'r ffeil dan sylw yn cwrdd â manylebau tôn ffôn gofynnol y ffôn. Cyfeiriwch at y Canllaw Defnyddwyr i weld gofynion ffeiliau tôn ffôn.
+%d/%d| %d/%d
+%d days| %d diwrnod
+1 day| 1 diwrnod
+System Messages| Negeseuon system
+Authorization Canceled| Canslwyd yr awdurdodiad
+Crash Logs| Cofnodion rhewi
+Warning - All entries in %s will also be deleted| Rhybudd - bydd hyn hefyd yn dileu pob cofnod yn %s
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Tôn Ffôn
+Identity| Hunaniaeth
+Extension| Estyniad
+Address| Cyfeiriad
+Server Error| Gwall Gweinydd
+Use Global Ring Tone| 
+Standard Ring Tone| Tôn ffôn safono
+Hide Number| Cuddio rhif
+Remote Office| Swyddfa o bell
+Remote Office| Swyddfa o bell
+Phone Number/SIP-URI| Rhif ffôn/SIP-URI
+Simultaneous Ring Personal| Caniad cydamserol personol
+Simultaneous Ring| Caniad cydamserol
+Do Not Ring if on a Call| Peidio â chanu yn ystod galwad
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Rhif ffôn/SIP-URI
+Alt Num/SIP-URI| Rhif amgen/SIP-URI
+Ring for all Incoming Calls| Canu ar gyfer pob galwad sy'n dod i mewn
+Invalid Number or SIP-URI| Rhif annilys neu SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Rhif porth
+Alert Locations for Click-To-Dial| Lleoliadau hysbysu Clicio-i-ddeialu
+Alert Locations for Group Paging| Lleoliadau hysbysu galw grŵp
+Phone Number| Rhif ffôn
+Description| Disgrifiad
+Alternate Number| 
+Call Control| Rheoli galwadau
+Diversion Inhibitor| Ataliwr dargyfeiriadau
+Answer Confirmation| Cadarnhau ateb
+Xsi Server Not Found| Xsi Heb ganfod y gweinydd
+Xsi Invalid Input| Xsi Mewnbwn annilys
+Call Center| Canolfan alwadau
+Presence| Presenoldeb
+My Status| Fy statws
+Contacts| Cysylltiadau
+Favorite| Hoff
+Available| Ar Gael
+Eager to Chat| Awyddus i sgwrsio
+Busy| Prysur
+Away| I ffwrdd
+Extended Away| I ffwrdd am gyfnod estynedig
+Offline| All-lein
+Unknown| Anhysbys
+Enter custom presence text here...| Rhowch destun presenoldeb wedi ei bersonoli yma...
+Status| Statws
+Custom| Addasiadol
+Favorites| Hoff
+All Contacts| Pob cysylltiad
+No contact in folder| Dim cysylltiad yn y ffolder
+No phone number| Dim rhif ffôn
+No contact| Dim cysylltiad
+Contact list currently not available| Rhestr gysylltiadau ddim ar gael ar hyn o bryd
+Contact| Cyswllt
+Contact| Cyswllt
+Connection to server failed| Cysylltiad â’r gweinydd wedi methu
+Configuration error| Gwall ffurfweddu
+Authentication error| Gwall dilysu
+Connection to server lost| Collwyd y cysylltiad â'r gweinydd
+Mobile| Symudol
+Connect| Cysylltu
+%s disconnected| %s wedi datgysylltu
+%s connected| %s wedi cysylltu
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| 
+Failed to enable Bluetooth| 
+M685i: New Firmware. Do not unplug phone!| M685i: Ny mjukvara. Koppla ej ur telefonen!
+.| .
+Static Settings| 
+Port Mirroring| 
+Audio Feedback| 
+Audio Path| 
+Button Beep| 
+Error Beep| 
+Made| 
+To my prime line| 
+To any appearance| 
+Display Call Info| 
+Always| 
+Busy Internal| 
+Busy External| 
+No Answer Internal| 
+No Answer External| 
+Copy to All?| Copïo i'r Cyfan?
+Loading...| 
+Password Changed| Cyfrinair wedi'i newid
+Restore Default| 
+Restore Default| 
+Enter Again| Mewngofnodi eto
+Erase| Dileu
+Set All| 
+VLAN Settings| Gosodiadau VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Uwch
+Phonebook| 
+Update| 
+Copyright| Hawlfraint
+Pause| Saib
+Incorrect password| Anghywir password
+Please input duration between 1 to 1440 minutes| 
+Level 0| Lefel 0
+Static Network Settings| 
+Enter| Mewnbynnu
+Reset Configuration?| Ailosod ffurfweddiad?
+TCP DUMP| 
+minutes| munud
+IP and gateway have to be on the same subnet| 
+Timeout (1-1440 Minutes)| 
+Timeout (1-5 Minutes)| 
+Call Server IP Address| 
+TFTP Server IP Address| 
+IPA IP Address| 
+Ping| 
+Test POE| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Add Contact| 
+Cannot dial a private number| 
+Delete all contacts from %s?| 
+Search contacts| 
+CDP Settings| 
+Current Network Settings| 
+VLAN Id| ID VLAN
+DSCP Default| 
+DSCP Voice| 
+DSCP Signaling| 
+DSCP Other| 
+L2P Default| 
+L2P Voice| 
+L2P Signaling| 
+L2P Other| 
+Modify PIN| 
+Registering...| 
+Erase PIN| 
+Erase PIN?| 
+Duration| 
+Details| Manylion
+First Name| 
+Home| Adref
+People| 
+Contacts - Add New| 
+Work| Gwaith
+Entry copied to| Cofnod wedi'i gopio i
+Settings - Bluetooth| 
+Bluetooth| Bluetooth
+Screen Saver| 
+Dimmer Level| 
+Paired| 
+Press the Turn On softkey to enable Bluetooth| 
+Connected successfully| 
+Directory is full| Mae'r cyfeiriadur yn llawn
+Directory full| Cyfeiriadur yn llawn
+Do you want to connect this device?| 
+Do you want to disconnect this device?| 
+Connect| Cysylltu
+%s audio connected| 
+%s audio connection failed| 
+Pair with %s\nPairing code - %06ld| 
+Do you want to get the device's contacts?| 
+Retrieving contacts...| 
+Contacts retrieved successfully| 
+Phonebook retrieval unavailable| 
+ Failed to retrieve contacts|  
+Ongoing Call| Galwad barhaus
+Scan| Sganio
+Stop| Atal
+Close| Cau
+Press scan to find a device| 
+Please Wait. Scanning for nearby devices|  
+Connect Automatically| 
+Pairing ...| 
+Successfully paired| 
+Unable to pair with the device| 
+Does the passkey match?| 
+Unpair| 
+Bluetooth is currently off.| 
+Turn Off| 
+Turn On| 
+Sorry! Unable to turn Bluetooth on. |   
+Sorry! Too many devices paired.|  
+Only one Handset can be paired to a phone| 
+Forget| Anghofio
+Unknown Caller| 
+Answer| Ateb
+Decline| 
+Push Call| Gwthio galwad
+End Call| 
+Caller| 
+Disconnect| Datgysylltu
+Capturing ...| 
+Speaker| Seinydd
+Headset| Clustffon
+Ringer| Cloch
+Internal Ring| 
+External Ring| 
+Classic 1| 
+Classic 2| 
+Classic 3| 
+Classic 4| 
+Classic 5| 
+Classic 6| 
+Classic 7| 
+Classic 8| 
+Classic 9| 
+Classic 10| 
+Call Notification| 
+Config Teleworker| 
+Diagnostics| 
+MinetDump| 
+Float Keys| 
+Network Services| 
+DHCP Trace| 
+Firewall Settings| 
+Wi-Fi| 
+Port Info| 
+Phone Info| Gwybodaeth am y ffôn
+Error Message| 
+Current Call Server IP Address| 
+TFTP Server Port| 
+Primary DNS| DNS Cynradd
+Secondary DNS| DNS Eilaidd
+Call Server1 IP Address| 
+Call Server2 IP Address| 
+Call Server3 IP Address| 
+Call Server4 IP Address| 
+DHCP Status| 
+T1 (Seconds)| 
+T1 Left (Seconds)| 
+T2 (Seconds)| 
+T2 Left (Seconds)| 
+LAN Port Speed| 
+LAN Port Duplex| 
+PC Port Speed| 
+PC Port Duplex| 
+Model| 
+Call Server Rev.| 
+Main Version| 
+802.1x| 802.1x
+Password| Cyfrinair
+Save to Confirm or Cancel to Revert| 
+Hardware Rev.| 
+Change| Newid
+Change Password| 
+Confirm Password| 
+ Blank|  
+ Wrong|  
+ Passwords don't match.|  
+No Link| Dim Dolen
+Half-Duplex| 
+Full_Duplex| 
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| 
+Proxy Logoff| 
+No Network| 
+Contacting Server| 
+Private| Preifat
+Miscellaneous| 
+Programmable Key| 
+Speed Call| 
+Other Features| 
+Account Code Verified| 
+Acct Verified| 
+Call Forward Always| 
+Fwd Always| 
+Do Not Disturb| Peidiwch â Tharfu
+Phone Lock| Clo ar y Ffôn
+Account Code Non Verified| 
+Acct Non-Ver| 
+Name or Number is empty| 
+Label Name| 
+Rename| Ailenwi
+Rename this device| 
+PKM version| 
+Department| 
+Location| 
+Softphone| 
+My Phone| 
+More ...| Mwy...
+Restart| Ailgychwyn
+Key is Programmed| Bysell wedi ei rhaglennu
+Advanced XML| XML uwch
+Too many answers - Refine your search| Gormod o atebion - mireiniwch y chwilio
+%s Search| %s Chwilio
+Searching| Wrthi'n chwilio
+Server not configured| Gweinydd heb ei ffurfweddu
+SimRing| Caniad cydamserol
+Phone No/SIP-URI Not Configured| Rhif ffôn/SIP-URI heb ei ffurfweddu
+ Xsi Server Update Failed|  Xsi Wedi methu diweddaru gweinydd
+Call Settings| Gosodiadau galwadau
+Missing Config| Ffurfweddu ar goll
+Deflect| Allwyro
+AnswerIcom| AnswerIcom
+In a call| Mewn galwad
+Chats| Sgyrsiau
+Chat| Sgwrs
+Send| Anfon
+Delete all chat sessions?| Dileu pob sesiwn sgwrsio?
+Delete chat session with %s?| Dileu sesiwn sgwrsio gyda %s?
+No active chat session| Dim sesiwn sgwrsio weithredol
+Push Notifications| Hysbysiadau gwthio
+Sound| Sain
+Bluetooth| Bluetooth
+Chat| Sgwrs
+%s is typing...| %s wrthi’n teipio...
+Last message received %s at %s| Cyrhaeddodd y neges ddiwethaf %s ar %s
+Last message received while offline| Cyrhaeddodd y neges flaenorol yn ystod cyfnod all-lein
+now| nawr
+%ld secs ago| %ld eiliad yn ôl
+1 min ago| 1 munud yn ôl
+%ld mins ago| %ld munud yn ôl
+1 hour ago| 1 awr yn ôl
+%ld hours ago| %ld awr yn ôl
+yesterday| ddoe
+%ld days ago| %ld diwrnod yn ôl
+while offline| tra all-lein
+Can't talk right now. I'll call you later.| Methu siarad ar hyn o bryd. Fe wnaf i ffonio wedyn.
+On another call| Ar alwad arall
+I'll call you back| Fe wnaf i ffonio'n ôl
+Call me back in 10 minutes| Ffoniwch fi mewn 10 munud
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Addasiadol...
+Message to %s| Neges i %s
+Cancel - No message sent| Canslo - Heb yrru neges
+Chat Messages| Negeseuon sgwrsio
+Reject Call Message Configuration| Gwrthod ffurfweddu neges alwadau
+Message| Neges
+Server Failure| Gwall gweinydd
+Use ^v to view| Defnyddio ^v i weld
+Answer| Ateb
+Log Issue| 
+Logging Issue| 
+Administrator access is disabled| 
+Please input a duration between 1 and 1440 minutes| 
+Please input a duration between 1 and 5 minutes| 
+Teleworker Settings| 
+Invalid TFTP Port| 
+Cannot copy a private number| 
+Search Corporate| 
+Warning| Rhybudd
+Configuration changes detected\nApplication must be closed| 
+Desktop Portal URL| 
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| 
+Phone Numbers| 
+ Max Exceeded|  
+Press "%s" key to search corporate contacts| 
+Too many answers\nRefine your search| 
+Not available\nConfiguration error| 
+DHCP Trace information is not available| 
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| 
+Do you want to save this IP?| 
+Max allowed Number length is 26| 
+Enabling DHSG Headset...| 
+Disabling DHSG Headset...| 
+Enter name| Teipiwch Enw
+Lastname Firstname| 
+Call History currently not available| 
+Audio Diagnostics| 
+Avatars| 
+Request timed out| Daeth cyfnod y cais i ben
+Complete ...| 
+Collecting Logs ...| 
+Pass Thru Port| Pass Thru Port
+Page Expired. Please reload the page.| Diffoddodd y dudalen. Ail-lwythwch y dudalen.
+Application busy. Please try again later.| Rhaglen yn brysur. Rhowch gynnig arall arni yn nes ymlaen.
+User ID required| Mae angen ID defnyddiwr
+Directory file must be in WAV format| Rhaid i ffeil y cyfeiriadur fod mewn fformat WAV
+Local Directory Upload| Llwytho cyfeiriadur lleol
+Upload failed - Too many records detected in csv file| Llwytho i fyny wedi methu - Canfuwyd gormod o gofnodion yn y ffeil csv
+Upload failed - No record detected in csv file| Llwytho i fyny wedi methu - Ni chanfuwyd cofnodion yn y ffeil csv
+Upload performed - %d records created| Wedi llwytho i fyny - crëwyd %d cofnod
+minutes| munud
+User ID| ID Defnyddiwr
+Any PBX| Unrhyw PBX
+Screen Mode| Modd sgrin
+Show Picture| Dangos llun
+Request timed out| Daeth cyfnod y cais i ben
+No Mobile phone connected| Dim cysylltiad â ffôn symudol
+Only one Handset can be paired to the phone| Dim ond un set llaw y gellir ei pharu â'r ffôn
+Only one Speaker can be paired to the phone| Dim ond un seinydd y gellir ei baru â'r ffôn
+Maximum number of paired devices reached| Cyrhaeddwyd nifer uchaf posibl y dyfeisiau paru
+Reload| Ail-lwytho
+Mobile Contacts| Cysylltiadau symudol
+Mobile| Symudol
+Press "Turn on" to enable Bluetooth| Pwyswch "Troi ymlaen" i alluogi Bluetooth
+Turn on| Troi ymlaen
+Turn off| Diffodd
+Mobile : %s| Symudol: %s
+Pair| Paru
+Connect| Cysylltu
+Disconnect| Datgysylltu
+Forget| Anghofio
+Rename| Ailenwi
+Rename Device| Ailenwi dyfais
+Disabling Bluetooth will disconnect your Cordless Handset| Bydd analluogi Bluetooth yn datgysylltu eich set llaw di-wifr
+Warning| Rhybudd
+Do you want to continue?| Ydych chi eisiau parhau?
+Bluetooth pairing request| Cais paru Bluetooth
+Pair with %s| Paru gyda %s
+Pairing code - %06ld| Cod paru - %06ld
+External| Allanol
+Lock Settings| Gosodiadau cloi
+Proximity auto-lock| Awto gloi yn ôl pellter
+Delay before auto-lock| Oedi cyn cloi awtomatig
+Proximity auto-unlock| Awto ddatgloi yn ôl pellter
+Delay before auto-unlock| Oedi cyn datgloi awtomatig
+Proximity auto-lock| Awto gloi yn ôl pellter
+Proximity auto-unlock| Awto ddatgloi yn ôl pellter
+Delay before auto-lock (minutes)| Oedi cyn cloi awtomatig (munud)
+Delay before auto-unlock (minutes)| Oedi cyn datgloi awtomatig (munud)
+M695: New Firmware. Do not unplug phone!| M695: Cadarnwedd newydd. Peidiwch â thynnu'r ffôn o’r plwg!
+Login/Logout| Mewngofnodi/Allgofnodi
+Logout user %s| Allgofnodi defnyddiwr %s
+Login successful| Mewngofnodwyd yn llwyddiannus
+Logout successful| Allgofnodwyd yn llwyddiannus
+Login failed| Methwyd â mewngofnodi
+Logout failed| Methwyd ag allgofnodi
+Hot desk user can not pair handset please login as a local user| Ni all defnyddiwr desg boeth baru set llaw - mewngofnodwch fel defnyddiwr lleol
+Hot desk user can not pair speaker please login as a local user| Ni all defnyddiwr desg boeth baru seinydd - mewngofnodwch fel defnyddiwr lleol
+Hot desk user can not unpair handset please login as a local user| Ni all defnyddiwr desg boeth ddad-baru set llaw - mewngofnodwch fel defnyddiwr lleol
+Hot desk user can not unpair speaker please login as a local user| Ni all defnyddiwr desg boeth ddad-baru seinydd - mewngofnodwch fel defnyddiwr lleol
+Push Call| Gwthio galwad
+Cordless Handset| Set llaw di-wifr
+Low Battery| Batri isel
+Critical Battery| Batri argyfyngus
+Ongoing Call| Galwad barhaus
+Incoming Call| Galwad am i mewn
+Incoming Call from %s| Galwad am i mewn gan %s
+Incoming Call from %s (%s)| Galwad am i mewn gan %s (%s)
+Voicemail access of Mobile Phone not supported| Ni chefnogir mynediad at bost llais ffôn symudol
+Device not supported| Ni chefnogir y ddyfais
+Phone not compatible| Nid yw'r ffôn yn gydnaws
+Dialing out through Mobile Line not supported| Ni chefnogir deialu allan drwy linell symudol
+Page Expired. Please reload the page.| Diffoddodd y Dudalen. Ail-lwythwch y dudalen.
+Application busy. Please try again later.| Rhaglen yn brysur. Rhowch gynnig arall arni yn nes ymlaen.
+Invalid prefix length (0 to 128)| Hyd rhagddodiad annilys (0 i 128)
+User ID required| Mae angen ID defnyddiwr
+IPv6 Settings| Gosodiadau IPv6
+Basic Network Settings (IPv6)| Gosodiadau Rhwydwaith Sylfaenol (IPv6)
+Basic Network Settings (IPv4)| Gosodiadau Rhwydwaith Sylfaenol (IPv4)
+Ethernet Port Settings| Gosodiadau Porth Ether-rwyd
+User ID| ID Defnyddiwr
+Colon ":"| Colon ":"
+Login/Logout| Mewngofnodi/Allgofnodi
+Logout user %s| Allgofnodi defnyddiwr %s
+Login successful| Mewngofnodwyd yn llwyddiannus
+Logout successful| Allgofnodwyd yn llwyddiannus
+Login failed| Methwyd â mewngofnodi
+Logout failed| Methwyd ag allgofnodi
+IPv6| IPv6
+Enable IPv6| Galluogi IPv6
+Mode DHCPv6| Modd DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Ffurfweddiad Awtomatig
+Prefix Length| Hyd Rhagddodiad
+IPv6 Address| Cyfeiriad IPv6
+Local Directory Upload| Llwytho cyfeiriadur lleol
+Upload failed - Too many records detected in csv file| Llwytho i fyny wedi methu - Canfuwyd gormod o gofnodion yn y ffeil csv
+Upload failed - No record detected in csv file| Llwytho i fyny wedi methu - Ni chanfuwyd cofnodion yn y ffeil csv
+Upload performed - %d records created| Wedi llwytho i fyny - crëwyd %d cofnod
+Error: Upgrade/Downgrade rejected for incompatible firmware version| GWALL: Uwchraddio/Israddio wedi ei wrthod ar gyfer fersiwn caledwedd angydnaws
+Directory file must be in CSV format| Rhaid i'r ffeil Cyfeiriadur fod ar ffurf CSV
+Error: Upgrade/Downgrade rejected for incompatible firmware version| GWALL: Uwchraddio/Israddio wedi ei wrthod ar gyfer fersiwn caledwedd angydnaws
+6 +74| 
+Port Map Incomplete| 
+DSP| 
+SIP| 
+Checking DECT| 
+Updating DECT Firmware| 
+Tone| 
+Interface| 
+Web| 
+7 +196| 
+Office| 
+Home| 
+Cell| 
+Pager| 
+VLAN Settings| 
+Softkeys and XML| 
+Softkeys Configuration| 
+6 +240| 
+Enable?| 
+Conf. Unavailable| 
+Ringing...| 
+Is Calling...| 
+Error Messages| 
+No Error Messages| 
+Download Options| 
+6 +591| 
+Conference| 
+Flash| 
+Dial| 
+Whisper| 
+Consult| 
+Directory| 
+Callers| 
+Icom| 
+6 +601| 
+Push| 
+Leave| 
+Conf| 
+Coach| 
+Barge| 
+Monitor| 
+SIP Settings| 
+Proxy Port| 
+Registrar Port| 
+6 +635| 
+Network Settings| 
+Clear| 
+Speaker | 
+External Speaker | 
+Headset | 
+Speaker/Headset| 
+Headset/Speaker| 
+6 +735| 
+Connected| 
+Drop| 
+Park| 
+UnPark| 
+Move| 
+PickUp| 
+Redial| 
+DCP| 
+7 +765| 
+Transfer Failed| 
+Call Transferred| 
+ Call Terminated| 
+Call Parked| 
+Park Failed| 
+UnPark Failed| 
+Call Forward| 
+Call Fwd| 
+All| 
+6 +1080| 
+Debug Level| 
+Support Information| 
+Get local.cfg| 
+Get Log Files| 
+Get server.cfg| 
+Get user_local.cfg| 
+Get user.cfg| 
+6 +1465| 
+LLDP\nEnabled| 
+LLDP\nDisabled| 
+LLDP Support| 
+Use LLDP-MED| 
+LLDP neighbor| 
+Cache LLDP-MED| 
+Preferred line| 
+Preferred line Timeout (seconds)| 
+Invalid URI| 
+6 +1485| 
+Failed to config Line Manager| 
+Line in use| 
+Get Crash Log| 
+Logging Issue| 
+Time Unavailable| 
+Packetization Interval| 
+Basic| 
+6 +1533| 
+Hold Failed| 
+Server Error| 
+Conf Failed| 
+Conf In Progress| 
+Lines| 
+Options List| 
+Checking For Firmware| 
+6 +1663| 
+AU-Lord Howe| 
+AU-Melbourne| 
+AU-Perth| 
+AU-Eucla| 
+AU-Sydney| 
+AU-Tasmania| 
+AD-Andorra| 
+6 +1734| 
+Divert to Number| 
+Press a contact button to view contact info.| 
+No info available. Please press a contact button.| 
+ Enter Voicemail Password| 
+ Enter Administrator Password| 
+ Enter Unlock Password| 
+Phone will restart automatically after finishing.| 
+6 +1794| 
+Please enter a number| 
+Please enter a name| 
+Login| 
+Log Issue| 
+Log Out| 
+Avail| 
+Unavail| 
+6 +2001| 
+H2| 
+O| 
+F| 
+P| 
+Last First| 
+#Edit| 
+#Copy| 
+6 +2088| 
+Disconnection failed| 
+Pairing failed| 
+Operation failed| 
+Pickup/unpark not permitted| 
+Unpark not permitted| 
+Connected| 
+Retry| 
+Do you want to forget this device?| 
+7 +2129| 
+All Contacts| 
+Chats| 
+Chat| 
+Send| 
+Delete all chat sessions?| 
+Delete chat session with %s?| 
+No contact in folder| 
+8 +2202| 
+Incoming Call from %s (%s)| 
+Voicemail access of Mobile Phone not supported| 
+Device not supported| 
+Not supported| 
+Phone not compatible| 
+Dialing out through Mobile Line not supported| 
+Service unavalilable at this time| 
+Hold not permitted on this call| 
+Action not permitted| 
+IPv6| 
+Enable IPv6| 
+Mode DHCPv6| 
+44 +2235| 
+Cloud Config Server 2| 
+Cloud Staging Server| 
+Cloud Domain| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Delete Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+New| 
+Recorded| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+Replay| 
+Backward| 
+Forward| 
+Send To| 
+Logout| 
+To Email| 
+Move Message Failure| 
+Play Failure| 
+Play Failure due to a system error. See your system administrator.| 
+Save Failure| 
+Add Contact| 
+Voicemail and Recordings| 
+Voicemail User Login| 
+Send to| 
+Cannot dial a private number| 
+Cannot copy a private number| 
+Number not available| 
+Loading...| 
+Login| 
+Contacts| 
+Private| 
+To| 
+Send| 
+Voicemail has been sent.| 
+Error in sending Voicemail. Please send it again.| 
+Voicemail has been sent to email.| 
+Error in sending to Email.| 
+Receipt Confirmation| 
+Passcode| 
+Mailbox Number| 
+Remember passcode| 
+Passcode is incorrect. Enter a valid passcode.| 
+Invalid mailbox number.| 
+Error - Mailbox in use| 
+Error - maximum sessions exceeded| 
+Error - no session exists| 
+Error - bad extension| 
+Mailbox locked for security reasons. See your system administrator.| 
+DECT Headset| 
+DECT Headset Version| 
+DECT Headset Battery| 
+DECT Headset Rf Power| 
+DECT Headset Rf Power| 
+Very Low| 
+Cloud Connect| 
+Service Type| 
+MiCloud Connect| 
+MiVoice Border Gateway| 
+User DID| 
+Domain| 
+Call Back| 
+Play| 
+Exit| 
+Skip Back| 
+Skip Forward| 
+Pause| 
+Inbox| 
+MiCloud| 
+Fetching Details| 
+Additional Phone| 
+Agent state| 
+Availability| 
+Standard| 
+In a meeting| 
+Out of office| 
+Extended Absence| 
+Do not disturb| 
+On the Phone| 
+Assign| 
+Assign user| 
+Assign user failed| 
+Assign user to phone in progress. Please wait...| 
+Extension or password invalid| 
+Unassign| 
+Unassign user| 
+Unassign user failed| 
+Unassign user?| 
+Unassigning user...| 
+Voicemail password| 
+Ping| 
+Host Name or IP Address| 
+Please enter a valid HostName/IP Address| 
+Pinging %s...| 
+Tracerouting...| 
+Tracerouting Complete| 
+Traceroute| 
+Traceroute Command| 
+Always| 
+Never| 
+Always destination| 
+No answer destination| 
+Busy destination| 
+Simulring| 
+VPN| 
+Use VPN| 
+VPN gateway| 
+VPN gateway port| 
+Tunnel IP| 
+VPN protocol| 
+VPN debug mode| 
+System| 
+Log upload| 
+Timeout (1-1440 Minutes)| 
+Please input a duration between 1 and 1440 minutes| 
+User Settings| 
+Diagnostic server| 
+Diag Server| 
+Wrap up| 
+UnWrap| 
+ Open| 
+Confirm| 
+New voicemail password| 
+Password entries do not match| 
+Password change succeeded| 
+New password same as old password| 
+ Reply| 
+ ReplyAll| 
+ Compose| 
+ Call VM| 
+Cannot choose your own extension| 
+Save Changes?| 
+Validating number...| 
+Invalid %s| 
+Upgrade Required| 
+Invalid DID or Password| 
+Register| 
+Voice Service| 
+Start Over| 
+Empty domain name| 
+Registering| 
+DID or password no update| 
+Invalid domain name| 
+ Registration cancelled| 
+Pager| 
+Phone not registered| 
+Enterprise| 
+ Parameter Type| 
+ Filter Page| 
+ Parameter Filter| 
+ Get Parameters| 
+Assigned| 
+Assigning| 
+Invalid extension| 
+Extension or password no update| 
+Assignment cancelled| 
+Extension already assigned| 
+ Select a call to unpark| 
+ UnPark| 
+Duration| 
+Subject| 
+Uploading Fail| 
+Diagnostic server is empty| 
+Logs uploaded successfully| 
+Urgent| 
+Return Receipt| 
+Include Original| 
+Re: Voice Message| 
+Fw: Voice Message| 
+Phone not assigned| 
+Whisper Page| 
+Intercom| 
+Silent Monitor| 
+Barge In| 
+Silent Coach| 
+To Inbox| 
+Save Message?| 
+By First| 
+By Last| 
+Dial Voicemail| 
+Dial VM| 
+ Invalid Phone Number| 
+Transfer not permitted on this call| 
+Conference not permitted on this call| 
+Remote log upload in progress| 
+Remote capture upload in progress| 
+Standard| 
+Ring 2| 
+Ring 3| 
+Ring 4| 
+Play Int| 
+Play Ext| 
+Press "Upload" to upload a debug log| 
+Select a call to merge| 
+Add Caller:| 
+Assign user?| 
+6 +74| 6 +74
+Port Map Incomplete| Mapio Porth Anghyflawn
+DSP| DSP
+SIP| SIP
+Checking DECT| Yn gwirio DECT
+Updating DECT Firmware| Yn diweddariad Cadarnwedd DECT
+Tone| Tôn
+Interface| Rhyngwyneb
+Web| Y we
+7 +294| 7 +294
+Updating configuration| Diweddaru ffurfweddiad
+Waiting assignment| Yn aros am aseiniad
+Checking for new firmware| Chwilio am gadarnwedd newydd
+Firmware Check| Gwirio Cadarnwedd
+Firmware Check| Gwirio Cadarnwedd
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Cadarnwedd newydd: PEIDIWCH Â THYNNU’R FFÔN O’R PLWG
+New Firmware: Restarting...| Cadarnwedd newydd: Ailddechrau...
+Downloading configuration| Llwytho ffurfweddiad
+9 +397| 9 +397
+erase all calls| dileu pawb galwadau
+DELETE again to erase this item| DILEU eto i dileu yr eitem hwn
+DELETE to erase item  or # to erase Number| DILËWCH i gael gwared ar yr eitem  neu # i gael gwared ar rif
+DELETE again to erase all calls| DILEU etoi dileu pob galwadau
+DELETE again to erase all items| DILEU eto i dileu pob eitemau
+Delete All| Dileu Pob
+DELETE again to erase all calls| DILEU etoi dileu pob galwadau
+DELETE again to erase all items| DILEU eto i dileu pob eitemau
+Delete All| Dileu Pob
+Factory Defaults| Diofynau Ffatri
+ Missed Call|  Galwad yn Colli
+ Missed Calls|  Galwadau yn Colli
+7 +596| 7 +596
+Icom| Icom
+Dir| Dir
+Xfer| Xfer
+Push| Gwthio
+Push| Gwthio
+Leave| Gadael
+Conf| Ffurf.
+SIP Settings| Gosodiadau SIP
+8 +743| 8 +743
+Cannot Save| Ni gallu Canw
+1 item| 1 eitem
+ items|  eitemau
+item| eitem
+items| eitemau
+item| eitem
+items| eitemau
+No User| Dim defnyddwir
+Missing User ID| ID defnyddiwr ar goll
+DHCP failed| DHCP wedi methu
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| TLS o ddewis
+Cfg Svr Failure| Methiant Gwein. Ffurf.
+Bad Certificate| Tystygrif Gwael
+Bad Cert/TLS Err| Tystygrif Gwal/TLS Gwall
+Certificates| Tystygrifiau
+Cert Validation| Tystygrif Dilysiant
+All defaults| Pob diofynau
+6 +1070| 6 +1070
+Debug Level| Lefel Dadfygio
+Support Information| Gwybodaeth Cefnogi
+Get local.cfg| Ar gael ffurfwedd lleol.
+Get Log Files| Ar gael Ffeiliau Cofnod
+Get server.cfg| Ar gael ffurfwedd gweinydd.
+Get user_local.cfg| Cael user_local.cfg
+Get user.cfg| Cael user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Masg gorwyd yn annilys
+Invalid primary DNS address| Cyfeiriad DNS cynradd yn Annilys
+Invalid secondary DNS address| Cyfeiriad eiliadd DNS yn Annilys
+Invalid prefix length (0 to 128)| Hyd rhagddodiad yn annilys (0 i 128)
+User ID required| Mae angen ID defnyddiwr
+IP cannot be equal to gateway address| Ni all IP fod yr un fath â chyfeiriad porth
+IP and gateway have to be on same subnet| Mae'n rhaid i'r IP a'r porth fod ar yr un is-rwyd
+IP and gateway are equal| Mae'r IP a'r porth yr un fath
+IP gateway subnet mismatch| Is-rwyd porth IP ddim yr un fath
+IPv6 Settings| Gosodiadau IPv6
+Basic Network Settings| Gosodiadau Rhwydwaith Sylfaenol
+Basic Network Settings (IPv6)| Gosodiadau Rhwydwaith Sylfaenol (Ipv6)
+Basic Network Settings (IPv4)| Gosodiadau Rhwydwaith Sylfaenol (Ipv4)
+Advanced Network Settings| Gosodiadau Rhwydwaith Uwch
+DHCP| DHCP
+NAT Port| Porth NAT
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Mae'r ffeil dan sylw yn rhy fawr. Ni all pob ffeil fod yn fwy na 1 MB o ran maint.
+The phone does not have enough space to store this file.| Nid oes digon o le ar y ffôn i storio’r ffeil hon.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Nid yw'r ffeil dan sylw yn cwrdd â manylebau tôn ffôn gofynnol y ffôn. Cyfeiriwch at y Canllaw Defnyddwyr i weld gofynion ffeiliau tôn ffôn.
+Directory file must be in WAV format| Rhaid i ffeil y cyfeiriadur fod mewn fformat WAV
+Directory file must be in CSV format| Rhaid i'r ffeil Cyfeiriadur fod ar ffurf CSV
+Local Directory Upload| Llwytho cyfeiriadur lleol
+Upload failed - Too many records detected in csv file| Llwytho i fyny wedi methu - Canfuwyd gormod o gofnodion yn y ffeil csv
+Upload failed - No record detected in csv file| Llwytho i fyny wedi methu - Ni chanfuwyd cofnodion yn y ffeil csv
+6 +1370| 6 +1370
+IP&MAC Addresses| Cyfeiriadau IP&MAC
+LAN Port| Porth LAN
+PC Port| Porth PC
+Port Mirroring| Yn drychweddu Porth
+Set Audio| Gosodiadau Sain
+Config. Server| Ffurf. Gweinyd
+IP Address:| Cyfeiriad IP
+7 +1463| 7 +1463
+App| Ap
+Watchdog| Cigwarchod
+Speeddial/Conf| Cyflymderdeial/Ffurf
+Speeddial/MWI| Cyflymderdeial/MWI
+Speeddial/MWI| Cyflymderdeial/MWI
+Call is on Hold| Mae’r alwad yn Aros
+No subscription| Dim tanysgrifio
+802.1x Failed| 802.1x wedi methu
+6 +1473| 6 +1473
+Failed to config Line Manager| Ffurf Manager Llinell wedi marthu
+Line in use| Llinell wrth ddefnyddio
+Get Crash Log| Ar gael Cofnod Chwalfa
+Logging Issue| Mewngofnod Problem
+Time Unavailable| Dydy’r Amser ddim ar gael
+Packetization Interval| Pecyn Egwyl
+Basic| Sylfaenol
+6 +1650| 6 +1650
+AU-Lord Howe| AU-Lord Howe
+AU-Melbourne| AU-Melbourne
+AU-Perth| AU-Perth
+AU-Eucla| AU-Eucla
+AU-Sydney| AU-Sydney
+AU-Tasmania| AU-Tasmania
+AD-Andorra| AD-Andorra
+15 +1710| 15 +1710
+NZ-Chatham| NZ-Chatham
+DP-Dhcp| DP-Dhcp
+Custom| Personoli
+IN| I MEWN
+OUT| ALLAN
+Filter| Hidlo
+Filtering| Wrthi'n hidlo
+Opt Status| Statws opt.
+Executives| Gweithredwyr
+Forward Filtering| Hidlo am ymlaen
+Divert| Dargyfeirio
+Divert to Number| Dargyfeirio i rif
+IN| I MEWN
+OUT| ALLAN
+Filter| Hidlo
+Filtering| Wrthi'n hidlo
+Opt Status| Statws opt.
+Executives| Gweithredwyr
+Forward Filtering| Hidlo am ymlaen
+Divert| Dargyfeirio
+Divert to Number| Dargyfeirio i rif
+Press a contact button to view contact info.| Pwyswch fotwm cysylltu i weld gwybodaeth gysylltu.
+No info available. Please press a contact button.| Dim gwybodaeth ar gael. Pwyswch fotwm cysylltu.
+ Enter Administrator Password|  Typiwch Cyfrinair Gweinyddu
+6 +1749| 6 +1749
+Level 4| Lefel 4
+Level 5| Lefel 5
+Dot "."| Dot "."
+Colon ":"| Colon ":"
+(Min: %d  Max: %d)| (Lleiaf: %d  Mwyaf: %d)
+Line: %d| llinell: %d
+Line %d: %s| Llinell %d: %s
+6 +1780| 6 +1780
+Please enter a number| Rhowch rif
+Please enter a name| Rhowch enw
+Login| Mewngofnodi
+Log Issue| Problem mewgofnodi
+Log Out| Allgofnodi
+Avail| Ar gael
+Unavail| Dim ar gael
+14 +1852| 14 +1852
+Show Picture| Dangos llun
+Mode %d| Modd %d
+Screen Saver Timer| Amserydd arbedwr sgrin
+Enabled also in call| Galluogi yn ystod galwad hefyd
+Enabled also in call| Galluogi yn ystod galwad hefyd
+Invalid Subscription Time| Amser tanysgrifio annilys
+Speed Dial 8| Ciflymder Deial 8
+Request Failed| Cais wedi methu
+Request timed out| Daeth cyfnod y cais i ben
+Too many answers - Refine your search| Gormod o atebion - mireiniwch y chwilio
+New Contact| Cyswllt newydd
+Edit Details| Golygwch fanylion
+Edit Details| Golygwch fanylion
+Failed to retrieve contact details| Wedi methu adfer manylion cysylltu
+No Mobile phone connected| Dim cysylltiad â ffôn symudol
+Only one Handset can be paired to the phone| Dim ond un set llaw y gellir ei pharu â'r ffôn
+7 +2039| 7 +2039
+Volume| Cyfaint
+DTMF| DTMF
+Screenshot| Ciplun
+All| Pob
+All| Pob
+Missed| Collwyd
+Outgoing| wedi anfon
+Received| Derbyniwyd
+7 +2053| 7 +2053
+Paired Devices| Dyfeisiau wedi eu paru
+Available Devices| Dyfeisiau sydd ar gael
+Swipe the toggle switch to the right to enable Bluetooth| Gyrrwch y switsh toglo i’r dde i alluogi Bluetooth
+Press "Turn on" to enable Bluetooth| Pwyswch "Troi ymlaen" i alluogi Bluetooth
+Press "Turn on" to enable Bluetooth| Pwyswch "Troi ymlaen" i alluogi Bluetooth
+Turn on| Troi ymlaen
+Turn off| Diffodd
+Mobile : %s| Symudol: %s
+9 +2067| 9 +2067
+Device| Dyfais
+Rename Device| Ailenwi dyfais
+No paired devices| Dim dyfeisiau wedi eu paru
+Connection successful| Cysylltiad llwyddiannus
+Connection failed| Cysylltiad wedi methu
+Disconnection successful| Datgysylltiad llwyddiannus
+Connection successful| Cysylltiad llwyddiannus
+Connection failed| Cysylltiad wedi methu
+Disconnection successful| Datgysylltiad llwyddiannus
+Disconnection failed| Datgysylltiad wedi methu
+Pairing failed| Paru wedi methu
+Operation failed| Gweithrediad wedi methu
+7 +2153| 7 +2153
+%ld days ago| %ld diwrnod yn ôl
+while offline| tra all-lein
+Can't talk right now. I'll call you later.| Methu siarad ar hyn o bryd. Fe wnaf i ffonio wedyn.
+On another call| Ar alwad arall
+On another call| Ar alwad arall
+I'll call you back| Fe wnaf i ffonio'n ôl
+Call me back in 10 minutes| Ffoniwch fi mewn 10 munud
+Custom...| Addasu...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Ni all defnyddiwr desg boeth baru seinydd - mewngofnodwch fel defnyddiwr lleol
+Hot desk user can not unpair handset please login as a local user| Ni all defnyddiwr desg boeth ddad-baru set llaw - mewngofnodwch fel defnyddiwr lleol
+Hot desk user can not unpair speaker please login as a local user| Ni all defnyddiwr desg boeth ddad-baru seinydd - mewngofnodwch fel defnyddiwr lleol
+Push Call| Gwthio galwad
+Cordless Handset| Set llaw di-wifr
+Push Call| Gwthio galwad
+Cordless Handset| Set llaw di-wifr
+Low Battery| Batri isel
+Critical Battery| Batri argyfyngus
+Ongoing Call| Galwad barhaus
+5 +2188| 5 +2188
+Device not supported| Ni chefnogir y ddyfais
+Phone not compatible| Nid yw'r ffôn yn gydnaws
+Dialing out through Mobile Line not supported| Ni chefnogir deialu allan drwy linell symudol
+IPv6| IPv6
+Enable IPv6| Galluogi IPv6
+Mode DHCPv6| Modd DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Awto gosodiadau
+Prefix Length| Hyd Rhagddodiad
+IPv6 Address| Cyfeiliad IPv6
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Gwall: Uwchraddio/Israddio wedi ei wrthod ar gyfer fersiwn caledwedd angydnaws
+Audio Diagnostics| Diagnosteg Sain
+Diagnostics| Diagnosteg
+Timeout (1-5 Minutes)| Terfyn Amser (1-5 Minutes)
+Disconnect| Datgysylltu
+Capturing ...| Yn cipio ...
+Complete ...| Yn cyflawnu...
+Collecting Logs ...| Yn casglu cofnod ...
+Collect Logs| Casglu cofnod
+Please input a duration between 1 and 5 minutes| Os gwelach chi’n da mewnbwnwch hyd rhwng 1 a 5 munudau
+Erase| Dileu
+Cloud Service| Gwasanaeth Cwmwl
+Enable Cloud Service| Galluogi Gwasanaeth Cwmwl
+Cloud SIP| SIP Cwmwl
+Cloud Directory| Cyfeiriadur Cwmwl
+Active Config Server| Gweithredolwch Ffurfwedd Gweinydd
+Cloud Config Server 1| Gweinydd Cwmwl Ffurfwedd 1
+Cloud Config Server 2| Gweinydd Cwmwl Ffurfwedd 2
+Cloud Staging Server| Gweinydd Staging Cwmwl
+Cloud Domain| Parth Cwmwl
+Replay| ailchwarae
+Backward| Yn ôl
+Forward| Ymlaen
+Send To| Anfon i
+Logout| Allgofnodi
+To Email| I’r E-bost
+Delete Failure| Dileu wedi Methu
+Play Failure| Chwarae wedi Methu
+Play Failure due to a system error. See your system administrator.| Chwarae wedi Methu oherwydd system gwall Siarad wrth y gweinyddwr system.
+Save Failure| Cadw wedi methu
+Add Contact| Ychwanegu Cyswllt
+Voicemail and Recordings| Neges llais a Recordings
+Voicemail User Login| Neges llais defnyddwr mewngofnodi
+Send to| Anfon i
+Cannot dial a private number| Ni gallu deial a preifat rhif
+Cannot copy a private number| Ni gallu copi a preifat rhif
+Number not available| Dydy rhif dim ar gael
+Loading...| Yn llwytho...
+Login| Mewngofnodi
+Contacts| Cysylltiadau
+Private| Preifat
+To| I
+Send| Anfon
+Voicemail has been sent.| Neges llais wedi anfon has been sent.
+Error in sending Voicemail. Please send it again.| Gwall wrth anfon Neges llais. Os gwelach chi’n da anfonwch eto.
+Voicemail has been sent to email.| Neges llais wedi anfon i’r ebost
+Error in sending to Email.| Gwall yn anfon i’r e-bost.
+New| Newydd
+Recorded| Wedi cofnod
+Receipt Confirmation| Cadarnhad Derbyniad
+Passcode| Cyfrinair
+Mailbox Number| Rhif bocs e-post
+Remember passcode| Copiwch cyfrinair
+Passcode is incorrect. Enter a valid passcode.| Cyfrinair yn annilys. Teypiwch cyfrinair dilys.
+Invalid mailbox number.| Rhif bocs e-bost. annilys
+Error - Mailbox in use| Gwall – Bocs e-bost wrth ddefnydio
+Error - maximum sessions exceeded| Gwall -  sesiwmiau mwy na uchafswm
+Error - no session exists| Gwall – dim sesiwm
+Error - bad extension| Gwall – estenyad gwael
+Mailbox locked for security reasons. See your system administrator.| Bocs e-bost wedi cau gan rhesymau diogelwch . Siarad wrth y gweinyddwr system.
+DECT Headset| Set Llaw DECT
+DECT Headset Version| Fersiwn Set Llaw DECT
+DECT Headset Battery| Batri Set Llaw DECT
+DECT Headset Rf Power| Pwer Set Llaw RF DECT
+DECT Headset Rf Power| Pwer Set Llaw RF DECT
+Very Low| Isel Iawn
+Downloading font| yn lawrlwitho ffont
+No calls to unpark| Dim galwadau i ddadbarcio
+For …| I ...
+To VM| I VM
+Number of Packets Sent| Rhif Pacetiau wedi ewn anfon
+Number of Packets Received| Rhif Pacetiau wedi ewn derbyn
+RTT min/avg/max| RTT isafswm/cyfartaledd/uchafswm
+traceroute to| olrhain llwybr i
+hops max| uchafswm herciau
+byte max| uchafrifswm beit
+Voicemail box is full| Bocs Neges Llais yn llawn.
+ALL| Y CYFAN
+REMOTE| PELL
+Local| Lleol
+Not allowed on this call| Heb ei ganiatáu ar yr galwad hwn
+ Whisper|  Sibrwd
+ Consult|  Ymgynghori
+ Coach|  Hyfforddwr
+ Barge|  Ysgraff
+ Monitor|  Monitro
+ For|  I
+ External Speaker|  Seinydd Allanol
+ UnPark|  Dadbarcio
+ Call Parked|  Galwad wedi ei barcio
+ UnPark Failed|  Dadbarcio wedi ei fail
+ Rev:|  Rev:
+ You must restart the phone before the new settings will take effect.|  Oes rhaid i chi ailgychwyn yr phone cyn gosoduadau newydiau wedi ewn gwaith nhw
+ None|  Dim byd
+ Use LLDP-MED|  Defdnyddio LLDP MED
+ LLDP neighbor|  Cymydog LLDP
+ Cache LLDP-MED|  LLDP-MED storfa
+ Conf In Progress|  Cynad. yn mynd ymlaen
+  Enter Voicemail Password|   Teipiwch chyfrinair Neges Llais
+ Call Server| 
+ Do Not Ring if on a Call|  Peidio â chanu yn ystod galwad
+ P|  P
+ To Vm|  I Vm
+ Pickup not permitted|  Ni chaniatâd pico i fyny
+ Pickup/unpark not permitted|  Ni chaniatâd pico i fyny/dadbarcio
+ Unpark not permitted|  Ni chaniatâd dadbarcio
+ Silent Monitor not permitted on this call|  Ni chaniatâd Monitro Distaw yn y galwad hwn
+ Silent Coach not permitted on this call|  Ni chaniatâd Hyfforddwr Distaw yn y galwad hwn
+ Barge In not permitted on this call|  Ni chaniatâd Ysgraff yn y galwad hwn
+ Park not permitted|  Ni chaniatâd Parcio
+ Park/Transfer is still in progress|  Parcio/Trosglwyddo yn mynd ymlaen
+ No calls to unpark|  Dim galwadau i ddadbarcio
+ No calls to park|  Dim galwadau i barcio
+ No calls to pickup|  Dim galwadau i bigo i fyny
+ No calls to take action|  Dim galwadau i
+ My Status|  Fy statws
+ Favorite|  Hoff
+ Voicemail playback failed|  Atal Chwarae Neges llais wedi ei methu
+ Voicemail skip failed|  Sigipio Neges llais wedi ei methu
+ Voicemail bad address|  Cyfeiliad Neges Llais Gwael
+ Voicemail box is full for|  Bocs Neges Llais yn full i
+ Not supported|  Ni chefnogir
+ Service unavalilable at this time|  Dydy gwasanaeth dim ar gael ar y amser hwn
+ Hold not permitted on this call|  Ni chaniatâd achos yn y galwad hwn
+ Action not permitted|  Ni chaniatâd y weithred
+ Not Permitted on this call|  Ni chaniatâd yn y galwad hwn
+ Request denied or \r\nunacceptable at this time|  Cais wedi ei wadu neu \r\ annerbyniol ar y amser hwn
+ Phone number is invalid or not properly formatted|  Mae Rhif ffôn yn annylis neu wedi fformatio yn gwael
+ Move Message Failure|  Symud neges wedi ei methu
+ Contacts|  Cysylltiadau
+ Cloud Connect|  Cysylltu Cwmwl
+ Service Type|  Math Gwasanaeth
+ MiCloud Connect|  Cysylltu MiCloud
+ MiVoice Border Gateway|  Ffiniau Mynedfa MiVoice
+ User DID|  DID Defnyddwyr
+ Domain|  Parth
+ Call Back|  Galw ar ol
+ Play|  Chwarae
+ Exit|  Gadael
+ Skip Back|  Sgipio ar ol
+ Skip Forward|  Sgipio ymlaen
+ Inbox|  Mewnflwch
+ MiCloud|  MiCloud
+ Fetching Details|  Manilion Cyrchu
+ Additional Phone|  Ffôn ychwanegol
+ Agent state|  Stad Asiant
+ Availability|  Ar gael
+ Standard|  Safon
+ In a meeting|  Ar cyfarfod
+ Out of office|  Allan o´r swyddfa
+ Extended Absence|  Absenoldeb Estynedig
+ Do not disturb|  Paid a aflonyddu
+ On the Phone|  Ar y Ffôn
+ Assign|  Aseinio
+ Assign user|  Aseinio Defnyddwyr
+ Assign user failed|  Aseinio Defnyddwyr wedi methu
+ Assign user to phone in progress. Please wait...|  Aseinio defnyddwyr yn yr ffôn yn mynd ymlaen Achos os gwelach chi’n dda...
+ Extension or password invalid|  Estyniad neu cyfrinair yn annylis
+ Unassign|  Dadaseinio
+ Unassign user|  Dadaseinio defnyddwyr
+ Unassign user failed|  Dadaseinio defnyddwyr wedi methu
+ Unassign user?|  Dadaseinio defnyddwyr?
+ Unassigning user...|  Dadaseinio defnyddwir...
+ Voicemail password|  Cyfrinair Neges llais
+ Ping|  Ping
+ Host Name or IP Address|  Ewn gwesteir neu Cyfeiliad IP
+ Please enter a valid HostName/IP Address|  Os gwelach chi’n dda teipiwch EnwGwestir/Cyfeiliad IP yn annylys
+ Pinging %s...|  Yn ping %s...
+ Tracerouting...|  Yn olrhain llwybr...
+ Tracerouting Complete|  Olrhain llwybr yn cwblhau
+ Traceroute|  Olrhain llwybr
+ Page Up|  Tudalen i finy
+ Page Down|  Tudalen i fawr
+ Traceroute Command|  Gorchymyn Olrhain Llwybr
+ Always|  Bob tro
+ Never|  Byth
+ Always destination|  Cychfan Bob tro
+ No answer destination|  Cychfan dim ateb
+ Busy destination|  Cychfan prysur
+ Simulring|  Cydamsecân
+ VPN| VPN
+ Use VPN|  Defnyddio VPN
+ VPN gateway|  Mynedfa VPN
+ VPN gateway port|  Porth Mynedfa VPN
+ Tunnel IP|  Twnnel IP
+ VPN protocol|  Protocol VPN
+ VPN debug mode|  Modd Dadfygio VPN
+ System|  System
+ Log upload|  Llwytho Cofnod
+ Timeout (1-1440 Minutes)|  Terfyn Amser (1-1440 mynyd)
+ Please input a duration between 1 and 1440 minutes|  Os gwelach chi’n dda teipiwch hyd rhung 1 a 1440 mynyd
+ User Settings|  Gosodiadau defnyddywr
+ Diagnostic server|  Gwenydd Diagnosteg
+ Diag Server|  Gwenydd diag
+ Wrap up|  Yn rhwymo
+ UnWrap|  Dadrwymo
+  Open|   Yn Agor
+ Confirm|  Yn Cadarnhau
+ New voicemail password|  Cyfrinair Neges Llais Newydd
+ Password entries do not match|  Maen Cofnodau cyfrinair dim yn cyfateb
+ Password change succeeded|  Newid Cyfrinair wedi llwydo
+ New password same as old password|  Maen Cyfrinair newydd a hen cyfrinair yn un fath
+  Reply|   Ateb
+  ReplyAll|   AtebPawb
+  Compose|   Cyfansoddi
+  Call VM|   Calw VM
+ Cannot choose your own extension|  Ni ellir dewis eich estyniad
+ Save Changes?|  Cadw newidiau?
+ Validating number...|  Yn dilysu rhyf...
+ Invalid %s|  Annilys %
+ Upgrade Required|  Mae angen uwchraddio
+ Invalid DID or Password|  DID neu Cyfrinair annylis
+ Register|  Cofrestru
+ Voice Service|  Gwaesanaeth Llais
+ Start Over|  Dechrau eto
+ Empty domain name|  Gwag enw parth
+ Registering|  Yn cofrestru
+ DID or password no update|  DID neu Cyfrinair yn uwchraddio
+ Invalid domain name|  Enw Parth yn annylis
+  Registration cancelled|   Cofrestru wedi ei dileu
+ Pager|  Teclyn galw
+ Phone not registered|  Roedd y Ffôn dim yn wedi gofnod
+ Enterprise|  Menter
+  Parameter Type|   Math Paramedr
+ Remote|  Pell
+  Filter Page|   Tudalen Hidlo
+  Parameter Filter|   Paramedr Hidlo
+  Get Parameters|   Adalw Paramedrau
+ Assigned|  Aseinio
+ Assigning|  Yn aseinio
+ Invalid extension|  Estyniad yn annylis
+ Extension or password no update|  Estyniad neu Cyfrinair yn uwchraddio
+ Assignment cancelled|  Aseinio wedi ei dileu
+ Extension already assigned|  Estyniad wedi aseinio eto
+  Select a call to park|   Dewis galwad i barcio
+  Select a call to unpark|   Dewis galwad i ddadbarcio
+  Unpark|   Dadbarcio
+ Duration|  Hyd
+ Subject|  Pwnc
+ Uploading Fail|  Llwytho wedi ei methu
+ Diagnostic server is empty|  Gwenydd Diagnosteg yn wag
+ Logs uploaded successfully|  Cofnodau llwytho yn llwyddianws
+ Urgent|  Brys
+ Return Receipt|  Dychwelyd derbyniad
+ Include Original|  Cynnwys Gwreiddiol
+ Re: Voice Message|  Ate: Neges Llais
+ Fw: Voice Message|  Yml: Neges Llais
+ Phone not assigned|  Ffôn dim wedi ei aseinio
+ Whisper Page|  Tudalen Sybrwd
+ Intercom|  Intercom
+ Silent Monitor|  Monitro Distaw
+ Barge In|  Ysgraff
+ Silent Coach|  Hyfforddwr Distaw
+ To Inbox|  I fewnflwch
+ Save Message?|  Cadw neges?
+ By First|  Wrth Cyntaf
+ By Last|  Wrth Olaf
+ Dial Voicemail|  Deialu Neges Llais
+ Dial VM|  Deialu VM
+  Invalid Phone Number|   Rhif Ffôn yn annylis
+ Transfer not permitted on this call|  Ni chaniatâd y Trosglwyddo yn y galwad hwn
+ Conference not permitted on this call|  Ni chaniatâd y cynadledda yn y galwad hwn
+ Remote log upload in progress|  Llwytho Cofnod pell yn progress
+ Remote capture upload in progress|  Llwytho cipio pell yn mynd ymlaen
+ Standard|  Safon
+ Ring 2|  Cân 2
+ Ring 3|  Cân 3
+ Ring 4|  Cân 4
+ Play Int|  Chwarae Int.
+ Play Ext|  Chwarae Ext
+ Press "Upload" to upload a debug log|  Pwyswch “Llwytho” i lwthyo cofnod dadfygio
+ Select a call to merge|  Dewis galw i uno
+ Add Caller:|  Ychwanegu galwr
+ Assign user?|  Aseinio defnyddwyr?
+ Participants|  Cyfranogwyr
+ Conferenced|  Wedi mew cynadledd
+ calls|  galwadau
+ held calls|  galwadau sy’n wedi ewn aros
+ Debug on|  Dadfygu ymlaen
+ Debug off|  Dadfygio i ffwrdd
+ Unknown Error|  Gwell Anhysbys
+ Connection Error|  Gwell Cysylltiad
+ Application Error|  Gwell Cymhwysiad
+ Number of Packets Sent:|  Rhyf pacetau wedi ewn anfon
+ Number of Packets Received:|  Rhyf pacetau wedi ewn derbyn
+ RTT min/avg/max|  RTT isafswm/cyfartaledd/uchafswm
+ traceroute to|  olrhain llwybr i
+ hops max|  uchafswm herciau
+ byte packets|  Pacetau beit
+ Help|  Helpu
+ Call Mitel Support ?|  Galw Cefnogi Mitel
+ Mitel Support|  Cefnogi Mitel
+ Remote| 
+ OnHold| 
+Initializing Components| cydrannau cychwyn
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 

@@ -1,0 +1,3606 @@
+Polski
+AQUARIUS_3 prompts| 
+Net. General Info| Stat. informacje o sieci
+Net. Persist. Data| Stat. pol. sieci
+Net. DHCP Info| Inf. O DHCP
+Net. QoS| QoS sieci
+Message Key Launch Voicemail App| Przycisk wiadomosci uruchamia aplikacje poczty glos.
+AQUARIUS_4 prompts| 
+Network Persist. Data| Stat. pol. Sieciowego
+Network QoS| QoS sieci
+Message Key Launches Voicemail Application| Przycisk wiadomosci uruchamia aplikacje poczty glosowej
+AQUARIUS_5 prompts| 
+Network General Info| Ogolne informacje o sieci
+Network DHCP Info| Informacje o DHCP sieci
+480iCT prompts| 
+No handsets are currently paired| Brak zarejestrowanych sluchawek.
+Cordless Handset Feature Key Configuration| Klawisz funkcyjny sluchawki bezprzew.
+None| Zaden
+Attempting to pair...| Trwa rejestracja
+Pairing successful| Zarejestrowano
+Pairing failed       | Rejestracja nieudana
+Try again| Sprobuj ponownie
+Remove Handset:| Usun sluchawke
+Attempting to remove| Probuje usunac
+Wait...| Czekaj...
+Removal successful| Usunieto
+Cordless| Bezprzew.
+Cordless Handsets| Sluchawki bezprzew.
+None Registered| Brak zarejestrowanych
+Sync| Synchr.
+Private Line| Linia prywatna
+Sending Directory| Przesylanie ksiazki
+to Handsets| do sluchawek
+System Unavailable| System niedostepny
+Handset Pairing| Rejestracja sluch
+Handset Keys| Przyciski sluchawki
+Feature Key programming complete.| Zakonczono programowanie przycisku funkcyjnego
+Two Call Support| Obsluga Dwoch Polaczen
+Intercom| Interkom
+Sending Directory to Handsets| Przesylanie ksiazki do sluchawki
+No Public Number Found| Nie znaleziono numeru publicznego
+480i prompts| 
+Time Format| Format czasu
+    NOT MATCH !!!|   NIE PASUJE !!!
+Erase local config?| Usunac konfig.?
+Alternate Server| Serwer alternat.
+Contrast Level| Kontrast
+TypeService SIP| Typ uslugi SIP
+TypeService RTP| Typ uslugi RTP
+TypeService DSCP| TypUslugi DSCP
+TypeService RTCP| TypUslugi RTCP
+Dn| Nieaktywny
+Rt| Prawo
+Lf| Lewy
+Del| Usun
+System Info Upload| Pobierz informacje o systemie
+Up| Aktywny
+Copyright| Prawa autorskie
+Reset| Reset
+Phone will restart automatically after finishing.| Po zakonczeniu telefon zostanie uruchomiony ponownie
+Please login| Zaloguj sie
+Incorrect password| Nieprawidlowe haslo
+Reset Configuration?| Reset konfiguracji?
+Cfg. Svr.| Serw.konf.
+Enable| Wlacz
+List| Lista
+Move Up| W gore
+Move Down| W dol
+Firmware Loaded| Zaladowano firmware
+802.1x Authenticating| Autentykacja 802.1x
+LLDP| LLDP
+DHCP: Waiting for IP| DHCP: czekanie na IP
+Bluetooth Upgrade .. Please wait| Aktualizacja Bluetooth... Prosze czekac
+Contacting Redirector| Laczenie z serwerem
+Redirecting Step 1| Przekier. krok 1
+Redirecting Step 2| Przekier. krok 2
+Redirecting Step 3| Przekier. krok 3
+Redirecting Step 4| Przekier. krok 4
+Redirecting Step 5| Przekier. krok 5
+Redirecting Step 6| Przekier. krok 6
+Auto Discovery...| Auto. wykrywanie...
+Starting in Generic SIP Mode| Uruchamianie w Trybie Generic SIP
+Starting in AastraLink Mode| Uruchamianie w Trybie AastraLink
+Updating config| Aktualizacja konfiguracji
+Waiting assignment| Czekaj przypisywanie
+Checking for Firmware  Do not unplug phone!| Sprawdzanie oprogramowania. Nie odlaczaj!
+New Firmware. Do not unplug phone!| Nowe oprogramowanie. Nie odlaczaj tel!
+New Firmware. Restarting...| Nowy firmware, ponowne uruchomienie .....
+Downloading configuration| Pobieranie konfiguracji ....
+Downloading Language Packs| Pobieranie pakietow jezykowych
+Network| Siec
+UPnP device not found| Brak urzadzen UPnP
+Port Map In Progress| Trwa mapowanie portow
+Port Map Incomplete| Mapow. niekompletne
+DSP| DSP
+SIP| SIP
+Tone| Dzwieki
+Interface| Interfejs
+Web| Web
+Done| Gotowe
+CopyToAll| Kopiuj
+Cannot use firmware.| Bezuzyteczny firmware
+No available lines| Brak dostepnych linii
+Current Password:| Biezace haslo:
+New Password:| Nowe haslo:
+Re-enter Password:| Powtorz haslo:
+  Password Changed|   Haslo zmienione
+Change| Zmien
+Use DHCP?| Uzyc DHCP?
+Advanced| Wiecej
+DNS| DNS
+Ringer | Dzwonek
+ ERROR: invalid port| BLAD:niepoprawny port
+SIP Register| Rejestracja SIP
+Register?| Zarejestrowac?
+Authentication Name| Nazwa do autentyk.
+Nortel NAT| Nortel NAT
+Reset phone to| Zresetowac telefon do
+factory defaults?| ustawien fabrycznych?
+Setting phone back to| Wprowadzanie ustawien
+Factory Defaults| domyslnych
+  Please enter the   | Prosze podaj 
+    administrator    |       haslo 
+      password.      |  administratora.
+Password: | Haslo:
+Quit| Wyjscie
+More| Wiecej
+Timeserver Address:| Adres serwera czasu:
+Network Time Disabled| Czas sieciowy wyl.
+Dialing| Wyb. numeru
+Incoming| Przychodzacy
+Calling| Dzwonienie
+Pause| Pauza
+Pickup| Odbierz
+Previous| Poprzedni
+Enter Time:| Podaj czas:
+Message Waiting| Wiadomosc oczekujaca
+Live Dialpad| Aktyw. klawiatura
+Live Dialpad is| Aktyw. klawiatura
+Options List| Lista opcji
+    Access denied    | Odmowa dostepu
+Directory is full| Ksiazka jest pelna
+30min summertime| 30 min. czasu letn.
+1h    summertime| 1 godz. czasu letn.
+No Link| Brak pol.
+Next| Nastepny
+Retry| Ponownie
+Negotiation| Negocjacja
+Live Dialpad disabled| Aktyw. klawiatura wyl
+Link State| Stan lacza
+Headset Mic Volume| Poziom gl. sluchawek
+Gateway IP Address:| Adres IP bramy:
+Enter Date (y-m-d):| Podaj date (r-m-d):
+Enter| Zatwierdz
+Enable| Wlacz
+Full 10Mbps| Pelne 10Mbps
+Full 100Mbps| Pelne 100Mbps
+Full 1000Mbps| Pelne 1000Mbps
+Half 10Mbps| Pol 10Mbps
+Half 100Mbps| Pol 100Mbps
+Half 1000Mbps| Pol 1000Mbps
+Default| Domyslne
+Add New| Dodaj nowy
+DeleteList| Usun liste
+Delete entire| Usun wszystko
+Directory?| Ksiazka?
+Enter Number:| Wpisz numer:
+Network disconnected| Siec rozlaczona
+Network connected| Siec polaczona
+Entry Saved| Wpis zapisany
+Entry Removed| Wpis usuniety
+Private| Prywatny
+Public| Publiczny
+Delete entry?| Usunac wpis?
+Delete?| Usunac?
+Delete number| Usunac numer
+or delete all| czy usunac
+entries?| wszystkie wpisy?
+Name is full| Nazwa jest pelna
+Empty| Pusty
+Redial List| Lista wybieranych
+Details| Szczegoly
+Copy| Kopiuj
+Select| Wybierz
+Voicemail| Poczta glosowa
+DeleteItem| Usun wpis
+Delete All| Usun wszystko
+Entry copied to| Wpis skopiowany do
+Entry Exists| Wpis istnieje
+All items erased| Wszystkie wpisy usun.
+Sort| Sortuj
+Resume| Poczatek
+EditNum| Edytuj nr.
+DeleteList again to| Usun liste
+Delete again to| Usun
+erase this item| usun ta pozycje
+erase all calls| usun wsz. rozmowy
+ new caller|  nowy dzwon.
+ new callers|  nowi dzwon.
+Press 1st letter| Wcisnij 1szy znak
+Handset | Sluchawka 
+ Missed Call|  Pol. nieodebrane
+ Missed Calls|  Pol. nieodebrane
+Call Forward Mode| Przekazuj rozmowy
+CFWD All| Przekazuj (wszystkie)
+CFWD Busy| Przekazuj (zajete)
+CFWD NoAnswer| Przekazuj (brak odp.)
+Call| Polaczenie
+Select TFTP| Wybierz TFTP
+Use %c for new| %c aby dodac
+Use %c to view| %c aby przegladac
+Download Protocol| Protokol pobier.
+OFF| wylaczony
+ON| wlaczony
+Add Number| Dod. numer
+Arrange| Ustaw
+%cmore| %c wiecej
+Office| Biuro
+Home| Dom
+Cell| Komorkowy
+Pager| Pager
+VLAN Settings| Ustawienia VLAN
+Softkeys and XML| Przyciski programowalne i XML
+Softkeys Configuration| Konfiguracja przyciskow programowalnych
+Bottom Keys| Dolne przyciski
+Top Keys| Gorne przyciski
+Page1| Strona 1
+Page2| Strona 2
+Page3| Strona 3
+Page4| Strona 4
+Page5| Strona 5
+Idle| Bezczynny
+Outgoing| Wychodzacy
+Empty| Pusty
+Enter server name/IP:| Nazwa serwera / IP:
+Enter HTTPS port:| Podaj port HTTPS:
+Erase| Usun
+Proxy IP/Port| Proxy IP/Port
+Registrar IP/Port| Rejestr. IP/Port
+Erasing local config| Usuwanie lok. konfig.
+Proxy Port:| Port proxy:
+Registrar Port:| Port rejestratora:
+Proxy Server:| Serwer proxy:
+Registrar Server:| Serwer rejestrujacy:
+Contrast Level:| Kontrast:
+Erase Local Config.| Usun lokalna konfig.
+Administrator Menu| Menu Administratora
+Backlight On Time| Czas podswietlania
+Redirect HTTP->HTTPS?| Przek. HTTP->HTTPS?
+Block XML HTTP POSTs?| Blok. XML HTTP POSTy?
+HTTP->HTTPS| HTTP->HTTPS
+XML HTTP POSTs| XML HTTP POSTy
+Client Method| Metoda klienta
+To unlock the phone| Odblokuj telefon
+No more softkeys| Brak wolnych przyc.
+Ignore| Ignoruj
+Answer| Odpow.
+Configuration Server| Serwer konfiguracji
+Primary Path| Podstawowa sciezka
+Alternate Path| Zapasowa sciezka
+Logging in| Logowanie
+Login Failed| Logowanie nieudane
+Enable?| Wlaczyc?
+Check Expires| Sprawdzanie waznosci
+Check Hostnames| Sprawdz. nazw hostow
+Conf. Unavailable| Konfiguracja niedost.
+Ringing...| Dzwonienie...
+Error Messages| Bledy
+No Error Messages| Brak bledow
+Download Options| Opcje pobierania
+Abc| Abc
+123| 123
+&%*| &%*
+Abc2| Abc2
+Abc3| Abc3
+more| wiecej
+A # &| A # &
+  Invalid password   |  Niepoprawne haslo
+Upload Sys Info| Pobierz informacje o systemie
+Config is updated. Restarting...| Konfiguracja zaaktualizowana. Restart...
+CFWD Filtering| Filtrowanie CFWD
+Checking for Firmware| Sprawdzanie oprogramowania
+for new| dla nowego
+9133i prompts| 
+Password Changed| Haslo zmienione
+Leave| Wyjdz
+Time Format| Format czasu
+Erase local cfg?| Usun lok. Konf?
+TypeService SIP| Typ uslugi SIP
+TypeService RTP| Typ uslugi RTP
+TypeService DSCP| TypUslugi DSCP
+TypeService RTCP| TypUslugi RTCP
+Alternate Server| Serwer alternat.
+Contrast Level| Kontrast
+Options List| Lista opcji
+DELETE to erase item  or # to erase Number| Kasuj aby usunac wpis, # aby usunac numer 
+Upload Sys Info| Pobierz informacje o systemie
+Directory Empty. Use Save to add| Ksiazka pusta. Uzyj "Zapisz"
+Directory Empty Use Save to add| Ksiazka pusta Uzyj "Zapisz"
+  NOT MATCH !!!|   NIE PASUJE !!!
+DELETE again to erase this item| Usun ponownie ta pozycje
+System Info Upload| Pobierz informacje o systemie
+Phone will restart after| Po zakonczeniu telefon zostanie ponownie uruchomiony
+Copyright| Prawa autorskie
+Reset| Reset
+Use DHCP?| Uzyc DHCP?
+Full 10Mbps| Pelne 10Mbps
+Full 100Mbps| Pelne 100Mbps
+Half 10Mbps| Pol 10Mbps
+Half 100Mbps| Pol 100Mbps
+Full 1000Mbps| Pelne 1000Mbps
+Half 1000Mbps| Pol 1000Mbps
+Cfwd Destination| Miejsce docelowe Cfwd
+Please login| Zaloguj sie
+Incorrect password| Nieprawidlowe haslo
+Reset Configuration?| Reset konfiguracji?
+Cfg. Svr.| Serw.konf.
+Net disconnected| Siec rozlaczona
+Live Dialpad| Aktyw. klawiatura
+Firmware Loaded| Oprogramowanie zaladowane
+802.1x Authenticating| 802.1x Uwierzytelnianie
+LLDP| LLDP
+Initializing network| Inicjalizacja sieci
+Bluetooth Upgrade| Bluetooth upgrade
+Contacting Redirector| Przekierowywanie polaczen
+Redirecting Step 1| Przekierowanie krok 1
+Redirecting Step 2| Przekierowanie krok 2
+Redirecting Step 3| Przekierowanie krok 3
+Redirecting Step 4| Przekierowanie krok 4
+Redirecting Step 5| Przekierowanie krok 5
+Redirecting Step 6| Przekierowanie krok 6
+Auto Discovery| Auto. wykrywanie
+Starting in Generic SIP Mode| Uruchamianie w Trybie Generic SIP
+Starting in Aastra Link Mode| Uruchamianie w Trybie AastraLink
+Updating configuration| Aktualizacja konfiguracji
+Waiting assignment| Czekaj przypisywanie
+Checking for new firmware| Sprawdzanie czy jest nowe oprogramowanie
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Nowe oprogram. PROSZE NIE ODLACZAJ TELEFONU!
+New Firmware: Restarting...| Nowe oprogramowanie. Restart
+Downloading configuration| Pobieranie konfiguracji
+Downloading Language Packs| Pobieranie paczek jezykowych
+Network| Siec
+UPnP Gateway Not Found| Brama UPnP Nie Odnaleziona
+UPnP Port Map In Progress| Czytanie portow UPnP
+UPnP Port Map Incomplete| Czytanie portow UPnP Niekompletne
+DSP| DSP
+SIP| SIP
+Tone| Dzwieki
+Registering with the voice network...| Rejestracja w sieci glosowej
+Web| Web
+Done| Gotowe
+Cannot use| Nie mozna uzyc
+this firmware.| tego firmware.
+All lines in use| Linie w uzyciu
+Current Password| Biezace haslo
+New Password| Nowe haslo
+Enter Again| Wpisz ponownie
+Ringer volume   | Glosnosc dzwonka
+DELETE again to| Usun
+erase all calls| usun wsz. rozm. 
+Caller is erased| Dzwoniacy usun.
+Network Time| Czas sieciowy
+Change| Zmien
+Options| Opcje
+Access denied| Brak dostepu
+Directory full| Ksiazka pelna
+Link Active| Lacze aktywne
+No Link| Brak lacza
+Live Dialpad is\nnot available.| Aktyw.klawiatura\nniedostepna
+Live Dialpad is\nON| Aktyw.klawiatura\nwlaczona
+Live Dialpad is\nOFF| Aktyw.klawiatura\nwylaczona
+-  confirmed   -| - potwierdzony -
+Contrast | Kontrast 
+Set| Ustaw
+DHCP\nON| DHCP\nwlaczony
+DHCP\nOFF| DHCP\nwylaczony
+Enable?\nYes| Wlaczyc?\nTak
+Enable?\nNo| Wlaczyc?\nNie
+Check Expires| Sprawdz. Wazn
+Check Expires?\nYes| Sprawdz. wazn.?\nTak
+Check Expires?\nNo| Sprawdz. wazn.?\nNie
+Check Hostnames| Spr. nazw host.
+Check Hostnames?\nYes| Spr. nazw host.?\nTak
+Check Hostnames?\nNo| Spr. nazw host.?\nNie
+Cancel| Anuluj
+SIP Register\nON| Rejestracja SIP\nwlaczona
+SIP Register\nOFF| Rejestracja SIP\nwylaczona
+Nortel NAT\nEnabled| Nortel NAT\nwlaczony
+Nortel NAT\nDisabled| Nortel NAT\nwylaczony
+Next| Nast.
+Done| Gotowe
+Retry| Ponow
+Exit| Wyjscie
+Pickup| Odbierz
+Call held| Pol. zawieszone
+Calls held| Pol. zawieszone
+Country Code: | Kod kraju: 
+*List Countries| *Lista krajow
+Enter| Wybierz
+Admin Password| Haslo administr.
+yyyy-mm-dd | rrrr-mm-dd 
+Restart phone?| Restart telef.?
+#Confirm| # Potwierdz
+RestoreDefaults?| Ustaw. domyslne?
+Call Agent 1| Agent polaczen 1
+Call Agent 2| Agent polaczen 2
+Call Agent 3| Agent polaczen 3
+Invalid Code    | Niepoprawny kod 
+E: Invalid port!| E: Niepopr.port!
+Application:| Aplikacja:
+Boot ROM:| Boot ROM:
+Negotiation:| Negocjacja:
+30m summertime| 30 min letn.czas
+1h summertime| 1 godz letn.czas
+Invalid password| Bledne haslo
+  disconnected|   rozlaczona
+   connected|    polaczona
+    Network|     Siec
+erase all items| usun wszystko
+Enter Number>| Podaj numer>
+Setting phone to| Przywracanie do
+Use Save to end| Uzyj "Zapisz"
+to enter name>| by wpisac nazwe>
+Saved: Directory| Zapisano:Ksiazka
+Retrying config | Ponowne pobier. 
+download...     | konfiguracji... 
+empty| pusta
+No Match| Nie pasuje
+Save to?| Zapisz w?
+Saved Memory key| Zapisano przyc.
+Removed Key| Usunieto przyc.
+Key saved | Zapisano przyc.
+Key removed| Usunieto przyc.
+Press 1st letter| Wcisnij 1-y znak
+Speaker volume  | Glosnosc glosn. 
+Handset volume  | Glosnosc sluch. 
+Headset volume  | Glosnosc sluch. 
+Factory Defaults| ust. domyslnych
+ Missed Call|  Pol. nieod.
+ Missed Calls|  Pol. nieod.
+Cfwd State| Stan przekazyw.
+Cfwd Number| Numer przekazyw.
+Cfwd Mode| Tryb przekazyw.
+CFWD All| Przek.(wszystk)
+CFWD Busy| Przek.(gdy zaj)
+CFWD NoAnswer| Przek.(brak odp)
+Select TFTP\nPrimary| Wybierz TFTP\nPodstawowy
+Select TFTP\nAlternate| Wybierz TFTP\nAlternatywny
+DownloadProtocol| Protokol pobier.
+VLAN Settings| Ustawienia VLAN
+Server Name/IP?| Serwer Nazwa/IP:
+HTTPS Port?| HTTPS Port?
+Client Method\nSSL 3.0| Metoda klient\nSSL 3.0
+Client Method\nTLS 1.0| Metoda klient\nTLS 1.0
+HTTP->HTTPS\nRedirect| HTTP->HTTPS\nPrzekieruj
+HTTP->HTTPS\nDo not redirect| HTTP->HTTPS\nNie przekierowuj
+Redirect| Przekieruj
+Do not redirect| Nie przekierowuj
+XML HTTP POSTs\nDo not block| XML HTTP POSTy\nNie blokuj
+XML HTTP POSTs\nBlock| XML HTTP POSTy\nBlokuj
+Do not block| Nie blokuj
+Block| Blokuj
+Erasing config| Usuwanie konfig.
+Pri TFTP Path| Sciezka pod.TFTP
+Alt TFTP Path| Sciezka zap.TFTP
+Backlight Mode| Tryb podswietl.
+Backlight Time| Czas podswietl.
+Answer| Odpow.
+Ignore| Ignoruj
+Cfwd| CFWD
+Copy to All?| Skopiowac wsz.?
+Apply Changes?| Zastos. zmiany?
+Logging in| Logowanie
+Login Failed| Logow. nieudane
+Conf Unavailable| Konf.niedostepna
+Error Messages| Bledy
+No Error Messages| Brak bledow
+Delete All| Usun wszystko
+Download Options| Opcje pobierania
+Config updated. Restarting...| Konfig. zaaktualizowana. Restart
+DELETE again to erase all calls| Usun aby skasowac wszystko
+Firmware Check| Kontrola oprogramowania sprzetowego
+Fwd Filtering| Filtrowanie Fwd
+CFWD Filtering| Filtrowanie CFWD
+DELETE again to erase all items| Usun usun wszystko
+Upload Sys Info| Pobierz informacje o systemie
+6739i prompts| 
+SID_ENTER_ADMIN_PASSWORD| Haslo administratora
+Error Msg| Bledy
+Unlock the phone?|  Odblokowac telefon?
+ Enter Unlock Password| Wpisz kod odblokowujacy
+softkey| Przycisku
+Edit Number| Edytuj numer
+Lock the phone| Zablokowac
+keypad| Klawiatura
+Unlock| Odblokuj
+ Cust Feat| Funk. indyw.
+Phone is locked| Zablokowany
+Unlock the phone| Odblokowac telefon
+GoodBye| Do widzenia
+Pass Thru Port| Port Pass Thru
+First| Imie
+Last| Nazwisko
+Name| Nazwa
+Add| Dodaj
+Edit| Edycja
+Space| Spacja
+Bksp| Cofnij
+caps| caps
+CAPS| CAPS
+Reject| Odrzuc
+Silence| Cisza
+Hold| Zawiesz
+Transfer| Transfer
+>| >
+Lines| Linie
+Settings| Ustawienia
+Device Name| Nazwa urzadz.
+Bluetooth Devices| Urz. Bluetooth
+Bluetooth Status:| Status Bluetooth:
+Search| Szukaj
+Searching...| Szuka...
+device(s) found.| urz.(a) znalez.
+Press on a device to start pairing.| Nacisnij aby nawiazac powiazanie
+Enter PIN| Wprowadz PIN
+Add Device| Dodaj urzadzenie
+Active| Aktywne
+Are you sure?| Jestes pewien?
+ALL| WSZYSTKIE
+Phone No:| Nr telefonu
+Copy to all modes| Kopiuj do wsz.
+BUSY| ZAJETY
+NO ANSWER| NIE ODBIERA
+CFWD NO ANS:| PRZ. NIE ODB:
+CFWD BUSY:| PRZ. ZAJETY:
+CFWD ALL:| PRZ. WSZYST:
+Audio| Audio
+Calibrate Screen| Kalibruj ekran
+Recalibrate Touchscreen?| Ponowna kalibracja ekranu dotykowego?
+Softkeys| Przycisk
+Headset Mic Volume| Glosnosc mikrofonu
+Headset Device| Sluchawki
+Bluetooth| Bluetooth
+Wired| Przewodowe
+Restart | Restart
+No Calls| Brak polaczen
+Brightness Timer| Jasnosc zegara
+Brightness Level| Poziom jasnosci
+Add to Directory| Dodaj do ksiazki
+Waiting for Touch Screen activity to subside ...| Czekaj na ustawienie akywnosci ekranu dotykowego
+Touch the UPPER-LEFT corner of the screen| Nacisnij lewy gorny rog ekranu
+Touch the UPPER-RIGHT corner of the screen| Nacisnij prawy gorny rog ekranu
+Touch the LOWER-RIGHT corner of the screen| Nacisnij prawy dolny rog ekranu
+Touch the LOWER-LEFT corner of the screen| Nacisnij lewy dolny rog ekranu
+Received unreliable data. You will be asked to touch the same point again| Orzymano niepewne dane. Zostaniesz poproszony aby wybrac punkty ponownie
+Processing ...| Przetwarzanie...
+Validating calibration data ... please wait| Sprawdzanie poprawnosci danych kalibracji...prosze czekac
+Sanity Check OK. Save changes?| Weryfikacja OK.. Zapisz zmiany?
+Sanity Check Failed| Weryfikacja bledna
+Retry| Powtorz
+Quit| Wyjdz
+Please Enter| Wpisz
+Submit| Podaj
+User ID:| ID uzytkownika
+Password:| Haslo:
+Transferring| Przenoszenie
+No. Rings| Nr dzwonka
+Line| Linia
+Unable to Pair| Brak rejestracji
+Please Wait...| Prosze czekac...
+Add new device...| Dodaj nowe urzadz
+Detected:| Wykryte:
+Connecting:| Polaczenie:
+Disonnecting:| Rozlaczenie:
+Connected:| Polaczone:
+ALL| Wszystkie
+BUSY| ZAJETY
+NO ANSWER| NIE ODBIERA
+CFWD ALL:| PRZ. WSZYST
+CFWD BUSY:| PRZ. ZAJETY
+CFWD NO ANSWER:| PRZ. NIE ODB
+Copy to all modes| Kopiuj do wsz.
+OFF| Wylacz
+Off| Wylacz
+Phone Number:| Numer telefonu:
+Level 1| Poziom 1
+Level 2| Poziom 2
+Level 3| Poziom 3
+Level 4| Poziom 4
+Level 5| Poziom 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+ Enter Administrator Password| Wpisz haslo administratora
+Phone will restart automatically after finishing.| Po zakonczeniu telefon zostanie ponownie uruchomiony
+Conference| Konferencja
+Conf| Konfer.
+Reset Configuration?| Reset konfiguracji?
+Hide| Ukryc
+Live Dialpad| Aktyw. klawiatura
+Live Dial| Live Dial
+Lock| Zablokuj
+Lock the phone?| Zablokowac tel.?
+Directory| Ksiazka
+Phone Number:| Numer telefonu:
+Common prompts| 
+None| Zaden
+Disable| Wylacz
+Logout failed| Blad wylogowania
+Logout successful| Pomyslne wylogowanie
+Login successful| Pomyslne logowanie
+Logout user %s| Wyloguj uzytkownika %s
+Login/Logout| Zaloguj sie lub wyloguj
+User ID| ID uzytkownika
+User ID required| Wymagane ID uzytkownika
+Application busy. Please try again later.| Aplikacja jest zajeta. Sprobuj ponownie pozniej.
+Page Expired. Please reload the page.| Strona wygasla. Ponownie zaladuj te strone.
+Check Expires| Sprawdz. Wazn
+Check Hostnames| Sprawdz. nazw hostow
+Use DHCP?| Uzyc DHCP?
+Restart Phone?| Zrestart. tel.?
+12 Hour| 12 godzinny
+Speeddial| Szybkie wybieranie
+Erase local cfg?| Usun lok. Konf?
+Spd Dial| Szyb. wyb.
+Backup Outbound Proxy Server| Zapasowy serwer proxy wych.
+Backup Outbound Proxy Port| Port zapas. serw. proxy wych. 
+Firmware Info| Info firmwaru
+DHSG| DHSG
+DHSG is ON| DHSG wlaczone
+DHSG is OFF| DHSG wylaczone
+Backlight On Time| Czas podswietlania
+Use Alt TFTP| Uzyj alt. TFTP
+Pri TFTP Path| Sciezka pod.TFTP
+Alt TFTP Path| Sciezka zap.TFTP
+RestoreDefaults?| Ustaw. domyslne?
+HTTP Init Failed| Blad inicj. HTTP
+Get aastra.lic| Pob.lic.Aastra
+Get mac.lic| Pob.lic.mac.
+Firmware not licensed for use on this phone| Oprogramowanie nie do uzycia z tym aparatem
+Redial List is empty| Lista wyb. jest pusta
+Callers List is empty| Lista dzwon. jest pusta
+Callers List| Lista polaczen
+Redial List| Lista wybieranych
+Directory| Ksiazka
+License Information| Informacja o licencji
+XML Application URI:| URI aplikacji XML:
+Missing User ID| Brak ID uzytkownika
+TFTP| TFTP
+FTP| FTP
+HTTP| HTTP
+HTTPS| HTTPS
+Use| Uzyc
+Active Features| Aktywne uslugi
+WWW MMM DD| TTT MMM DD
+DD-MMM-YY| DD-MMM-RR
+YYYY-MM-DD| RRRR-MM-DD 
+DD/MM/YYYY| DD/MM/RRRR
+DD/MM/YY| DD/MM/RR
+DD-MM-YY| DD-MM-RR
+MM/DD/YY| MM/DD/RR
+MMM DD| MMM DD
+DD MMM YYYY| DD MMM RRRR
+WWW DD MMM| TTT DD MMM
+DD MMM| DD MMM
+DD.MM.YYYY| DD.MM.RRRR
+24 Hour| 24-godzinny
+XML Application Title:| Tytul aplikacji XML:
+License Status| Status licencji
+FTP| FTP
+to view| aby przegladac
+Contact Name already exists| Kontakt juz istnieje
+Leave| Wyjdz
+Contact Mismatch| Kontakt nie pasuje
+ Call Terminated| Polaczenie zakonczone
+IP and gateway have to be on same subnet| Adres IP musi znajdowac sie  w tej samej podsieci co brama
+IP cannot be equal to gateway address| Adres IP nie moze byc taki sam jak adres bramy
+Call Waiting Tone Period| Interwal tonu powiadamiajacego o polaczeniu oczekujacym
+OK| OK
+Directory empty| Ksiazka pusta
+Files Sent| Pliki przeslane
+Upload System Info| Pobierz informacje o systemie
+Upload| Wgraj
+Call Transferred| Polaczenie przekazane
+Firmware Information| Informacja o firmware
+Contact Name already exists| Kontakt juz istnieje
+Replace| Zastap
+No Services| Brak uslugi
+Merge| Polacz
+Enter Name:| Wpisz nazwe:
+Call Hold Reminder| Przypomnienie o zaparkowanym polaczeniu
+Others| Inne
+Call Hold Reminder During Active Calls| Przypomnienie o zaparkowanym polaczeniu w trakcie polaczenia
+Out of service| Nie dziala
+Reason: | Z powodu:
+Add blank record?| Dodac pusty rek?
+Audio Setting| Ustawienia audio
+Delete Item| Usun element
+Services| Uslugi
+Server| Serwer
+Service Disabled| Usluga wylaczona
+Port| Port
+Path| Sciezka
+Username| Nazwa uzytkown.
+No. Rings| Liczba dzwonkow
+Use xx to view| xx aby obejrzec
+User Password| Haslo uzytkown.
+Time and Date| Data i czas
+Language| Jezyk
+Screen Language| Jezyk menu tel.
+Tones| Dzwieki
+Tone Set| Ustawienia tonow
+Ring Tone| Dzwiek dzwonka
+State| Stan
+State:| Stan:
+User-Busy| Zajety
+Unconditional| Bezwarunkowy
+Time of day| Godzina
+Deflection| Odchylenie
+Follow Me| Podazaj za mna
+Away| Nieobecny
+Busy| Zajety
+Restart| Restart
+All On| Zawsze
+All Off| Nigdy
+AllAccts| Wsz.konta.
+Conference| Konferencja
+Flash| Flash
+Dial| Wybierz
+Directory| Ksiazka
+Callers| Polaczenia
+Icom| Interkom
+Icom| Interkom
+Dir| Ksiazka
+Xfer| Transfer
+Conf| Konfer.
+SIP Settings| Ustawienia SIP
+Proxy Port| Port proxy
+Registrar Port| Port rejestr.
+User Name| Nazwa uzytkown.
+Screen Name| Nazwa ekranowa
+Proxy Server| Serwer proxy
+Registrar Server| Serwer rejestr.
+Auth. Name| Nazwa do autoryzacji
+Nortel NAT| Nortel NAT
+Sylantro| Sylantro
+Broadsoft| BroadSoft
+Display Name| Nazwa wyswietl.
+RTP Port Base| Bazowy port RTP
+Static NAT| Statyczny NAT
+NAT Settings| Ustawienia NAT
+NAT IP| IP NAT
+NAT SIP Port| Port SIP NAT
+NAT RTP Port| Port RTP NAT
+NAT HTTPS Port| Port HTTPS NAT
+Phone Status| Status telefonu
+Auto Discovery| Auto. wykrywanie
+Trying...| Probuje...
+Remote| Zdalnie
+Reset| Reset
+Choose Server| Wybierz serwer
+Select| Wybor
+Select| Wybor
+Ring Tone:| Dzwiek dzwonka:
+Silent| Cichy
+Network Settings| Ustawienia sieci
+Clear| Wyczysc
+Speaker | Glosnik 
+Headset | Sluchawki 
+Speaker/Headset| Glosnik/Sluch.
+Headset/Speaker| Sluch./Glosnik
+Audio Mode| Tryb audio
+Low| Cichy
+Medium| Sredni
+High| Glosny
+OFF| Wylaczony
+Off| Wylaczony
+ON| Wlaczony
+DHCP Settings| Ustawienia DHCP
+DHCP User Class| Klasa uzyt. DHCP
+Hostname| Nazwa hosta
+IP Address| Adres IP
+Subnet Mask| Maska podsieci
+Subnet Mask:| Maska podsieci:
+Gateway| Brama
+Primary DNS| Pierwszy DNS
+Secondary DNS| Drugi DNS
+TFTP Settings| Ustawienia TFTP
+VLAN| VLAN
+VLAN ID| VLAN ID
+PC Port VLAN ID| ID VLAN portu PC
+LAN Port VLAN| VLAN portu LAN
+PC Port VLAN| VLAN portu PC
+Priority| Priorytet
+VLAN Enabled\nYes| VLAN wlacz.\nTak
+VLAN Enabled\nNo| VLAN wlacz.\nNie
+PC Port Priority| Prioryt. port PC
+LAN Port VLAN ID| ID VLAN port LAN
+UPnP| UPnP
+Use UPnP| Uzyj UPnP
+Select Gateway| Wybierz brame
+Portmap Started| Uruchom map.port
+Portmap Error| Blad map. portu
+LLDP| LLDP
+LLDP packet interval| Przedz.pak. LLDP
+LLDP Settings| Ustawienia LLDP
+Use LLDP ELIN| Uzywaj LLDP ELIN
+TypeService DSCP| Typ uslugi DSCP
+Type of Service DSCP| Typ uslugi DSCP
+VLAN Priority| Priorytet VLAN
+Other Priority| Priorytet inny
+SessionBorderCtl| Kontrola sesji
+Session Border Ctrl| Kontrola sesji
+Select SBC| Wybierz SBC
+SBC Settings| Ustawienia SBC
+Kagoor| Kagoor
+Update Interval (sec)| Okres aktual.(s)
+Backspace| Cofnij
+No| Nie
+Yes| Tak
+DHCP Download Options| Opcje pobierania DHCP
+DHCP Download Option| Opcje pobierania DHCP
+Firmware Version| Wersja firmware
+Restart Phone| Restart telefonu
+Show| Pokaz
+is OFF| jest wylaczony
+Password| Haslo
+Restarting...| Restartowanie...
+Speed| Predkosc
+Manual| Manual
+Auto| Auto
+Auto| Auto
+Half| Pol
+Full| Pelen
+Duplex| Dupleks
+ ERROR: |  BLAD:
+Invalid IP addr.| Niepopr.adres IP
+Invalid mask| Niepopr. maska
+Range is 1-4094| Zakres 1-4094
+Range is 1-4095| Zakres 1-4095
+Range is 1-4095| Zakres 1-4095
+Range is 0-63| Zakres 0-63
+Range is 0-7| Zakres 0-7
+DND| DND
+DND On| DND wlaczone
+Time Server| Serwer czasu
+Set Time| Ustaw czas
+Set Date| Ustaw date
+Date Format| Format daty
+Time Zone| Strefa czasowa
+Daylight Savings| Czas letni
+Invalid Time| Niepoprawny czas
+Invalid Date| Niepoprawna data
+Invalid IP| Niepoprawne IP
+ Invalid Number| Niepoprawny nr
+On| Wlaczony
+On| Wlaczony
+On| Wlaczony
+OFF| Wylaczony
+Automatic| Automatyczny
+Conf Hold| Zawiesz. konf.
+No Service| Brak uslugi
+Mute| Wycisz
+Connected| Polaczony
+Drop| Porzuc
+Park| Parkuj
+PickUp| Odbierz
+Redial| Wyb. ponownie
+DCP| DCP
+DCP List| Lista DCP
+Cancel| Anuluj
+Done| Gotowe
+Callers List| Lista polaczen
+No changes made| Nie zmieniono
+Key is Locked| Przycisk zablok.
+Cannot Save| Nie mozna zapis.
+1 item| 1 pozycja
+ items|  pozycje
+No User| Brak uzytkownika
+DHCP failed| Niedostepny DHCP
+Unknown Name| Nieznana nazwa
+Unknown Number| Nieznany numer
+Unknown Line| Nieznana linia
+Item is erased| Pozycja usunieta
+Unknown| Nieznany
+NextSpace| Spacja
+Dot "."| Kropka "."
+Transfer Failed| Blad transferu
+Call Forward| Przekaz rozmow
+Call Fwd| Przekaz
+All| Wszystkie
+All| Wszystkie
+Any| Dowolne
+NoAns| Brak odpowiedzi
+BusyNoAns| Zajety,nie odp.
+Number:| Numer:
+Mode:| Tryb:
+No. Rings:| Liczba dzw.:
+Line: | Linia:
+Contrast Level| Kontrast
+ Message|  Wiadomosc
+ Messages|  Wiadomosci
+Loading Page...| Ladowanie strony
+Abort Loading...| Przerwij ladow.
+Connect Timeout| Timeout polacz.
+Data Timeout| Timeout danych
+File Not Found| Nie znal. pliku
+Page Load Error| Blad lad. strony
+Cannot display| Nie mozna wysw.
+Skip| Pomin
+Call Failed| Blad polaczenia
+Primary Server| Serwer podstaw.
+Primary Server| Serwer podstaw.
+Alternate Server| Serwer alternat.
+Primary| Podstawowy
+Alternate| Alternatywny
+Bad encrypted cfg| Zle szyfr. konf.
+Use TFTP| Uzyj TFTP
+Use FTP| Uzyj FTP
+Use HTTP| Uzyj HTTP
+Use HTTPS| Uzyj HTTPS
+FTP Settings| Ustawienia FTP
+FTP Server| Serwer FTP
+FTP Path| Sciezka FTP
+FTP Username| Nazwa uzytk. FTP
+FTP Password| Haslo FTP
+HTTP Settings| Ustawienia HTTP
+HTTP Server| Serwer HTTP
+HTTP Path| Sciezka HTTP
+HTTP Port| Port HTTP
+HTTPS Settings| Ustawienia HTTPS
+Download Server| Serwer pobier.
+Download Path| Sciezka pobier.
+Download Port| Port pobier.
+HTTPS Server| Serwer HTTPS
+HTTPS Path| Sciezka HTTPS
+HTTPS Port| Port HTTPS
+HTTPS Client| Klient HTTPS
+SSL 3.0| SSL 3.0
+TLS 1.0| TLS 1.0
+Bad Certificate| Zly certyfikat
+Certificates| Certyfikaty
+Cert Validation| Potwierdz. cert.
+All defaults| Wsz. domyslnie
+Config default| Domyslna konf.
+AM| AM
+PM| PM
+Factory Default| Konf. fabryczna
+Factory Default?| Konf. Fabryczna?
+Erase Local Cfg.| Usun lok. konf.
+New IP Obtained| Nowy adres IP
+New NAT IP| Nowy IP NAT
+Server IP Change| Zmiana IP serw.
+AastraLink Menu| Menu AastraLink
+Server Options| Opcje serwera
+AastraLink Info| Info AastraLink
+Server Remote IP| Zdalny IP serw.
+Server Local IP| Lokalny IP serw.
+Preferences| Ustawienia
+Network Status| Status sieci
+MAC Address:| Adres MAC:
+MAC Address| Adres MAC
+BT MAC Address:| Adres MAC BT:
+Invalid Key| Niepopr.przycisk
+Speed Dial Edit:| Edycja kl. wyb.:
+Press SD button| Wybierz przycisk
+From: | Od:
+To: | Do:
+Via: | Przez:
+Diverted: | Podzielony: 
+Log Off| Wyloguj sie
+Customer Support| Wsparcie klienta
+Status| Status
+Operation| Eksploatacja
+Basic Settings| Ustawienia podstawowe
+Advanced Settings| Ustawienia zaawansowane
+System Information| Informacja o systemie
+Down| Nieaktywny
+Up| Aktywny
+n/a| niedostepny
+10Mbps| 10Mbps
+100Mbps| 100Mbps
+1000Mbps| 1000Mbps
+Attribute| Atrybut
+Link State| Stan lacza
+Negotiation| Negocjacja
+Hardware Information| Informacja o sprzecie
+Firmware Information| Informacja o firmware
+Firmware Release Code| Kod wersji firmware
+Value| Wartosc
+Platform| Platforma
+Boot Version| Wersja Boot
+Date/Time| Data/Czas
+DND Key Mode| Przycisk trybu nie przeszkadzac
+Call Forward Key Mode| Przycisk trybu przekazywania rozmow
+Option 160| Opcja 160
+Option 159| Opcja 159
+Option 66| Opcja 66
+Option 43| Opcja 43
+Account| Konto
+Both| Oba
+Line| Linia
+Line 1| Linia 1
+Line 2| Linia 2
+Line 3| Linia 3
+Line 4| Linia 4
+Line 5| Linia 5
+Line 6| Linia 6
+Line 7| Linia 7
+Line 8| Linia 8
+Line 9| Linia 9
+Line 10| Linia 10
+Configuration Line %d| Linia konfiguracyjna %d
+Basic SIP Authentication Settings| Podstawowe ustawienia uwierzytelniania SIP
+Screen Name| Nazwa ekranowa
+Screen Name 2| Nazwa ekranowa 2
+Phone Number:| Numer telefonu:
+Phone Number| Numer telefonu
+Caller ID| ID dzwoniacego
+Authentication Name| Nazwa do uwierzytelnienia
+Password| Haslo
+BLA Number| Numer BLA
+Line Mode| Tryb linii
+Generic| Ogolny
+SCA| SCA
+%s SCA| %s SCA
+BLA| BLA
+Asterisk SLA| Asterisk SLA
+Basic SIP Network Settings| Podstawowe ustawienia SIP
+Outbound Proxy Server| Serwer proxy wychodzacy
+Outbound Proxy Port| Port wychodzacy serwera proxy
+Registration Period| Okres rejestracji
+RTP Settings| Ustawienia RTP
+Autodial Settings| Ustawienia automatycznego wybierania
+Autodial Number| Numer automatycznego wybierania
+Autodial Timeout| Czas automatycznego wybierania
+Use Global Settings| Uzyj ustawien globalnych
+DTMF Method| Metoda DTMF
+SIP INFO| SIP INFO
+BOTH| oba
+Save Settings| Zapisz ustawienia
+Global SIP| Globalny SIP
+Global SIP Settings| Ustawienia globalne SIP
+RTP Encryption| Szyfrowanie RTP
+SRTP Disabled| SRTP wylaczony
+SRTP Preferred| preferowany SRTP
+SRTP Only| Tylko SRTP
+Advanced SIP Settings| Zaawansowane ustawienia SIP
+Explicit MWI Subscription| Subskrypcja MWI
+Explicit MWI Subscription Period| Okres subskrypcji MWI
+MWI for BLA account| MWI dla konta BLA
+Enabled| Wlaczony
+Send MAC Address in REGISTER Message| Wysylaj adres MAC w wiadomosci REGISTER
+Send Line Number in REGISTER Message| Wysylaj numer linii w wiadomosci REGISTER
+Session Timer| Czas trwania sesji
+T1 Timer| Licznik czasu T1
+T2 Timer| Licznik czasu T2
+Transaction Timer| Czas trwania transakcji
+Transport Protocol| Protokol transportowy
+UDP and TCP| UDP i TCP
+UDP| UDP
+TCP| TCP
+TLS| TLS
+Persistent TLS| Trwaly TLS
+Registration Failed Retry Timer| Czas blednego ponowienia proby rejestracji
+Registration Timeout Retry Timer| Czas ponowienia proby rejestracji
+Registration Renewal Timer| Czas odnowienia rejestracji
+BLF Subscription Period| Czas subskrypcji BLF
+ACD Subscription Period| Czas subskrypcji ACD
+BLA Subscription Period| Czas subskrypcji BLA
+Blacklist Duration| Czas przelaczenia aparatu na serwer zapasowy (s)
+ Park Pickup Config| Ustaw. odbier. zapark. polaczen
+RTP Port| Port RTP
+Basic Codecs| Podstawowe kodeki
+Force RFC2833 Out-of-Band DTMF| Wymus RFC2833 Out-of-Band DTMF
+Codec Preference List| Lista preferowanych kodekow
+Silence Suppression| Kasowanie ciszy
+Provisioning complete.| Zmiany zachowane.
+You must restart the phone before the new settings will take effect.| 
+You must restart the phone before the new settings take effect.| Musisz zresetowac telefon aby wprowadzic nowe ustawienia
+ERROR: Maximum number of connections reached.| BLAD: osiagnieto maksymalna liczbe polaczen.
+Logout Complete| Wylogowano
+Your session has ended.  Please close the browser.| Sesja zakonczona. Prosze zamknac przegladarke.
+Session Expired| Sesja wygasla
+Please close the browser or use the link below to log in again.| Zamknij przegladarke lub uzyj linku ponizej aby zalogowac sie ponownie.
+Log In| Zaloguj
+Log Out| Wyloguj
+Log Out| Wyloguj
+Avail| Dost.
+Avail| Dost.
+Unavail| Niedost
+Unavail| Niedost
+Reset User Password| Zresetuj haslo uzytkownika
+Please enter the current and new passwords| Wpisz biezace oraz nowe haslo
+Current Password| Biezace haslo
+New Password| Nowe haslo
+Password Confirm| Potwierdz haslo
+Please Enter| Wpisz
+Submit| Potw.
+ABC...| ABC...
+abc...| abc...
+123...| 123...
+Authorizing...| Uwierzytelnianie
+Authorization Failed| Blad uwierzytelniania
+Auth Failed| Blad uwierzytel.
+Current password is incorrect.| Biezace haslo jest niepoprawne.
+Please try again.| Sprobuj ponownie.
+The new password fields do not match.| Wpisano 2 rozne hasla.
+The new password can not be saved.| Nowe haslo nie moze byc zapisane.
+The user password has been changed.| Haslo uzytkownika zostalo zmienione.
+Task and Stack Info| Informacja o zadaniach i pamieci
+Back| Powrot
+Files Available for Download| Pliki dostepne do pobrania
+Custom| Spersonalizowany
+Save As...| Zapisz jako...
+Directory List| Lista kontaktow
+Current Settings| Biezace ustawienia
+Restore To Factory Defaults| Przywroc do ustawien fabrycznych
+Restore| Przywroc
+Remove Local Configuration Settings| Usun ustawienia konfiguracji lokalnej
+Remove| Usun
+Restarting the hardware...| Restartowanie telefonu...
+Please return to the main page after your phone restarts.| Powroc do strony glownej po restarcie telefonu.
+User not authorized to make changes.| Uzytkownik nie posiada uprawnien do dokonywania zmian.
+Local configuration file has been deleted.| Lokalne pliki konfiguracyjne zostaly usuniete.
+Please restart the phone for the settings to take effect.| Zrestartuj telefon aby wprowadzic zmiany.
+Phone has been set to factory Defaults.| W telefonie zostaly przywrocone ustawienia fabryczne.
+Action URI| Akcja URI
+Action URI Configuration| Konfiguracja akcji URI
+Event| Zdarzenie
+StartUp| Start
+Successful Registration| Pomyslna rejestracja
+Registration Event| Zdarzenie rejestracji
+Incoming Call| Polaczenie przychodzace
+Outgoing Call| Polaczenie wychodzace
+Offhook| Sluchawka podniesiona
+Onhook| Sluchawka odlozona
+Disconnected| Rozlaczony
+Poll| Odpytywanie
+Interval| Przedzial
+Settings saved.| Ustawienia zapisane.
+Settings could not be saved.| Ustawienia nie moga byc zapisane.
+Firmware Update| Aktualizacja firmware'u
+TLS Support| Wsparcie dla TLS
+Manual Firmware Update| Reczna aktualizacja firmware'u
+Enter the server's IP address and the name of the firmware below to initiate a firmware update.| Podaj ponizej adres IP serwera i nazwe pliku, aby rozpoczac aktualiacje firmware'u.
+Configuration Server| Serwer konfiguracji
+Configuration Server Settings| Ustawienia serwera konfiguracji
+Server IP| IP serwera
+File Name| Nazwa pliku
+Configure File Names| Konfiguracja nazw plikow
+Root and Intermediate Certificates Filename| Nazwa pliku certyfikatow glownych i posrednich
+Local Certificate Filename| Nazwa pliku certyfikatu lokalnego
+Private Key Filename| Nazwa pliku klucza prywatnego
+Trusted Certificates Filename| Nazwa pliku certyfikatow zaufanych
+Download Firmware| Pobierz firmware
+Firmware upgrade in progress.  Please wait.| Trwa aktualizacja firmware. Prosze czekac.
+Please enter a valid filename and TFTP server IP address.| Wpisz poprawna nazwe pliku oraz adres IP serwera TFTP.
+Invalid TFTP server IP address| Niepoprawny adres IP serwera TFTP
+Invalid download settings.| Niepoprawne ustawienia pobierania.
+Unable to upgrade firmware.| Niemozliwe uaktualnienie firmware'u.
+The phone is restarting...| Restart telefonu...
+Firmware upgrade successful.| Aktualizacja firmware'u zakonczona pomyslnie.
+This firmware already exists on the phone.| Ten firmware juz dziala na telefonie.
+No upgrade is needed.| Aktualizacja nie jest potrzebna.
+Troubleshooting| Rozwiazywanie problemow
+Module| Modul
+Log Settings| Ustawienia logowania
+Log IP| IP serwera logowania
+Log Port| Port serwera logowania
+Debug Level| Poziom debugowania
+Support Information| Informacje o wsparciu
+Get local.cfg| Pobierz plik "local.cfg"
+Get server.cfg| Pobierz plik "server.cfg"
+Show Task and Stack Status| Pokaz status zadan i pamieci
+Settings| Ustawienia
+Download Protocol| Protokol pobierania
+Auto-Resync| Automatyczna resynchronizacja
+Days| Dni
+Maximum Delay| Maksymalne opoznienie
+Mode| Tryb
+Configuration Files| Pliki konfiguracyjne
+Time (24-hour)| Czas (24-godzinny)
+XML Push Server List(Approved IP Addresses)| Lista serwerow XML Push (Zatwierdzone adresy IP)
+Phone-side Call Forward Settings| Ustawienia przekazow rozmow na telefonie
+Global Settings| Ustawienia globalne
+No Answer| Brak odpowiedzi
+Number| Numer
+Number of Rings| Liczba dzwonkow
+Local Line| Linia lokalna
+Forward Number| Numer przekierowania
+Global| Globalny
+Enable| Wlacz
+Network| Siec
+Must provision a valid default gateway IP if DHCP is enabled| Musisz wpisac poprawny adres IP bramy domyslnej, jesli DHCP jest wlaczone
+Invalid IP Address| Niepoprawny adres IP
+Invalid IP address| Niepoprawny adres IP
+Invalid IP addr.| Niepopr.adres IP
+Invalid gateway address| Niepoprawny adres bramy
+Invalid subnet mask| Niepoprawna maska podsieci
+Invalid primary DNS address| Niepoprwny adres pierwszego DNS
+Invalid secondary DNS address| Niepoprawny adres drugiego DNS
+Basic Network Settings| Podstawowe ustawienia sieci
+Advanced Network Settings| Zaawansowane ustawienia sieci
+DHCP| DHCP
+NAT Port| Port NAT
+Nortel NAT Traversal Enabled| Aktywny Nortel NAT Traversal
+Nortel NAT Timer (seconds)| Licznik czasu Nortel NAT (sekundy)
+NTP Time Servers| Serwery czasu NTP
+Time Server 1| Serwer czasu 1
+Time Server 2| Serwer czasu 2
+Time Server 3| Serwer czasu 3
+SIP| SIP
+VLAN Enable| VLAN wlaczony
+Non-IP Packet| Pakiet nie IP
+SIP Priority| Priorytet SIP
+RTP Priority| Priorytet RTP
+RTCP Priority| Priorytet RTCP
+Preferences| Ustawienia
+General| Glowne
+Idle Display Name 1| Nazwa stanu bezczynnosci: Nazwa 1
+Idle Display Name 2| Nazwa stanu bezczynnosci: Nazwa 2
+Local Dial Plan| Lokalny plan numeracji
+Send Dial Plan Terminator| Wyslij znacznik zakoncenia wybierania numeru
+Digit Timeout (seconds)| Czas wprowadzania cyfr (sekundy)
+Park Call:| Parkowanie rozmowy:
+Pick Up Parked Call:| Odbieranie zaparkowanej rozmowy:
+Suppress DTMF Playback| Blokowanie odtwarzania DTMF
+Display DTMF Digits| Wyswietlaj cyfry DTMF
+Call Waiting| Polaczenie oczekujace
+Call Waiting| Polaczenie oczekujace
+Play Call Waiting Tone| Odtworz ton polaczenia oczekujacego
+Stuttered Dial Tone| Ton wybierania numeru
+Incoming Call Interrupts Dialing| Polaczenie przychodzace przerywa wybieranie numeru
+Switch UI Focus To Ringing Line| Przelacz wyswietlanie informacji dzwoniacej linii
+Outgoing Intercom Settings| Ustawienia interkomu wychodzacego
+Type| Typ
+Phone-Side| strona telefonu
+Server-Side| strona serwera
+Prefix Code| Prefiks
+Incoming Intercom Settings| Ustawienia interkomu przychodzacego
+Microphone Mute| Wyciszenie mikrofonu
+Play Warning Tone| Odtworz ton ostrzegawczy
+Allow Barge In| Zezwalaj na wtracanie
+Auto-Answer| Automatyczna odpowiedz
+Key Mapping| Mapowanie przyciskow
+Map Redial Key To| Mapuj przycisk ponownego wybierania numeru do
+Map Conf Key To| Mapuj przycisk konferencji do
+Ring Tones| Dzwiek dzwonka
+Brazil| Brazylia
+France| Francja
+Germany| Niemcy
+Italy| Wlochy
+Italy2| Wlochy2
+Mexico| Meksyk
+Russia| Rosja
+UK| Wielka Brytania
+US| USA
+Global Ring Tone| Globalny dzwiek dzwonka
+Tone 1| Dzwiek 1
+Tone 2| Dzwiek 2
+Tone 3| Dzwiek 3
+Tone 4| Dzwiek 4
+Tone 5| Dzwiek 5
+Tone 6| Dzwiek 6
+Tone 7| Dzwiek 7
+Tone 8| Dzwiek 8
+Tone 9| Dzwiek 9
+Tone 10| Dzwiek 10
+Tone 11| Dzwiek 11
+Tone 12| Dzwiek 12
+Tone 13| Dzwiek 13
+Tone 14| Dzwiek 14
+Tone 15| Dzwiek 15
+Priority Alerting Settings| Ustawienia priorytetu alarmow
+Enable Priority Alerting| Wlacz priorytet alarmow
+Group| Grupa
+External| Zewnetrzny
+Internal| Wewnetrzny
+Emergency| Alarmowy
+Auto call distribution| Automatyczna dystrybucja polaczen
+Auto Call Distribution Settings| Ustawienia automatycznej dystrybucji polaczen
+ACD| ACD
+Community 1| Grupa 1
+Community 2| Grupa 2
+Community 3| Grupa 3
+Community 4| Grupa 4
+Normal ringing| Normalne dzwonienie
+Bellcore-dr2| Bellcore-dr2
+Bellcore-dr3| Bellcore-dr3
+Bellcore-dr4| Bellcore-dr4
+Bellcore-dr5| Bellcore-dr5
+Directed Call Pickup Settings| Ustawienia odbierania polaczen
+Directed Call Pickup| Odbieranie polaczen
+Directed Call Pickup by Prefix| Odbieranie polaczen prefiksem
+Play a Ring Splash| Dzwiek polaczenia przychodzacego dla BLF
+Auto Available| Automatyczna dostepnosc
+Auto Available Timer| Licznik czasu automatycznej dostepnosci
+Time and Date Setting| Ustawienia daty i czasu
+Time Format| Format czasu
+Date Format| Format daty
+Programmable Keys| Przyciski programowalne
+Programmable Keys Configuration| Konfiguracja przyciskow programowalnych
+Hard Key| Przycisk sprzetowy
+Key| Przycisk
+BLF List URI:| Lista BLF URI:
+Speeddial/Xfer| Szybkie wybieranie/Transfer
+Do Not Disturb| Nie przeszkadzac
+BLF| Monitorowanie (BLF)
+BLF/Xfer| BLF/Transfer
+BLF/List| BLF/Lista
+XML| XML
+WebApps| Aplikacje Web
+Flash| Flash
+Last Call Return| Przywroc ostatnie polaczenie
+Sprecode| Kod uslugi
+Transfer| Transfer
+Conference| Konferencja
+Save| Zapisz
+Delete| Usun
+Data has been transmitted to the phone successfully.| Dane zostaly pomyslnie przeslane do telefonu.
+Data cannot be posted to the phone.| Brak mozliwosci przeslania danych do telefonu.
+Please ensure the data size is 512 bytes or less and the phone is configured to receive from the host.| Prosze upewnic sie, ze rozmiar danych wynosi maksymalnie 512 bajtow oraz telefon skonfigurowany jest do odbierania od hosta.
+Expansion Modules| Moduly rozszerzen
+Expansion Module 1| Modul rozszerzen 1
+Expansion Module 2| Modul rozszerzen 2
+Expansion Module 3| Modul rozszerzen 3
+Page 1| Strona 1
+Page 2| Strona 2
+Page 3| Strona 3
+List 1| Lista 1
+List 2| Lista 2
+List 3| Lista 3
+List 4| Lista 4
+List 5| Lista 5
+List 6| Lista 6
+Incompatible with phone model| Niekompatybilne z modelem telefonu
+Backup Proxy Server| Zapasowy serwer proxy
+Backup Proxy Port| Port zapasowego serwera proxy
+Backup Registrar Server| Zapasowy serwer rejestrujacy
+Backup Registrar Port| Port zapasowego serwera rejestrujacego
+Phone is locked| Tel. zablokowany
+Phone Lock| Blokada telefonu
+Lock the phone?| Zablokowac tel.?
+Phone is unlocked| Telefon odblokowany
+Password:| Haslo:
+Emergency Dial Plan| Alarmowy plan numeracji
+Account Configuration| Konfiguracja konta
+Lock| Zablokuj
+Unlock| Odblokuj
+Unlock the phone?| Odblokowac telefon?
+Lock or unlock the phone| Zablokuj lub odblokuj telefon
+HTTPS Client Method| Metoda klienta HTTPS
+HTTPS Server - Redirect HTTP to HTTPS| Serwer HTTPS - przekierowanie HTTP do HTTPS
+HTTPS Server - Block XML HTTP POSTs| Serwer HTTPS - blokada XML HTTP POSTow
+Validate Certificates| Weryfikacja certyfikatow
+Check Certificate Expiration| Sprawdz waznosc certyfikatu
+Check Certificate Hostnames| Sprawdz nazwy hostow certyfikatu
+Language Settings| Ustawienia jezyka
+Webpage Language| Jezyk strony Web
+Input Language| Klawiatura
+Input Language| Klawiatura
+Jan| Sty
+Feb| Lut
+Mar| Mar
+Apr| Kwi
+May| Maj
+Jun| Cze
+Jul| Lip
+Aug| Sie
+Sep| Wrz
+Oct| Paz
+Nov| Lis
+Dec| Gru
+Sun| Nd
+Mon| Pn
+Tue| Wt
+Wed| Sr
+Thu| Cz
+Fri| Pt
+Sat| So
+New Password Invalid.| Nowe haslo niepoprawne.
+New password must be 10 characters or less.| Nowe haslo moze miec co najwyzej 10 znakow.
+New password must be numeric.| Nowe haslo musi skladac sie z cyfr.
+New password and confirm password do not match.| Nowe haslo i jego powtorzenie nie zgadzaja sie.
+Error| Blad
+Are you sure you want to restart the phone?| Czy na pewno chcesz zrestartowac telefon?
+This will restore the phone to default settings and cannot be undone.| Nastapi przywrocenie ustawien domyslnych bez mozliwosci odwrotu.
+This will remove the local configuration settings and cannot be undone.| Nastapi usuniecie lokalnych ustawien konfiguracyjnych bez mozliwosci ich przywrocenia.
+Continue| Kontynuuj
+Error: Intercom Settings| Blad: ustawienia interkomu
+Please enter a prefix code for server-side intercom.| Wpisz prefiks dla interkomu strony serwera.
+Value must be between| Wartosc musi byc pomiedzy
+and| i
+Invalid Setting:| Niepoprawne ustawienia:
+Please select at least one state for softkey| Wybierz przynajmniej jeden stan klawisza programowalnego
+DSCP value| Wartosc DSCP
+is mapped to multiple priorities.| jest zmapowana dla wielu priorytetow.
+Please enter Admin name and password| Wpisz nazwe i haslo administratora
+Please enter User name and password| Wpisz nazwe i haslo uzytkownika
+Centralized Conference| Konferencja scentralizowana
+Conference Server URI| URI serwera konferencji
+UPnP device not found| Nie znaleziono urzadzenia UPnP
+Ethernet| Ethernet
+Ethernet Link| Lacze Ethernet
+Ethernet & VLAN| Ethernet i VLAN
+Link| Lacze
+10M| 10M
+100M| 100M
+Unavailable| Niedostepny
+Available| Dostepny
+Server Info| Info. serwer
+Unique ID:| Unikalne ID:
+UPnP Mapping Lines| Linie mapowania UPnP
+Port Failed| Blad portu
+Trying...| Probuje...
+Seize Failed| Lin. n.osiag
+Missed Call Summary Subscription| Subskrypcja historii nieodebranych polaczen
+Missed Call Summary Subscription Period| Okres subskrypcji historii nieodebranych polaczen
+AS-Feature-Event Subscription| Subskrypcja AS-Feature-Event
+AS-Feature-Event Subscription Period| Okres subskrypcji AS-Feature-Event
+Goodbye Key Cancels Incoming Call| Nacisniecie przycisku rozlaczenia odrzuca polaczenie przychodzace
+Address Incomplete| Adres niekompletny
+Admin Menu| Menu administ.
+IP&MAC Addresses| Adres IP i MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Set Audio| Ustawienia audio
+Config. Server| Serwer konfig.
+IP Address:| Adres IP:
+Error Messages| Bledy
+No Error Messages| Brak bledow
+ Errors|  Bledy
+ Error|  Blad
+Disabled| Wylaczony
+LAN Port Link| Lacze portu LAN
+PC Port Link| Lacze portu PC
+RTP| RTP
+RTCP| RTCP
+Phone| Telefon
+Headset Mic Vol| Zestaw naglowny
+TypeService SIP| Typ uslugi SIP
+TypeService RTP| Typ uslugi RTP
+TypeService RTCP| Typ uslugi RTCP
+Authentic. Name| Nazwa do uwierz.
+XML Beep Support| Wsparcie dla XML Beep
+Status Scroll Delay (seconds)| Opoznienie statusu przewijania (sekundy)
+Backlight| Podswietlenie
+Backlight| Podswietlenie
+Display| Wyswietlacz
+Speed Dial Edit| Szybkie wyb.
+second| sek.
+seconds| sek.
+Label| Etykieta
+Message Waiting Indicator Line| Linia wskaznika wiadomosci oczekujacej
+Keypad Speed Dial| Klawiatura szybkiego wybierania
+Digit| Cyfra
+Whitelist Proxy| Biala lista Proxy
+XML SIP Notify| Powiadomienie XML SIP
+Custom Feature| Funkcja wlasna
+User ID:| ID Uzytk.:
+Local SIP UDP/TCP Port| Lokalny port SIP UDP/TCP
+Local SIP TLS Port| Lokalny port SIP TLS
+802.1x Support| Wsparcie 802.1x
+EAP Type| Typ EAP
+EAP-MD5| EAP-MD5
+EAP-TLS| EAP-TLS
+Identity| Tozsamosc
+MD5 Password| Haslo MD5
+PC Port PassThru Enable/Disable| Port PC PassThru wlaczony/wylaczony
+EAP-TLS Settings| Ustaw. EAP-TLS
+EAP-MD5 Settings| Ustaw. EAP-MD5
+Enable PassThru Port| Wlacz port PassThru
+PC Port Enabled\nYes| Port PC wl.\nTak
+PC Port Disabled\nNo| Port PC wyl\nNie
+802.1x Settings| Ustaw. 802.1x
+802.1x Mode| Tryb 802.1x
+EAP-MD5 Settings| Ustaw. EAP-MD5
+EAP-TLS Settings| Ustaw. EAP-TLS
+STUN Server| Serwer STUN
+STUN Port| Port STUN
+TURN Server| Serwer TURN
+TURN Port| Port TURN
+TURN User ID| ID uzyt. TURN
+TURN Password| Haslo TURN
+Paging| Paging
+Streaming| Transmisja strumieniowa
+Group Paging RTP Settings| Ustawienia grupowego pagingu RTP
+Paging Listen Addresses| Adres nasluchiwania pagingu
+Rport (RFC 3581)| Rport (RFC 3581)
+SIP Account| Konto SIP
+Backup Registrar Used?| Uzyc zapasowego serwera rejestrujacego?
+Unregistered| Niezarejestrowano
+Registered| Zarejestrowano
+SIP Status| Status SIP
+Server Error| Blad serwera
+Swap| Wymiana
+LLDP\nEnabled| LLDP\nwlaczony
+LLDP\nDisabled| LLDP\nwylaczony
+LLDP Support| Wsparcie dla LLDP
+Preferred line| Linia preferowana
+Preferred line Timeout (seconds)| Limit czasu linii preferowanej (sek.)
+Invalid URI| Niepoprawny URI
+WebApps| Aplikacje Web
+Watchdog| Nadzorca
+Speeddial/Conf| Szybkie wyb./Konf.
+Call is on Hold| Rozm. zawieszona
+No subscription| Brak subskrypcji
+MDot1xFailedStartup| Blad uruchomienia 802.1x
+802.1x Startup Failed| Blad uruchomienia 802.1x
+LLDP Startup Failed| Blad uruchomienia LLDP
+Failed to config Line Manager| Blad konfiguracji menadzera linii
+Line in use| Linia w uzyciu
+Get Crash Log| Pobierz log bledu
+Time Unavailable| Czas niedostepny
+Packetization Interval| Okres pakietyzacji
+Basic| Podstawowy
+Note: Basic Codecs Include| Uwaga: zawarte podstawowe kodeki
+Default| Domyslny
+Not Configured| Nie skonf.
+America| Ameryka
+Asia| Azja
+Atlantic| Atlantyk
+Pacific| Pacyfik
+Australia| Australia
+Europe| Europa
+Malaysia| Malezja
+Invalid Setting| Ustawienia niepoprawne
+Must not be empty| Nie moze byc pusty
+Must be a valid number| Wymagany poprawny numer
+Must be a nonzero number| Liczba rozna od zera!
+Not in range| Poza zakresem
+Invalid Hostname| Blad nazwy hosta
+802.1x Failed| Blad 802.1x
+Admin Password:| Haslo administr:
+Voicemail| Poczta glosowa
+Voicemail| Poczta glosowa
+HTTPS Failed| Blad HTTPS
+LLDP Failed| Blad LLDP
+TR69 connect Err| Blad polacz.TR69
+Downloading Language Packs| Pobieranie pakietow jezykowych
+Please Wait...| Prosze czekac...
+to edit| edycja
+Cfg Svr Failure| Blad Serw.konfig
+Lines| Linie
+LDAP Directory| Ksiazka LDAP
+Ldap Directory| Ksiazka Ldap
+Item| Pozycja
+item| pozycja
+Certificate Revoked| Certyfikat uniewazniony
+Certificate Unknown| Nieznany certyfikat
+Delete entire| Usun calosc
+LDAP Search Filter| Filtr LDAP
+Ldap Search Filter| Filtr LDAP
+LDAP Server| Serwer LDAP
+Ldap Server| Serwer Ldap
+Certificate Expired| Certyfikat wygasl
+Unsupported Certificate| Certyfikat niewspierany
+No Certificate| Brak certyfikatu
+Options List| Lista opcji
+Directory?| Ksiazka tel.?
+Work| Praca
+No available lines| Brak dostepnych linii
+Search| Szukaj
+Ldap Base DN| Baza LDAP DN
+items| pozycje
+Spddial| Wybier.
+Ldap Number Attributes| Param. Num. LDAP
+Ldap Max Hits| LDAP Max Hits
+Ldap Settings| Ustawienia LDAP
+Ldap Name Attributes| Param. Nazwy LDAP
+Timezone zoneAmerica| 
+AG-Antigua| Antigua (AG)
+AI-Anguilla| Anguilla (AI)
+AN-Curacao| Curacao (AN)
+AR-Buenos Aires| Buenos Aires (AR)
+AR-San Luis| San Luis (AR)
+AW-Aruba| Aruba (AW)
+BB-Barbados| Barbados (BB)
+BO-La Paz| La Paz (BO)
+BR-Araguaina| Araguaina (BR)
+BR-Belem| Belem (BR)
+BR-Boa Vista| Boa Vista (BR)
+BR-Cuiaba| Cuiaba (BR)
+BR-Eirunepe| Eirunepe (BR)
+BR-Fortaleza| Fortaleza (BR)
+BR-Maceio| Maceio (BR)
+BR-Manaus| Manaus (BR)
+BR-Noronha| Noronha (BR)
+BR-Porto Velho| Porto Velho (BR)
+BR-Recife| Recife (BR)
+BR-Rio Branco| Rio Branco (BR)
+BR-Sao Paulo| Sao Paulo (BR)
+BS-Nassau| Nassau (BS)
+BZ-Belize| Belize (BZ)
+CA-Atlantic| Kanada Atlantycka (CA)
+CA-Central| Kanada Srodkowa (CA)
+CA-Eastern| Kanada Wschodnia (CA)
+CA-Mountain| Kanada – czesc gorska (CA)
+CA-Newfoundland| Nowa Fundlandia (CA)
+CA-Pacific| Kanada – czesc pacyficzna (CA)
+CA-Saskatchewan| Saskatchewan (CA)
+CA-Yukon| Jukon (CA)
+CL-Easter| Wyspa Wielkanocna (CL)
+CL-Santiago| Santiago (CL)
+CO-Bogota| Bogota (CO)
+CR-Costa Rica| Kostaryka (CR)
+CU-Havana| Hawana (CU)
+DM-Dominica| Dominika (DM)
+DO-Santo Domingo| Santo Domingo (DO)
+GD-Grenada| Grenada (GD)
+GF-Cayenne| Kajenna (GF)
+GP-Guadeloupe| Gwadelupa (GP)
+GT-Guatemala| Gwatemala (GT)
+GY-Guyana| Gujana (GY)
+HN-Tegucigalpa| Tegucigalpa (HN)
+HT-Port-au-Prince| Port-au-Prince (HT)
+JM-Jamaica| Jamajka (JM)
+KY-Cayman| Kajmany (KY)
+LC-St Lucia| Saint Lucia (LC)
+MQ-Martinique| Martynika (MQ)
+MS-Montserrat| Montserrat (MS)
+MX-Cancun| Cancun (MX)
+MX-Chihuahua| Chihuahua (MX)
+MX-Hermosillo| Hermosillo (MX)
+MX-Mazatlan| Mazatlan (MX)
+MX-Merida| Merida (MX)
+MX-Mexico City| Meksyk (MX)
+MX-Monterrey| Monterrey (MX)
+MX-Tijuana| Tijuana (MX)
+NI-Managua| Managua (NI)
+PA-Panama| Panama (PA)
+PE-Lima| Lima (PE)
+PR-Puerto Rico| Portoryko (PR)
+PY-Asuncion| Asuncion (PY)
+SR-Paramaribo| Paramaribo (SR)
+SV-El Salvador| Salwador (SV)
+TT-Port of Spain| Port of Spain (TT)
+US-Alaska| Alaska (US)
+US-Aleutian| Aleuty (US)
+US-Central| Stany Zjednoczone – czesc srodkowa (US)
+US-Eastern| Stany Zjednoczone – czesc wschodnia (US)
+US-Hawaii| Hawaje (US)
+US-Mountain| Stany Zjednoczone – czesc gorska (US)
+US-Pacific| Stany Zjednoczone – czesc pacyficzna (US)
+UY-Montevideo| Montevideo (UY)
+VE-Caracas| Caracas (VE)
+Timezone zoneAsia| 
+AE-Dubai| Dubaj (AE)
+AZ-Baku| Baku (AZ)
+CN-Beijing| Pekin (CN)
+CY-Nicosia| Nikozja (CY)
+GE-Tbilisi| Tbilisi (GE)
+HK-Hong Kong| Hong Kong (HK)
+JP-Tokyo| Tokio (JP)
+MU-Mauritius| Mauritius (MU)
+OM-Muscat| Maskat (OM)
+RU-Anadyr| Anadyr (RU)
+RU-Irkutsk| Irkuck (RU)
+RU-Kamchatka| Kamczatka (RU)
+RU-Krasnoyarsk| Krasnojarsk (RU)
+RU-Magadan| Magadan (RU)
+RU-Novosibirsk| Nowosybirsk (RU)
+RU-Omsk| Omsk (RU)
+RU-Sakhalin| Sachalin (RU)
+RU-Vladivostok| Wladywostok (RU)
+RU-Yakutsk| Jakuck (RU)
+RU-Yekaterinburg| Jekaterynburg (RU)
+SA-Saudi Arabia| Arabia Saudyjska (SA)
+SG-Singapore| Singapur (SG)
+TW-Taipei| Tajpej (TW)
+Timezone zoneAtlantic| 
+BM-Bermuda| Bermudy (BM)
+ES-Canary| Wyspy Kanaryjskie (ES)
+FK-Stanley| Stanley (FK)
+FO-Faeroe| Wyspy Owcze (FO)
+GS-South Georgia| Georgia Poludniowa (GS)
+IS-Reykjavik| Reykjavik (IS)
+PT-Azores| Azory (PT)
+PT-Madeira| Madera (PT)
+Timezone zoneAustralia| 
+AU-Adelaide| Adelaide (AU)
+AU-Brisbane| Brisbane (AU)
+AU-Broken Hill| Broken Hill (AU)
+AU-Darwin| Darwin (AU)
+AU-Lindeman| Lindeman (AU)
+AU-Lord Howe| Lord Howe (AU)
+AU-Melbourne| Melbourne (AU)
+AU-Perth| Perth (AU)
+AU-Sydney| Sydney (AU)
+AU-Tasmania| Tasmania (AU)
+Timezone zoneEurope| 
+AD-Andorra| Andora (AD)
+AL-Tirane| Tirana (AL)
+AT-Vienna| Wieden (AT)
+BA-Sarajevo| Sarajewo (BA)
+BE-Brussels| Bruksela (BE)
+BG-Sofia| Sofia (BG)
+BY-Minsk| Minsk (BY)
+CH-Zurich| Zurych (CH)
+CZ-Prague| Praga (CZ)
+DE-Berlin| Berlin (DE)
+DK-Copenhagen| Kopenhaga (DK)
+EE-Tallinn| Tallinn (EE)
+ES-Madrid| Madryt (ES)
+FI-Helsinki| Helsinki (FI)
+FR-Paris| Paryz (FR)
+GB-Belfast| Belfast (GB)
+GB-London| Londyn (GB)
+GI-Gibraltar| Gibraltar (GI)
+GR-Athens| Ateny (GR)
+HR-Zagreb| Zagrzeb (HR)
+HU-Budapest| Budapeszt (HU)
+IE-Dublin| Dublin (IE)
+IT-Rome| Rzym (IT)
+LI-Vaduz| Vaduz (LI)
+LT-Vilnius| Wilno (LT)
+LU-Luxembourg| Luksemburg (LU)
+LV-Riga| Ryga (LV)
+MC-Monaco| Monako (MC)
+MD-Chisinau| Kiszyniow (MD)
+MK-Skopje| Skopje (MK)
+MT-Malta| Malta (MT)
+NL-Amsterdam| Amsterdam (NL)
+NO-Oslo| Oslo (NO)
+PL-Warsaw| Warszawa (PL)
+PT-Lisbon| Lizbona (PT)
+RO-Bucharest| Bukareszt (RO)
+RU-Kaliningrad| Kaliningrad (RU)
+RU-Moscow| Moskwa (RU)
+RU-Samara| Samara (RU)
+SE-Stockholm| Sztokholm (SE)
+SI-Ljubljana| Lublana (SI)
+SK-Bratislava| Bratyslawa (SK)
+SM-San Marino| San Marino (SM)
+TR-Istanbul| Stambul (TR)
+UA-Kiev| Kijow (UA)
+VA-Vatican| Watykan (VA)
+YU-Belgrade| Belgrad (YU)
+Timezone zonePacific| 
+AS-Pago Pago| Pago Pago (AS)
+CK-Rarotonga| Rarotonga (CK)
+FJ-Fiji| Fidzi (FJ)
+GU-Guam| Guam (GU)
+NR-Nauru| Nauru (NR)
+NU-Niue| Niue (NU)
+NZ-Auckland| Auckland (NZ)
+NZ-Chatham| Chatham (NZ)
+Timezone zoneOthers| 
+DP-Dhcp| DP-Dhcp
+Live Dialpad| Aktyw. klawiatura
+1h    summertime| 1 godz. czasu letn.
+Link Down| Lacze nieaktywne
+Slovakia| Slowacja
+Cfg. Svr.| Serw.konf.
+Custom| Spersonalizowany
+HPQ Enable| HPQ wlaczony
+Checking For Firmware| Sprawdzanie oprogramowania
+Firmware Check| Kontrola oprogramowania sprzetowego
+Speeddial/MWI| Szybkie wybieranie/MWI
+Handset| Sluchawka
+WBand RX Filters| 
+HS Setting1| Ustaw. Sluch1
+HS Setting2| Ustaw. Sluch2
+HS Setting3| Ustaw. Sluch3
+HS Setting4| Ustaw. Sluch4
+Spkr Setting1| Ustaw. Glos.1
+Spkr Setting2| Ustaw. Glos.2
+Spkr Setting3| Ustaw. Glos.3
+Spkr Setting4| Ustaw. Glos.4
+Hold Failed| Blad zawiesz
+Can not save record without number| 
+Feature Name| Nazwa funkcji
+Source| Zrodlo
+License File| Plik licencji
+SW Version Restrictions| Ograniczenia wersji oprogramowania
+Unlimited| Bez ograniczen
+Expiration| Wygasniecie
+Upgrade| Aktualizuj
+License Server| Serwer licencji
+License Info| Informacja o licencji
+License PBX| PBX licencji
+Voice Recording| Nagrywanie glosu
+BLF List Subscription Period| Czas subskrypcji BLF Lista
+Conf Failed| Blad Konf.
+Push| Push
+Forward Filtering| Filtrowanie przekazywania
+OUT| WYJSCIE
+Opt Status| Stan operacji
+Filter| Filtr
+Filtering| Filtrowanie
+Executives| Kierownicy
+IN| WEJSCIE
+Divert| Przekieruj
+Divert to Number| Przekieruj do numeru
+ Enter Unlock Password| Wpisz kod odblokowujacy
+ Enter Administrator Password| Wpisz haslo administratora
+Today| Dzisiaj
+Yesterday| Wczoraj
+Two Days Ago| Dwa dni temu
+Three Days Ago| Trzy dni temu
+Four Days Ago| Cztery dni temu
+Five Days Ago| Piec dni temu
+Six Days Ago| Szesc dni temu
+Last Week| W zeszlym tygodniu
+Two Weeks Ago| Dwa tygodnie temu
+Three Weeks Ago| Trzy tygodnie temu
+Last Month| W ostatnim miesiacu
+Older| Starsze
+Monday| Poniedzialek
+Tuesday| Wtorek
+Wednesday| Sroda
+Thursday| Czwartek
+Friday| Piatek
+Saturday| Sobota
+Sunday| Niedziela
+Upload Sys Info| Pobierz informacje o systemie
+Cfwd State| Stan przekazyw.
+Cfwd Number| Numer przekazyw.
+Cfwd Mode| Tryb przekazyw.
+Set| Ustaw
+#Confirm| # Potwierdz
+Call held| Pol. zawieszone
+Calls held| Pol. zawieszone
+Apply Changes?| Zastos. zmiany?
+Dialpad| Klawiatura
+Edit| Edycja
+Quit| Wyjdz
+Directory Empty| Ksiazka pusta
+Saved Memory key| Zapisano przyc.
+Speaker volume  | Glosnosc glosn. 
+Handset volume  | Glosnosc sluch. 
+Headset volume  | Glosnosc sluch. 
+Ringer volume   | Glosnosc dzwonka
+Enter Number:| Wpisz numer:
+Full 10Mbps| Pelne 10Mbps
+Full 100Mbps| Pelne 100Mbps
+Full 1000Mbps| Pelne 1000Mbps
+Half 10Mbps| Pol 10Mbps
+Half 100Mbps| Pol 100Mbps
+Half 1000Mbps| Pol 1000Mbps
+Delete All| Usun wszystko
+Erase Local Configuration?| Usunac konfig.?
+Audio| Audio
+Application| Aplikacja
+NAT| NAT
+DSCP| DSCP
+User| Uzytkownika
+802.1x| 802.1x
+Enter Date (m/d/y):| Podaj date (m/d/r):
+Brightness Timer| Jasnosc zegara
+Brightness Level| Poziom jasnosci
+Level 1| Poziom 1
+Level 2| Poziom 2
+Level 3| Poziom 3
+Level 4| Poziom 4
+Level 5| Poziom 5
+(Min: %d  Max: %d)| (Min: %d  Max: %d)
+Line: %d| Linia: %d
+Line %d: %s| Linia %d: %s
+Invalid %s (%d to %d)| Niepoprawne %s (%d to %d)
+Sys Info| Info syst
+keypad| Klawiatura
+Login| Zaloguj
+Seized| Przechwycono
+Active| Aktywne
+Held| Zawieszone
+Ringing| Dzwonienie
+Park Failed| Blad parkowania
+Canada| Kanada
+Press a contact button on the left to view contact information.| 
+Press a contact button to view contact info.| Nacisnij przycisk kontaktu, aby wyswietlic informacje o kontakcie.
+No info available. Please press a contact button.| Brak informacji. Nacisnij przycisk kontaktu.
+Set Date and Time| Ustaw date i godzine
+Ethernet Ports| Porty ethernetowe
+Call Server| Serwer polaczen
+Use Network Time| Uzyj czasu z sieci
+Speed Dial Key %d| Przycisk szybkiego wybierania %d
+%d/%d records| Wpisy: %d/%d
+%d days stored| Przechowywane: %d dni
+1 day stored| Przechowywane: 1 dzien
+Upload System Info Files?| Przeslac pliki z informacjami o systemie?
+Entries Saved| Wpisy zapisane
+Storage| Pamiec
+IP and gateway are equal| IP i brama maja rowna wartosc
+IP gateway subnet mismatch| Niedopasowanie podsieci bramy IP
+Bridge active| Aktywny mostek
+Please enter a number| Wprowadz numer
+Deleted| Usunieto
+No Matches Found| Brak wynikow
+Name| Nazwa
+Contact already exists| Kontakt juz istnieje
+Left Softkey %d| Lewy przycisk programowy %d
+Bottom Softkey %d| Dolny przycisk %d
+New Call| Nowy  Pol.
+All Accounts| Wszystkie konta
+Exp. Mod. %d Key %d| Przyc. rozsz. mod. %d: %d
+Add Num| Dod. numer
+Diverted to: | Przekierowano do: 
+No lines are configured| Nie skonfigurowano zadnych wierszy
+"Dot ""."""| Kropka "."
+Mode %d| Tryb %d
+Top Softkey %d| Gorny przycisk programowy %d
+Home Screen Mode| Tryb ekranu glownego
+Screen Saver Timer| Zegar wygaszacza ekranu
+Home Screen| Ekran glowny
+Cannot add new number. Limit reached.| Nie mozna dodac nowego numeru. Osiagnieto limit.
+Key is already programmed for functionality in a non-idle state| 
+Please enter a name| Wprowadz nazwe
+Top Softkeys| Gorne przyciski programowe
+Left Softkeys| Lewe przyciski programowe
+Bottom Softkeys| Dolne przyciski programowe
+Brightness| Jasnosc
+Speed Dial 8| Szybkie wybieranie 8
+A filename-related error occurred. Rename the specified file and try again.| Wystapil blad zwiazany z nazwa pliku. Zmien nazwe okreslonego pliku i sprobuj ponownie.
+An HTTP-related error occurred. Please try again (or restart the phone if you have already received this error before).| Wystapil blad zwiazany z HTTP. Sprobuj ponownie (lub ponownie uruchom telefon, jesli ten blad wystapil wczesniej).
+A system-related error occurred. Please restart the phone and try again.| Wystapil blad zwiazany z systemem. Ponownie uruchom telefon i sprobuj jeszcze raz.
+Xsi Enterprise Directory| Katalog przedsiebiorstwa Xsi
+Xsi Personal Contacts| Kontakty osobiste Xsi
+Xsi| Xsi
+%s Xsi| %s Xsi
+Business Fax| Faks sluzbowy
+By First Name| Wedlug imienia
+By Last Name| Wedlug nazwiska
+CSV 1| CSV 1
+CSV 2| CSV 2
+Cannot add new record. Limit reached.| Nie mozna dodac nowych wpisow. Osiagnieto limit.
+City| Miasto
+Corporate| Firmowe
+Country| Kraj
+Custom Ringtones| Niestandardowe dzwonki
+Delete %s from %s?| Usunac %s z %s?
+Delete all entries in %s?| Usunac wszystkie wpisy w %s?
+Directory import failed| Importowanie katalogu nieudane
+Directory loading| Wczytywanie katalogu
+Directory not available at this time| Katalog nie jest obecnie dostepny
+Display Name Order| Wyswietl kolejnosc nazw
+Name Order| Kolejnosc nazw
+Edit Details| Edytuj szczegoly
+Email| Adres e-mail
+Email 1| Adres e-mail 1
+Email 2| Adres e-mail 2
+Email 3| Adres e-mail 3
+Enabled also in call| Wlaczono takze w polaczeniu
+Enterprise Directory| Katalog przedsiebiorstwa
+Exchange Contacts| Zamien dane kontaktow
+Explicit| Jawny
+External Sources| Zrodla zewnetrzne
+Failed to retrieve contact details| Pobieranie informacji o kontaktach nieudane
+First Last| Imie/Nazwisko
+First name| Imie
+Home 1| Adres domowy 1
+Home 2| Adres domowy 2
+Home Address| Adres domowy
+Implicit| Ukryty
+Invalid Subscription Time| Nieprawidlowy okres subskrypcji
+Job Title| Stanowisko
+LDAP| LDAP
+Last%c First| Najpierw ostatnie %c
+Last First| Nazwisko i imie
+Last Name| Nazwisko
+Local| Lokalne
+Microsoft Exchange| Microsoft Exchange
+Mobile| Telefon komorkowy
+New Contact| Nowy kontakt
+Numbers| Liczby
+Organization| Organizacja
+Other| Inne
+Personal| Osobiste
+Personal Contacts| Kontakty osobiste
+Province/State| Prowincja/stan
+Request Failed| Operacja nieudana
+Sorting Preferences| Preferencje sortowania
+Sorting| Sortowanie
+Street Address| Adres fizyczny
+Test| Test
+Test Connection| Polaczenie testowe
+The phone does not have enough space to store this file.| W telefonie nie ma wystarczajaco duzo miejsca na zapisanie tego pliku.
+The specified file is too large. Each file cannot exceed 1 MB in size.| Okreslony plik jest za duzy. Rozmiar kazdego pliku nie moze przekraczac 1 MB.
+UA-Profile-Event Subscription| Subskrypcja UA-Profile-Event
+UA-Profile-Event Subscription Period| Okres subskrypcji UA-Profile-Event
+Undefined| Niezdefiniowany
+Work 1| Adres sluzbowy 1
+Work 2| Adres sluzbowy 2
+Work Address| Adres sluzbowy
+Zip/Postal Code| Kod pocztowy
+Credentials| dane logowania
+Enable/Disable| Wlacz/Wylacz
+Labels| Etykiety
+Ringtone files must be in WAV format| Pliki dzwonkow musza byc w formacie WAV
+Copy| Kopiuj
+Add New| Dodaj nowy
+ALU SCA| ALU SCA
+Accessory Info| Informacje o akcesoriach
+Add| Dodaj
+Alerting| Alarmowanie
+Delete selected item or delete all items?| Usunac wybrany element lub usunac wszystkie elementy?
+DialingIn| DialingIn
+DialingOut| DialingOut
+Disconnecting| Rozlaczanie
+Enter First Name| Wprowadz imie
+Enter Last Name| Wprowadz nazwisko
+Enter Number| Wpisz numer
+Enter Password>| Wprowadz haslo>
+Enter Username>| Wprowadz nazwe uzytkownika>
+Enterprise Dir.| Katalog przedsiebiorstwa
+Exp. Mod. 1 Version| Przyc. Rozsz. 1 wersja
+Exp. Mod. 2 Version| Przyc. Rozsz. 2 wersja
+Exp. Mod. 3 Version| Przyc. Rozsz. 3 wersja
+Get user.cfg| Pob.user.cfg
+Get user_local.cfg| Pob.user_local.cfg
+Keyboard Version| Wersja klawiatury
+F| F
+H1| H1
+H2| H2
+M| M
+O| O
+W1| W1
+W2| W2
+OnHold| OnHold
+Pending| Oczekiwanie
+Phone Info| Informacje o telefonie
+Please Login| Zaloguj sie
+Please select a file to upload| Wybierz plik do przeslania
+Saved| Zapisano
+Unmute| Wylacz wyciszenie
+Line 11| Linia 11
+Line 12| Linia 12
+Line 13| Linia 13
+Line 14| Linia 14
+Line 15| Linia 15
+Line 16| Linia 16
+Line 17| Linia 17
+Line 18| Linia 18
+Line 19| Linia 19
+Line 20| Linia 20
+Line 21| Linia 21
+Line 22| Linia 22
+Line 23| Linia 23
+Line 24| Linia 24
+Line 25| Linia 25
+Client Method| Metoda klienta
+#Edit| #Edycja
+#Copy| #Kopiuj
+Action forbidden| Niedozwolona czynnosc
+Action not supported| Nieobslugiwana czynnosc
+ Additional Settings|  Ustawienia dodatkowe
+ Barge-In|  Wtracanie
+Congestion| Zator
+Discreet| Dyskretny
+Discreet Ringing| Dyskretne dzwonienie
+Executives list is empty| Lista kierownikow jest pusta
+Extension not registered| Nie zarejestrowano rozszerzenia
+Internal error| Blad wewnetrzny
+Invalid Password| Bledne haslo
+Invalid forwarding number| Nieprawidlowy numer docelowy przekazywania
+ Listen|  Posluchaj
+ Normal|  Normalne
+Phone not registered| Telefon niezarejestrowany
+ Pressing the Silent Softkey toggles on/off the intrusion warning tone.|  Nacisniecie przycisku programowego wyciszenia umozliwia wlaczenie/wylaczenie dzwonka ostrzegawczego.
+Prv| Pryw.
+Pub| Pub.
+Record not found| Nie znaleziono rejestru
+SCAP-Bridged| Mostek SCAP
+SCAP-Held| Wstrzymano SCAP
+ Select Barge-In Mode|  Wybierz tryb odrzucania
+ UA-Profile-Event Subscription Period|  Okres subskrypcji UA-Profile-Event
+Unique ID| Unikalne ID
+ Whisper|  Szept
+Missed Calls| Pol. Nieodebrane
+Silence| Cisza
+As-Feature-Event Subscription| Subskrypcja As-Feature-Event
+As-Feature-Event Subscription Period| Okres subskrypcji As-Feature-Event
+Feature-Status-Exchange Subscription| Subskrypcja Feature-Status-Exchange
+Feature-Status-Exchange Subscription Period| Okres subskrypcji Feature-Status-Exchange
+Action superseded by a previous command| Czynnosc zastapiona przez poprzednie polecenie
+Attendant| Opiekun
+BLF Privacy| Prywatnosc BLF
+BLF Privacy Key Mode| Tryb klucza prywatnosci BLF
+Feature not configured| Nie skonfigurowano funkcji
+Forward Type| Typ przekazywania
+Live Keyboard| Klawiatura interaktywna
+Not assigned| Nie przypisano
+PIN| Kod PIN
+Pin Required| Wymagany kod PIN
+Privacy| Prywatnosc
+Privacy On| Prywatnosc w
+Restart | Restart
+Capture| Przechwyc
+Get capture file| Pobierz przechwycony plik
+Mute All| Wycisz wszystkie
+No Participant| Brak uczestnika
+Private Call| Polaczenie prywatne
+Start| Rozpocznij
+Stop| Zatrzymaj
+TLS Preferred| Preferowane TLS
+Timeout| 
+Unmute All| Wylacz wyciszenie wszystkich
+Speeddial/Mwi| Szybkie wybieranie/MWI
+Phone will restart automatically after finishing.| Po zakonczeniu telefon zostanie ponownie uruchomiony
+Idle| Bezczynny
+CFWD Filtering| Filtrowanie CFWD
+Volume| Glosnosc
+DTMF| DTMF
+All Accounts| Wszystkie
+Outgoing| Wychodzacy
+Call History is Empty| Historia polaczen jest pusta
+No Outgoing Calls| Brak wychodzacych polaczen
+No Missed Calls| Brak nieodebranych polaczen
+No Received Calls| Brak odebranych polaczen
+Received| Odebrane
+Missed| Nieodebrane
+Screenshot| Zrzut ekranu
+Xsi Enterprise Common Directory| Katalog wspolny przedsiebiorstwa Xsi
+Enterprise Common Directory| Katalog wspolny przedsiebiorstwa
+Enterprise Common Dir.| Katalog wspolny przedsiebiorstwa
+Xsi Group Directory| Katalog grupy Xsi
+Group Directory| Katalog grupy
+Xsi Group Common Directory| Katalog wspolny grupy Xsi
+Group Common Directory| Katalog wspolny grupy
+Call Settings| Ustawienia polaczenia
+%s Call Settings| Ustawienia polaczenia %s
+Hide Number| Ukryj numer
+Xsi Password Not Configured| Nie skonfigurowano hasla Xsi
+Xsi User Not Configured| Nie skonfigurowano uzytkownika Xsi
+Xsi Authentication Failure| Blad uwierzytelniania Xsi
+Xsi File Not Found| Nie znaleziono pliku Xsi
+Xsi Invalid URI| Nieprawidlowy URI Xsi
+Xsi Invalid Download Configuration| Nieprawidlowa konfiguracja pobierania Xsi
+Call History| Historia polaczen
+Bluetooth| Bluetooth
+Scan| Szukaj
+Timeout [1..168 h]| Czas oczekiwania [1–168 godz.]
+Paired Devices| Sparowane urzadzenia
+Available Devices| Dostepne urzadzenia
+Swipe the toggle switch to the right to enable Bluetooth| Przesun przelacznik w prawo, aby wlaczyc Bluetooth
+Pairing| Parowanie
+Connecting| Polaczenie:
+Device| Urzadzenie
+No paired devices| Brak urzadzen sparowanych
+Connection successful| Pomyslnie nawiazano polaczenie
+Connection failed| Polaczenie nieudane
+Disconnection successful| Pomyslnie rozlaczono
+Disconnection failed| Rozlaczanie nieudane
+Pairing failed| Rejestracja nieudana
+Operation failed| Operacja nieudana
+Connected| Polaczone
+Retry| Ponownie
+Do you want to forget this device?| Czy chcesz zapomniec urzadzenie?
+Close| Zamknij
+Enabling Bluetooth...| Wlaczanie Bluetooth...
+Disabling Bluetooth...| Wylaczanie Bluetooth...
+Connecting...| Polaczenie...
+Disconnecting...| Rozlaczanie...
+Boot| Boot
+App| Aplikacja
+USB disabled. Insufficient power for current configuration.| Wylaczono USB. Niewystarczajaca moc dla biezacej konfiguracji.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Okreslony plik nie spelnia wymogow dotyczacych specyfikacji dzwonka, wyznaczonych przez telefon. Zapoznaj sie z instrukcja obslugi, aby dowiedziec sie wiecej na temat wymogow dotyczacych pliku dzwonka.
+%d/%d| %d/%d
+%d days| %d dni
+1 day| 1 dzien
+System Messages| Komunikaty systemowe
+Authorization Canceled| Anulowano uwierzytelnianie
+Crash Logs| Dzienniki awarii
+Warning - All entries in %s will also be deleted| Uwaga: wszystkie kontakty w %s takze zostana usuniete
+TLS 1.1| TLS 1.1
+TLS 1.2| TLS 1.2
+Ring Tone| Dzwiek dzwonka
+Identity| Tozsamosc
+Extension| Rozszerzenie
+Address| Adres
+Server Error| Blad serwera
+Use Global Ring Tone| 
+Standard Ring Tone| Standardowy dzwonek
+Hide Number| Ukryj numer
+Remote Office| Zdalne biuro
+Remote Office| Zdalne biuro
+Phone Number/SIP-URI| Numer telefonu/SIP-URI
+Simultaneous Ring Personal| Osobisty dzwonek rownoczesny
+Simultaneous Ring| Dzwonek rownoczesny
+Do Not Ring if on a Call| Nie uzywaj dzwonka podczas trwajacego polaczenia
+Answer Confirmation Required| 
+Phone Num/SIP-URI| Numer telefonu/SIP-URI
+Alt Num/SIP-URI| Num. altern./SIP-URI
+Ring for all Incoming Calls| Dzwonek dla polaczen przychodzacych
+Invalid Number or SIP-URI| Nieprawidlowy numer lub SIP-URI
+Anywhere| Anywhere
+%s Anywhere| %s Anywhere
+Portal Number| Numer portalu
+Alert Locations for Click-To-Dial| Lokalizacje alarmow dla opcji Kliknij, aby wybrac numer
+Alert Locations for Group Paging| Lokalizacje alarmow dla opcji Przywolanie grupy
+Phone Number| Numer telefonu
+Description| Opis
+Alternate Number| 
+Call Control| Obsluga polaczen
+Diversion Inhibitor| Zapobieganie przekazywaniu
+Answer Confirmation| Potwierdzenie odpowiedzi
+Xsi Server Not Found| Nie odnaleziono serwera Xsi
+Xsi Invalid Input| Nieprawidlowy wpis Xsi
+Call Center| Centrum obslugi telefonicznej
+Presence| Status
+My Status| Moj status
+Contacts| Kontakty
+Favorite| Ulubione
+Available| Dostepny
+Eager to Chat| Chce poczatowac
+Busy| Zajety
+Away| Nieobecny
+Extended Away| Nieobecny przez dluzszy czas
+Offline| Offline
+Unknown| Nieznany
+Enter custom presence text here...| Wpisz tutaj niestandardowy tekst statusu...
+Status| Status
+Custom| Spersonalizowany
+Favorites| Ulubione
+All Contacts| Wszystkie kontakty
+No contact in folder| Brak kontaktow w folderze
+No phone number| Brak numeru telefonu
+No contact| Brak kontaktow
+Contact list currently not available| Lista kontaktow jest obecnie niedostepna
+Contact| Kontakt
+Contact| Kontakt
+Connection to server failed| Blad polaczenia z serwerem
+Configuration error| Blad konfiguracji
+Authentication error| Blad uwierzytelniania
+Connection to server lost| Utracono polaczenie z serwerem
+Mobile| Telefon komorkowy
+Connect| Polacz
+%s disconnected| %s rozlaczona
+%s connected| %s polaczona
+Confirm passkey is "%ld" to pair with "%s"| 
+Failed to disable Bluetooth| Wylaczanie Bluetooth nieudane
+Failed to enable Bluetooth| Wlaczanie Bluetooth nieudane
+M685i: New Firmware. Do not unplug phone!| M685i: Nowe oprogramowanie. Nie odlaczaj tel!
+.| .
+Static Settings| Ustawienia statyczne
+Port Mirroring| Dublowanie portow
+Audio Feedback| Zwrotny sygnal audio
+Audio Path| Sciezka audio
+Button Beep| Sygnal dzwiekowy przycisku
+Error Beep| Sygnal dzwiekowy bledu
+Made| Polaczenia
+To my prime line| Z glowna linia
+To any appearance| Z dowolna linia
+Display Call Info| Infiornacje o rozmowie
+Always| Zawsze
+Busy Internal| Wew. przy zajetosci
+Busy External| Z zewn. przy zajetosci
+No Answer Internal| Wew., jesli bez odp.
+No Answer External| Z zewn., jesli bez odp.
+Copy to All?| Skopiowac wsz.?
+Loading...| Wczytywanie...
+Password Changed| Haslo zmienione
+Restore Default| Przywroc domyslne
+Restore Default| Przywroc domyslne
+Enter Again| Wpisz ponownie
+Erase| Usun
+Set All| Ustaw wszystkie
+VLAN Settings| Ustawienia VLAN
+Broadsoft XSI| Broadsoft Xsi
+Advanced| Wiecej
+Phonebook| Kontakty
+Update| Aktualizuj
+Copyright| Prawa autorskie
+Pause| Pauza
+Incorrect password| Nieprawidlowe haslo
+Please input duration between 1 to 1440 minutes| Wprowadz czas trwania z zakresu od 1 do 1440 min
+Level 0| Poziom 0
+Static Network Settings| Ustawienia statyczne sieci
+Enter| Wybierz
+Reset Configuration?| Reset konfiguracji?
+TCP DUMP| ZRZUT TCP
+minutes| min
+IP and gateway have to be on the same subnet| Adres IP i brama musza nalezec do tej samej podsieci
+Timeout (1-1440 Minutes)| Czas oczekiwania (1-1440 min)
+Timeout (1-5 Minutes)| Czas oczekiwania (1-5 min)
+Call Server IP Address| IP serwera polaczen
+TFTP Server IP Address| IP serwera TFTP
+IPA IP Address| Adres serwera IPA
+Ping| Ping
+Test POE| Testowanie PoE
+Host Name or IP Address| Nazwa hosta lub adres IP
+Please enter a valid HostName/IP Address| Wprowadz prawidlowa nazwe hosta lub adres IP
+Pinging %s...| Testowanie %s...
+Add Contact| Dodaj kontakt
+Cannot dial a private number| Nie mozna dzwonic na numery prywatne
+Delete all contacts from %s?| Usunac wszystkie kontakty z %s?
+Search contacts| Wyszukaj kontakty
+CDP Settings| Ustawienia CDP
+Current Network Settings| Biezace ustawienia sieci
+VLAN Id| VLAN ID
+DSCP Default| DSCP domyslne
+DSCP Voice| DSCP Voice
+DSCP Signaling| DSCP Signaling
+DSCP Other| DSCP inne
+L2P Default| L2P domyslne
+L2P Voice| L2P Voice
+L2P Signaling| L2P Signaling
+L2P Other| L2P inne
+Modify PIN| Zmodyfikuj kod PIN
+Registering...| Rejestrowanie...
+Erase PIN| Usun PIN
+Erase PIN?| Usunac PIN?
+Duration| Czas trwania
+Details| Szczegoly
+First Name| Imie
+Home| Dom
+People| Osoby
+Contacts - Add New| Kontakty: dodaj nowy
+Work| Praca
+Entry copied to| Wpis skopiowany do
+Settings - Bluetooth| Ustawienia: Bluetooth
+Bluetooth| Bluetooth
+Screen Saver| Wygaszacz ekranu
+Dimmer Level| Poziom przyciemnienia
+Paired| Sparowane
+Press the Turn On softkey to enable Bluetooth| Nacisnij przycisk Uruchom, aby wlaczyc Bluetooth
+Connected successfully| Pomyslnie polaczono
+Directory is full| Ksiazka jest pelna
+Directory full| Ksiazka pelna
+Do you want to connect this device?| Czy chcesz sie polaczyc z urzadzeniem?
+Do you want to disconnect this device?| Czy chcesz rozlaczyc urzadzenie?
+Connect| Polacz
+%s audio connected| Polaczono z %s
+%s audio connection failed| Polaczenie z %s nieudane
+Pair with %s\nPairing code - %06ld| Sparuj z %s\nKod parowania: %06ld
+Do you want to get the device's contacts?| Czy chcesz pobrac liste kontaktow urzadzenia?
+Retrieving contacts...| Pobieranie kontaktow...
+Contacts retrieved successfully| Kontakty pobrane
+Phonebook retrieval unavailable| Nie mozna pobrac ksiazki telefonicznej
+ Failed to retrieve contacts|  Pobieranie kontaktow nieudane
+Ongoing Call| Trwajace polaczenie
+Scan| Szukaj
+Stop| Zatrzymaj
+Close| Zamknij
+Press scan to find a device| Nacisnij Szukaj, aby odnalezc urzadzenie
+Please Wait. Scanning for nearby devices| Czekaj. Szukanie urzadzen
+Connect Automatically| Polacz automatycznie
+Pairing ...| Parowanie...
+Successfully paired| Pomyslnie sparowano
+Unable to pair with the device| Nie mozna sparowac z urzadzeniem
+Does the passkey match?| Czy kody dostepu sa zgodne?
+Unpair| Usun parowanie
+Bluetooth is currently off.| Bluetooth jest obecnie wylaczony.
+Turn Off| Wylacz
+Turn On| Wlacz
+Sorry! Unable to turn Bluetooth on. | Przepraszamy! Nie mozna wlaczyc Bluetooth. 
+Sorry! Too many devices paired.| Przepraszamy! Sparowano zbyt wiele urzadzen.
+Only one Handset can be paired to a phone| Tylko jeden zestaw sluchawkowy moze byc sparowany z telefonem
+Forget| Zapomnij
+Unknown Caller| Nieznany rozmowca
+Answer| Odpow.
+Decline| Odrzuc
+Push Call| Pol. push
+End Call| Zak. polacz.
+Caller| Rozmowca
+Disconnect| Rozlacz
+Capturing ...| Przechwytywanie...
+Speaker| Glosnik
+Headset| Sluchawki
+Ringer| Dzwonek
+Internal Ring| Dzwonek wewnetrzny
+External Ring| Dzwonek zewnetrzny
+Classic 1| Klasyczny 1
+Classic 2| Klasyczny 2
+Classic 3| Klasyczny 3
+Classic 4| Klasyczny 4
+Classic 5| Klasyczny 5
+Classic 6| Klasyczny 6
+Classic 7| Klasyczny 7
+Classic 8| Klasyczny 8
+Classic 9| Klasyczny 9
+Classic 10| Klasyczny 10
+Call Notification| Powiadomienie o polaczeniu
+Config Teleworker| Konfiguracja telepracownika
+Diagnostics| Diagnostyka
+MinetDump| MinetDump
+Float Keys| Przyciski tymczasowe
+Network Services| Uslugi sieciowe
+DHCP Trace| DHCP Trace
+Firewall Settings| Ustawienia zapory
+Wi-Fi| Wi-Fi
+Port Info| Informacje o portach
+Phone Info| Informacje o telefonie
+Error Message| Komunikat o bledzie
+Current Call Server IP Address| Adres IP biezacego serwera polaczen
+TFTP Server Port| Port serwera TFTP
+Primary DNS| Podstawowy DNS
+Secondary DNS| Zapasowy DNS
+Call Server1 IP Address| IP serwera polaczen 1
+Call Server2 IP Address| IP serwera polaczen 2
+Call Server3 IP Address| IP serwera polaczen 3
+Call Server4 IP Address| IP serwera polaczen 4
+DHCP Status| Status DHCP
+T1 (Seconds)| T1 (sek.)
+T1 Left (Seconds)| Pozostaly T1 (sek.)
+T2 (Seconds)| T2 (sek.)
+T2 Left (Seconds)| Pozostaly T2 (sek.)
+LAN Port Speed| Predkosc portu LAN
+LAN Port Duplex| Dupleks portu LAN
+PC Port Speed| Predkosc portu PC
+PC Port Duplex| Dupleks portu PC
+Model| Model
+Call Server Rev.| Wersja serwera pol.
+Main Version| Glowna wersja
+802.1x| 802.1x
+Password| Haslo
+Save to Confirm or Cancel to Revert| Zapisz, aby potwierdzic lub Anuluj, aby odrzucic
+Hardware Rev.| Wersja sprzetu
+Change| Zmien
+Change Password| Zmien haslo
+Confirm Password| Potwierdz haslo
+ Blank|  Puste
+ Wrong|  Nieprawidlowe
+ Passwords don't match.|  Hasla nie sa zgodne.
+No Link| Brak pol.
+Half-Duplex| Poldupleks
+Full_Duplex| Dupleks
+Copyright Mitel Networks Corporation 2016.\nAll rights reserved.| Copyright Mitel Networks Corporation 2016.\nWszystkie prawa zastrzezone.
+Proxy Logoff| Wyloguj z proxy
+No Network| Brak sieci
+Contacting Server| Laczenie z serwerem
+Private| Prywatny
+Miscellaneous| Rozne
+Programmable Key| Przycisk programowalny
+Speed Call| Szybie polaczenie
+Other Features| Inne funkcje
+Account Code Verified| Zweryfikowany kod konta
+Acct Verified| Zweryfikowano konto
+Call Forward Always| Przekazywanie polaczen zawsze wlaczone
+Fwd Always| Zawsze przek.
+Do Not Disturb| Nie przeszkadzac
+Phone Lock| Blokada telefonu
+Account Code Non Verified| Niezweryfikowany kod konta
+Acct Non-Ver| Nie zweryfikowano konta
+Name or Number is empty| Nazwa lub Numer sa puste
+Label Name| Nazwa
+Rename| Zmien nazwe
+Rename this device| Zmien nazwe urzadzenia
+PKM version| Wersja PKM
+Department| Dzial
+Location| Lokalizacja
+Softphone| Softphone
+My Phone| Moj telefon
+More ...| Wiecej...
+Restart| Restart
+Key is Programmed| Klucz jest zaprogramowany
+Advanced XML| Zaawansowane XML
+Too many answers - Refine your search| Zbyt wiele wynikow – sprecyzuj zakres wyszukiwania
+%s Search| % Szukaj
+Searching| Szuka
+Server not configured| Nie skonfigurowano serwera
+SimRing| SimRing
+Phone No/SIP-URI Not Configured| Nie skonfigurowano numeru telefonu/SIP-URI
+ Xsi Server Update Failed|  Blad aktualizacji serwera Xsi
+Call Settings| Ustawienia polaczenia
+Missing Config| Brak konfiguracji
+Deflect| Odrzuc
+AnswerIcom| AnswerIcom
+In a call| W trakcie rozmowy
+Chats| Czaty
+Chat| Czat
+Send| Wyslij
+Delete all chat sessions?| Usunac wszystkie sesje czatu?
+Delete chat session with %s?| Usunac sesje czatu z %s?
+No active chat session| Brak aktywnej sesji czatu
+Push Notifications| Aktywne powiadomienia
+Sound| Dzwiek
+Bluetooth| Bluetooth
+Chat| Czat
+%s is typing...| %s pisze...
+Last message received %s at %s| Ostatnia wiadomosc otrzymana w dniu %s o godzinie %s
+Last message received while offline| Ostatnia wiadomosc otrzymana w trybie offline
+now| teraz
+%ld secs ago| %ld s temu
+1 min ago| 1 min. temu
+%ld mins ago| %ld min. temu
+1 hour ago| 1 godz. temu
+%ld hours ago| %ld godz. temu
+yesterday| wczoraj
+%ld days ago| %ld dni temu
+while offline| w trybie offline
+Can't talk right now. I'll call you later.| Nie moge teraz rozmawiac. Oddzwonie pozniej.
+On another call| W trakcie innego polaczenia
+I'll call you back| Oddzwonie
+Call me back in 10 minutes| Zadzwon do mnie za 10 minut
+I’m not able to answer your call right now| 
+On my way| 
+I’m in a meeting| 
+Custom...| Spersonalizowany...
+Message to %s| Wiadomosc do %s
+Cancel - No message sent| Anuluj – wiadomosc nie zostanie wyslana
+Chat Messages| Wiadomosci na czacie
+Reject Call Message Configuration| Odrzuc konfiguracje wiadomosci i polaczen
+Message| Wiadomosc
+Server Failure| Blad serwera
+Use ^v to view| ^v aby przegladac
+Answer| Odpow.
+Log Issue| Zglos problem
+Logging Issue| Problemy z logowaniem
+Administrator access is disabled| Dostep administratora zostal wylaczony
+Please input a duration between 1 and 1440 minutes| Wpisz czas trwania z zakresu od 1 do 1440 minut
+Please input a duration between 1 and 5 minutes| Wpisz czas trwania z zakresu od 1 do 5 minut
+Teleworker Settings| Ustawienia Teleworker
+Invalid TFTP Port| Nieprawidlowy port TFTP
+Cannot copy a private number| Nie mozna skopiowac numeru prywatnego
+Search Corporate| Szukaj w ksiazce firmowej
+Warning| Ostrzezenie
+Configuration changes detected\nApplication must be closed| Wykryto zmiane konfiguracji\nAplikacja mysi zostac zamknieta
+Desktop Portal URL| Adres URL do Desktop Portal
+Velocity| Velocity
+Skyline| Skyline
+Rise| Rise
+Daybreak| Daybreak
+After Hours| After Hours
+Open Road| Open Road
+Pronto| Pronto
+Voyage| Voyage
+Bloom| Bloom
+Move| Move
+EAP-Type| Typ EAP
+Phone Numbers| Numery telefonu
+ Max Exceeded|  Przekroczono maksimum
+Press "%s" key to search corporate contacts| Nacisnij przycisk „%s”, aby uruchomic wyszukiwanie w kontaktach korporacyjnych
+Too many answers\nRefine your search| Za wiele odpowiedzi\nUscislij kryteria wyszukiwania
+Not available\nConfiguration error| Niedostepne\nBlad konfiguracji
+DHCP Trace information is not available| Informacje o sledzeniu DHCP niedostepne
+EAP-MD5| EAP-MD5
+EAP-PEAP| EAP-PEAP
+IP Conflict Detected| Wykryto konflikt IP
+Do you want to save this IP?| Czy chcesz zachowac ten adres IP?
+Max allowed Number length is 26| Maksymalna dozwolona dlugosc numeru to 26
+Enabling DHSG Headset...| Wlaczanie DHSG
+Disabling DHSG Headset...| Wylaczanie DHSG
+Enter name| Wpisz nazwe
+Lastname Firstname| Nazwisko Imie
+Call History currently not available| Historia polaczen jest obecnie niedostepna
+Audio Diagnostics| Diagnostyka audio
+Avatars| Awatary
+Request timed out| Uplynal limit czasu zadania
+Complete ...| Ukonczono...
+Collecting Logs ...| Zbieranie dziennikow...
+Pass Thru Port| Port Pass Thru
+Page Expired. Please reload the page.| Strona wygasla. Ponownie zaladuj te strone.
+Application busy. Please try again later.| Aplikacja jest zajeta. Sprobuj ponownie pozniej.
+User ID required| Wymagane ID uzytkownika
+Directory file must be in WAV format| Plik katalogu musi byc w formacie WAV
+Local Directory Upload| Przesylanie do lokalnego katalogu
+Upload failed - Too many records detected in csv file| Blad przesylania – wykryto zbyt wiele rejestrow w pliku csv
+Upload failed - No record detected in csv file| Blad przesylania – nie wykryto zadnego rejestru w pliku csv
+Upload performed - %d records created| Przesylanie zakonczone– utworzono %d rejestrow
+minutes| min
+User ID| ID uzytkownika
+Any PBX| Dowolny PBX
+Screen Mode| Tryb ekranu
+Show Picture| Pokaz obraz
+Request timed out| Przekroczenie limitu czasu zadania
+No Mobile phone connected| Nie podlaczono telefonu komorkowego
+Only one Handset can be paired to the phone| Tylko jeden zestaw sluchawkowy moze byc sparowany z telefonem
+Only one Speaker can be paired to the phone| Tylko jeden glosnik moze byc sparowany z telefonem
+Maximum number of paired devices reached| Osiagnieto maksymalna liczbe sparowanych urzadzen
+Reload| Zaladuj ponownie
+Mobile Contacts| Kontakty tel. kom.
+Mobile| Telefon komorkowy
+Press "Turn on" to enable Bluetooth| Nacisnij przycisk programowy „Wlacz”, aby wlaczyc Bluetooth
+Turn on| Wlacz
+Turn off| Wylacz
+Mobile : %s| Telefon komorkowy: %s
+Pair| Rejestracja
+Connect| Polacz
+Disconnect| Rozlacz
+Forget| Zapomnij
+Rename| Zmien nazwe
+Rename Device| Zmien nazwe urzadzenia
+Disabling Bluetooth will disconnect your Cordless Handset| Wylaczenie funkcji Bluetooth spowoduje odlaczenie bezprzewodowego zestawu sluchawkowego
+Warning| Ostrzezenie
+Do you want to continue?| Czy chcesz kontynuowac?
+Bluetooth pairing request| Zadanie parowania Bluetooth
+Pair with %s| Sparuj z %s
+Pairing code - %06ld| Kod parowania – %06ld
+External| Zewnetrzny
+Lock Settings| Ustawienia blokowania
+Proximity auto-lock| Autom. blok. zbliz.
+Delay before auto-lock| Opozn. autom. blok.
+Proximity auto-unlock| Autom. odbl. zbliz.
+Delay before auto-unlock| Opozn. automat. odblok.
+Proximity auto-lock| Autom. blok. zbliz.
+Proximity auto-unlock| Autom. odbl. zbliz.
+Delay before auto-lock (minutes)| Opozn. autom. blok. (min.)
+Delay before auto-unlock (minutes)| Opozn. automat. odblok. (min.)
+M695: New Firmware. Do not unplug phone!| M695: Nowe oprogramowanie sprzetowe Nie odlaczaj telefonu!
+Login/Logout| Zaloguj sie lub wyloguj
+Logout user %s| Wyloguj uzytkownika %s
+Login successful| Pomyslne logowanie
+Logout successful| Pomyslne wylogowanie
+Login failed| Blad logowania
+Logout failed| Blad wylogowania
+Hot desk user can not pair handset please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze sparowac zestawu sluchawkowego; zaloguj sie jako uzytkownik lokalny
+Hot desk user can not pair speaker please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze sparowac glosnika; zaloguj sie jako uzytkownik lokalny
+Hot desk user can not unpair handset please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze cofnac sparowania zestawu sluchawkowego; zaloguj sie jako uzytkownik lokalny
+Hot desk user can not unpair speaker please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze cofnac sparowania glosnika; zaloguj sie jako uzytkownik lokalny
+Push Call| Pol. push
+Cordless Handset| Bezprzewodowy zestaw sluchawkowy
+Low Battery| Niski poziom baterii
+Critical Battery| Krytycznie niski poziom baterii
+Ongoing Call| Trwajace polaczenie
+Incoming Call| Polaczenie przychodzace
+Incoming Call from %s| Polaczenie przychodzace od %s
+Incoming Call from %s (%s)| Polaczenie przychodzace od %s (%s)
+Voicemail access of Mobile Phone not supported| Dostep do poczty glosowej z telefonu komorkowego nie jest obslugiwany
+Device not supported| Urzadzenie nie jest obslugiwane
+Phone not compatible| Telefon nie jest kompatybilny
+Dialing out through Mobile Line not supported| Wybieranie numeru za posrednictwem linii komorkowej nie jest obslugiwane
+Page Expired. Please reload the page.| Strona wygasla. Ponownie zaladuj strone.
+Application busy. Please try again later.| Aplikacja jest zajeta. Sprobuj ponownie pozniej.
+Invalid prefix length (0 to 128)| Nieprawidlowa dlugosc prefiksu (0–128)
+User ID required| Wymagane ID uzytkownika
+IPv6 Settings| Ustawienia IPv
+Basic Network Settings (IPv6)| Podstawowe ustawienia sieci (IPv6)
+Basic Network Settings (IPv4)| Podstawowe ustawienia sieci (IPv4)
+Ethernet Port Settings| Ustawienia portu Ethernetowego
+User ID| ID uzytkownika
+Colon ":"| Dwukropek „:”
+Login/Logout| Zaloguj sie lub wyloguj
+Logout user %s| Wyloguj uzytkownika %s
+Login successful| Pomyslne logowanie
+Logout successful| Pomyslne wylogowanie
+Login failed| Blad logowania
+Logout failed| Blad wylogowania
+IPv6| IPv6
+Enable IPv6| Wlacz IPv6
+Mode DHCPv6| Tryb DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatyczna konfiguracja
+Prefix Length| Dlugosc prefiksu
+IPv6 Address| Adres IPv6
+Local Directory Upload| Przesylanie do lokalnego katalogu
+Upload failed - Too many records detected in csv file| Blad przesylania – wykryto zbyt wiele rejestrow w pliku csv
+Upload failed - No record detected in csv file| Blad przesylania – nie wykryto zadnego rejestru w pliku csv
+Upload performed - %d records created| Przesylanie zakonczone– utworzono %d rejestrow
+Error: Upgrade/Downgrade rejected for incompatible firmware version| BLAD: Nowa wersja odrzucona ze wzgledu na niezgodnosc wersji oprogramowania sprzetowego
+Directory file must be in CSV format| Plik katalogu musi byc w formacie CSV
+Error: Upgrade/Downgrade rejected for incompatible firmware version| BLAD: Nowa wersja odrzucona ze wzgledu na niezgodnosc wersji oprogramowania sprzetowego
+6 +74| 6 +74
+Port Map Incomplete| Mapa portu niekompletna
+DSP| DSP
+SIP| SIP
+Checking DECT| Sprawdzanie DECT
+Updating DECT Firmware| Aktualizowanie oprog. ukladowego DECT
+Tone| Dzwiek
+Interface| Interfejs
+Web| Internet
+7 +196| 7 +196
+Office| Biuro
+Home| Dom
+Cell| Tel.kom.
+Pager| Pager
+VLAN Settings| Ustawienia VLAN
+Softkeys and XML| Przyciski programowe i XML
+Softkeys Configuration| Konfiguracja przyciskow programowych
+6 +240| 6 +240
+Enable?| Wlaczyc?
+Conf. Unavailable| Konf. Niedost.
+Ringing...| Dzwoni...
+Is Calling...| Dzwoni...
+Error Messages| Komunikaty o bledzie
+No Error Messages| Brak kom. o bledzie.
+Download Options| Opcje pobierania
+6 +591| 6 +591
+Conference| Konferencja
+Flash| Pilny
+Dial| Wybierz numer
+Whisper| Szept
+Consult| Konsultuj
+Directory| Katalog
+Callers| Dzwoniacy
+Icom| Icom
+6 +601| 6 +601
+Push| Nacisnij
+Leave| Opusc
+Conf| Konf.
+Coach| Trener
+Barge| Dolacz
+Monitor| Monitoruj
+SIP Settings| Ustawienia SIP
+Proxy Port| Port Proxy
+Registrar Port| Port rejestr.
+6 +635| 6 +635
+Network Settings| Ustawienia sieci
+Clear| Wyczysc
+Speaker | Glosnik 
+External Speaker | Glosnik zewn. 
+Headset | Zestaw sluchawkowy 
+Speaker/Headset| Glosnik/z. sl.
+Headset/Speaker| Z.sl./glosnik
+6 +735| 6 +735
+Connected| Polaczone
+Drop| Porzuc
+Park| Zapar.
+UnPark| Cofn. zap.
+Move| Przenies
+PickUp| Odbierz
+Redial| Wyb. pon.
+DCP| DCP
+7 +765| 7 +765
+Transfer Failed| Blad transferu
+Call Transferred| Pol. przekazane
+ Call Terminated|  Pol. zakonczone
+Call Parked| Pol. zaparkowane
+Park Failed| Blad parkowania
+UnPark Failed| Blad cof. park.
+Call Forward| Przekazywanie polaczen
+Call Fwd| Prz. pol.
+All| Wszystkie
+6 +1080| 6 +1080
+Debug Level| Poziom debugowania
+Support Information| Informacje pomocy technicznej
+Get local.cfg| Uzyskaj plik local.cfg
+Get Log Files| Uzyskaj pliki dziennika
+Get server.cfg| Uzyskaj plik server.cfg
+Get user_local.cfg| Uzyskaj plik user_local.cfg
+Get user.cfg| Uzyskaj plik user.cfg
+6 +1465| 6 +1465
+LLDP\nEnabled| LLDP\nWlaczony
+LLDP\nDisabled| LLDP\nWylaczony
+LLDP Support| Pomoc tech. LLDP
+Use LLDP-MED| Uzyj LLDP-MED
+LLDP neighbor| Sasied.el. LLDP
+Cache LLDP-MED| Pam.p. LLDP-MED
+Preferred line| Preferowana linia
+Preferred line Timeout (seconds)| Czas oczekiwania na preferowana linie (sekundy)
+Invalid URI| Niepr. URI
+6 +1485| 6 +1485
+Failed to config Line Manager| Blad konfiguracji menedzera linii
+Line in use| Linia zajeta
+Get Crash Log| Uzyskaj dziennik awarii
+Logging Issue| Blad logowania
+Time Unavailable| Czas niedost.
+Packetization Interval| Odstep miedzy pakietami
+Basic| Podstawowy
+6 +1533| 6 +1533
+Hold Failed| Blad wstrzymania
+Server Error| Blad serwera
+Conf Failed| Blad konfiguracji
+Conf In Progress| Trwa konfigurowanie
+Lines| Linie
+Options List| Lista opcji
+Checking For Firmware| Wyszuk. oprog. uklad.
+6 +1663| 6 +1663
+AU-Lord Howe| Lord Howe (AU)
+AU-Melbourne| Melbourne (AU)
+AU-Perth| Perth (AU)
+AU-Eucla| AU-Eucla
+AU-Sydney| Sydney (AU)
+AU-Tasmania| Tasmania (AU)
+AD-Andorra| Andora (AD)
+6 +1734| 6 +1734
+Divert to Number| Przekieruj do numeru
+Press a contact button to view contact info.| Nacisnij przycisk kontaktu, aby wyswietlic informacje o kontakcie.
+No info available. Please press a contact button.| Brak informacji. Nacisnij przycisk kontaktu.
+ Enter Voicemail Password|  Wprowadz haslo poczty glosowej
+ Enter Administrator Password|  Wprowadz haslo administratora
+ Enter Unlock Password|  Wprowadz haslo odblokowania
+Phone will restart automatically after finishing.| Telefon automatycznie uruchomi sie ponownie po zakonczeniu dzialania.
+6 +1794| 6 +1794
+Please enter a number| Wprowadz numer
+Please enter a name| Wprowadz nazwe
+Login| Zaloguj
+Log Issue| Prob. log.
+Log Out| Wyloguj
+Avail| Dost.
+Unavail| Niedost.
+6 +2001| 6 +2001
+H2| H2
+O| O
+F| F
+P| P
+Last First| Nazwisko i imie
+#Edit| #Edytuj
+#Copy| #Kopiuj
+6 +2088| 6 +2088
+Disconnection failed| Rozlaczanie nieudane
+Pairing failed| Blad parowania
+Operation failed| Operacja nieudana
+Pickup/unpark not permitted| Odbieranie / cofniecie parkowania niedozwolone
+Unpark not permitted| Cofniecie parkowania niedozwolone
+Connected| Polaczone
+Retry| Sprobuj ponownie
+Do you want to forget this device?| Czy chcesz zapomniec urzadzenie?
+7 +2129| 7 +2129
+All Contacts| Wszystkie kontakty
+Chats| Czaty
+Chat| Czat
+Send| Wyslij
+Delete all chat sessions?| Usunac wszystkie sesje czatu?
+Delete chat session with %s?| Usunac sesje czatu z %s?
+No contact in folder| Brak kontaktow w folderze
+8 +2202| 8 +2202
+Incoming Call from %s (%s)| Polaczenie przychodzace od %s (%s)
+Voicemail access of Mobile Phone not supported| Dostep do poczty glosowej z telefonu komorkowego nie jest obslugiwany
+Device not supported| Urzadzenie nie jest obslugiwane
+Not supported| Nieobslugiwane
+Phone not compatible| Telefon niekompatybilny
+Dialing out through Mobile Line not supported| Wybieranie numeru za posrednictwem linii komorkowej nie jest obslugiwane
+Service unavalilable at this time| Usluga niedostepna o tej porze
+Hold not permitted on this call| Zawieszanie tego polaczenia niedozwolone
+Action not permitted| Dzialanie niedozwolone
+IPv6| IPv6
+Enable IPv6| Wlacz IPv6
+Mode DHCPv6| Tryb DHCPv6
+44 +2235| 44 +2235
+Cloud Config Server 2| Serwer konfiguracji 2 w chmurze
+Cloud Staging Server| Serwer posredniczacy w chmurze
+Cloud Domain| Domena w chmurze
+Replay| Odtw. ponownie
+Backward| Wstecz
+Forward| Dalej
+Send To| Przeslij do
+Logout| Wyloguj
+To Email| Na adres e-mail
+Delete Failure| Us. nieudane
+Play Failure| Odtw. nieudane
+Play Failure due to a system error. See your system administrator.| Nie mozna odtworzyc przez blad sys. Skontaktuj sie z adm. systemu.
+Save Failure| Zapis. nieudane
+Add Contact| Dodaj kontakt
+Voicemail and Recordings| Poczta glos. i nagrania
+Voicemail User Login| Login uz. poczty gl.
+Send to| Przeslij do
+Cannot dial a private number| Nie mozna dzwonic na numery prywatne
+Cannot copy a private number| Nie kop. nr.pr.
+Number not available| Numer niedostepny
+Loading...| Wczytywanie...
+Login| Zaloguj
+Contacts| Kontakty
+Private| Zastrzezone
+To| Do
+Send| Wyslij
+Voicemail has been sent.| Wiadomosc glos. wyslana.
+Error in sending Voicemail. Please send it again.| Blad wysylania wiad. glos. Sprobuj ponownie.
+Voicemail has been sent to email.| Wiad. glos. wysl. na adres e-mail.
+Error in sending to Email.| Blad wys. wiad. na e-mail.
+New| Nowe
+Recorded| Nagrane
+Receipt Confirmation| Potwierdzenie odbioru
+Passcode| Kod dostepu
+Mailbox Number| Nr skrz. poczt.
+Remember passcode| Zap. kod dostepu
+Passcode is incorrect. Enter a valid passcode.| Niepraw. kod dost. Wprowadz praw. kod. dost.
+Invalid mailbox number.| Niepraw. nr skrz. poczt.
+Error - Mailbox in use| Blad – sk. po. w uz.
+Error - maximum sessions exceeded| Blad – przekroczono liczbe sesji
+Error - no session exists| Blad – sesja nie istnieje
+Error - bad extension| Blad – niepr. rozsz.
+Mailbox locked for security reasons. See your system administrator.| Skrzynka zablok. ze wzgledow bezp. Skontaktuj sie z adm. systemu.
+Replay| Odtw. ponownie
+Backward| Wstecz
+Forward| Dalej
+Send To| Przeslij do
+Logout| Wyloguj
+To Email| Na adres e-mail
+Move Message Failure| Blad przenoszenia wiadomosci
+Play Failure| Odtw. nieudane
+Play Failure due to a system error. See your system administrator.| Nie mozna odtworzyc przez blad sys. Skontaktuj sie z adm. systemu.
+Save Failure| Zapis. nieudane
+Add Contact| Dodaj kontakt
+Voicemail and Recordings| Poczta glos. i nagrania
+Voicemail User Login| Login uz. poczty gl.
+Send to| Przeslij do
+Cannot dial a private number| Nie mozna dzwonic na numery prywatne
+Cannot copy a private number| Nie kop. nr.pr.
+Number not available| Numer niedostepny
+Loading...| Wczytywanie...
+Login| Zaloguj
+Contacts| Kontakty
+Private| Zastrzezone
+To| Do
+Send| Wyslij
+Voicemail has been sent.| Wiadomosc glos. wyslana.
+Error in sending Voicemail. Please send it again.| Blad wysylania wiad. glos. Sprobuj ponownie.
+Voicemail has been sent to email.| Wiad. glos. wysl. na adres e-mail.
+Error in sending to Email.| Blad wys. wiad. na e-mail.
+Receipt Confirmation| Potwierdzenie odbioru
+Passcode| Kod dostepu
+Mailbox Number| Nr skrz. poczt.
+Remember passcode| Zap. kod dostepu
+Passcode is incorrect. Enter a valid passcode.| Niepraw. kod dost. Wprowadz praw. kod. dost.
+Invalid mailbox number.| Niepraw. nr skrz. poczt.
+Error - Mailbox in use| Blad – sk. po. w uz.
+Error - maximum sessions exceeded| Blad – przekroczono liczbe sesji
+Error - no session exists| Blad – sesja nie istnieje
+Error - bad extension| Blad – niepr. rozsz.
+Mailbox locked for security reasons. See your system administrator.| Skrzynka zablok. ze wzgledow bezp. Skontaktuj sie z adm. systemu.
+DECT Headset| Zest. sluch. DECT
+DECT Headset Version| Wersja dla zest. DECT
+DECT Headset Battery| Akum.zest. DECT
+DECT Headset Rf Power| Moc RF zes.DECT
+DECT Headset Rf Power| Moc RF zes.DECT
+Very Low| Bardzo niska
+Cloud Connect| Cloud Connect
+Service Type| Rodzaj uslugi
+MiCloud Connect| MiCloud Connect
+MiVoice Border Gateway| MiVoice Border Gateway
+User DID| DID uzytkownika
+Domain| Domena
+Call Back| Oddzwon
+Play| Odtworz
+Exit| Zakoncz
+Skip Back| Do tylu
+Skip Forward| Do przodu
+Pause| Pauza
+Inbox| Sk. odb.
+MiCloud| MiCloud
+Fetching Details| Pobieranie szczegolow
+Additional Phone| Dodatkowy tel.
+Agent state| Stan agenta
+Availability| Dostepnosc
+Standard| Standardowe
+In a meeting| Na spotkaniu
+Out of office| Poza biurem
+Extended Absence| Dluzsza nieobec.
+Do not disturb| Nie przeszkadzac
+On the Phone| Rozmawia przez tel.
+Assign| Przypisz
+Assign user| Przypisz uzyt.
+Assign user failed| Blad przypis.uzyt.
+Assign user to phone in progress. Please wait...| Przypisywanie uzytkownika do telefonu. Czekaj...
+Extension or password invalid| Niepraw. rozszerz. lub haslo.
+Unassign| Cofnij przypis.
+Unassign user| Cof.przyp.uzyt.
+Unassign user failed| Blad cof.przyp.uzyt.
+Unassign user?| Cof.przyp.uz.?
+Unassigning user...| Cofanie przyp.uzyt.
+Voicemail password| Haslo poczty glos.
+Ping| Ping
+Host Name or IP Address| Nazwa hosta lub adres IP
+Please enter a valid HostName/IP Address| Wprowadz prawidlowa nazwe hosta lub adres IP
+Pinging %s...| Testowanie %s...
+Tracerouting...| Namierzanie...
+Tracerouting Complete| Namierzanie zakonczone
+Traceroute| Namierz
+Traceroute Command| Polec. namierz.
+Always| Zawsze
+Never| Nigdy
+Always destination| Zawsze m.docelowe
+No answer destination| M. docelowe nieodp.
+Busy destination| M. doc. zajete
+Simulring| Simulring
+VPN| VPN
+Use VPN| Uzyj VPN
+VPN gateway| Brama VPN
+VPN gateway port| Port bramy VPN
+Tunnel IP| Tunel IP
+VPN protocol| Protokol VPN
+VPN debug mode| Tryb debug. VPN
+System| System
+Log upload| Wczyt. dzien.
+Timeout (1-1440 Minutes)| Czas oczekiwania (1-1440 min)
+Please input a duration between 1 and 1440 minutes| Wprowadz czas trwania od 1 do 1440 min
+User Settings| Ustawienia uz.
+Diagnostic server| Serwer diagnost.
+Diag Server| Serwer diag.
+Wrap up| Zwin
+UnWrap| Rozwin
+ Open|  Otworz
+Confirm| Potwierdz
+New voicemail password| Nowe haslo pocz. glos.
+Password entries do not match| Hasla nie zgadzaja sie
+Password change succeeded| Zmiana hasla powiodla sie
+New password same as old password| Nowe haslo = stare haslo
+ Reply|  Odpowiedz
+ ReplyAll|  Odpowiedz wsz.
+ Compose|  Utworz
+ Call VM|  Polacz z p. gl.
+Cannot choose your own extension| Nie mozna wybrac wlasnego rozsz.
+Save Changes?| Zapisac zmiany?
+Validating number...| Weryfikacja numeru...
+Invalid %s| Nieprawidlowy %s
+Upgrade Required| Wymagane uaktualnienie
+Invalid DID or Password| Niepraw. DID lub haslo
+Register| Zarejestruj
+Voice Service| Usluga glosowa
+Start Over| Zacznij od nowa
+Empty domain name| Wprowadz nazwe domeny
+Registering| Rejestrowanie
+DID or password no update| Brak aktualizacji DID lub hasla
+Invalid domain name| Nieprawidlowa nazwa domeny
+ Registration cancelled|  Rejestracje anulowano
+Pager| Pager
+Phone not registered| Telefon niezarejestrowany
+Enterprise| Nazwa firmy
+ Parameter Type|  Typ parametru
+ Filter Page|  Strona filtrow
+ Parameter Filter|  Filtr parametrow
+ Get Parameters|  Uzyskaj parametry
+Assigned| Przypisano
+Assigning| Trwa przypisywanie
+Invalid extension| Nieprawidlowe rozszerzenie
+Extension or password no update| Brak aktualizacji rozszerzenia lub hasla
+Assignment cancelled| Anulowano przypisanie
+Extension already assigned| Rozszerzenie jest juz przypisane
+ Select a call to unpark|  Wybierz polaczenie do cofniecia parkowania
+ UnPark|  Cofn. zap.
+Duration| Czas trwania
+Subject| Temat
+Uploading Fail| Blad wczyt.
+Diagnostic server is empty| Serwer diagnostyczny jest pusty
+Logs uploaded successfully| Pomyslnie wczytano dzienniki
+Urgent| Pilne
+Return Receipt| Przyjecie zwrotu
+Include Original| Uwzglednij oryg.
+Re: Voice Message| Odp.: Wiadomosc glosowa
+Fw: Voice Message| Przek.: Wiadomosc glosowa
+Phone not assigned| Tel. nieprzypisany
+Whisper Page| Strona szeptu
+Intercom| Interkom
+Silent Monitor| Ciche monitorowanie
+Barge In| Dolacz
+Silent Coach| Ciche trenowanie
+To Inbox| Do sk.od.?
+Save Message?| Zapisac wiadomosc?
+By First| Wg imienia
+By Last| Wg nazwiska
+Dial Voicemail| Wybierz nr poczty glosowej
+Dial VM| Wybierz nr pocz.gl.
+ Invalid Phone Number|  Niepraw. nr tel.
+Transfer not permitted on this call| Transfer tego polaczenia niedozwolony
+Conference not permitted on this call| Dolaczanie tego polaczenia do konferencji niedozwolone
+Remote log upload in progress| Trwa zdalne wczytywanie dziennika
+Remote capture upload in progress| Trwa zdalne wczytywanie przech.
+Standard| Standardowe
+Ring 2| Dzwonek 2
+Ring 3| Dzwonek 3
+Ring 4| Dzwonek 4
+Play Int| Odtw. wew.
+Play Ext| Odtw. zew.
+Press "Upload" to upload a debug log| Nacisnij Wczytaj, aby wczytac dziennik debugowania
+Select a call to merge| Wybierz polaczenie do scalenia
+Add Caller:| Dodaj dzwoniacego:
+Assign user?| Przyp. uzyt.?
+6 +74| 6 +74
+Port Map Incomplete| Mapa portu niekompletna
+DSP| DSP
+SIP| SIP
+Checking DECT| Sprawdzanie DECT
+Updating DECT Firmware| Aktualizowanie oprog. ukladowego DECT
+Tone| Dzwieki
+Interface| Interfejs
+Web| Internet
+7 +294| 7 +294
+Updating configuration| Aktualizacja konfiguracji
+Waiting assignment| Oczekuje na przypisanie
+Checking for new firmware| Wyszukiwanie nowego oprogramowania ukladowego
+Firmware Check| Kontrola oprogramowania sprzetowego
+Firmware Check| Kontrola oprogramowania sprzetowego
+New Firmware: PLEASE DO NOT UNPLUG THE PHONE| Nowe oprogramowanie ukladowe: NIE ODLACZAC TELEFONU Z SIECI
+New Firmware: Restarting...| Nowe oprogramowanie ukladowe: Ponowne uruchamianie...
+Downloading configuration| Pobieranie konfiguracji
+9 +397| 9 +397
+erase all calls| usun wszystkie polaczenia
+DELETE again to erase this item| Nacisnij ponownie Usun, aby skasowac te pozycje
+DELETE to erase item  or # to erase Number| Nacisnij Usun, aby usunac wpis, lub # aby usunac numer
+DELETE again to erase all calls| Nacisnij ponownie Usun, aby skasowac wszystkie polaczenia
+DELETE again to erase all items| Nacisnij ponownie Usun, aby skasowac wszystkie pozycje
+Delete All| Usun wsz.
+DELETE again to erase all calls| Nacisnij ponownie Usun, aby skasowac wszystkie polaczenia
+DELETE again to erase all items| Nacisnij ponownie Usun, aby skasowac wszystkie pozycje
+Delete All| Usun wsz.
+Factory Defaults| Ustawienia fabryczne
+ Missed Call|  Nieodebrane polaczenie
+ Missed Calls|  Polaczenia nieodebr.
+7 +596| 7 +596
+Icom| Interkom
+Dir| Ksiazka
+Xfer| Transfer
+Push| Nacisnij
+Push| Nacisnij
+Leave| Wyjdz
+Conf| Konfer.
+SIP Settings| Ustawienia SIP
+8 +743| 8 +743
+Cannot Save| Nie mozna zapis.
+1 item| 1 pozycja
+ items|  pozycje
+item| pozycja
+items| pozycje
+item| pozycja
+items| pozycje
+No User| Brak uzytkownika
+Missing User ID| Brak ID uzytkownika
+DHCP failed| Niedostepny DHCP
+7 +813| 7 +813
+TLS 1.2| TLS 1.2
+TLS Preferred| Preferowane TLS
+Cfg Svr Failure| Blad Serw.konfig
+Bad Certificate| Zly certyfikat
+Bad Cert/TLS Err| Zly certyfikat/blad TLS
+Certificates| Certyfikaty
+Cert Validation| Potwierdz. cert.
+All defaults| Wsz. domyslnie
+6 +1070| 6 +1070
+Debug Level| Poziom debugowania
+Support Information| Informacje pomocy technicznej
+Get local.cfg| Uzyskaj plik local.cfg
+Get Log Files| Uzyskaj pliki dziennika
+Get server.cfg| Uzyskaj plik server.cfg
+Get user_local.cfg| Uzyskaj plik user_local.cfg
+Get user.cfg| Uzyskaj plik user.cfg
+12 +1104| 12 +1104
+Invalid subnet mask| Niepoprawna maska podsieci
+Invalid primary DNS address| Niepoprawny adres pierwszego DNS
+Invalid secondary DNS address| Niepoprawny adres drugiego DNS
+Invalid prefix length (0 to 128)| Nieprawidlowa dlugosc prefiksu (0–128)
+User ID required| Wymagane ID uzytkownika
+IP cannot be equal to gateway address| Adres IP nie moze byc taki sam jak adres bramy
+IP and gateway have to be on same subnet| Adres IP i brama musza nalezec do tej samej podsieci
+IP and gateway are equal| IP i brama maja rowna wartosc
+IP gateway subnet mismatch| Niedopasowanie podsieci bramy IP
+IPv6 Settings| Ustawienia IPv6
+Basic Network Settings| Podstawowe ustawienia sieci
+Basic Network Settings (IPv6)| Podstawowe ustawienia sieci (IPv6)
+Basic Network Settings (IPv4)| Podstawowe ustawienia sieci (IPv4)
+Advanced Network Settings| Zaawansowane ustawienia sieci
+DHCP| DHCP
+NAT Port| Port NAT
+7 +1281| 7 +1281
+The specified file is too large. Each file cannot exceed 1 MB in size.| Okreslony plik jest za duzy. Rozmiar kazdego pliku nie moze przekraczac 1 MB.
+The phone does not have enough space to store this file.| W telefonie nie ma wystarczajaco duzo miejsca na zapisanie tego pliku.
+The specified file does not meet the ringtone specifications required by the phone. Please refer to the User Guide for ringtone file requirements.| Okreslony plik nie spelnia wymogow dotyczacych specyfikacji dzwonka, wyznaczonych przez telefon. Zapoznaj sie z instrukcja obslugi, aby dowiedziec sie wiecej na temat wymogow dotyczacych pliku dzwonka.
+Directory file must be in WAV format| Plik katalogu musi byc w formacie WAV
+Directory file must be in CSV format| Plik katalogu musi byc w formacie CSV
+Local Directory Upload| Przesylanie do lokalnego katalogu
+Upload failed - Too many records detected in csv file| Blad przesylania – wykryto zbyt wiele rejestrow w pliku csv
+Upload failed - No record detected in csv file| Blad przesylania – nie wykryto zadnego rejestru w pliku csv
+6 +1370| 6 +1370
+IP&MAC Addresses| Adresy IP i MAC
+LAN Port| Port LAN
+PC Port| Port PC
+Port Mirroring| Dublowanie portow
+Set Audio| Ustawienia audio
+Config. Server| Konf. Serwer
+IP Address:| Adres IP:
+7 +1463| 7 +1463
+App| Aplikacja
+Watchdog| Nadzorca
+Speeddial/Conf| Szybkie wyb./Konf.
+Speeddial/MWI| Szybkie wybieranie/MWI
+Speeddial/MWI| Szybkie wybieranie/MWI
+Call is on Hold| Rozm. zawieszona
+No subscription| Brak subskrypcji
+802.1x Failed| Blad 802.1x
+6 +1473| 6 +1473
+Failed to config Line Manager| Blad konfiguracji menedzera linii
+Line in use| Linia zajeta
+Get Crash Log| Uzyskaj dziennik awarii
+Logging Issue| Blad logowania
+Time Unavailable| Czas niedost.
+Packetization Interval| Odstep miedzy pakietami
+Basic| Podstawowy
+6 +1650| 6 +1650
+AU-Lord Howe| Lord Howe (AU)
+AU-Melbourne| Melbourne (AU)
+AU-Perth| Perth (AU)
+AU-Eucla| AU-Eucla
+AU-Sydney| Sydney (AU)
+AU-Tasmania| Tasmania (AU)
+AD-Andorra| Andora (AD)
+15 +1710| 15 +1710
+NZ-Chatham| Chatham (NZ)
+DP-Dhcp| DP-Dhcp
+Custom| Dowolny
+IN| WEJSCIE
+OUT| WYJSCIE
+Filter| Filtr
+Filtering| Filtrowanie
+Opt Status| Stan operacji
+Executives| Kierownicy
+Forward Filtering| Filtrowanie przekazywania
+Divert| Przekieruj
+Divert to Number| Przekieruj do numeru
+IN| WEJSCIE
+OUT| WYJSCIE
+Filter| Filtr
+Filtering| Filtrowanie
+Opt Status| Stan operacji
+Executives| Kierownicy
+Forward Filtering| Filtrowanie przekazywania
+Divert| Przekieruj
+Divert to Number| Przekieruj do numeru
+Press a contact button to view contact info.| Nacisnij przycisk kontaktu, aby wyswietlic informacje o kontakcie.
+No info available. Please press a contact button.| Brak informacji. Nacisnij przycisk kontaktu.
+ Enter Administrator Password|  Wprowadz haslo administratora
+6 +1749| 6 +1749
+Level 4| Poziom 4
+Level 5| Poziom 5
+Dot "."| Kropka „.”
+Colon ":"| Dwukropek „:”
+(Min: %d  Max: %d)| (Min.: %d Maks.: %d)
+Line: %d| Lin.: %d
+Line %d: %s| Linia %d: %s
+6 +1780| 6 +1780
+Please enter a number| Wprowadz numer
+Please enter a name| Wprowadz nazwe
+Login| Zaloguj
+Log Issue| Prob. log.
+Log Out| Wyloguj
+Avail| Dost.
+Unavail| Niedost.
+14 +1852| 14 +1852
+Show Picture| Pokaz obraz
+Mode %d| Tryb %d
+Screen Saver Timer| Zegar wygaszacza ekranu
+Enabled also in call| Wlaczono takze w polaczeniu
+Enabled also in call| Wlaczono takze w polaczeniu
+Invalid Subscription Time| Nieprawidlowy okres subskrypcji
+Speed Dial 8| Szybkie wybieranie 8
+Request Failed| Operacja nieudana
+Request timed out| Przekroczenie limitu czasu zadania
+Too many answers - Refine your search| Zbyt wiele wynikow – sprecyzuj zakres wyszukiwania
+New Contact| Nowy kontakt
+Edit Details| Edytuj szczegoly
+Edit Details| Edytuj szczegoly
+Failed to retrieve contact details| Pobieranie informacji o kontaktach nieudane
+No Mobile phone connected| Nie podlaczono telefonu komorkowego
+Only one Handset can be paired to the phone| Tylko jeden zestaw sluchawkowy moze byc sparowany z telefonem
+7 +2039| 7 +2039
+Volume| Glosnosc
+DTMF| DTMF
+Screenshot| Zrzut ekranu
+All| Wszystkie
+All| Wszystkie
+Missed| Nieodebrane
+Outgoing| Wychodzace
+Received| Odebrane
+7 +2053| 7 +2053
+Paired Devices| Sparowane urzadzenia
+Available Devices| Dostepne urzadzenia
+Swipe the toggle switch to the right to enable Bluetooth| Przesun przelacznik w prawo, aby wlaczyc Bluetooth
+Press "Turn on" to enable Bluetooth| Nacisnij przycisk programowy „Wlacz”, aby wlaczyc Bluetooth
+Press "Turn on" to enable Bluetooth| Nacisnij przycisk programowy „Wlacz”, aby wlaczyc Bluetooth
+Turn on| Wlacz
+Turn off| Wylacz
+Mobile : %s| Telefon komorkowy: %s
+9 +2067| 9 +2067
+Device| Urzadzenie
+Rename Device| Zmien nazwe urzadzenia
+No paired devices| Brak urzadzen sparowanych
+Connection successful| Pomyslnie nawiazano polaczenie
+Connection failed| Polaczenie nieudane
+Disconnection successful| Pomyslnie rozlaczono
+Connection successful| Pomyslnie nawiazano polaczenie
+Connection failed| Polaczenie nieudane
+Disconnection successful| Pomyslnie rozlaczono
+Disconnection failed| Rozlaczanie nieudane
+Pairing failed| Blad parowania
+Operation failed| Operacja nieudana
+7 +2153| 7 +2153
+%ld days ago| %ld dni temu
+while offline| w trybie offline
+Can't talk right now. I'll call you later.| Nie moge teraz rozmawiac. Oddzwonie pozniej.
+On another call| W trakcie innego polaczenia
+On another call| W trakcie innego polaczenia
+I'll call you back| Oddzwonie
+Call me back in 10 minutes| Zadzwon do mnie za 10 minut
+Custom...| Spersonalizowany...
+8 +2176| 8 +2176
+Hot desk user can not pair speaker please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze sparowac glosnika; zaloguj sie jako uzytkownik lokalny
+Hot desk user can not unpair handset please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze cofnac sparowania zestawu sluchawkowego; zaloguj sie jako uzytkownik lokalny
+Hot desk user can not unpair speaker please login as a local user| Uzytkownik stanowiska wspoldzielonego nie moze cofnac sparowania glosnika; zaloguj sie jako uzytkownik lokalny
+Push Call| Pol. push
+Cordless Handset| Bezprzewodowy zestaw sluchawkowy
+Push Call| Pol. push
+Cordless Handset| Bezprzewodowy zestaw sluchawkowy
+Low Battery| Niski poziom baterii
+Critical Battery| Krytycznie niski poziom baterii
+Ongoing Call| Trwajace polaczenie
+5 +2188| 5 +2188
+Device not supported| Urzadzenie nie jest obslugiwane
+Phone not compatible| Telefon nie jest kompatybilny
+Dialing out through Mobile Line not supported| Wybieranie numeru za posrednictwem linii komorkowej nie jest obslugiwane
+IPv6| IPv6
+Enable IPv6| Wlacz IPv6
+Mode DHCPv6| Tryb DHCPv6
+DHCPv6| DHCPv6
+Auto-configuration| Automatyczna konfiguracja
+Prefix Length| Dlugosc prefiksu
+IPv6 Address| Adres IPv6
+Error: Upgrade/Downgrade rejected for incompatible firmware version| Blad: Nowa wersja odrzucona ze wzgledu na niezgodnosc wersji oprogramowania sprzetowego
+Audio Diagnostics| Diagnostyka audio
+Diagnostics| Diagnostyka
+Timeout (1-5 Minutes)| Czas oczekiwania (1-5 min)
+Disconnect| Rozlacz
+Capturing ...| Przechwytywanie...
+Complete ...| Ukonczono...
+Collecting Logs ...| Zbieranie dziennikow...
+Collect Logs| Zbierz dzienniki
+Please input a duration between 1 and 5 minutes| Wprowadz czas trwania od 1 do 5 min
+Erase| Skasuj
+Cloud Service| Usluga w chmurze
+Enable Cloud Service| Wlacz usluge w chmurze
+Cloud SIP| SIP w chmurze
+Cloud Directory| Katalog w chmurze
+Active Config Server| Aktywny serwer konfiguracji
+Cloud Config Server 1| Serwer konfiguracji 1 w chmurze
+Cloud Config Server 2| Serwer konfiguracji 2 w chmurze
+Cloud Staging Server| Serwer posredniczacy w chmurze
+Cloud Domain| Domena w chmurze
+Replay| Odtw. ponownie
+Backward| Wstecz
+Forward| Dalej
+Send To| Przeslij do
+Logout| Wyloguj
+To Email| Na adres e-mail
+Delete Failure| Us. nieudane
+Play Failure| Odtw. nieudane
+Play Failure due to a system error. See your system administrator.| Nie mozna odtworzyc przez blad sys. Skontaktuj sie z adm. systemu.
+Save Failure| Zapis. nieudane
+Add Contact| Dodaj kontakt
+Voicemail and Recordings| Poczta glos. i nagrania
+Voicemail User Login| Login uz. poczty gl.
+Send to| Przeslij do
+Cannot dial a private number| Nie mozna dzwonic na numery prywatne
+Cannot copy a private number| Nie mozna skopiowac numeru prywatnego
+Number not available| Numer niedostepny
+Loading...| Wczytywanie...
+Login| Zaloguj
+Contacts| Kontakty
+Private| Zastrzezone
+To| Do
+Send| Wyslij
+Voicemail has been sent.| Wiadomosc glos. wyslana.
+Error in sending Voicemail. Please send it again.| Blad wysylania wiad. glos. Sprobuj ponownie.
+Voicemail has been sent to email.| Wiad. glos. wysl. na adres e-mail.
+Error in sending to Email.| Blad wys. wiad. na e-mail.
+New| Nowe
+Recorded| Nagrane
+Receipt Confirmation| Potwierdzenie odbioru
+Passcode| Kod dostepu
+Mailbox Number| Nr skrz. poczt.
+Remember passcode| Zap. kod dostepu
+Passcode is incorrect. Enter a valid passcode.| Niepraw. kod dost. Wprowadz praw. kod. dost.
+Invalid mailbox number.| Niepraw. nr skrz. poczt.
+Error - Mailbox in use| Blad – sk. po. w uz.
+Error - maximum sessions exceeded| Blad – przekroczono liczbe sesji
+Error - no session exists| Blad – sesja nie istnieje
+Error - bad extension| Blad – niepr. rozsz.
+Mailbox locked for security reasons. See your system administrator.| Skrzynka zablok. ze wzgledow bezp. Skontaktuj sie z adm. systemu.
+DECT Headset| Zest. sluch. DECT
+DECT Headset Version| Wersja dla zest. DECT
+DECT Headset Battery| Akum.zest. DECT
+DECT Headset Rf Power| Moc RF zes.DECT
+DECT Headset Rf Power| Moc RF zes.DECT
+Very Low| Bardzo niska
+Downloading font| Pobieranie czcionki
+No calls to unpark| Brak rozmow do cofniecia parkowania
+For …| Dla …
+To VM| Do poczty glos.
+Number of Packets Sent| Liczba wyslanych pakietow
+Number of Packets Received| Liczba otrzymanych pakietow
+RTT min/avg/max| Min./sred./maks. RTT
+traceroute to| namierz do
+hops max| Maks. przeskokow
+byte max| Maks. bajtow
+Voicemail box is full| Poczta glos. jest pelna
+ALL| WSZYSTKIE
+REMOTE| ZDALNIE
+Local| Lokalne
+Not allowed on this call| Nie dozwolone dla tego polaczenia
+ Whisper| 
+ Consult| 
+ Coach| 
+ Barge| 
+ Monitor| 
+ For| Dla
+ External Speaker| 
+ UnPark| 
+ Call Parked| 
+ UnPark Failed| 
+ Rev:|  Rev:
+ You must restart the phone before the new settings will take effect.|  Nowe ustawienia zostana wprowadzone po ponownym uruchomieniu telefonu.
+ None|  Brak
+ Use LLDP-MED| 
+ LLDP neighbor| 
+ Cache LLDP-MED| 
+ Conf In Progress| 
+  Enter Voicemail Password| 
+ Call Server| 
+ Do Not Ring if on a Call|  Nie uzywaj dzwonka podczas trwajacego polaczenia
+ P| 
+ To Vm|  Do poczty glos.
+ Pickup not permitted|  Odbieranie niedozwolone
+ Pickup/unpark not permitted| 
+ Unpark not permitted| 
+ Silent Monitor not permitted on this call|  Ciche monitorowanie tego polaczenia niedozwolone
+ Silent Coach not permitted on this call|  Ciche trenowanie tego polaczenia niedozwolone
+ Barge In not permitted on this call|  Wtracanie do tego polaczenia niedozwolone
+ Park not permitted|  Parkowanie niedozwolone
+ Park/Transfer is still in progress|  Trwa parkowanie/transfer
+ No calls to unpark|  Brak rozmow do cofniecia parkowania
+ No calls to park|  Brak rozmow do zaparkowania
+ No calls to pickup|  Brak rozmow do odebrania
+ No calls to take action|  Brak rozmow wymagajacych dzialania
+ My Status|  Moj status
+ Favorite|  Ulubione
+ Voicemail playback failed|  Niepowodzenie odtwarzania poczty glosowej
+ Voicemail skip failed|  Niepowodzenie pominiecia w poczcie glosowej
+ Voicemail bad address|  Nieprawidlowa poczta glosowa
+ Voicemail box is full for|  Poczta glos. jest pelna dla
+ Not supported| 
+ Service unavalilable at this time| 
+ Hold not permitted on this call| 
+ Action not permitted| 
+ Not Permitted on this call|  Nie dozwolone dla tego polaczenia
+ Request denied or \r\nunacceptable at this time|  Zadanie odrzucone lub \r\nniedopuszczalne teraz
+ Phone number is invalid or not properly formatted|  Numer tel. nieprawidlowy lub o zlym formacie
+ Move Message Failure| 
+ Contacts| 
+ Cloud Connect| 
+ Service Type| 
+ MiCloud Connect| 
+ MiVoice Border Gateway| 
+ User DID| 
+ Domain| 
+ Call Back| 
+ Play| 
+ Exit| 
+ Skip Back| 
+ Skip Forward| 
+ Inbox| 
+ MiCloud| 
+ Fetching Details| 
+ Additional Phone| 
+ Agent state| 
+ Availability| 
+ Standard| 
+ In a meeting| 
+ Out of office| 
+ Extended Absence| 
+ Do not disturb| 
+ On the Phone| 
+ Assign| 
+ Assign user| 
+ Assign user failed| 
+ Assign user to phone in progress. Please wait...| 
+ Extension or password invalid| 
+ Unassign| 
+ Unassign user| 
+ Unassign user failed| 
+ Unassign user?| 
+ Unassigning user...| 
+ Voicemail password| 
+ Ping| 
+ Host Name or IP Address| 
+ Please enter a valid HostName/IP Address| 
+ Pinging %s...| 
+ Tracerouting...| 
+ Tracerouting Complete| 
+ Traceroute| 
+ Page Up|  Strona w gore
+ Page Down|  Strona w dol
+ Traceroute Command| 
+ Always| 
+ Never| 
+ Always destination| 
+ No answer destination| 
+ Busy destination| 
+ Simulring| 
+ VPN| 
+ Use VPN| 
+ VPN gateway| 
+ VPN gateway port| 
+ Tunnel IP| 
+ VPN protocol| 
+ VPN debug mode| 
+ System| 
+ Log upload| 
+ Timeout (1-1440 Minutes)| 
+ Please input a duration between 1 and 1440 minutes| 
+ User Settings| 
+ Diagnostic server| 
+ Diag Server| 
+ Wrap up| 
+ UnWrap| 
+  Open| 
+ Confirm| 
+ New voicemail password| 
+ Password entries do not match| 
+ Password change succeeded| 
+ New password same as old password| 
+  Reply| 
+  ReplyAll| 
+  Compose| 
+  Call VM| 
+ Cannot choose your own extension| 
+ Save Changes?| 
+ Validating number...| 
+ Invalid %s| 
+ Upgrade Required| 
+ Invalid DID or Password| 
+ Register| 
+ Voice Service| 
+ Start Over| 
+ Empty domain name| 
+ Registering| 
+ DID or password no update| 
+ Invalid domain name| 
+  Registration cancelled| 
+ Pager| 
+ Phone not registered| 
+ Enterprise| 
+  Parameter Type| 
+ Remote| 
+  Filter Page| 
+  Parameter Filter| 
+  Get Parameters| 
+ Assigned| 
+ Assigning| 
+ Invalid extension| 
+ Extension or password no update| 
+ Assignment cancelled| 
+ Extension already assigned| 
+  Select a call to park|   Wybierz polaczenie do zaparkowania
+  Select a call to unpark| 
+  Unpark|   Cofn. zap.
+ Duration| 
+ Subject| 
+ Uploading Fail| 
+ Diagnostic server is empty| 
+ Logs uploaded successfully| 
+ Urgent| 
+ Return Receipt| 
+ Include Original| 
+ Re: Voice Message| 
+ Fw: Voice Message| 
+ Phone not assigned| 
+ Whisper Page| 
+ Intercom| 
+ Silent Monitor| 
+ Barge In| 
+ Silent Coach| 
+ To Inbox| 
+ Save Message?| 
+ By First| 
+ By Last| 
+ Dial Voicemail| 
+ Dial VM| 
+  Invalid Phone Number| 
+ Transfer not permitted on this call| 
+ Conference not permitted on this call| 
+ Remote log upload in progress| 
+ Remote capture upload in progress| 
+ Standard| 
+ Ring 2| 
+ Ring 3| 
+ Ring 4| 
+ Play Int| 
+ Play Ext| 
+ Press "Upload" to upload a debug log| 
+ Select a call to merge| 
+ Add Caller:| 
+ Assign user?| 
+ Participants|  Uczestnicy
+ Conferenced|  Dodano do konferencji
+ calls|  polaczenia
+ held calls|  pol. zawieszone
+ Debug on|  Debugowanie wlaczone
+ Debug off|  Debugowanie wylaczone
+ Unknown Error|  Nieznany blad
+ Connection Error|  Blad polaczenia
+ Application Error|  Blad aplikacji
+ Number of Packets Sent:|  Liczba wyslanych pakietow:
+ Number of Packets Received:|  Liczba otrzymanych pakietow:
+ RTT min/avg/max|  Min./sred./maks. RTT
+ traceroute to|  namierz do
+ hops max|  Maks. przeskokow
+ byte packets|  pakiety bajtow
+ Help|  Pomoc
+ Call Mitel Support ?|  Polaczyc z pomoca tech. Mitel?
+ Mitel Support|  Pomoc tech. Mitel
+ Remote|  Zdalnie
+ OnHold| 
+Initializing Components| Inicjowanie komponentow 
+Call Disconnected| 
+Enter VM Password| 
+Intercom not permitted| 
+Enter Domain| 
+Service unavailable at this time| 
+Server address| 
+Enter address| 
+Unhold| 
+Join| 
+Start Capture| 
+Upload Capture| 
+Duration (Minutes)| 
+No permission to perform record this call| 
+No permission to perform record| 
+Record start request| 
+Record stop request| 
+Recording start failed| 
+Recording operation failed| 
+Call Muted| 
+# to VM| 
+End| 
+Press Turn on to enable Bluetooth| 
+Press Upload to upload a debug log| 
+| 
+| 
+| 
+End| 
